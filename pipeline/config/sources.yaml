@@ -1,0 +1,520 @@
+# =============================================================================
+# sources.yaml — safe-route data source register for the KS+MO resource directory
+# Drafted from docs/04-data-sources.md (catalog verified June 2026).
+#
+# This file drives the `ingest` pipeline stage AND seeds the `source` table.
+# Each entry's fields map 1:1 to db/schema.sql `source` columns, plus ingest
+# config (access_lane gating, enabled flag, categories, connector).
+#
+# HARD RULES (enforced at ingest):
+#   * Only entries with enabled=true are pulled.
+#   * access_lane=agreement_required or licensed => enabled MUST stay false until
+#     an executed agreement is recorded (agreement_ref). Never scrape these.
+#   * robots_checked must be true before any automated fetch of a web source.
+#   * Every ingested record carries source_url + date_checked + confidence.
+#   * Extract facts only; never reproduce copyrighted directory documents.
+#
+# access_lane:   open | licensed | agreement_required   (-> source.access_route)
+# refresh_mode:  live_api | snapshot
+# source_type:   gov_open_data | gov_web_page | hsds_211_feed | feeding_america_hsds
+#                | findhelp_licensed | context | manual_verify | other
+# confidence:    high | medium | low | unverified
+# role:          providers (yields directory records) | context (prioritization only)
+# categories:    resource buckets this source feeds (food/utility/rent/pet_food/
+#                gas_transport/prescription/housing/navigation)
+#
+# Internal schema standard (not a data source): OpenReferral HSDS 3.0
+# (https://docs.openreferral.org). All sources normalize to it.
+# =============================================================================
+
+defaults:
+  date_checked: "2026-06-24"
+  country: US
+  states: [KS, MO]
+
+# -----------------------------------------------------------------------------
+# LANE A — OPEN ROUTE: public-domain / open-license. Pull today, no agreement.
+# These are the first connectors to build.
+# -----------------------------------------------------------------------------
+sources:
+
+  - id: liheap-clearinghouse
+    enabled: true
+    role: providers
+    source_name: "LIHEAP Clearinghouse (HHS/ACF)"
+    source_type: gov_web_page
+    publisher: "HHS Administration for Children & Families, OCS"
+    source_url: "https://liheapch.acf.gov/"
+    extra_urls:
+      mo_profile: "https://liheapch.acf.gov/profiles/Missouri.htm"
+      office_search: "https://liheapch.acf.gov/search-tool/state-territory"
+      energy_help: "https://liheapch.acf.gov/profiles/energyhelp.htm"
+    access_lane: open
+    refresh_mode: snapshot
+    license: "US-Gov-PublicDomain"
+    attribution_text: "Source: HHS ACF Office of Community Services, LIHEAP Clearinghouse"
+    attribution_required: false
+    redistribution_ok: true
+    robots_checked: false        # set true after confirming before first fetch
+    confidence: high
+    categories: [utility]
+    connector: html_directory
+    notes: "Authoritative LIHEAP/LIEAP offices + utility programs, both states."
+
+  - id: acf-liheap-contacts
+    enabled: true
+    role: providers
+    source_name: "ACF LIHEAP State & Territory Contact Listing"
+    source_type: gov_web_page
+    publisher: "HHS Administration for Children & Families"
+    source_url: "https://acf.gov/ocs/map/liheap-map-state-and-territory-contact-listing"
+    access_lane: open
+    refresh_mode: snapshot
+    license: "US-Gov-PublicDomain"
+    attribution_text: "Source: HHS ACF"
+    attribution_required: false
+    redistribution_ok: true
+    robots_checked: false
+    confidence: high
+    categories: [utility]
+    connector: html_page
+    notes: "KS LIEAP + MO LIHEAP program-manager contacts."
+
+  - id: eldercare-locator-acl
+    enabled: true
+    role: providers
+    source_name: "Eldercare Locator (ACL) + Area Agencies on Aging"
+    source_type: gov_web_page
+    publisher: "HHS Administration for Community Living"
+    source_url: "https://eldercare.acl.gov/Public/index.aspx"
+    extra_urls:
+      aaa_program: "https://acl.gov/programs/aging-and-disability-networks/area-agencies-aging"
+    access_lane: open
+    refresh_mode: snapshot
+    license: "US-Gov-PublicDomain"
+    attribution_text: "Source: HHS Administration for Community Living, Eldercare Locator"
+    attribution_required: false
+    redistribution_ok: true
+    robots_checked: false
+    confidence: high
+    categories: [gas_transport, food, navigation]
+    connector: html_lookup
+    notes: "AAAs run senior transport + home-delivered meals — high Medicare-member relevance."
+
+  - id: data-mo-gov
+    enabled: true
+    role: providers
+    source_name: "State of Missouri Open Data Portal (data.mo.gov)"
+    source_type: gov_open_data
+    publisher: "State of Missouri"
+    source_url: "https://data.mo.gov/"
+    extra_urls:
+      example_assistance_locations: "https://data.mo.gov/widgets/kuz5-m96r"
+      data_gov_catalog: "https://catalog.data.gov/dataset?publisher=data.mo.gov"
+    access_lane: open
+    refresh_mode: live_api
+    api: { protocol: socrata_soda, formats: [json, csv, odata] }
+    license: "open-Socrata"
+    attribution_text: "Source: State of Missouri Open Data (data.mo.gov)"
+    attribution_required: true
+    redistribution_ok: true
+    robots_checked: false
+    confidence: high
+    categories: [navigation, food, housing]
+    connector: socrata_api
+    notes: "Social-services category incl. assistance-office locations. SODA API."
+
+  - id: msdis-arcgis
+    enabled: true
+    role: context
+    source_name: "Missouri Spatial Data (MSDIS) ArcGIS Open Data"
+    source_type: gov_open_data
+    publisher: "MSDIS / University of Missouri"
+    source_url: "https://data-msdis.opendata.arcgis.com/"
+    access_lane: open
+    refresh_mode: live_api
+    api: { protocol: arcgis_rest, formats: [geojson, csv] }
+    license: "open"
+    attribution_text: "Source: Missouri Spatial Data Information Service (MSDIS)"
+    attribution_required: true
+    redistribution_ok: true
+    robots_checked: false
+    confidence: medium
+    categories: [navigation]
+    connector: arcgis_api
+    notes: "Geospatial facility locations; supports geocoding/coverage checks."
+
+  - id: hud-open-data
+    enabled: true
+    role: providers
+    source_name: "HUD Resource Locator / HUD open data"
+    source_type: gov_open_data
+    publisher: "US Dept of Housing and Urban Development"
+    source_url: "https://www.hud.gov/"
+    extra_urls:
+      hud_user: "https://www.huduser.gov/portal/pdrdatas_landing.html"
+    access_lane: open
+    refresh_mode: live_api
+    api: { protocol: arcgis_rest, formats: [csv, geojson] }
+    license: "US-Gov-PublicDomain"
+    attribution_text: "Source: U.S. Department of Housing and Urban Development"
+    attribution_required: false
+    redistribution_ok: true
+    robots_checked: false
+    confidence: medium
+    categories: [housing, rent]
+    notes: "PHAs + HUD-approved housing-counseling agencies. Verify exact dataset id."
+
+  - id: data-gov
+    enabled: true
+    role: providers
+    source_name: "Federal catalog (data.gov)"
+    source_type: gov_open_data
+    publisher: "US General Services Administration"
+    source_url: "https://catalog.data.gov/"
+    access_lane: open
+    refresh_mode: live_api
+    api: { protocol: ckan, formats: [json, csv] }
+    license: "US-Gov-PublicDomain"
+    attribution_text: "Source: data.gov"
+    attribution_required: false
+    redistribution_ok: true
+    robots_checked: false
+    confidence: high
+    categories: [navigation]
+    connector: ckan_api
+    notes: "Harvests state datasets (e.g., MO). Discovery + bulk pull."
+
+  - id: ks-dcf
+    enabled: true
+    role: providers
+    source_name: "Kansas DCF — Food Assistance / LIEAP / services hub"
+    source_type: gov_web_page
+    publisher: "Kansas Department for Children and Families"
+    source_url: "https://www.dcf.ks.gov/services/ees/pages/food/foodassistance.aspx"
+    extra_urls:
+      lieap_news: "https://www.dcf.ks.gov/Newsroom/Pages/LIEAP-OpensEarlyInKansas.aspx"
+      dcf_home: "https://www.dcf.ks.gov/"
+    access_lane: open
+    refresh_mode: snapshot
+    license: "US-Gov-PublicDomain"
+    attribution_text: "Source: Kansas Department for Children and Families"
+    attribution_required: false
+    redistribution_ok: true
+    robots_checked: false
+    confidence: high
+    categories: [food, utility, housing]
+    connector: html_page
+    notes: "Primary KS .gov hub — KS lacks a Socrata-style social-services portal."
+
+  - id: mo-dss-fsd
+    enabled: true
+    role: providers
+    source_name: "Missouri DSS / Family Support Division"
+    source_type: gov_web_page
+    publisher: "Missouri Department of Social Services"
+    source_url: "https://dss.mo.gov/"
+    contacts:
+      liheap_email: "FSD.LIHEAP@dss.mo.gov"
+    access_lane: open
+    refresh_mode: snapshot
+    license: "US-Gov-PublicDomain"
+    attribution_text: "Source: Missouri Department of Social Services"
+    attribution_required: false
+    redistribution_ok: true
+    robots_checked: false
+    confidence: high
+    categories: [food, utility, housing]
+    connector: html_page
+    notes: "MO LIHEAP + assistance programs."
+
+  - id: usda-ers-food-access-atlas
+    enabled: true
+    role: context
+    source_name: "USDA ERS Food Access Research Atlas"
+    source_type: context
+    publisher: "USDA Economic Research Service"
+    source_url: "https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data"
+    access_lane: open
+    refresh_mode: snapshot
+    api: { protocol: arcgis_rest, formats: [xlsx, zip, csv] }
+    license: "US-Gov-PublicDomain"
+    attribution_text: "Source: USDA Economic Research Service"
+    attribution_required: false
+    redistribution_ok: true
+    robots_checked: false
+    confidence: high
+    categories: [food]
+    notes: "CONTEXT only (food-desert tracts) for prioritization — NOT a provider list."
+
+  - id: usda-ers-food-environment-atlas
+    enabled: true
+    role: context
+    source_name: "USDA ERS Food Environment Atlas"
+    source_type: context
+    publisher: "USDA Economic Research Service"
+    source_url: "https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads"
+    access_lane: open
+    refresh_mode: snapshot
+    license: "US-Gov-PublicDomain"
+    attribution_text: "Source: USDA Economic Research Service"
+    attribution_required: false
+    redistribution_ok: true
+    robots_checked: false
+    confidence: high
+    categories: [food]
+    notes: "CONTEXT only — county food-bank/SNAP indicators for coverage gaps."
+
+  - id: open-data-kc
+    enabled: true
+    role: providers
+    source_name: "Open Data KC"
+    source_type: gov_open_data
+    publisher: "City of Kansas City, MO"
+    source_url: "https://data.kcmo.org/"
+    access_lane: open
+    refresh_mode: live_api
+    api: { protocol: socrata_soda, formats: [json, csv] }
+    license: "open-Socrata"
+    attribution_text: "Source: Open Data KC, City of Kansas City"
+    attribution_required: true
+    redistribution_ok: true
+    robots_checked: false
+    confidence: medium
+    categories: [navigation]
+    connector: socrata_api
+    notes: "Metro-level facility data (zone 1)."
+
+  - id: open-data-stl
+    enabled: true
+    role: providers
+    source_name: "City of St. Louis Open Data"
+    source_type: gov_open_data
+    publisher: "City of St. Louis"
+    source_url: "https://www.stlouis-mo.gov/data/datasets/index.cfm"
+    access_lane: open
+    refresh_mode: snapshot
+    license: "open"
+    attribution_text: "Source: City of St. Louis Open Data"
+    attribution_required: true
+    redistribution_ok: true
+    robots_checked: false
+    confidence: medium
+    categories: [navigation]
+    notes: "Metro-level facility data (zone 2)."
+
+  - id: open-independence-mo
+    enabled: true
+    role: providers
+    source_name: "Open Independence (Independence, MO)"
+    source_type: gov_open_data
+    publisher: "City of Independence, MO"
+    source_url: "https://www.independencemo.gov/resources/open-independence"
+    access_lane: open
+    refresh_mode: snapshot
+    license: "open"
+    attribution_text: "Source: City of Independence, MO"
+    attribution_required: true
+    redistribution_ok: true
+    robots_checked: false
+    confidence: medium
+    categories: [navigation]
+    notes: "Metro-level facility data (zone 1)."
+
+  - id: hhs-federal-rx-pages
+    enabled: true
+    role: providers
+    source_name: "HHS / Medicare federal Rx-assistance program pages"
+    source_type: gov_web_page
+    publisher: "HHS / CMS"
+    source_url: "https://www.medicare.gov/"
+    access_lane: open
+    refresh_mode: snapshot
+    license: "US-Gov-PublicDomain"
+    attribution_text: "Source: U.S. Department of Health & Human Services / Medicare.gov"
+    attribution_required: false
+    redistribution_ok: true
+    robots_checked: false
+    confidence: medium
+    categories: [prescription]
+    notes: "Verify specific program pages (e.g., Extra Help). Thin open-data category."
+
+# -----------------------------------------------------------------------------
+# LANE B — FEEDING AMERICA HSDS: open-ish feed, confirm attribution before load.
+# -----------------------------------------------------------------------------
+
+  - id: feeding-america-hsds
+    enabled: false               # flip true once attribution terms confirmed
+    role: providers
+    source_name: "Feeding America HSDS 3.0 Open Referral feed"
+    source_type: feeding_america_hsds
+    publisher: "Feeding America"
+    source_url: "https://feedam.org/hsds"
+    access_lane: licensed        # attribution/terms confirmation required
+    refresh_mode: live_api
+    api: { protocol: hsds, version: "3.0" }
+    license: "confirm-with-feeding-america"
+    attribution_text: "Source: Feeding America food bank network (pending exact terms)"
+    attribution_required: true
+    redistribution_ok: null
+    robots_checked: false
+    confidence: medium
+    categories: [food, pet_food]
+    blocked_by: "Confirm Feeding America HSDS feed attribution + reuse terms."
+    notes: "HSDS-native, directly mappable. Covers Harvesters-KC, St. Louis Area Foodbank, Ozarks Food Harvest. Some banks run pet-food pantries."
+
+# -----------------------------------------------------------------------------
+# LANE C — AGREEMENT-REQUIRED: 211 National Data Platform (the statewide spine)
+# and local 211s. HSDS-native, best coverage, but key-gated. enabled=false until
+# a data-sharing agreement + feed key is recorded in agreement_ref. NEVER scrape.
+# -----------------------------------------------------------------------------
+
+  - id: 211-ndp
+    enabled: false
+    role: providers
+    source_name: "211 National Data Platform (United Way Worldwide)"
+    source_type: hsds_211_feed
+    publisher: "United Way Worldwide"
+    source_url: "https://register.211.org/Home/IntegrationsOverview"
+    extra_urls:
+      dev_portal: "https://apiportal.211.org/"
+      get_started: "https://apiportal.211.org/get-started-overview"
+    access_lane: agreement_required
+    refresh_mode: live_api
+    api: { protocol: hsds, version: "3.0", auth: api_key, endpoints: [search, export] }
+    license: "211-NDP-agreement"
+    attribution_text: "Data provided by local United Way 211, via the 211 National Data Platform"
+    attribution_required: true
+    redistribution_ok: null
+    robots_checked: false
+    confidence: medium
+    categories: [food, utility, rent, pet_food, gas_transport, prescription, housing, navigation]
+    agreement_ref: null          # fill with executed-agreement id/date when obtained
+    blocked_by: "Obtain NDP feed keys via local 211s (see below). 5% data-valuation fee if used for revenue."
+    notes: "Single best statewide HSDS-native spine for BOTH states. Key-gated, provisioned with permission of the local 211."
+
+  - id: 211-uw-greater-kc
+    enabled: false
+    role: providers
+    source_name: "United Way of Greater Kansas City 211"
+    source_type: hsds_211_feed
+    publisher: "United Way of Greater Kansas City"
+    source_url: "https://unitedwaygkc.org/211-2/"
+    extra_urls:
+      search: "https://search.unitedwaygkc.org/"
+      directory: "https://uwgkc.myresourcedirectory.com/"
+    access_lane: agreement_required
+    refresh_mode: live_api
+    license: "local-211-agreement"
+    attribution_text: "Data provided by United Way of Greater Kansas City 211"
+    attribution_required: true
+    redistribution_ok: null
+    robots_checked: false
+    confidence: medium
+    categories: [food, utility, rent, pet_food, gas_transport, prescription, housing, navigation]
+    agreement_ref: null
+    blocked_by: "Negotiate NDP feed access. Do NOT scrape the web directory UI."
+    notes: "Permission-granting partner for zone 1 (KC metro, both states)."
+
+  - id: 211-uw-greater-stl
+    enabled: false
+    role: providers
+    source_name: "United Way 211 Missouri (United Way of Greater St. Louis)"
+    source_type: hsds_211_feed
+    publisher: "United Way of Greater St. Louis"
+    source_url: "https://mo211.myresourcedirectory.com/"
+    extra_urls:
+      org: "https://stl.unitedway.org/"
+    access_lane: agreement_required
+    refresh_mode: live_api
+    license: "local-211-agreement"
+    attribution_text: "Data provided by United Way of Greater St. Louis (MO 211)"
+    attribution_required: true
+    redistribution_ok: null
+    robots_checked: false
+    confidence: medium
+    categories: [food, utility, rent, pet_food, gas_transport, prescription, housing, navigation]
+    agreement_ref: null
+    blocked_by: "Use NDP/partner feed, not scraping."
+    notes: "Statewide MO 211 coverage; permission-granting partner for zones 2-5 (MO)."
+
+  - id: 211-heart-of-mo
+    enabled: false
+    role: providers
+    source_name: "Heart of Missouri United Way 211 (mid-MO)"
+    source_type: hsds_211_feed
+    publisher: "Heart of Missouri United Way"
+    source_url: "https://www.heartofmo.org/"
+    access_lane: agreement_required
+    refresh_mode: live_api
+    license: "local-211-agreement"
+    attribution_text: "Data provided by Heart of Missouri United Way 211"
+    attribution_required: true
+    redistribution_ok: null
+    robots_checked: false
+    confidence: low
+    categories: [food, utility, rent, gas_transport, navigation]
+    agreement_ref: null
+    blocked_by: "Confirm coverage + obtain feed access."
+    notes: "Mid-Missouri (zone 3) permission-granting partner. Verify exact 211 operator."
+
+# -----------------------------------------------------------------------------
+# LANE D — LICENSED, NEVER SCRAPE: findhelp. Ingest only under executed agreement;
+# otherwise single-fact manual corroboration only.
+# -----------------------------------------------------------------------------
+
+  - id: findhelp
+    enabled: false
+    role: providers
+    source_name: "findhelp (Aunt Bertha)"
+    source_type: findhelp_licensed
+    publisher: "findhelp"
+    source_url: "https://www.findhelp.org/find-social-services/missouri"
+    extra_urls:
+      mo_instance: "https://mofamilyresources.findhelp.com/"
+    tos_url: "https://findhelp.findhelp.com/terms"
+    access_lane: licensed
+    refresh_mode: live_api
+    license: "proprietary-licensed"
+    attribution_text: "Listings via findhelp, under customer agreement"
+    attribution_required: true
+    redistribution_ok: false
+    robots_checked: false
+    confidence: medium
+    categories: [food, utility, rent, pet_food, gas_transport, prescription, housing, navigation]
+    agreement_ref: null
+    blocked_by: "Requires executed findhelp customer/partner agreement. MO DSS already partners (mofamilyresources.findhelp.com) — possible relationship to leverage."
+    notes: "NEVER bulk-scrape public listings — terms restrict reuse. Manual single-fact verification only without an agreement."
+
+# -----------------------------------------------------------------------------
+# CONTEXT/STATS (not a provider directory) — prioritization + coverage gaps only
+# -----------------------------------------------------------------------------
+
+  - id: 211-counts-mo
+    enabled: false
+    role: context
+    source_name: "211 Counts (Missouri statewide dashboard)"
+    source_type: context
+    publisher: "United Way + Washington University"
+    source_url: "https://211mo.211counts.org/"
+    access_lane: open
+    refresh_mode: snapshot
+    license: "aggregate-stats"
+    attribution_text: "Source: 211 Counts (United Way + Washington University)"
+    attribution_required: true
+    redistribution_ok: null
+    robots_checked: false
+    confidence: medium
+    categories: [navigation]
+    notes: "Aggregate need stats only — NOT records. Use to prioritize zones/categories."
+
+# =============================================================================
+# THIN CATEGORIES (per catalog): prescription, pet_food, gas_transport have the
+# weakest open coverage. Plan = derive primarily from 211 NDP (Lane C) once
+# agreements land, supplement with manually-verified .gov/.org pages — each row
+# individually sourced (source_url + date_checked + confidence).
+#
+# BUILD ORDER: Lane A open connectors first (no agreements) -> Feeding America
+# (confirm terms) -> initiate 211 NDP agreements (UW Greater KC, UW Greater
+# St. Louis, Heart of MO) -> findhelp only if agreement obtained.
+# =============================================================================
