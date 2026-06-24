@@ -6,7 +6,7 @@
 <title>KS + MO Community Resources — Benefit Help Finder</title>
 <style>
   :root { --ink:#1a2230; --muted:#5a6678; --line:#d8dee8; --accent:#1d6fb8;
-          --loss:#9a3412; --lossbg:#fff4ed; --card:#ffffff; --bg:#f4f6fa; }
+          --card:#ffffff; --bg:#f4f6fa; }
   * { box-sizing: border-box; }
   body { margin:0; font:16px/1.5 -apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
          color:var(--ink); background:var(--bg); }
@@ -29,13 +29,6 @@
   .geo { color:var(--muted); font-size:14px; margin:0 0 14px; }
   .section-title { font-size:13px; text-transform:uppercase; letter-spacing:.06em;
          color:var(--muted); margin:24px 0 10px; border-bottom:1px solid var(--line); padding-bottom:6px; }
-  .loss { background:var(--lossbg); border:1px solid #f3c9b3; border-left:4px solid var(--loss);
-         border-radius:10px; padding:12px 14px; margin-bottom:10px; }
-  .loss h3 { margin:0 0 4px; font-size:16px; color:var(--loss); }
-  .loss .meta { font-size:13px; color:#7c4a2d; }
-  .loss .points { font-size:13px; margin-top:6px; }
-  .pill { display:inline-block; font-size:12px; background:#fff; border:1px solid #e2b89f;
-         color:var(--loss); border-radius:999px; padding:1px 9px; margin:2px 4px 0 0; }
   .card { background:var(--card); border:1px solid var(--line); border-radius:10px;
          padding:14px 16px; margin-bottom:12px; }
   .card .bucket { font-size:12px; text-transform:uppercase; letter-spacing:.05em;
@@ -54,7 +47,7 @@
     body { background:#fff; }
     .no-print { display:none !important; }
     .wrap { max-width:none; padding:0; }
-    .card, .loss { break-inside:avoid; border-color:#bbb; }
+    .card { break-inside:avoid; border-color:#bbb; }
     .sample-banner { background:#fff; color:#000; border-bottom:2px solid #000; }
     a { color:#000; text-decoration:none; }
   }
@@ -67,7 +60,7 @@
 <div class="wrap">
   <header>
     <h1>Community Resource Finder</h1>
-    <p>Kansas &amp; Missouri — find local help if your Medicare benefit card changes in 2027.</p>
+    <p>Kansas &amp; Missouri — find local food, utility, rent, and other assistance near you.</p>
   </header>
 
   <div class="search no-print">
@@ -122,15 +115,6 @@
       '<p class="org">'+esc(r.org_name)+'</p>'+ lines + confLine(r) + '</div>';
   }
 
-  function lossCard(l){
-    var pills = (l.categories||[]).map(function(c){ return '<span class="pill">'+esc(c)+'</span>'; }).join('');
-    return '<div class="loss"><h3>'+esc(l.benefit_marketing_name||'Benefit')+'</h3>'+
-      '<div class="meta">'+esc(l.carrier_brand||'')+(l.plan_name?' — '+esc(l.plan_name):'')+
-      (l.ssbci?' · SSBCI (chronically-ill) benefit':'')+'</div>'+
-      (l.loss_summary?'<div class="points">'+esc(l.loss_summary)+'</div>':'')+
-      '<div style="margin-top:6px">'+pills+'</div></div>';
-  }
-
   function render(zip){
     var z = DATA.zips[zip];
     if (!z){
@@ -140,11 +124,6 @@
     }
     var html = '<p class="geo">ZIP '+esc(zip)+' · '+esc(z.county)+' County, '+esc(z.state)+
       ' · Collection zone '+esc(z.zone_id)+' ('+esc(z.zone_name)+')</p>';
-
-    if (z.losses && z.losses.length){
-      html += '<div class="section-title">Benefits you may be losing in 2027</div>';
-      z.losses.forEach(function(l){ html += lossCard(l); });
-    }
 
     html += '<div class="section-title">Local help available now ('+ (z.resources?z.resources.length:0) +')</div>';
     if (z.resources && z.resources.length){
