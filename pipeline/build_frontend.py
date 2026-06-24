@@ -76,10 +76,13 @@ def build():
             "resources": res,
         }
 
+    # sample flag = any [SAMPLE] org present -> page shows the SAMPLE banner
+    cur.execute("SELECT count(*) FROM organization WHERE name LIKE '[SAMPLE]%'")
+    is_sample = cur.fetchone()[0] > 0
     con.close()
     payload = {
         "generated": "STATIC EXPORT",   # date stamped by pipeline run, omitted in demo
-        "sample": True,                  # demo flag -> page shows the SAMPLE banner
+        "sample": is_sample,            # true only when sample rows are present
         "bucket_labels": BUCKET_LABELS,
         "zips": data,
     }
