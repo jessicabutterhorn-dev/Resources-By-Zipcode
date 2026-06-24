@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>KS + MO Community Resources — Benefit Help Finder</title>
+<style>
+  :root { --ink:#1a2230; --muted:#5a6678; --line:#d8dee8; --accent:#1d6fb8;
+          --loss:#9a3412; --lossbg:#fff4ed; --card:#ffffff; --bg:#f4f6fa; }
+  * { box-sizing: border-box; }
+  body { margin:0; font:16px/1.5 -apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+         color:var(--ink); background:var(--bg); }
+  .wrap { max-width: 880px; margin:0 auto; padding: 20px 18px 60px; }
+  .sample-banner { background:#fde047; color:#3a2f00; text-align:center;
+         font-weight:600; padding:8px 12px; font-size:14px; }
+  header h1 { font-size:24px; margin:18px 0 4px; }
+  header p { color:var(--muted); margin:0 0 18px; }
+  .search { display:flex; gap:10px; flex-wrap:wrap; align-items:center;
+         background:var(--card); border:1px solid var(--line); border-radius:12px; padding:16px; }
+  .search label { font-weight:600; }
+  .search input { font-size:18px; padding:10px 12px; border:1px solid var(--line);
+         border-radius:8px; width:140px; letter-spacing:2px; }
+  .search button { font-size:16px; padding:10px 18px; border:0; border-radius:8px;
+         background:var(--accent); color:#fff; cursor:pointer; }
+  .search button.secondary { background:#e7ecf3; color:var(--ink); }
+  .hint { color:var(--muted); font-size:13px; margin-top:8px; }
+  .hint code { background:#eef1f6; padding:1px 6px; border-radius:4px; cursor:pointer; }
+  #results { margin-top:22px; }
+  .geo { color:var(--muted); font-size:14px; margin:0 0 14px; }
+  .section-title { font-size:13px; text-transform:uppercase; letter-spacing:.06em;
+         color:var(--muted); margin:24px 0 10px; border-bottom:1px solid var(--line); padding-bottom:6px; }
+  .loss { background:var(--lossbg); border:1px solid #f3c9b3; border-left:4px solid var(--loss);
+         border-radius:10px; padding:12px 14px; margin-bottom:10px; }
+  .loss h3 { margin:0 0 4px; font-size:16px; color:var(--loss); }
+  .loss .meta { font-size:13px; color:#7c4a2d; }
+  .loss .points { font-size:13px; margin-top:6px; }
+  .pill { display:inline-block; font-size:12px; background:#fff; border:1px solid #e2b89f;
+         color:var(--loss); border-radius:999px; padding:1px 9px; margin:2px 4px 0 0; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+         padding:14px 16px; margin-bottom:12px; }
+  .card .bucket { font-size:12px; text-transform:uppercase; letter-spacing:.05em;
+         color:var(--accent); font-weight:700; }
+  .card h3 { margin:3px 0 2px; font-size:17px; }
+  .card .org { color:var(--muted); font-size:14px; margin:0 0 8px; }
+  .card .row { font-size:14px; margin:3px 0; }
+  .card .row b { display:inline-block; min-width:78px; color:var(--muted); font-weight:600; }
+  .conf { font-size:12px; color:var(--muted); margin-top:8px; border-top:1px dashed var(--line); padding-top:6px; }
+  .conf .flag { font-weight:700; }
+  .conf .unverified { color:#b45309; }
+  .empty { background:var(--card); border:1px dashed var(--line); border-radius:10px;
+         padding:20px; text-align:center; color:var(--muted); }
+  footer { margin-top:30px; color:var(--muted); font-size:12px; border-top:1px solid var(--line); padding-top:12px; }
+  @media print {
+    body { background:#fff; }
+    .no-print { display:none !important; }
+    .wrap { max-width:none; padding:0; }
+    .card, .loss { break-inside:avoid; border-color:#bbb; }
+    .sample-banner { background:#fff; color:#000; border-bottom:2px solid #000; }
+    a { color:#000; text-decoration:none; }
+  }
+</style>
+</head>
+<body>
+<div class="sample-banner no-print" id="sampleBanner" style="display:none">
+  ⚠ SAMPLE DATA — fictional placeholders for demo only. Not real providers.
+</div>
+<div class="wrap">
+  <header>
+    <h1>Community Resource Finder</h1>
+    <p>Kansas &amp; Missouri — find local help if your Medicare benefit card changes in 2027.</p>
+  </header>
+
+  <div class="search no-print">
+    <label for="zip">Enter your ZIP code:</label>
+    <input id="zip" inputmode="numeric" maxlength="5" placeholder="64111" autocomplete="off">
+    <button id="go">Find help</button>
+    <button id="print" class="secondary">🖨 Print</button>
+    <div class="hint" style="flex-basis:100%">
+      Demo ZIPs: <code data-z="64111">64111</code> Kansas City MO ·
+      <code data-z="66061">66061</code> Olathe KS ·
+      <code data-z="65806">65806</code> Springfield MO
+    </div>
+  </div>
+
+  <div id="results"></div>
+
+  <footer>
+    Public community-resource directory. Contains no member or health information.
+    Each listing shows its source and the date it was last checked. Always call ahead to confirm.
+  </footer>
+</div>
+
+<script src="data.js"></script>
+<script>
+(function(){
+  var DATA = window.RESOURCE_DATA || {zips:{}, bucket_labels:{}};
+  if (DATA.sample) document.getElementById('sampleBanner').style.display = 'block';
+  var results = document.getElementById('results');
+  var input = document.getElementById('zip');
+
+  function esc(s){ return (s==null?'':String(s)).replace(/[&<>]/g,function(c){
+    return {'&':'&amp;','<':'&lt;','>':'&gt;'}[c]; }); }
+
+  function confLine(r){
+    var cls = r.confidence === 'unverified' ? 'unverified' : '';
+    return '<div class="conf">Source confidence: <span class="flag '+cls+'">'+esc(r.confidence)+
+      '</span> · checked '+esc(r.date_checked)+
+      ' · <a href="'+esc(r.source_url)+'" target="_blank" rel="noopener">source</a></div>';
+  }
+
+  function resourceCard(r){
+    var lines = '';
+    if (r.phone)       lines += '<div class="row"><b>Phone</b> '+esc(r.phone)+'</div>';
+    var addr = [r.address_1, r.city, (r.state_province||'')+' '+(r.postal_code||'')].filter(Boolean).join(', ');
+    if (addr.trim())   lines += '<div class="row"><b>Address</b> '+esc(addr)+'</div>';
+    if (r.hours)       lines += '<div class="row"><b>Hours</b> '+esc(r.hours)+'</div>';
+    if (r.eligibility) lines += '<div class="row"><b>Who</b> '+esc(r.eligibility)+'</div>';
+    if (r.application_process) lines += '<div class="row"><b>How</b> '+esc(r.application_process)+'</div>';
+    if (r.fees)        lines += '<div class="row"><b>Cost</b> '+esc(r.fees)+'</div>';
+    return '<div class="card"><div class="bucket">'+esc(r.bucket_label)+'</div>'+
+      '<h3>'+esc(r.service_name)+'</h3>'+
+      '<p class="org">'+esc(r.org_name)+'</p>'+ lines + confLine(r) + '</div>';
+  }
+
+  function lossCard(l){
+    var pills = (l.categories||[]).map(function(c){ return '<span class="pill">'+esc(c)+'</span>'; }).join('');
+    return '<div class="loss"><h3>'+esc(l.benefit_marketing_name||'Benefit')+'</h3>'+
+      '<div class="meta">'+esc(l.carrier_brand||'')+(l.plan_name?' — '+esc(l.plan_name):'')+
+      (l.ssbci?' · SSBCI (chronically-ill) benefit':'')+'</div>'+
+      (l.loss_summary?'<div class="points">'+esc(l.loss_summary)+'</div>':'')+
+      '<div style="margin-top:6px">'+pills+'</div></div>';
+  }
+
+  function render(zip){
+    var z = DATA.zips[zip];
+    if (!z){
+      results.innerHTML = '<div class="empty">No demo data for ZIP <b>'+esc(zip)+
+        '</b>.<br>Try a demo ZIP: 64111, 66061, or 65806.</div>';
+      return;
+    }
+    var html = '<p class="geo">ZIP '+esc(zip)+' · '+esc(z.county)+' County, '+esc(z.state)+
+      ' · Collection zone '+esc(z.zone_id)+' ('+esc(z.zone_name)+')</p>';
+
+    if (z.losses && z.losses.length){
+      html += '<div class="section-title">Benefits you may be losing in 2027</div>';
+      z.losses.forEach(function(l){ html += lossCard(l); });
+    }
+
+    html += '<div class="section-title">Local help available now ('+ (z.resources?z.resources.length:0) +')</div>';
+    if (z.resources && z.resources.length){
+      z.resources.forEach(function(r){ html += resourceCard(r); });
+    } else {
+      html += '<div class="empty">No resources loaded for this ZIP yet.</div>';
+    }
+    results.innerHTML = html;
+  }
+
+  function go(){
+    var v = (input.value||'').replace(/\D/g,'').slice(0,5);
+    if (v.length === 5) render(v);
+    else results.innerHTML = '<div class="empty">Enter a 5-digit ZIP code.</div>';
+  }
+
+  document.getElementById('go').addEventListener('click', go);
+  input.addEventListener('keydown', function(e){ if (e.key==='Enter') go(); });
+  document.getElementById('print').addEventListener('click', function(){ window.print(); });
+  Array.prototype.forEach.call(document.querySelectorAll('[data-z]'), function(el){
+    el.addEventListener('click', function(){ input.value = el.getAttribute('data-z'); go(); });
+  });
+})();
+</script>
+</body>
+</html>
