@@ -4,11 +4,10 @@
 
 ### Cadence
 - **Quarterly full refresh** (aligns with HUD ZIP crosswalk quarterly files and most agency snapshot cadences). Tag each run with a `refresh_quarter` (e.g. `2026Q3`).
-- **Carrier benefits** refresh **annually at AEP** (plan-year flip) plus an out-of-cycle pull when CMS posts new Landscape/enrollment files — the 2027 loss event is the load-bearing trigger.
 
 ### Live vs snapshot per source (from DATA SOURCES brief)
 - **Live API pull** (re-fetched each run): 211 National Data Platform (keyed, agreement-gated), data.mo.gov SODA, MSDIS/HUD Esri services, Feeding America HSDS feed, data.gov, Census Geocoder, HUD-USPS ZIP crosswalk API.
-- **Quarterly snapshot** (versioned file checked into `data/snapshots/<quarter>/`): USDA ERS atlases, LIHEAP Clearinghouse + ACF contact listings, Eldercare Locator/ACL pages, KS DCF / MO DSS .gov pages, CMS MA Landscape/enrollment files.
+- **Quarterly snapshot** (versioned file checked into `data/snapshots/<quarter>/`): USDA ERS atlases, LIHEAP Clearinghouse + ACF contact listings, Eldercare Locator/ACL pages, KS DCF / MO DSS .gov pages.
 - **Licensed-route, never scraped:** findhelp/Aunt Bertha, 211 NDP/local web directories — ingest only under executed agreement; otherwise single-fact manual corroboration only.
 
 ### Stages (each writes a `refresh_log` row)
@@ -24,7 +23,7 @@
 - `high` = corroborated by 2+ sources including one .gov/official feed (multiple `record_provenance` rows).
 - `medium` = single official/open feed.
 - `low` = single aggregator/secondary listing pending re-verify.
-- `unverified` = hypothesis (e.g., carrier benefit names pre-SB-confirmation) — never shown without a visible flag.
+- `unverified` = hypothesis / not yet confirmed against an official source — never shown without a visible flag.
 
 ### Reproducibility guarantees
 - Snapshots are content-addressed/versioned in `data/snapshots/<quarter>/`; raw pulls archived in `data/raw/<quarter>/`. Re-running a quarter from its snapshots + the tagged git commit reproduces the same `directory.sqlite`.

@@ -68,9 +68,7 @@ def build():
             r["bucket_label"] = BUCKET_LABELS.get(r["resource_bucket"], r["resource_bucket"])
             del r["svc_id"]
 
-        # NOTE: the page intentionally shows ONLY available resources — no
-        # "what you are losing" / benefit-loss content. The carrier_benefit
-        # tables exist in the DB for internal mapping but are NOT exported here.
+        # The directory tracks ONLY available community resources.
 
         data[zip_code] = {
             "county": geo.get("county_name"), "state": geo.get("state"),

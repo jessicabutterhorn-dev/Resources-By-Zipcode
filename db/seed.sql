@@ -155,28 +155,3 @@ INSERT INTO schedule (id,service_id,description,byday) VALUES
 INSERT INTO eligibility (id,service_id,description,min_age) VALUES
 ('el-7','sv-7','Open to all Greene County residents.',NULL),
 ('el-8','sv-8','Low-income, verified appointment/work need.',NULL);
-
--- =============================================================================
--- CARRIER BENEFITS LAYER — "what you are losing 1/1/2027" (FICTIONAL sample)
--- =============================================================================
-INSERT INTO carrier_benefit (id,parent_company,carrier_brand,plan_name,plan_year,state,
-    benefit_marketing_name,ssbci_flag,eligibility_conditions,allowance_amount,allowance_period,
-    ends_effective_date,loss_summary,source_id,source_url,source_doc_type,date_checked,confidence) VALUES
-('cb-1','[SAMPLE] Demo Health','[SAMPLE] Demo Advantage','Demo Advantage D-SNP',2026,'BOTH',
- 'Healthy Options Allowance',1,'Chronically ill + dual-eligible',125.0,'monthly',
- '2027-01-01','You currently get $125/month for groceries and utility bills on your benefit card. This ends 1/1/2027 if you no longer qualify.',
- 'src-sample','https://example.invalid/sample-sb','SB','2026-06-24','unverified'),
-('cb-2','[SAMPLE] Demo Health','[SAMPLE] Demo Advantage','Demo Advantage D-SNP',2026,'MO',
- 'Flex Pet & Transport Allowance',1,'Chronically ill',50.0,'monthly',
- '2027-01-01','You currently get $50/month toward pet food and gas/transportation. This ends 1/1/2027 if you no longer qualify.',
- 'src-sample','https://example.invalid/sample-sb','SB','2026-06-24','unverified');
-
-INSERT INTO carrier_benefit_county (benefit_id,fips) VALUES
-('cb-1','29095'),('cb-1','20091'),('cb-1','29077'),
-('cb-2','29095'),('cb-2','29077');
-
-INSERT INTO benefit_category (id,benefit_id,category,resource_bucket,ssbci_gated) VALUES
-('bc-1','cb-1','groceries','food',1),
-('bc-2','cb-1','utilities','utility',1),
-('bc-3','cb-2','pet_food','pet_food',1),
-('bc-4','cb-2','transport_nonmedical','gas_transport',1);

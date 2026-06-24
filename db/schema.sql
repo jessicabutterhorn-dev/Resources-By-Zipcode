@@ -2,8 +2,8 @@
 -- KS + MO SSBCI Social-Service Provider Directory — SQLite Schema
 -- Source of truth for: static HTML/sql.js front-end + quarterly refresh pipeline.
 -- Aligned to OpenReferral HSDS 3.x (organization/service/location/service_at_location)
--- with added provenance/verification on every record, ZIP->county->zone mapping,
--- and a carrier_benefits layer for "you are losing X -> here are local replacements".
+-- with added provenance/verification on every record and ZIP->county->zone mapping.
+-- Tracks ONLY available community resources (food/utility/rent/etc. providers).
 --
 -- HARD CONSTRAINTS ENFORCED STRUCTURALLY:
 --   * ZERO PHI / PII: no table has a column capable of holding member identity,
@@ -31,8 +31,7 @@ CREATE TABLE source (
     source_type        TEXT NOT NULL                     -- ingest lane
         CHECK (source_type IN (
             'gov_open_data','hsds_211_feed','feeding_america_hsds','findhelp_licensed',
-            'gov_web_page','cms_landscape','cms_plan_finder','carrier_sb_eoc',
-            'carrier_marketing_page','manual_verify','other')),
+            'gov_web_page','manual_verify','other')),
     publisher          TEXT,                             -- org that publishes the source
     source_url         TEXT NOT NULL,                    -- canonical URL of the source
     tos_url            TEXT,                             -- terms-of-service URL if any
@@ -62,7 +61,7 @@ CREATE INDEX idx_source_checked ON source(date_checked);
 -- record_table/record_id is a soft polymorphic pointer (SQLite has no cross-table FK).
 CREATE TABLE record_provenance (
     id            TEXT PRIMARY KEY,                       -- uuid
-    record_table  TEXT NOT NULL,                          -- e.g. 'organization','service','location','carrier_benefit'
+    record_table  TEXT NOT NULL,                          -- e.g. 'organization','service','location'
     record_id     TEXT NOT NULL,
     source_id     TEXT NOT NULL REFERENCES source(id) ON DELETE RESTRICT,
     source_url    TEXT NOT NULL,                          -- exact URL of the fact (may be deeper than source.source_url)
@@ -219,7 +218,7 @@ CREATE TABLE service (
     email           TEXT,
     status          TEXT DEFAULT 'active'                  -- HSDS service.status
         CHECK (status IN ('active','inactive','defunct','temporarily closed')),
-    -- our replacement-resource bucket (drives benefit->resource matching)
+    -- which kind of community resource this is (food, utility, rent, etc.)
     resource_bucket TEXT NOT NULL
         CHECK (resource_bucket IN ('food','utility','rent','pet_food',
                                    'gas_transport','prescription','housing','navigation')),
@@ -318,74 +317,7 @@ CREATE TABLE service_taxonomy (
 );
 
 -- -----------------------------------------------------------------------------
--- CARRIER BENEFITS LAYER ("you are losing X")
--- Grain = plan-year x PBP x benefit. Public CMS + carrier SB/EOC facts only.
--- -----------------------------------------------------------------------------
-
-CREATE TABLE carrier_benefit (
-    id                  TEXT PRIMARY KEY,                  -- uuid
-    parent_company      TEXT NOT NULL,                     -- 'Centene'
-    carrier_brand       TEXT NOT NULL,                     -- 'Wellcare'
-    plan_name           TEXT,
-    cms_contract_id     TEXT,                              -- H-contract e.g. 'H1234'
-    cms_pbp_id          TEXT,                              -- plan benefit package #
-    plan_type           TEXT CHECK (plan_type IN ('HMO','PPO','D-SNP','C-SNP','MMP','other',NULL)),
-    plan_year           INTEGER NOT NULL,                  -- 2026 / 2027
-    state               TEXT CHECK (state IN ('KS','MO','BOTH')),
-    benefit_marketing_name TEXT,                           -- 'Healthy Options Allowance'
-    benefit_card_vendor TEXT,                              -- 'NationsBenefits','Incomm','OTCHS'
-    ssbci_flag          INTEGER NOT NULL DEFAULT 0         -- chronically-ill-only benefit
-        CHECK (ssbci_flag IN (0,1)),
-    eligibility_conditions TEXT,                           -- qualifying chronic conditions / dual status
-    allowance_amount    REAL,                              -- $ per period
-    allowance_period    TEXT CHECK (allowance_period IN ('monthly','quarterly','annual',NULL)),
-    allowance_rollover  INTEGER CHECK (allowance_rollover IN (0,1,NULL)),
-    redemption_channels TEXT,                              -- JSON array string
-    ends_effective_date TEXT,                              -- target 2027-01-01
-    loss_summary        TEXT,                              -- plain-language "what you're losing"
-    -- provenance (mandatory)
-    source_id           TEXT NOT NULL REFERENCES source(id) ON DELETE RESTRICT,
-    source_url          TEXT NOT NULL,
-    source_doc_type     TEXT NOT NULL
-        CHECK (source_doc_type IN ('SB','EOC','plan-page','CMS-PlanFinder','landscape-file','secondary')),
-    date_checked        TEXT NOT NULL,
-    confidence          TEXT NOT NULL
-        CHECK (confidence IN ('high','medium','low','unverified')),
-    license_attribution TEXT,                              -- 'CMS public-domain' / carrier ToS note
-    extracted_by        TEXT NOT NULL DEFAULT 'human'
-        CHECK (extracted_by IN ('human','automated')),
-    notes               TEXT,
-    UNIQUE (cms_contract_id, cms_pbp_id, plan_year, benefit_marketing_name)
-);
-CREATE INDEX idx_cb_brand  ON carrier_benefit(carrier_brand);
-CREATE INDEX idx_cb_year   ON carrier_benefit(plan_year);
-CREATE INDEX idx_cb_state  ON carrier_benefit(state);
-CREATE INDEX idx_cb_ssbci  ON carrier_benefit(ssbci_flag);
-
--- Counties a given plan/benefit covers (resolves BOTH-state + bistate Blue KC).
-CREATE TABLE carrier_benefit_county (
-    benefit_id TEXT NOT NULL REFERENCES carrier_benefit(id) ON DELETE CASCADE,
-    fips       TEXT NOT NULL REFERENCES county(fips) ON DELETE CASCADE,
-    PRIMARY KEY (benefit_id, fips)
-);
-CREATE INDEX idx_cbc_fips ON carrier_benefit_county(fips);
-
--- Which lost benefit category maps to which resource bucket (the bridge).
-CREATE TABLE benefit_category (
-    id          TEXT PRIMARY KEY,
-    benefit_id  TEXT NOT NULL REFERENCES carrier_benefit(id) ON DELETE CASCADE,
-    category    TEXT NOT NULL                              -- as named in the SB
-        CHECK (category IN ('groceries','otc','utilities','rent','pet_food',
-                            'transport_nonmedical','prescription','dental','vision','hearing','other')),
-    resource_bucket TEXT NOT NULL                          -- where to send the member
-        CHECK (resource_bucket IN ('food','utility','rent','pet_food',
-                                   'gas_transport','prescription','housing','navigation')),
-    ssbci_gated INTEGER NOT NULL DEFAULT 0 CHECK (ssbci_gated IN (0,1)),
-    notes       TEXT
-);
-CREATE INDEX idx_bencat_benefit ON benefit_category(benefit_id);
-CREATE INDEX idx_bencat_bucket  ON benefit_category(resource_bucket);
-
+-- (This directory stores ONLY available community-resource providers.)
 -- -----------------------------------------------------------------------------
 -- REFRESH PIPELINE BOOKKEEPING
 -- -----------------------------------------------------------------------------
@@ -409,9 +341,7 @@ CREATE INDEX idx_refresh_quarter ON refresh_log(refresh_quarter);
 CREATE INDEX idx_refresh_source  ON refresh_log(source_id);
 
 -- -----------------------------------------------------------------------------
--- FRONT-END HELPER VIEW: ZIP -> lost benefits (by plan) -> local replacements
--- Front-end joins on the member's ZIP -> zone/county, then carrier_benefit_county
--- + benefit_category.resource_bucket -> service.resource_bucket in that zone.
+-- FRONT-END HELPER VIEW: ZIP -> local resources in that ZIP's zone/county.
 -- -----------------------------------------------------------------------------
 CREATE VIEW v_resource_by_zip AS
 SELECT zz.zip, zz.zone_id, zz.fips, zz.county_name, zz.state,
@@ -425,13 +355,3 @@ JOIN location l           ON l.id = a.location_id
 JOIN service_at_location sal ON sal.location_id = l.id
 JOIN service s            ON s.id = sal.service_id AND s.status = 'active'
 JOIN organization o       ON o.id = s.organization_id;
-
-CREATE VIEW v_losses_by_zip AS
-SELECT zz.zip, zz.fips, zz.zone_id,
-       cb.id AS benefit_id, cb.carrier_brand, cb.plan_name, cb.plan_year,
-       cb.benefit_marketing_name, cb.ssbci_flag, cb.loss_summary,
-       bc.category, bc.resource_bucket
-FROM v_zip_zone zz
-JOIN carrier_benefit_county cbc ON cbc.fips = zz.fips
-JOIN carrier_benefit cb         ON cb.id = cbc.benefit_id
-JOIN benefit_category bc        ON bc.benefit_id = cb.id;
