@@ -79,38 +79,6 @@ window.RESOURCE_DATA = {
      "eligibility": "Jackson County residents, past-due utility notice.",
      "bucket_label": "Utility Assistance"
     }
-   ],
-   "losses": [
-    {
-     "carrier_brand": "[SAMPLE] Demo Advantage",
-     "plan_name": "Demo Advantage D-SNP",
-     "plan_year": 2026,
-     "ssbci": true,
-     "loss_summary": "You currently get $125/month for groceries and utility bills on your benefit card. This ends 1/1/2027 if you no longer qualify.",
-     "categories": [
-      "groceries",
-      "utilities"
-     ],
-     "buckets": [
-      "food",
-      "utility"
-     ]
-    },
-    {
-     "carrier_brand": "[SAMPLE] Demo Advantage",
-     "plan_name": "Demo Advantage D-SNP",
-     "plan_year": 2026,
-     "ssbci": true,
-     "loss_summary": "You currently get $50/month toward pet food and gas/transportation. This ends 1/1/2027 if you no longer qualify.",
-     "categories": [
-      "pet_food",
-      "transport_nonmedical"
-     ],
-     "buckets": [
-      "pet_food",
-      "gas_transport"
-     ]
-    }
    ]
   },
   "65806": {
@@ -158,38 +126,6 @@ window.RESOURCE_DATA = {
      "hours": "Mon-Fri 9am-12pm",
      "eligibility": "Low-income, verified appointment/work need.",
      "bucket_label": "Gas & Transportation"
-    }
-   ],
-   "losses": [
-    {
-     "carrier_brand": "[SAMPLE] Demo Advantage",
-     "plan_name": "Demo Advantage D-SNP",
-     "plan_year": 2026,
-     "ssbci": true,
-     "loss_summary": "You currently get $125/month for groceries and utility bills on your benefit card. This ends 1/1/2027 if you no longer qualify.",
-     "categories": [
-      "groceries",
-      "utilities"
-     ],
-     "buckets": [
-      "food",
-      "utility"
-     ]
-    },
-    {
-     "carrier_brand": "[SAMPLE] Demo Advantage",
-     "plan_name": "Demo Advantage D-SNP",
-     "plan_year": 2026,
-     "ssbci": true,
-     "loss_summary": "You currently get $50/month toward pet food and gas/transportation. This ends 1/1/2027 if you no longer qualify.",
-     "categories": [
-      "pet_food",
-      "transport_nonmedical"
-     ],
-     "buckets": [
-      "pet_food",
-      "gas_transport"
-     ]
     }
    ]
   },
@@ -258,23 +194,6 @@ window.RESOURCE_DATA = {
      "hours": "Mon-Fri 8am-5pm",
      "eligibility": "Income at or below 50% AMI.",
      "bucket_label": "Rent Assistance"
-    }
-   ],
-   "losses": [
-    {
-     "carrier_brand": "[SAMPLE] Demo Advantage",
-     "plan_name": "Demo Advantage D-SNP",
-     "plan_year": 2026,
-     "ssbci": true,
-     "loss_summary": "You currently get $125/month for groceries and utility bills on your benefit card. This ends 1/1/2027 if you no longer qualify.",
-     "categories": [
-      "groceries",
-      "utilities"
-     ],
-     "buckets": [
-      "food",
-      "utility"
-     ]
     }
    ]
   }

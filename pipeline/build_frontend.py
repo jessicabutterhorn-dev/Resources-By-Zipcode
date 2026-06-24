@@ -68,27 +68,14 @@ def build():
             r["bucket_label"] = BUCKET_LABELS.get(r["resource_bucket"], r["resource_bucket"])
             del r["svc_id"]
 
-        # losses: group benefit_marketing_name -> categories + buckets to point to
-        loss_rows = rows(cur, """SELECT carrier_brand, plan_name, plan_year,
-                   benefit_marketing_name, ssbci_flag, loss_summary, category, resource_bucket
-                   FROM v_losses_by_zip WHERE zip=?""", (zip_code,))
-        losses = {}
-        for lr in loss_rows:
-            key = lr["benefit_marketing_name"]
-            if key not in losses:
-                losses[key] = {
-                    "carrier_brand": lr["carrier_brand"], "plan_name": lr["plan_name"],
-                    "plan_year": lr["plan_year"], "ssbci": bool(lr["ssbci_flag"]),
-                    "loss_summary": lr["loss_summary"], "categories": [], "buckets": [],
-                }
-            losses[key]["categories"].append(lr["category"])
-            if lr["resource_bucket"] not in losses[key]["buckets"]:
-                losses[key]["buckets"].append(lr["resource_bucket"])
+        # NOTE: the page intentionally shows ONLY available resources — no
+        # "what you are losing" / benefit-loss content. The carrier_benefit
+        # tables exist in the DB for internal mapping but are NOT exported here.
 
         data[zip_code] = {
             "county": geo.get("county_name"), "state": geo.get("state"),
             "zone_id": geo.get("zone_id"), "zone_name": geo.get("zone_name"),
-            "resources": res, "losses": list(losses.values()),
+            "resources": res,
         }
 
     con.close()
