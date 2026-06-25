@@ -80,9 +80,10 @@ def build():
             )
             ORDER BY s.resource_bucket, o.name""", fips_list + fips_list)
 
+        fips_set = set(fips_list)
         for r in res:
             # display address: prefer an office in the searched county, else any office
-            addr = rows(cur, f"""SELECT a.address_1, a.city, a.state_province, a.postal_code,
+            addr = rows(cur, f"""SELECT a.address_1, a.city, a.state_province, a.postal_code, a.fips,
                        l.latitude, l.longitude, l.location_type
                 FROM service_at_location sal
                 JOIN location l ON l.id = sal.location_id
@@ -92,14 +93,18 @@ def build():
             a = addr[0] if addr else {}
             r["address_1"] = a.get("address_1"); r["city"] = a.get("city")
             r["state_province"] = a.get("state_province"); r["postal_code"] = a.get("postal_code")
-            # distance from the searched ZIP centroid to this resource's location.
-            # Only meaningful for a physical site with its own address in the area;
-            # area-wide programs / regional offices (no in-area address) -> null.
+            # Distance only for a true WALK-IN: the office must be in the searched
+            # ZIP's county. A regional service matched via service_area (its office
+            # is in a different county) is "Serves your area" — never a misleading
+            # far-office distance (e.g. an AAA HQ 126 mi away that serves you locally).
+            office_in_county = a.get("fips") in fips_set
             dist = None
-            has_local_addr = bool(a.get("address_1")) and a.get("location_type") != "virtual"
-            if center and has_local_addr and a.get("latitude") and a.get("longitude"):
+            if (center and office_in_county and a.get("address_1")
+                    and a.get("location_type") != "virtual"
+                    and a.get("latitude") and a.get("longitude")):
                 dist = round(haversine_mi(center[0], center[1], a["latitude"], a["longitude"]), 1)
             r["distance_mi"] = dist
+            r["serves_area"] = not office_in_county   # regional/area-wide
             ph = rows(cur, """SELECT number FROM phone
                               WHERE organization_id=(SELECT organization_id FROM service WHERE id=?)
                               ORDER BY id LIMIT 1""", (r["svc_id"],))
