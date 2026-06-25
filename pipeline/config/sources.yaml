@@ -363,6 +363,25 @@ sources:
 # LANE B — FEEDING AMERICA HSDS: open-ish feed, confirm attribution before load.
 # -----------------------------------------------------------------------------
 
+  - id: caagkc-pantries
+    enabled: true               # IMPLEMENTED: pipeline/connectors/caagkc_pantries.py
+    role: providers
+    source_name: "CAAGKC partner food pantries"
+    source_type: other
+    publisher: "Community Action Agency of Greater Kansas City"
+    source_url: "https://caagkc.org/programs/food-toiletry-pantries/"
+    access_lane: open
+    refresh_mode: snapshot
+    license: "org-public-page-facts"
+    attribution_text: "Source: Community Action Agency of Greater Kansas City (caagkc.org)"
+    attribution_required: true
+    redistribution_ok: true
+    robots_checked: true        # robots.txt: Disallow empty (all allowed), Crawl-delay 10
+    confidence: medium
+    categories: [food]
+    states: [MO]
+    notes: "Per-site HTML connector (FRAGILE, per-site). 30 KC-metro partner pantries with address/phone/hours. Agency's own list, facts only. Geocoded via Census one-line."
+
   - id: feeding-america-hsds
     enabled: false               # flip true once attribution terms confirmed
     role: providers

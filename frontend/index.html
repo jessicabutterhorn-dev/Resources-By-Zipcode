@@ -101,6 +101,18 @@
       ' · <a href="'+esc(r.source_url)+'" target="_blank" rel="noopener">source</a></div>';
   }
 
+  // category sections, in display order, with friendly headers
+  var SECTIONS = [
+    ['food',          'Food &amp; Food Pantries'],
+    ['utility',       'Utility &amp; Energy Assistance'],
+    ['rent',          'Rent Assistance'],
+    ['housing',       'Housing Help'],
+    ['prescription',  'Prescription Assistance'],
+    ['pet_food',      'Pet Food'],
+    ['gas_transport', 'Transportation &amp; Gas'],
+    ['navigation',    'Help Finding Services &amp; Job Centers']
+  ];
+
   function resourceCard(r){
     var lines = '';
     if (r.phone)       lines += '<div class="row"><b>Phone</b> '+esc(r.phone)+'</div>';
@@ -114,27 +126,54 @@
     if (r.eligibility) lines += '<div class="row"><b>Who</b> '+esc(r.eligibility)+'</div>';
     if (r.application_process) lines += '<div class="row"><b>How</b> '+esc(r.application_process)+'</div>';
     if (r.fees)        lines += '<div class="row"><b>Cost</b> '+esc(r.fees)+'</div>';
-    return '<div class="card"><div class="bucket">'+esc(r.bucket_label)+'</div>'+
+    return '<div class="card">'+
       '<h3>'+esc(r.service_name)+'</h3>'+
       '<p class="org">'+esc(r.org_name)+'</p>'+ lines + confLine(r) + '</div>';
+  }
+
+  // cluster same org/website together within a section
+  function byOrg(a, b){
+    var k = (a.website||'').localeCompare(b.website||'');
+    if (k !== 0) return k;
+    return (a.org_name||'').localeCompare(b.org_name||'');
   }
 
   function render(zip){
     var z = DATA.zips[zip];
     if (!z){
-      results.innerHTML = '<div class="empty">No demo data for ZIP <b>'+esc(zip)+
-        '</b>.<br>Try a demo ZIP: 64111, 66061, or 65806.</div>';
+      results.innerHTML = '<div class="empty">No data for ZIP <b>'+esc(zip)+
+        '</b>.<br>Try a ZIP with data, e.g. 64111 / 65806 (MO) or 66604 / 67203 (KS).</div>';
       return;
     }
     var html = '<p class="geo">ZIP '+esc(zip)+' · '+esc(z.county)+' County, '+esc(z.state)+
       ' · Collection zone '+esc(z.zone_id)+' ('+esc(z.zone_name)+')</p>';
 
-    html += '<div class="section-title">Local help available now ('+ (z.resources?z.resources.length:0) +')</div>';
-    if (z.resources && z.resources.length){
-      z.resources.forEach(function(r){ html += resourceCard(r); });
-    } else {
+    var all = z.resources || [];
+    if (!all.length){
       html += '<div class="empty">No resources loaded for this ZIP yet.</div>';
+      results.innerHTML = html; return;
     }
+
+    // group by bucket
+    var groups = {};
+    all.forEach(function(r){ (groups[r.resource_bucket] = groups[r.resource_bucket] || []).push(r); });
+
+    var shown = 0;
+    SECTIONS.forEach(function(sec){
+      var key = sec[0], label = sec[1], items = groups[key];
+      if (!items || !items.length) return;
+      items.sort(byOrg);
+      html += '<div class="section-title">'+label+' ('+items.length+')</div>';
+      items.forEach(function(r){ html += resourceCard(r); });
+      shown += items.length;
+    });
+    // any bucket not in SECTIONS (safety)
+    Object.keys(groups).forEach(function(key){
+      if (SECTIONS.some(function(s){ return s[0]===key; })) return;
+      var items = groups[key].sort(byOrg);
+      html += '<div class="section-title">'+esc(DATA.bucket_labels[key]||key)+' ('+items.length+')</div>';
+      items.forEach(function(r){ html += resourceCard(r); });
+    });
     results.innerHTML = html;
   }
 
