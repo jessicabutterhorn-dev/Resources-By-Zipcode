@@ -382,6 +382,26 @@ sources:
     states: [MO]
     notes: "Per-site HTML connector (FRAGILE, per-site). 30 KC-metro partner pantries with address/phone/hours. Agency's own list, facts only. Geocoded via Census one-line."
 
+  - id: ofs-metro
+    enabled: true               # IMPLEMENTED: pipeline/connectors/ofs_metro.py
+    role: providers
+    source_name: "Operation Food Search — food locations"
+    source_type: other
+    publisher: "Operation Food Search"
+    source_url: "https://www.operationfoodsearch.org/find-food/"
+    access_lane: open
+    refresh_mode: live_api
+    api: { protocol: wp_store_locator, endpoint: "admin-ajax.php?action=store_search", returns: json }
+    license: "org-public-locator-facts"
+    attribution_text: "Source: Operation Food Search (operationfoodsearch.org)"
+    attribution_required: true
+    redistribution_ok: true
+    robots_checked: true        # robots Allows /wp-admin/admin-ajax.php, Crawl-delay 10
+    confidence: medium
+    categories: [food]
+    states: [MO]
+    notes: "168 St. Louis-metro food sites (zone 2). WP Store Locator JSON feed — REUSABLE pattern for any wpsl site. IL rows auto-excluded by county spine."
+
   - id: feeding-america-hsds
     enabled: false               # flip true once attribution terms confirmed
     role: providers
