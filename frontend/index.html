@@ -106,6 +106,10 @@
     if (r.phone)       lines += '<div class="row"><b>Phone</b> '+esc(r.phone)+'</div>';
     var addr = [r.address_1, r.city, (r.state_province||'')+' '+(r.postal_code||'')].filter(Boolean).join(', ');
     if (addr.trim())   lines += '<div class="row"><b>Address</b> '+esc(addr)+'</div>';
+    if (r.website){
+      var href = /^https?:\/\//.test(r.website) ? r.website : 'http://'+r.website;
+      lines += '<div class="row"><b>Website</b> <a href="'+esc(href)+'" target="_blank" rel="noopener">'+esc(r.website)+'</a></div>';
+    }
     if (r.hours)       lines += '<div class="row"><b>Hours</b> '+esc(r.hours)+'</div>';
     if (r.eligibility) lines += '<div class="row"><b>Who</b> '+esc(r.eligibility)+'</div>';
     if (r.application_process) lines += '<div class="row"><b>How</b> '+esc(r.application_process)+'</div>';

@@ -40,24 +40,43 @@ def build():
                            FROM v_zip_zone WHERE zip=? AND is_primary=1 LIMIT 1""", (zip_code,))
         geo = geo[0] if geo else {}
 
-        # resources: one row per service-at-location, with org + address + first phone + hours + eligibility
-        res = rows(cur, """
-            SELECT s.id svc_id, s.name service_name, s.resource_bucket,
+        # all county FIPS this ZIP touches (a ZIP may span counties, e.g. Kansas City)
+        fips_list = [r["fips"] for r in rows(cur, "SELECT fips FROM zip_county WHERE zip=?", (zip_code,))]
+        ph_in = ",".join("?" * len(fips_list))
+
+        # A service is shown for this ZIP if it COVERS the ZIP's county, either by
+        # an explicit service_area (regional, e.g. a CAA serving many counties) OR
+        # by having an office located in that county.
+        res = rows(cur, f"""
+            SELECT DISTINCT s.id svc_id, s.name service_name, s.resource_bucket,
                    s.description, s.application_process, s.fees,
                    o.name org_name, o.website,
-                   a.address_1, a.city, a.state_province, a.postal_code,
                    s.confidence, s.source_url, s.date_checked
-            FROM v_zip_zone zz
-            JOIN address a            ON a.zone_id = zz.zone_id AND a.fips = zz.fips
-            JOIN location l           ON l.id = a.location_id
-            JOIN service_at_location sal ON sal.location_id = l.id
-            JOIN service s            ON s.id = sal.service_id AND s.status='active'
-            JOIN organization o       ON o.id = s.organization_id
-            WHERE zz.zip=? AND zz.is_primary=1
-            ORDER BY s.resource_bucket, o.name""", (zip_code,))
+            FROM service s
+            JOIN organization o ON o.id = s.organization_id
+            WHERE s.status='active' AND (
+                s.id IN (SELECT service_id FROM service_area WHERE fips IN ({ph_in}))
+                OR s.id IN (
+                    SELECT sal.service_id FROM service_at_location sal
+                    JOIN location l ON l.id = sal.location_id
+                    JOIN address a  ON a.location_id = l.id
+                    WHERE a.fips IN ({ph_in})
+                )
+            )
+            ORDER BY s.resource_bucket, o.name""", fips_list + fips_list)
 
         for r in res:
-            ph = rows(cur, """SELECT number, type FROM phone
+            # display address: prefer an office in the searched county, else any office
+            addr = rows(cur, f"""SELECT a.address_1, a.city, a.state_province, a.postal_code
+                FROM service_at_location sal
+                JOIN location l ON l.id = sal.location_id
+                JOIN address a  ON a.location_id = l.id
+                WHERE sal.service_id=?
+                ORDER BY (a.fips IN ({ph_in})) DESC LIMIT 1""", [r["svc_id"]] + fips_list)
+            a = addr[0] if addr else {}
+            r["address_1"] = a.get("address_1"); r["city"] = a.get("city")
+            r["state_province"] = a.get("state_province"); r["postal_code"] = a.get("postal_code")
+            ph = rows(cur, """SELECT number FROM phone
                               WHERE organization_id=(SELECT organization_id FROM service WHERE id=?)
                               ORDER BY id LIMIT 1""", (r["svc_id"],))
             r["phone"] = ph[0]["number"] if ph else None
