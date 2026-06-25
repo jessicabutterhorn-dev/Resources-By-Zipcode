@@ -1,16 +1,16 @@
 {
-  "_note": "Statewide / national referral tools shown for EVERY search (and on load). These are screeners/directories to LINK to — not per-ZIP provider records. scope: 'national' shows always; 'MO'/'KS' shows when the searched ZIP is in that state. Edit freely; rendered by the front-end as the 'Statewide help' section.",
+  "_note": "Statewide / national referral tools shown for EVERY search (and on load). These are screeners/directories to LINK to \u2014 not per-ZIP provider records. scope: 'national' shows always; 'MO'/'KS' shows when the searched ZIP is in that state. Edit freely; rendered by the front-end as the 'Statewide help' section.",
   "referrals": [
     {
       "name": "Dial 211 (United Way)",
-      "what": "Free, confidential local referrals for food, utilities, rent, and more — 24/7. Call or text 211.",
+      "what": "Free, confidential local referrals for food, utilities, rent, and more \u2014 24/7. Call or text 211.",
       "url": "https://www.211.org/",
       "phone": "211",
       "scope": "national"
     },
     {
       "name": "findhelp (Aunt Bertha)",
-      "what": "Search thousands of local assistance programs by ZIP code — food, housing, health, money, care.",
+      "what": "Search thousands of local assistance programs by ZIP code \u2014 food, housing, health, money, care.",
       "url": "https://www.findhelp.org/",
       "phone": null,
       "scope": "national"
@@ -38,7 +38,7 @@
     },
     {
       "name": "Missouri 211 (United Way)",
-      "what": "Statewide Missouri resource directory — food, utilities, housing, and more.",
+      "what": "Statewide Missouri resource directory \u2014 food, utilities, housing, and more.",
       "url": "https://mo211.myresourcedirectory.com/",
       "phone": "211",
       "scope": "MO"
@@ -59,7 +59,7 @@
     },
     {
       "name": "Kansas 211 / United Way",
-      "what": "Local Kansas referrals for food, utilities, housing, and more — dial 211.",
+      "what": "Local Kansas referrals for food, utilities, housing, and more \u2014 dial 211.",
       "url": "https://www.211.org/",
       "phone": "211",
       "scope": "KS"
@@ -68,11 +68,212 @@
   "_regional_note": "Area-specific resource directories / navigators, matched by zone_id (the 6 collection zones). Shown in a 'Regional Resources' section when the searched ZIP is in a listed zone. Populated by the regional-directories workflow.",
   "regional": [
     {
+      "name": "MARC Aging and Adult Services (Area Agency on Aging)",
+      "url": "https://www.marc.org/aging/aging-and-adult-services",
+      "phone": "816-421-4980 or 800-593-7948",
+      "what": "The Kansas City region's Area Agency on Aging, helping older adults and caregivers find meals, transportation, in-home support, and long-term care resources.",
+      "zones": [
+        1
+      ]
+    },
+    {
+      "name": "My Resource Connection (Johnson County, KS - Information and Community Resources)",
+      "url": "https://www.jocogov.org/department/aging-and-human-services/information-and-community-resources",
+      "phone": "913-715-8861",
+      "what": "Johnson County's community resource directory connecting Kansas-side residents to hundreds of local agencies for housing, healthcare, employment, and human services.",
+      "zones": [
+        1
+      ]
+    },
+    {
+      "name": "United Way 211 Greater Kansas City (info page)",
+      "url": "https://unitedwaygkc.org/211-2/",
+      "phone": "211 or 816-474-5112",
+      "what": "The free, 24/7 information-and-referral hub for the 23-county Kansas City region, linking callers and web visitors to vetted community and human services.",
+      "zones": [
+        1
+      ]
+    },
+    {
+      "name": "United Way of Greater Kansas City 211 - Resource Directory",
+      "url": "https://search.unitedwaygkc.org/",
+      "phone": "211 or 816-474-5112",
+      "what": "Searchable online directory connecting bi-state Kansas City residents to over 7,000 local services for food, housing, utilities, healthcare, and other essential needs.",
+      "zones": [
+        1
+      ]
+    },
+    {
+      "name": "Aging Ahead",
+      "url": "https://www.agingahead.org/",
+      "phone": "1-800-243-6060",
+      "what": "The Area Agency on Aging for St. Louis, St. Charles, Franklin, and Jefferson counties, connecting older adults and caregivers to meals, in-home services, and benefits counseling.",
+      "zones": [
+        2
+      ]
+    },
+    {
+      "name": "Community Council of St. Charles County",
+      "url": "https://www.communitycouncilstc.org/",
+      "phone": "636-978-2277",
+      "what": "A St. Charles County hub with a searchable resource directory for social services, food, housing, and disaster-planning resources across the tri-county area.",
+      "zones": [
+        2
+      ]
+    },
+    {
       "name": "Start Here STL",
       "url": "https://www.startherestl.org/",
+      "phone": "314-652-8062",
+      "what": "A St. Louis City and County resource guide pointing people to food pantries, housing, employment, medical care, legal aid, and support for veterans, immigrants, and youth.",
+      "zones": [
+        2
+      ]
+    },
+    {
+      "name": "Missouri 211 Resource Directory (United Way)",
+      "url": "https://mo211.myresourcedirectory.com/",
+      "phone": "2-1-1 or 1-800-427-4626",
+      "what": "Searchable Missouri directory — food, housing, utility, health, and mental-health services by ZIP code or county.",
+      "zones": [
+        2,
+        5
+      ]
+    },
+    {
+      "name": "Aging Best (Central Missouri Area Agency on Aging)",
+      "url": "https://www.agingbest.org/",
+      "phone": "800-369-5211",
+      "what": "The aging and disability resource center for central Missouri, offering information, referrals, nutrition, caregiver support, and independent-living services for seniors and adults with disabilities.",
+      "zones": [
+        3
+      ]
+    },
+    {
+      "name": "Heart of Missouri United Way 211",
+      "url": "https://www.uwheartmo.org/united-way-211/",
+      "phone": "211",
+      "what": "A free 24/7 phone and online directory connecting mid-Missouri residents to local help with food, housing, rent, childcare, counseling, and job training.",
+      "zones": [
+        3
+      ]
+    },
+    {
+      "name": "Love Columbia Resource Directory",
+      "url": "https://lovecolumbia.org/columbia-resource-directory",
+      "phone": "573-256-7662",
+      "what": "A curated single-point-of-access directory of housing, food, crisis, mental health, medical, and employment resources for Columbia, Boone County, and nearby mid-Missouri towns.",
+      "zones": [
+        3
+      ]
+    },
+    {
+      "name": "Northeast Missouri Area Agency on Aging",
+      "url": "https://nemoaaa.org/",
+      "phone": "660-665-4682",
+      "what": "The aging and disability resource center serving a 16-county Northeast Missouri region (including Hannibal and Kirksville) with referrals, in-home services, nutrition, transportation, and caregiver support.",
+      "zones": [
+        3
+      ]
+    },
+    {
+      "name": "Missouri Ozarks Community Action \u2014 Find Help",
+      "url": "https://www.mocaonline.org/help.html",
+      "phone": "573-765-3263",
+      "what": "County-lookup find-help locator routing South-Central and Ozarks Missouri residents to their local Community Action Agency for assistance programs.",
+      "zones": [
+        4
+      ]
+    },
+    {
+      "name": "Ozarks Region Community Resource Directory (Christian County Library)",
+      "url": "https://www.christiancountylibrary.org/community-resources/",
       "phone": null,
-      "what": "St. Louis-area directory of local help — food, housing, utilities, and support services.",
-      "zones": [2]
+      "what": "Library-maintained Ozarks-region directory organizing local services by need (basic needs, mental health, substance abuse, domestic violence, senior, financial/legal) with a printable PDF.",
+      "zones": [
+        4
+      ]
+    },
+    {
+      "name": "The Alliance of Southwest Missouri \u2014 Resource Guide",
+      "url": "https://www.theallianceofswmo.org/resource_guide/",
+      "phone": null,
+      "what": "Searchable directory of 248+ community resources (health, housing, food, employment, senior, veteran, LGBTQ+) across the Joplin/Four-States and Southwest Missouri region.",
+      "zones": [
+        4
+      ]
+    },
+    {
+      "name": "United Way Ozarks Region \u2014 Get Help / 211",
+      "url": "https://uwozarks.org/get-help/",
+      "phone": "417-863-7700",
+      "what": "Springfield-based regional 211 hub connecting Ozarks residents to local food, housing, healthcare, crisis, and veteran/cancer assistance services.",
+      "zones": [
+        4
+      ]
+    },
+    {
+      "name": "211 Kansas (United Ways of Kansas)",
+      "url": "https://211kansas.org/",
+      "phone": "2-1-1",
+      "what": "Searchable statewide directory connecting Kansans in Topeka, Lawrence, Manhattan, Salina and beyond to food, housing, utility assistance, health and other local services.",
+      "zones": [
+        5
+      ]
+    },
+    {
+      "name": "Douglas County Senior Resource Center (Lawrence, KS)",
+      "url": "https://www.dgcoks.gov/senior-resource-center/resources",
+      "phone": "785-842-0543",
+      "what": "Aging and disability resource hub helping Lawrence/Douglas County seniors find Medicare counseling, legal and financial aid, meals, transportation and in-home support.",
+      "zones": [
+        5
+      ]
+    },
+    {
+      "name": "United Way of Kaw Valley",
+      "url": "https://www.uwkawvalley.org/",
+      "phone": "785-273-4804",
+      "what": "Regional Topeka/Lawrence United Way with a 'Find Help Near Me' / 211 navigator linking residents to nearby community services.",
+      "zones": [
+        5
+      ]
+    },
+    {
+      "name": "Ellis County Community Resource Directory (United Way of Ellis County)",
+      "url": "https://elliscountykshelp.com/",
+      "phone": "785-628-8281",
+      "what": "A Hays-based human-services directory helping western Kansas residents find childcare, counseling, employment, food, housing, and health services.",
+      "zones": [
+        6
+      ]
+    },
+    {
+      "name": "South Central Kansas Area Agency on Aging (SCKAAA)",
+      "url": "https://www.sckaaa.org/",
+      "phone": null,
+      "what": "Regional aging and disability resource agency serving ten south-central Kansas counties (including Reno/Hutchinson and McPherson) with services for older and disabled adults.",
+      "zones": [
+        6
+      ]
+    },
+    {
+      "name": "United Way 211 (United Way of the Plains)",
+      "url": "https://unitedwayplains.org/211-information-and-referral/",
+      "phone": "316-267-1321",
+      "what": "Free Wichita-based 211 referral service connecting south-central and statewide Kansas residents to food, housing, healthcare, and family-support resources.",
+      "zones": [
+        6
+      ]
+    },
+    {
+      "name": "Western Kansas Community Foundation",
+      "url": "https://wkcf.org/",
+      "phone": null,
+      "what": "A Garden City-based community foundation hub listing local nonprofit and community resources serving Finney County and western Kansas.",
+      "zones": [
+        6
+      ]
     }
   ]
 }
