@@ -48,6 +48,10 @@
   .ref-card .what { font-size:14px; color:#34414f; margin:0 0 6px; }
   .ref-card .row b { min-width:64px; }
   .intro { color:var(--muted); font-size:14px; margin:0 0 6px; }
+  .dist { display:inline-block; font-size:13px; font-weight:700; color:var(--accent);
+         background:#eaf2fb; border-radius:999px; padding:2px 10px; margin:0 0 7px; }
+  .dist.near { color:#1a7f37; background:#e7f6ec; }
+  .dist.area { color:#5a6678; background:#eef1f6; font-weight:600; }
   footer { margin-top:30px; color:var(--muted); font-size:12px; border-top:1px solid var(--line); padding-top:12px; }
   @media print {
     body { background:#fff; }
@@ -135,15 +139,19 @@
     if (r.eligibility) lines += '<div class="row"><b>Who</b> '+esc(r.eligibility)+'</div>';
     if (r.application_process) lines += '<div class="row"><b>How</b> '+esc(r.application_process)+'</div>';
     if (r.fees)        lines += '<div class="row"><b>Cost</b> '+esc(r.fees)+'</div>';
-    return '<div class="card">'+
+    var dist = (r.distance_mi != null)
+      ? '<div class="dist'+(r.distance_mi <= 4 ? ' near' : '')+'">📍 '+r.distance_mi+' mi away</div>'
+      : '<div class="dist area">Serves your area</div>';
+    return '<div class="card">'+ dist +
       '<h3>'+esc(r.service_name)+'</h3>'+
       '<p class="org">'+esc(r.org_name)+'</p>'+ lines + confLine(r) + '</div>';
   }
 
-  // cluster same org/website together within a section
-  function byOrg(a, b){
-    var k = (a.website||'').localeCompare(b.website||'');
-    if (k !== 0) return k;
+  // nearest first; area-wide programs (no distance) sort to the end of the section
+  function byDistance(a, b){
+    var da = (a.distance_mi == null) ? Infinity : a.distance_mi;
+    var db = (b.distance_mi == null) ? Infinity : b.distance_mi;
+    if (da !== db) return da - db;
     return (a.org_name||'').localeCompare(b.org_name||'');
   }
 
@@ -209,7 +217,7 @@
     SECTIONS.forEach(function(sec){
       var key = sec[0], label = sec[1], items = groups[key];
       if (!items || !items.length) return;
-      items.sort(byOrg);
+      items.sort(byDistance);
       html += '<div class="section-title">'+label+' ('+items.length+')</div>';
       items.forEach(function(r){ html += resourceCard(r); });
       shown += items.length;

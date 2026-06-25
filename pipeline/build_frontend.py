@@ -9,12 +9,22 @@ DB rebuild. For the demo it exports the [SAMPLE] seed data.
 
 Usage:  python3 pipeline/build_frontend.py
 """
-import json, os, sqlite3, datetime
+import json, math, os, sqlite3, datetime
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DB = os.path.join(ROOT, "db", "resources.db")
 OUT = os.path.join(ROOT, "frontend", "data.js")
 REFERRALS = os.path.join(ROOT, "data", "referrals.json")
+ZIP_CENTROIDS = os.path.join(ROOT, "data", "zip_centroids.json")
+
+def haversine_mi(lat1, lon1, lat2, lon2):
+    """Great-circle distance in miles."""
+    R = 3958.8
+    p1, p2 = math.radians(lat1), math.radians(lat2)
+    dp = math.radians(lat2 - lat1)
+    dl = math.radians(lon2 - lon1)
+    a = math.sin(dp / 2) ** 2 + math.cos(p1) * math.cos(p2) * math.sin(dl / 2) ** 2
+    return R * 2 * math.asin(math.sqrt(a))
 
 BUCKET_LABELS = {
     "food": "Food & Groceries", "utility": "Utility Assistance",
@@ -34,10 +44,13 @@ def build():
     con.execute("PRAGMA foreign_keys = ON")
     cur = con.cursor()
 
+    centroids = json.load(open(ZIP_CENTROIDS)) if os.path.exists(ZIP_CENTROIDS) else {}
+
     zips = rows(cur, "SELECT DISTINCT zip FROM zip_county ORDER BY zip")
     data = {}
     for z in zips:
         zip_code = z["zip"]
+        center = centroids.get(zip_code)   # [lat, lon] or None
         geo = rows(cur, """SELECT county_name, state, zone_id, zone_name
                            FROM v_zip_zone WHERE zip=? AND is_primary=1 LIMIT 1""", (zip_code,))
         geo = geo[0] if geo else {}
@@ -69,7 +82,8 @@ def build():
 
         for r in res:
             # display address: prefer an office in the searched county, else any office
-            addr = rows(cur, f"""SELECT a.address_1, a.city, a.state_province, a.postal_code
+            addr = rows(cur, f"""SELECT a.address_1, a.city, a.state_province, a.postal_code,
+                       l.latitude, l.longitude, l.location_type
                 FROM service_at_location sal
                 JOIN location l ON l.id = sal.location_id
                 JOIN address a  ON a.location_id = l.id
@@ -78,6 +92,14 @@ def build():
             a = addr[0] if addr else {}
             r["address_1"] = a.get("address_1"); r["city"] = a.get("city")
             r["state_province"] = a.get("state_province"); r["postal_code"] = a.get("postal_code")
+            # distance from the searched ZIP centroid to this resource's location.
+            # Only meaningful for a physical site with its own address in the area;
+            # area-wide programs / regional offices (no in-area address) -> null.
+            dist = None
+            has_local_addr = bool(a.get("address_1")) and a.get("location_type") != "virtual"
+            if center and has_local_addr and a.get("latitude") and a.get("longitude"):
+                dist = round(haversine_mi(center[0], center[1], a["latitude"], a["longitude"]), 1)
+            r["distance_mi"] = dist
             ph = rows(cur, """SELECT number FROM phone
                               WHERE organization_id=(SELECT organization_id FROM service WHERE id=?)
                               ORDER BY id LIMIT 1""", (r["svc_id"],))
