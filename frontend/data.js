@@ -64,13 +64,6 @@ window.RESOURCE_DATA = {
    "scope": "MO"
   },
   {
-   "name": "Start Here STL",
-   "what": "St. Louis-area directory of local help \u2014 food, housing, hygiene, and support services.",
-   "url": "https://www.startherestl.org/",
-   "phone": null,
-   "scope": "MO"
-  },
-  {
    "name": "Kansas Benefits / Apply for SNAP & LIEAP (KS DCF)",
    "what": "Apply for food assistance (SNAP), energy assistance (LIEAP), and other Kansas benefits.",
    "url": "https://www.dcf.ks.gov/services/ees",
@@ -83,6 +76,17 @@ window.RESOURCE_DATA = {
    "url": "https://www.211.org/",
    "phone": "211",
    "scope": "KS"
+  }
+ ],
+ "regional": [
+  {
+   "name": "Start Here STL",
+   "url": "https://www.startherestl.org/",
+   "phone": null,
+   "what": "St. Louis-area directory of local help \u2014 food, housing, utilities, and support services.",
+   "zones": [
+    2
+   ]
   }
  ],
  "zips": {

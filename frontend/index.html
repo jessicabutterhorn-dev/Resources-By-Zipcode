@@ -157,6 +157,18 @@
       (r.what?'<p class="what">'+esc(r.what)+'</p>':'')+ lines +'</div>';
   }
 
+  // area directories for the searched ZIP's zone
+  function regionalHTML(zoneId){
+    var regs = (DATA.regional||[]).filter(function(r){
+      return r.zones && r.zones.indexOf(zoneId) !== -1;
+    });
+    if (!regs.length) return '';
+    var h = '<div class="section-title">Regional Resources</div>'+
+            '<p class="intro">Area directories for your part of the state — broad local help in one place.</p>';
+    regs.forEach(function(r){ h += refCard(r); });
+    return h;
+  }
+
   // statewide/national link-outs; state = 'MO'/'KS' (or null on initial load = national only)
   function referralsHTML(state){
     var refs = (DATA.referrals||[]).filter(function(r){
@@ -208,6 +220,7 @@
       html += '<div class="section-title">'+esc(DATA.bucket_labels[key]||key)+' ('+items.length+')</div>';
       items.forEach(function(r){ html += resourceCard(r); });
     });
+    html += regionalHTML(z.zone_id);    // area directories for this zone
     html += referralsHTML(z.state);     // state-aware statewide/national link-outs
     results.innerHTML = html;
   }

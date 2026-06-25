@@ -101,14 +101,17 @@ def build():
     cur.execute("SELECT count(*) FROM organization WHERE name LIKE '[SAMPLE]%'")
     is_sample = cur.fetchone()[0] > 0
     con.close()
-    referrals = []
+    referrals, regional = [], []
     if os.path.exists(REFERRALS):
-        referrals = json.load(open(REFERRALS)).get("referrals", [])
+        rj = json.load(open(REFERRALS))
+        referrals = rj.get("referrals", [])
+        regional = rj.get("regional", [])
     payload = {
         "generated": "STATIC EXPORT",   # date stamped by pipeline run, omitted in demo
         "sample": is_sample,            # true only when sample rows are present
         "bucket_labels": BUCKET_LABELS,
         "referrals": referrals,         # statewide/national link-outs, state-aware
+        "regional": regional,           # area directories, matched by zone_id
         "zips": data,
     }
     with open(OUT, "w") as f:
