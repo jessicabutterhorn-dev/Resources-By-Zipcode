@@ -18,6 +18,7 @@ OUT = os.path.join(ROOT, "frontend", "data.js")
 BUCKET_LABELS = {
     "food": "Food & Groceries", "utility": "Utility Assistance",
     "rent": "Rent Assistance", "pet_food": "Pet Food",
+    "hygiene": "Hygiene & Personal Care",
     "gas_transport": "Gas & Transportation", "prescription": "Prescription Help",
     "housing": "Housing", "navigation": "Help Finding Services",
 }
