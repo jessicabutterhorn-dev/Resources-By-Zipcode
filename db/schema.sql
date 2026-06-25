@@ -220,7 +220,7 @@ CREATE TABLE service (
         CHECK (status IN ('active','inactive','defunct','temporarily closed')),
     -- which kind of community resource this is (food, utility, rent, etc.)
     resource_bucket TEXT NOT NULL
-        CHECK (resource_bucket IN ('food','utility','rent','pet_food','hygiene',
+        CHECK (resource_bucket IN ('food','utility','rent','pet_food','hygiene','dental',
                                    'gas_transport','prescription','housing','navigation')),
     application_process TEXT,                              -- how to apply (facts)
     fees                TEXT,

@@ -54,11 +54,21 @@ def sid(*p):
     return hashlib.sha1("|".join(str(x) for x in p).encode()).hexdigest()[:24]
 
 def fetch_html():
-    h = _get(PAGE_URL, raw=True)
     os.makedirs(RAW_DIR, exist_ok=True)
-    with open(os.path.join(RAW_DIR, f"pantries_{TODAY}.html"), "w") as f:
-        f.write(h)
-    return h
+    try:
+        h = _get(PAGE_URL, raw=True)
+        with open(os.path.join(RAW_DIR, f"pantries_{TODAY}.html"), "w") as f:
+            f.write(h)
+        return h
+    except Exception as e:
+        # fragile per-site source: on a transient outage, fall back to the most
+        # recent cached snapshot rather than aborting the whole build.
+        snaps = sorted(f for f in os.listdir(RAW_DIR) if f.endswith(".html"))
+        if not snaps:
+            raise
+        newest = os.path.join(RAW_DIR, snaps[-1])
+        sys.stderr.write(f"  live fetch failed ({e}); using cached snapshot {snaps[-1]}\n")
+        return open(newest, encoding="utf-8").read()
 
 def parse_pantries(h):
     """Return list of {name,street,city,state,zip,phone,hours} from the page tables."""

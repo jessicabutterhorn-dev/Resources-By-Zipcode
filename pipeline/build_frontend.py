@@ -19,7 +19,7 @@ REFERRALS = os.path.join(ROOT, "data", "referrals.json")
 BUCKET_LABELS = {
     "food": "Food & Groceries", "utility": "Utility Assistance",
     "rent": "Rent Assistance", "pet_food": "Pet Food",
-    "hygiene": "Hygiene & Personal Care",
+    "hygiene": "Hygiene & Personal Care", "dental": "Free Dental Care",
     "gas_transport": "Gas & Transportation", "prescription": "Prescription Help",
     "housing": "Housing", "navigation": "Help Finding Services",
 }
