@@ -14,6 +14,7 @@ import json, os, sqlite3, datetime
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DB = os.path.join(ROOT, "db", "resources.db")
 OUT = os.path.join(ROOT, "frontend", "data.js")
+REFERRALS = os.path.join(ROOT, "data", "referrals.json")
 
 BUCKET_LABELS = {
     "food": "Food & Groceries", "utility": "Utility Assistance",
@@ -100,10 +101,14 @@ def build():
     cur.execute("SELECT count(*) FROM organization WHERE name LIKE '[SAMPLE]%'")
     is_sample = cur.fetchone()[0] > 0
     con.close()
+    referrals = []
+    if os.path.exists(REFERRALS):
+        referrals = json.load(open(REFERRALS)).get("referrals", [])
     payload = {
         "generated": "STATIC EXPORT",   # date stamped by pipeline run, omitted in demo
         "sample": is_sample,            # true only when sample rows are present
         "bucket_labels": BUCKET_LABELS,
+        "referrals": referrals,         # statewide/national link-outs, state-aware
         "zips": data,
     }
     with open(OUT, "w") as f:

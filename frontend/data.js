@@ -13,6 +13,78 @@ window.RESOURCE_DATA = {
   "housing": "Housing",
   "navigation": "Help Finding Services"
  },
+ "referrals": [
+  {
+   "name": "Dial 211 (United Way)",
+   "what": "Free, confidential local referrals for food, utilities, rent, and more \u2014 24/7. Call or text 211.",
+   "url": "https://www.211.org/",
+   "phone": "211",
+   "scope": "national"
+  },
+  {
+   "name": "findhelp (Aunt Bertha)",
+   "what": "Search thousands of local assistance programs by ZIP code \u2014 food, housing, health, money, care.",
+   "url": "https://www.findhelp.org/",
+   "phone": null,
+   "scope": "national"
+  },
+  {
+   "name": "BenefitsCheckUp (NCOA)",
+   "what": "Free tool to find federal, state, and local benefit programs you may qualify for (good for older adults).",
+   "url": "https://benefitscheckup.org/",
+   "phone": null,
+   "scope": "national"
+  },
+  {
+   "name": "WhyHunger Hunger Hotline",
+   "what": "Connects you to local food pantries and meal programs. Call or text.",
+   "url": "https://whyhunger.org/find-food/",
+   "phone": "1-800-5-HUNGRY (548-6479)",
+   "scope": "national"
+  },
+  {
+   "name": "Find Your Local Food Bank (Feeding America)",
+   "what": "Locate the regional food bank serving your area, then its partner pantries.",
+   "url": "https://www.feedingamerica.org/find-your-local-foodbank",
+   "phone": null,
+   "scope": "national"
+  },
+  {
+   "name": "Missouri 211 (United Way)",
+   "what": "Statewide Missouri resource directory \u2014 food, utilities, housing, and more.",
+   "url": "https://mo211.myresourcedirectory.com/",
+   "phone": "211",
+   "scope": "MO"
+  },
+  {
+   "name": "Missouri Benefits / Apply for SNAP & Energy Help (MO DSS)",
+   "what": "Apply for food (SNAP), energy assistance (LIHEAP), and other Missouri benefits.",
+   "url": "https://mydss.mo.gov/",
+   "phone": "1-855-373-4636",
+   "scope": "MO"
+  },
+  {
+   "name": "Start Here STL",
+   "what": "St. Louis-area directory of local help \u2014 food, housing, hygiene, and support services.",
+   "url": "https://www.startherestl.org/",
+   "phone": null,
+   "scope": "MO"
+  },
+  {
+   "name": "Kansas Benefits / Apply for SNAP & LIEAP (KS DCF)",
+   "what": "Apply for food assistance (SNAP), energy assistance (LIEAP), and other Kansas benefits.",
+   "url": "https://www.dcf.ks.gov/services/ees",
+   "phone": "1-888-369-4777",
+   "scope": "KS"
+  },
+  {
+   "name": "Kansas 211 / United Way",
+   "what": "Local Kansas referrals for food, utilities, housing, and more \u2014 dial 211.",
+   "url": "https://www.211.org/",
+   "phone": "211",
+   "scope": "KS"
+  }
+ ],
  "zips": {
   "63010": {
    "county": "Jefferson",

@@ -42,6 +42,12 @@
   .conf .unverified { color:#b45309; }
   .empty { background:var(--card); border:1px dashed var(--line); border-radius:10px;
          padding:20px; text-align:center; color:var(--muted); }
+  .ref-card { background:#eef4fb; border:1px solid #cfe0f1; border-radius:10px;
+         padding:12px 14px; margin-bottom:10px; }
+  .ref-card h3 { margin:0 0 3px; font-size:16px; }
+  .ref-card .what { font-size:14px; color:#34414f; margin:0 0 6px; }
+  .ref-card .row b { min-width:64px; }
+  .intro { color:var(--muted); font-size:14px; margin:0 0 6px; }
   footer { margin-top:30px; color:var(--muted); font-size:12px; border-top:1px solid var(--line); padding-top:12px; }
   @media print {
     body { background:#fff; }
@@ -139,11 +145,37 @@
     return (a.org_name||'').localeCompare(b.org_name||'');
   }
 
+  function refCard(r){
+    var lines = '';
+    if (r.phone) lines += '<div class="row"><b>Call</b> '+esc(r.phone)+'</div>';
+    if (r.url){
+      var href = /^https?:\/\//.test(r.url) ? r.url : 'https://'+r.url;
+      lines += '<div class="row"><b>Website</b> <a href="'+esc(href)+'" target="_blank" rel="noopener">'+esc(r.url)+'</a></div>';
+    }
+    return '<div class="ref-card"><h3>'+esc(r.name)+'</h3>'+
+      (r.what?'<p class="what">'+esc(r.what)+'</p>':'')+ lines +'</div>';
+  }
+
+  // statewide/national link-outs; state = 'MO'/'KS' (or null on initial load = national only)
+  function referralsHTML(state){
+    var refs = (DATA.referrals||[]).filter(function(r){
+      return r.scope === 'national' || (state && r.scope === state);
+    });
+    if (!refs.length) return '';
+    var title = state ? 'Statewide help — always available ('+esc(state)+')'
+                      : 'Statewide help — always available';
+    var h = '<div class="section-title">'+title+'</div>'+
+            '<p class="intro">General programs that serve everyone — try these alongside the local listings above.</p>';
+    refs.forEach(function(r){ h += refCard(r); });
+    return h;
+  }
+
   function render(zip){
     var z = DATA.zips[zip];
     if (!z){
       results.innerHTML = '<div class="empty">No data for ZIP <b>'+esc(zip)+
-        '</b>.<br>Try a ZIP with data, e.g. 64111 / 65806 (MO) or 66604 / 67203 (KS).</div>';
+        '</b>.<br>Try a ZIP with data, e.g. 64111 / 65806 (MO) or 66604 / 67203 (KS).</div>'+
+        referralsHTML(null);
       return;
     }
     var html = '<p class="geo">ZIP '+esc(zip)+' · '+esc(z.county)+' County, '+esc(z.state)+
@@ -175,6 +207,7 @@
       html += '<div class="section-title">'+esc(DATA.bucket_labels[key]||key)+' ('+items.length+')</div>';
       items.forEach(function(r){ html += resourceCard(r); });
     });
+    html += referralsHTML(z.state);     // state-aware statewide/national link-outs
     results.innerHTML = html;
   }
 
@@ -190,6 +223,9 @@
   Array.prototype.forEach.call(document.querySelectorAll('[data-z]'), function(el){
     el.addEventListener('click', function(){ input.value = el.getAttribute('data-z'); go(); });
   });
+
+  // on load, show the national referrals so the page isn't empty before a search
+  results.innerHTML = referralsHTML(null);
 })();
 </script>
 </body>
