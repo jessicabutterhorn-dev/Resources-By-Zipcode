@@ -4,13 +4,14 @@
 # Add more open-route connectors to the list below as they are built.
 set -euo pipefail
 cd "$(dirname "$0")"
+STATES="${STATES:-KS,MO}"
 rm -f db/resources.db
 sqlite3 db/resources.db < db/schema.sql
-python3 pipeline/load_geography.py
+python3 pipeline/load_geography.py --states "$STATES"
 python3 pipeline/load_zip_county.py
 python3 pipeline/connectors/data_mo_gov.py        # MO Job Centers (navigation)
 python3 pipeline/connectors/liheap_mo_caa.py      # MO LIHEAP / energy (utility, food, housing)
-python3 pipeline/connectors/hud_housing_counseling.py  # HUD housing counseling (KS + MO housing)
+python3 pipeline/connectors/hud_housing_counseling.py --states "$STATES"  # HUD housing counseling (housing)
 python3 pipeline/connectors/caagkc_pantries.py    # CAAGKC partner food pantries (KC metro, food)
 python3 pipeline/connectors/ofs_metro.py          # Operation Food Search (St. Louis metro, food)
 python3 pipeline/connectors/hygiene_stl.py        # Curated St. Louis hygiene kits (UNVERIFIED)
@@ -23,6 +24,6 @@ python3 pipeline/connectors/free_resource.py --bucket pet_food --records data/pe
 python3 pipeline/fill_phones.py
 python3 pipeline/needs_phone_report.py
 python3 pipeline/load_zip_centroids.py
-python3 pipeline/build_frontend.py
+python3 pipeline/build_frontend.py --states "$STATES"
 python3 pipeline/gen_credits.py
 echo "Done. Open frontend/index.html — real open-data records."

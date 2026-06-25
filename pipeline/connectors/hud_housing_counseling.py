@@ -35,7 +35,20 @@ PAGE_DELAY = 0.5
 SOURCE_ID = "hud-housing-counseling"
 TODAY = "2026-06-24"
 CONFIDENCE = "medium"
-STATE_BY_FIPS = {"20": "KS", "29": "MO"}
+ALL_STATE_FIPS = {
+    "01": "AL", "02": "AK", "04": "AZ", "05": "AR", "06": "CA",
+    "08": "CO", "09": "CT", "10": "DE", "11": "DC", "12": "FL",
+    "13": "GA", "15": "HI", "16": "ID", "17": "IL", "18": "IN",
+    "19": "IA", "20": "KS", "21": "KY", "22": "LA", "23": "ME",
+    "24": "MD", "25": "MA", "26": "MI", "27": "MN", "28": "MS",
+    "29": "MO", "30": "MT", "31": "NE", "32": "NV", "33": "NH",
+    "34": "NJ", "35": "NM", "36": "NY", "37": "NC", "38": "ND",
+    "39": "OH", "40": "OK", "41": "OR", "42": "PA", "44": "RI",
+    "45": "SC", "46": "SD", "47": "TN", "48": "TX", "49": "UT",
+    "50": "VT", "51": "VA", "53": "WA", "54": "WV", "55": "WI",
+    "56": "WY", "72": "PR",
+}
+FIPS_BY_STATE = {v: k for k, v in ALL_STATE_FIPS.items()}
 
 OUT_FIELDS = ("AGC_NAME,AGC_ADDRESS,AGC_CITY,AGC_ZIP_CODE,AGC_PHONE_NBR,"
               "AGC_EMAIL,AGC_WEB_SITE,STATE2KX,CURCNTY,CURCNTY_NM")
@@ -62,9 +75,13 @@ def pii_reject(attrs):
             return f"SSN-shaped value in '{k}'"
     return None
 
-def fetch_rows():
+def fetch_rows(states_set):
     rows, offset = [], 0
-    where = urllib.parse.quote("STATE2KX IN ('20','29')")
+    fp_list = sorted(FIPS_BY_STATE[s] for s in states_set if s in FIPS_BY_STATE)
+    if not fp_list:
+        sys.exit(f"[hud-hca] No known FIPS codes for: {states_set}")
+    in_clause = ",".join(f"'{f}'" for f in fp_list)
+    where = urllib.parse.quote(f"STATE2KX IN ({in_clause})")
     while True:
         url = (f"{SERVICE}?where={where}&outFields={urllib.parse.quote(OUT_FIELDS)}"
                f"&returnGeometry=true&outSR=4326&f=json"
@@ -81,7 +98,7 @@ def fetch_rows():
         json.dump(rows, f, indent=1)
     return rows
 
-def load(rows, dry_run=False):
+def load(rows, states_set, dry_run=False):
     con = sqlite3.connect(DB)
     con.execute("PRAGMA foreign_keys = ON")
     cur = con.cursor()
@@ -99,7 +116,8 @@ def load(rows, dry_run=False):
              0, 1, "open", "live_api", TODAY, CONFIDENCE,
              "HUD Official Content ArcGIS Feature Service. County FIPS in data; no geocoding."))
 
-    stats = {"in": len(rows), "rejected_pii": 0, "no_county": 0, "loaded": 0, "ks": 0, "mo": 0}
+    stats = {"in": len(rows), "rejected_pii": 0, "no_county": 0, "loaded": 0}
+    state_counts = {s: 0 for s in states_set}
     for ft in rows:
         a = ft.get("attributes", {})
         if pii_reject(a):
@@ -111,8 +129,8 @@ def load(rows, dry_run=False):
         statefp = (a.get("STATE2KX") or "").strip()
         cnty = (a.get("CURCNTY") or "").strip()
         fips = statefp + cnty if statefp and cnty else None
-        state = STATE_BY_FIPS.get(statefp)
-        if not fips or fips not in known_fips or not state:
+        state = ALL_STATE_FIPS.get(statefp)
+        if not fips or fips not in known_fips or not state or state not in states_set:
             stats["no_county"] += 1
             continue
 
@@ -125,7 +143,7 @@ def load(rows, dry_run=False):
         geom = ft.get("geometry") or {}
         lat, lon = geom.get("y"), geom.get("x")
 
-        stats["ks" if state == "KS" else "mo"] += 1
+        state_counts[state] = state_counts.get(state, 0) + 1
         if dry_run:
             print(f"  OK {name[:38]:38} {city},{state} {zipc}  {a.get('CURCNTY_NM')} ({fips})  {phone or web or ''}")
             stats["loaded"] += 1
@@ -175,18 +193,22 @@ def load(rows, dry_run=False):
             VALUES (?,?,?,?,?,?,?,?,?,?,?)""",
             (sid("run", SOURCE_ID, TODAY), TODAY, TODAY, "2026Q2", SOURCE_ID, "load", "success",
              stats["in"], stats["loaded"], stats["rejected_pii"],
-             f"ks={stats['ks']} mo={stats['mo']} no_county={stats['no_county']}"))
+             " ".join(f"{s.lower()}={state_counts.get(s,0)}" for s in sorted(states_set)) +
+             f" no_county={stats['no_county']}"))
         con.commit()
     con.close()
+    stats["state_counts"] = state_counts
     return stats
 
 def main():
+    states_set = set(sys.argv[sys.argv.index("--states") + 1].upper().split(",")) if "--states" in sys.argv else {"KS", "MO"}
     dry = "--dry-run" in sys.argv
-    print("[hud-hca] fetching HUD housing counseling agencies (KS+MO) ...")
-    rows = fetch_rows()
+    print(f"[hud-hca] fetching HUD housing counseling agencies ({','.join(sorted(states_set))}) ...")
+    rows = fetch_rows(states_set)
     print(f"[hud-hca] {len(rows)} rows fetched. {'DRY RUN' if dry else 'loading'} ...")
-    s = load(rows, dry_run=dry)
-    print(f"[hud-hca] loaded={s['loaded']} (KS={s['ks']} MO={s['mo']}) "
+    s = load(rows, states_set, dry_run=dry)
+    sc = s.get("state_counts", {})
+    print(f"[hud-hca] loaded={s['loaded']} ({' '.join(f'{k}={v}' for k,v in sorted(sc.items()))}) "
           f"pii_rejected={s['rejected_pii']} no_county={s['no_county']}")
 
 if __name__ == "__main__":

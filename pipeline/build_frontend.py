@@ -9,7 +9,7 @@ DB rebuild. For the demo it exports the [SAMPLE] seed data.
 
 Usage:  python3 pipeline/build_frontend.py
 """
-import json, math, os, sqlite3, datetime
+import json, math, os, sqlite3, datetime, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DB = os.path.join(ROOT, "db", "resources.db")
@@ -47,7 +47,12 @@ def build():
 
     centroids = json.load(open(ZIP_CENTROIDS)) if os.path.exists(ZIP_CENTROIDS) else {}
 
-    zips = rows(cur, "SELECT DISTINCT zip FROM zip_county ORDER BY zip")
+    states_filter = sys.argv[sys.argv.index("--states") + 1].upper().split(",") if "--states" in sys.argv else None
+    if states_filter:
+        ph = ",".join("?" * len(states_filter))
+        zips = rows(cur, f"SELECT DISTINCT zc.zip FROM zip_county zc JOIN county c ON c.fips=zc.fips WHERE c.state IN ({ph}) ORDER BY zc.zip", states_filter)
+    else:
+        zips = rows(cur, "SELECT DISTINCT zip FROM zip_county ORDER BY zip")
     data = {}
     for z in zips:
         zip_code = z["zip"]

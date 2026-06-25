@@ -24,14 +24,14 @@ def norm(name):
     """Normalize a county name for matching: lowercase, drop punctuation + ' county' suffix."""
     return re.sub(r"[^a-z ]", "", name.lower()).replace(" county", "").strip()
 
-def fetch_census_counties():
+def fetch_census_counties(states_set):
     req = urllib.request.Request(CENSUS_COUNTY, headers={"User-Agent": UA})
     with urllib.request.urlopen(req, timeout=40) as r:
         text = r.read().decode("utf-8")
     out = []
     for line in text.splitlines():
         parts = line.split("|")
-        if len(parts) < 6 or parts[0] not in ("KS", "MO"):
+        if len(parts) < 6 or parts[0] not in states_set:
             continue
         state, statefp, countyfp, _ns, cname, classfp = parts[:6]
         fips = statefp + countyfp
@@ -50,9 +50,10 @@ def load_zone_resolver(zones):
     return resolver
 
 def main():
+    states_set = set(sys.argv[sys.argv.index("--states") + 1].upper().split(",")) if "--states" in sys.argv else {"KS", "MO"}
     zones = json.load(open(ZONES_JSON))
     resolver = load_zone_resolver(zones)
-    counties = fetch_census_counties()
+    counties = fetch_census_counties(states_set)
 
     con = sqlite3.connect(DB)
     con.execute("PRAGMA foreign_keys = ON")
