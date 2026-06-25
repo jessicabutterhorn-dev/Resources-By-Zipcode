@@ -46,7 +46,8 @@
    "phone": "573-636-4440",
    "website": "https://dentallifeline.org/missouri/",
    "zone_id": 1,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_MO"
   },
   {
    "name": "Donated Dental Services (DDS) \u2014 Dental Lifeline Network of Kansas",
@@ -62,7 +63,8 @@
    "phone": "785-273-1900",
    "website": "https://dentallifeline.org/kansas/",
    "zone_id": 1,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_KS"
   },
   {
    "name": "Kansas Mission of Mercy (KMOM)",
@@ -78,7 +80,8 @@
    "phone": null,
    "website": "https://www.oralhealthkansas.org/KMOM.html",
    "zone_id": 1,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_KS"
   },
   {
    "name": "Missouri Mission of Mercy (MOMOM)",
@@ -94,7 +97,8 @@
    "phone": null,
    "website": "https://www.modental.org/about-us/mda-subsidiaries/mda-foundation",
    "zone_id": 1,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_MO"
   },
   {
    "name": "APPNA Clinic (Association of Physicians of Pakistani-Descent of North America, St. Louis)",
@@ -126,7 +130,17 @@
    "free_claim": "Org site footer: \"Free mobile care for uninsured rural Missourians\"; describes \"free, faith-based medical and dental care\" delivered \"at no cost to income-qualifying adults without insurance.\"",
    "nonprofit_claim": "Operated by the Rural Parish Clinic of the Catholic Archdiocese of St. Louis (faith-based charitable program; listed on igivecatholic.org and archstl.org).",
    "zone_id": 2,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Franklin",
+    "Jefferson",
+    "Washington",
+    "Lincoln",
+    "St. Francois",
+    "Ste. Genevieve"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "Donated Dental Services (DDS) - Dental Lifeline Network of Missouri",
@@ -142,7 +156,8 @@
    "free_claim": "Program page: \"The program provides free dental care through volunteer dentists and laboratories\"; \"Volunteers provide comprehensive treatment to eligible patients\" at no cost.",
    "nonprofit_claim": "\"Dental Lifeline Network is a 501(c)(3) nonprofit registered in the US under EIN: 84-6129064.\"",
    "zone_id": 2,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_MO"
   },
   {
    "name": "Missouri Mission of Mercy (MOMOM) - MDA Foundation",
@@ -158,7 +173,8 @@
    "free_claim": "MDA Foundation page: MOMOM is \"a large-scale dental clinic that provides free oral healthcare to patients of all ages who cannot otherwise afford or access care\" ($7.98M in free care to 12,311 patients since 2011).",
    "nonprofit_claim": "Run by the MDA Foundation, described as \"MDA's charitable not-for-profit subsidiary.\"",
    "zone_id": 2,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_MO"
   },
   {
    "name": "Hannibal Free Clinic",
@@ -190,7 +206,8 @@
    "free_claim": "'Volunteers provide comprehensive treatment to eligible patients' at no cost; applicants must have 'no financial means for dental care.' Confirmed by Love Columbia resource page as 'No cost to qualifying patients.'",
    "nonprofit_claim": "Dental Lifeline Network is a 501(c)(3) nonprofit organization; care is donated by volunteer dentists and dental laboratories.",
    "zone_id": 3,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_MO"
   },
   {
    "name": "Missouri Mission of Mercy (MOMOM) \u2014 MDA Foundation",
@@ -206,7 +223,8 @@
    "free_claim": "MOMOM provides 'free oral healthcare to patients of all ages who cannot otherwise afford or access care'; since 2011 volunteers have provided over $7.98 million in free care to 12,311 patients.",
    "nonprofit_claim": "Run by the MDA Foundation, described as the Missouri Dental Association's 'charitable not-for-profit subsidiary' established in 1977; care delivered by dental and general volunteers.",
    "zone_id": 3,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_MO"
   },
   {
    "name": "The Tooth Truck (Ronald McDonald House Charities of the Ozarks)",
@@ -254,7 +272,8 @@
    "website": "https://www.modental.org/about-us/mda-subsidiaries/mda-foundation",
    "source_url": "https://www.modental.org/about-us/mda-subsidiaries/mda-foundation",
    "zone_id": 4,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_MO"
   },
   {
    "name": "Donated Dental Services (DDS) - Dental Lifeline Network of Missouri",
@@ -270,7 +289,8 @@
    "website": "https://dentallifeline.org/missouri/",
    "source_url": "https://dentallifeline.org/missouri/",
    "zone_id": 4,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_MO"
   },
   {
    "name": "Kansas Mission of Mercy (KMOM)",
@@ -286,7 +306,8 @@
    "zip": null,
    "phone": null,
    "zone_id": 5,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_KS"
   },
   {
    "name": "Missouri Mission of Mercy (MOMOM)",
@@ -302,7 +323,8 @@
    "zip": null,
    "phone": null,
    "zone_id": 5,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_MO"
   },
   {
    "name": "Kansas Donated Dental Services (DDS) \u2014 Dental Lifeline Network",
@@ -318,7 +340,8 @@
    "zip": null,
    "phone": "785-273-1900",
    "zone_id": 5,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_KS"
   },
   {
    "name": "Missouri Donated Dental Services (DDS) \u2014 Dental Lifeline Network",
@@ -334,7 +357,8 @@
    "zip": null,
    "phone": "573-636-4440",
    "zone_id": 5,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_MO"
   },
   {
    "name": "Kansas Mission of Mercy (KMOM)",
@@ -350,7 +374,8 @@
    "state": "KS",
    "zip": null,
    "zone_id": 6,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_KS"
   },
   {
    "name": "Donated Dental Services (DDS) \u2014 Dental Lifeline Network of Kansas",
@@ -366,7 +391,8 @@
    "state": "KS",
    "zip": null,
    "zone_id": 6,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_KS"
   }
  ]
 }

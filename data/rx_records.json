@@ -30,7 +30,19 @@
    "free_claim": "Covers 100% of the cost of eligible prescriptions for qualifying applicants (working households up to 200-300% FPL); applicants apply online and receive vouchers.",
    "nonprofit_claim": "Program of AcruxKC, a 501(c)(3) tax-exempt organization incorporated in Missouri (stated on accesskc.org).",
    "zone_id": 1,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Jackson",
+    "Platte",
+    "Cass",
+    "Clay",
+    "Johnson",
+    "Wyandotte",
+    "Leavenworth",
+    "Miami"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "Dispensary of Hope (charitable medication network)",
@@ -46,7 +58,8 @@
    "free_claim": "Distributes manufacturer-donated medications free of charge through not-for-profit dispensing sites (charitable pharmacies, FQHCs, safety-net clinics) for uninsured/low-income patients.",
    "nonprofit_claim": "Charitable medication distributor; network members are all not-for-profit organizations licensed to dispense directly to patients.",
    "zone_id": 1,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "Medicare Extra Help / Part D Low-Income Subsidy (LIS) - via Social Security Administration",
@@ -62,7 +75,8 @@
    "free_claim": "Government program that pays some or all Part D prescription drug costs for qualifying low-income Medicare beneficiaries (Extra Help/LIS).",
    "nonprofit_claim": "Federal government program administered by the Social Security Administration and CMS.",
    "zone_id": 1,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "SHICK - Senior Health Insurance Counseling for Kansas (Kansas SHIP)",
@@ -78,7 +92,8 @@
    "free_claim": "Free counseling that screens and enrolls low-income Medicare beneficiaries into Part D Extra Help and Medicare Savings Programs to reduce/eliminate prescription costs.",
    "nonprofit_claim": "State/federal SHIP program administered by Kansas Dept. for Aging and Disability Services; services are free.",
    "zone_id": 1,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_KS"
   },
   {
    "name": "Missouri SHIP (formerly CLAIM) - Missouri SHIP",
@@ -94,7 +109,8 @@
    "free_claim": "Free counseling to help low-income beneficiaries sign up for programs that pay Part D premiums/prescriptions, including Extra Help and prescription assistance programs.",
    "nonprofit_claim": "Nonprofit agency, certified federal/state SHIP; does not sell anything or charge for services.",
    "zone_id": 1,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_MO"
   },
   {
    "name": "Missouri Rx Plan (MORx)",
@@ -110,7 +126,8 @@
    "free_claim": "State program pays half of out-of-pocket prescription drug costs for eligible low-income Medicare/MO HealthNet beneficiaries; currently active (FAQ revised Oct 2024).",
    "nonprofit_claim": "Missouri state government pharmaceutical assistance program administered by MO Dept. of Social Services / MO HealthNet.",
    "zone_id": 1,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_MO"
   },
   {
    "name": "NeedyMeds",
@@ -126,7 +143,8 @@
    "free_claim": "Free resource that helps people find manufacturer Patient Assistance Programs, free/low-cost clinics, and government programs to obtain medications at no/low cost; no charge to use.",
    "nonprofit_claim": "NeedyMeds, Inc. is a 501(c)(3) nonprofit organization.",
    "zone_id": 1,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "RxAssist",
@@ -142,7 +160,8 @@
    "free_claim": "Free, comprehensive directory of Patient Assistance Programs to help patients obtain free or low-cost medications.",
    "nonprofit_claim": "Nonprofit-operated patient assistance program directory (no charge to use information).",
    "zone_id": 1,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "Medicine Assistance Tool (MAT) - PhRMA",
@@ -158,7 +177,8 @@
    "free_claim": "Free tool that connects patients to manufacturer PAPs providing medicines at no cost or very low cost.",
    "nonprofit_claim": "Operated by PhRMA (Pharmaceutical Research and Manufacturers of America) as a free public resource directing patients to nonprofit/manufacturer assistance programs.",
    "zone_id": 1,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "211 (United Way) Prescription Assistance Referral - Kansas City metro",
@@ -174,7 +194,17 @@
    "free_claim": "Free referral service that connects low-income residents to local prescription assistance programs and charitable medication resources.",
    "nonprofit_claim": "United Way 211 nonprofit information and referral service.",
    "zone_id": 1,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Jackson",
+    "Platte",
+    "Cass",
+    "Clay",
+    "Johnson",
+    "Wyandotte"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "Dellwood Community Pharmacy by Rx Outreach",
@@ -206,7 +236,8 @@
    "phone": "(314) 930-2185",
    "website": "https://rxoutreach.org/",
    "zone_id": 2,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "Rx Outreach Fill the Gap Patient Assistance Program",
@@ -222,7 +253,16 @@
    "phone": "888-796-1234",
    "website": "https://rxoutreach.org/fill-the-gap/",
    "zone_id": 2,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "St. Louis City",
+    "St. Louis",
+    "St. Charles",
+    "Jefferson",
+    "Franklin"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "Dispensary of Hope",
@@ -238,7 +278,8 @@
    "phone": "615-736-5075",
    "website": "https://www.dispensaryofhope.org/access-site-finder",
    "zone_id": 2,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "NeedyMeds",
@@ -254,7 +295,8 @@
    "phone": "1-800-503-6897",
    "website": "https://www.needymeds.org/",
    "zone_id": 2,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "RxAssist",
@@ -270,7 +312,8 @@
    "phone": null,
    "website": "https://www.rxassist.org/",
    "zone_id": 2,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "Medicine Assistance Tool (MAT)",
@@ -286,7 +329,8 @@
    "phone": null,
    "website": "https://medicineassistancetool.org/",
    "zone_id": 2,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "Medicare Extra Help / Low-Income Subsidy (LIS)",
@@ -302,7 +346,8 @@
    "phone": "1-800-772-1213",
    "website": "https://www.ssa.gov/medicare/part-d-extra-help",
    "zone_id": 2,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "MedZou Community Health Clinic",
@@ -382,7 +427,8 @@
    "free_claim": "Nonprofit pharmacy provides 'access to affordable generic medications' to income-qualified patients with free delivery, 'No hidden fees. No Memberships'; charitable Fill the Gap program provides limited free medications to eligible uninsured patients.",
    "nonprofit_claim": "Nonprofit charitable pharmacy (GuideStar/IRS EIN 35-2378788), Missouri-headquartered.",
    "zone_id": 3,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "Missouri Rx Plan (MoRx)",
@@ -398,7 +444,8 @@
    "free_claim": "State pharmacy assistance program that 'pays for 50% of your out-of-pocket costs on medications covered by your Medicare Part D plan' for eligible low-income Missouri residents.",
    "nonprofit_claim": "Government program administered by Missouri Department of Social Services / MO HealthNet.",
    "zone_id": 3,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_MO"
   },
   {
    "name": "Medicare Extra Help / Part D Low-Income Subsidy (LIS) - Social Security Administration",
@@ -414,7 +461,8 @@
    "free_claim": "Federal Low-Income Subsidy helps qualifying low-income Medicare beneficiaries pay Part D drug-coverage premiums, deductibles, and copays (no more than $5.10 generic / $12.65 brand per covered drug in 2026).",
    "nonprofit_claim": "Federal government program administered by the Social Security Administration.",
    "zone_id": 3,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "Missouri SHIP (formerly CLAIM) - State Health Insurance Assistance Program",
@@ -430,7 +478,8 @@
    "free_claim": "Nonprofit, federally/state-certified program providing free Medicare counseling that 'helps Missourians on a limited income determine whether they qualify for a Low-Income Subsidy and/or Medicare Savings Programs to offset the cost of their prescription drugs'; does not sell anything or charge for services.",
    "nonprofit_claim": "Nonprofit agency, official State Health Insurance Assistance Program certified by federal and state government.",
    "zone_id": 3,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_MO"
   },
   {
    "name": "NeedyMeds",
@@ -446,7 +495,8 @@
    "free_claim": "National nonprofit offering free, anonymous information on patient assistance programs and free/low-cost clinics; 'all assistance provided is free of charge.'",
    "nonprofit_claim": "Registered 501(c)(3) national nonprofit (EIN 46-3091990).",
    "zone_id": 3,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "Medicine Assistance Tool (MAT) - PhRMA",
@@ -462,7 +512,8 @@
    "free_claim": "Free, confidential search engine connecting patients with financial need to ~900 patient assistance programs that help them get their prescriptions.",
    "nonprofit_claim": "Operated by PhRMA (Pharmaceutical Research and Manufacturers of America), a nonprofit trade association; tool is free to use and indexes charitable/manufacturer assistance programs.",
    "zone_id": 3,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "RxAssist",
@@ -478,7 +529,8 @@
    "free_claim": "Free directory of manufacturer patient assistance programs that connect low-income, uninsured patients to free/low-cost medications (cited as a 'pharmaceutical assistance tool connecting patients to manufacturer programs' by nonprofit Love Columbia).",
    "nonprofit_claim": "Nonprofit/charitable patient-assistance directory (no fee to patients); indexes manufacturer PAPs rather than for-profit discount cards.",
    "zone_id": 3,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "My Neighbor's Charitable Pharmacy",
@@ -526,7 +578,12 @@
    "phone": "417-831-0150",
    "website": "https://www.jordanvalley.org/services/community-services/",
    "zone_id": 4,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Greene"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "Dispensary of Hope (donated-medication network)",
@@ -542,7 +599,8 @@
    "phone": null,
    "website": "https://www.dispensaryofhope.org/access-site-finder",
    "zone_id": 4,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "NeedyMeds",
@@ -558,7 +616,8 @@
    "phone": "800-503-6897",
    "website": "https://www.needymeds.org/",
    "zone_id": 4,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "Medicine Assistance Tool (MAT)",
@@ -574,7 +633,8 @@
    "phone": null,
    "website": "https://medicineassistancetool.org/",
    "zone_id": 4,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "Medicare Part D Extra Help / Low-Income Subsidy (LIS) - Social Security Administration",
@@ -590,7 +650,8 @@
    "phone": "800-772-1213",
    "website": "https://www.ssa.gov/medicare/part-d-extra-help",
    "zone_id": 4,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "Missouri SHIP / CLAIM (State Health Insurance Assistance Program)",
@@ -606,7 +667,8 @@
    "phone": "800-390-3330",
    "website": "https://www.shiptacenter.org",
    "zone_id": 4,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_MO"
   },
   {
    "name": "Dispensary of Hope charitable pharmacy (Manhattan, KS) \u2014 Ascension Via Christi / MHK Community Health",
@@ -702,7 +764,8 @@
    "free_claim": "Delivers critical medicine free of cost to people who cannot afford it, through nonprofit dispensing sites.",
    "nonprofit_claim": "Charitable medication distributor working only with not-for-profit licensed dispensing sites; medications donated by manufacturers.",
    "zone_id": 5,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "Rx Outreach (nonprofit mail-order pharmacy / PAP)",
@@ -718,7 +781,8 @@
    "free_claim": "Low-cost prescriptions with free delivery for those at/below 400% FPL; nonprofit Patient Assistance Program, no membership or hidden fees.",
    "nonprofit_claim": "Nonprofit (501c3) fully licensed mail-order pharmacy headquartered in Maryland Heights, MO.",
    "zone_id": 5,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "NeedyMeds",
@@ -734,7 +798,8 @@
    "free_claim": "Free directory connecting low-income patients to manufacturer PAPs (free meds), free/low-cost clinics, and government assistance programs.",
    "nonprofit_claim": "501(c)(3) nonprofit organization funded by donations.",
    "zone_id": 5,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "RxAssist",
@@ -750,7 +815,8 @@
    "free_claim": "Free, comprehensive directory of Patient Assistance Programs to help patients get free or low-cost medications directly from manufacturers.",
    "nonprofit_claim": "Charitable PAP information service; free public resource (no program fees).",
    "zone_id": 5,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "Medicine Assistance Tool (MAT) \u2014 PhRMA",
@@ -766,7 +832,8 @@
    "free_claim": "Free search engine connecting patients to manufacturer PAPs that provide medicines at no or low cost.",
    "nonprofit_claim": "Free public tool operated by industry association PhRMA to direct patients to charitable manufacturer assistance programs (no fee to user).",
    "zone_id": 5,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "SHICK \u2014 Senior Health Insurance Counseling for Kansas (Extra Help / LIS)",
@@ -782,7 +849,8 @@
    "free_claim": "Free counseling that screens/enrolls low-income Medicare beneficiaries into Part D Extra Help (LIS) and Medicare Savings Programs (government help paying for drugs).",
    "nonprofit_claim": "Government program operated by the Kansas Department for Aging and Disability Services.",
    "zone_id": 5,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_KS"
   },
   {
    "name": "Missouri SHIP / CLAIM (Extra Help / LIS counseling)",
@@ -798,7 +866,8 @@
    "free_claim": "Free Medicare counseling that helps low-income beneficiaries find savings and enroll in Medicare savings programs / Part D Extra Help (LIS) for drug costs.",
    "nonprofit_claim": "Government-certified State Health Insurance Assistance Program (SHIP).",
    "zone_id": 5,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_MO"
   },
   {
    "name": "Medicare Extra Help / Low-Income Subsidy (LIS) \u2014 Social Security Administration",
@@ -814,7 +883,8 @@
    "free_claim": "Federal subsidy that pays much of Medicare prescription drug plan premiums, deductibles, and copays for low-income beneficiaries.",
    "nonprofit_claim": "Federal government program administered by the Social Security Administration / CMS.",
    "zone_id": 5,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "Cairn Health Charitable Pharmacy",
@@ -926,7 +996,8 @@
    "phone": null,
    "website": "https://www.dispensaryofhope.org/",
    "zone_id": 6,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "Medicare Extra Help / Part D Low-Income Subsidy (LIS) - Social Security Administration",
@@ -942,7 +1013,8 @@
    "phone": "1-800-772-1213",
    "website": "https://www.ssa.gov/medicare/part-d-extra-help",
    "zone_id": 6,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "NeedyMeds",
@@ -958,7 +1030,8 @@
    "phone": "1-800-503-6897",
    "website": "https://www.needymeds.org/",
    "zone_id": 6,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "RxAssist",
@@ -974,7 +1047,8 @@
    "phone": null,
    "website": "https://www.rxassist.org/",
    "zone_id": 6,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   }
  ]
 }

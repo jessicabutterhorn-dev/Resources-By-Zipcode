@@ -62,7 +62,8 @@
    "phone": null,
    "website": "https://new-eyes.org/",
    "zone_id": 1,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "EyeCare America (American Academy of Ophthalmology)",
@@ -78,7 +79,8 @@
    "phone": null,
    "website": "https://www.aao.org/eyecare-america",
    "zone_id": 1,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "Lions Club Local Eyeglass / Eye Exam Sponsorship (KC metro local clubs incl. Overland Park Host Lions, Olathe Lions)",
@@ -94,7 +96,17 @@
    "phone": null,
    "website": "http://oplions.org/",
    "zone_id": 1,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Jackson",
+    "Platte",
+    "Cass",
+    "Clay",
+    "Johnson",
+    "Wyandotte"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "WashU Medicine Free Eye Service (WUFES)",
@@ -110,7 +122,13 @@
    "state": "MO",
    "zip": null,
    "zone_id": 2,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "St. Louis",
+    "St. Louis City"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "New Eyes",
@@ -126,7 +144,8 @@
    "state": null,
    "zip": null,
    "zone_id": 2,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "Lions Clubs of District 26-M2 - Eye Care Assistance",
@@ -142,7 +161,13 @@
    "state": "MO",
    "zip": null,
    "zone_id": 2,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "St. Louis",
+    "St. Louis City"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "New Eyes (New Eyes for the Needy)",
@@ -158,7 +183,8 @@
    "state": null,
    "zip": null,
    "zone_id": 3,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "EyeCare America - Seniors Program & Glaucoma Program",
@@ -174,7 +200,8 @@
    "state": "MO",
    "zip": null,
    "zone_id": 3,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_MO"
   },
   {
    "name": "Mid-South Lions Sight and Hearing Service",
@@ -190,7 +217,8 @@
    "state": null,
    "zip": "38103",
    "zone_id": 3,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_MO"
   },
   {
    "name": "Missouri Lions Clubs - Local Eyeglass Assistance",
@@ -206,7 +234,8 @@
    "state": "MO",
    "zip": null,
    "zone_id": 3,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_MO"
   },
   {
    "name": "Jefferson City Host Lions Club",
@@ -238,7 +267,12 @@
    "state": "MO",
    "zip": null,
    "zone_id": 3,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Boone"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "Springfield Noon Lions Club - Lions4Sight / HELP2020 Vision Assistance",
@@ -254,7 +288,12 @@
    "state": "MO",
    "zip": null,
    "zone_id": 4,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Greene"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "Branson-Hollister Lions Club - Eyeglass Recycling & KidSight Vision Screening",
@@ -286,7 +325,8 @@
    "state": null,
    "zip": null,
    "zone_id": 4,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "EyeCare America - Seniors Program (Foundation of the American Academy of Ophthalmology)",
@@ -302,7 +342,8 @@
    "state": null,
    "zip": null,
    "zone_id": 4,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "Missouri Lions Clubs - Recycled Eyeglasses / Local Club Vision Assistance",
@@ -318,7 +359,8 @@
    "state": "MO",
    "zip": null,
    "zone_id": 4,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_MO"
   },
   {
    "name": "Catholic Charities of Kansas City-St. Joseph - Free Eye Exam & Eyeglasses Clinic (St. Joseph)",
@@ -350,7 +392,12 @@
    "phone": null,
    "website": "https://www.helpmenow.org/lions-club-eyeglasses",
    "zone_id": 5,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Buchanan"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "Lawrence Noon Lions Club - Vision Assistance Program",
@@ -366,7 +413,12 @@
    "phone": null,
    "website": "https://e-clubhouse.org/sites/lawrenceks/projects.php",
    "zone_id": 5,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Douglas"
+   ],
+   "served_state": "KS"
   },
   {
    "name": "Topeka Lions Club / Topeka Lions Foundation - Vision Assistance Program",
@@ -382,7 +434,12 @@
    "phone": null,
    "website": "https://topekalions.org/",
    "zone_id": 5,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Shawnee"
+   ],
+   "served_state": "KS"
   },
   {
    "name": "Kansas Lions Sight Foundation",
@@ -398,7 +455,8 @@
    "phone": "316-773-2100",
    "website": "https://kansaslions.org/",
    "zone_id": 5,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_KS"
   },
   {
    "name": "New Eyes (New Eyes for the Needy)",
@@ -414,7 +472,8 @@
    "phone": null,
    "website": "https://new-eyes.org/application",
    "zone_id": 5,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "Saving Sight (Missouri Lions Eye Research Foundation) - KidSight & ReSpectacle",
@@ -430,7 +489,8 @@
    "phone": null,
    "website": "https://saving-sight.org/",
    "zone_id": 5,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_both"
   },
   {
    "name": "Kansas Lions Sight Foundation (apply via local Lions Club)",
@@ -446,7 +506,8 @@
    "phone": "316-773-2100",
    "website": "https://kansaslions.org",
    "zone_id": 6,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_KS"
   },
   {
    "name": "Newton Lions Club Eyeglasses Assistance",
@@ -462,7 +523,12 @@
    "phone": "316-283-7281",
    "website": "https://www.newtonlionsclub.com/eyeglasses-assistance/",
    "zone_id": 6,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Butler"
+   ],
+   "served_state": "KS"
   },
   {
    "name": "New Eyes",
@@ -478,7 +544,8 @@
    "phone": "1-973-376-4903",
    "website": "https://new-eyes.org/application",
    "zone_id": 6,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   },
   {
    "name": "EyeCare America (Seniors Program)",
@@ -494,7 +561,8 @@
    "phone": null,
    "website": "https://www.aao.org/eyecare-america",
    "zone_id": 6,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "national"
   }
  ]
 }

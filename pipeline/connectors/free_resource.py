@@ -28,6 +28,7 @@ CENSUS_DELAY = 0.5
 TODAY = "2026-06-25"
 
 def sid(*p): return hashlib.sha1("|".join(str(x) for x in p).encode()).hexdigest()[:24]
+def norm(n): return re.sub(r"[^a-z ]", "", (n or "").lower()).replace(" county", "").strip()
 
 def geocode(addr):
     try:
@@ -52,6 +53,34 @@ def load(bucket, records_path, source_id, source_name, service_name, dir_url, dr
     for fips, zid in cur.execute("SELECT fips, zone_id FROM county_zone"):
         zone_counties.setdefault(zid, []).append(fips)
     known = {r[0] for r in cur.execute("SELECT fips FROM county")}
+    co_name, co_by_state = {}, {"MO": set(), "KS": set()}
+    for fips, cname, st in cur.execute("SELECT fips, county_name, state FROM county"):
+        co_name[(st, norm(cname))] = fips
+        co_by_state[st].add(fips)
+    all_co = co_by_state["MO"] | co_by_state["KS"]
+
+    def served_from_scope(rec):
+        """Real service area from the resolved scope (set by fix-service-areas)."""
+        sc = rec.get("service_scope")
+        if sc == "national" or sc == "statewide_both":
+            return set(all_co)
+        if sc == "statewide_MO":
+            return set(co_by_state["MO"])
+        if sc == "statewide_KS":
+            return set(co_by_state["KS"])
+        if sc == "counties":
+            st = rec.get("served_state")
+            out = set()
+            for c in rec.get("served_counties", []):
+                f = co_name.get((st, norm(c))) if st else None
+                if not f:
+                    for s2 in ("MO", "KS"):
+                        if (s2, norm(c)) in co_name:
+                            f = co_name[(s2, norm(c))]; break
+                if f:
+                    out.add(f)
+            return out
+        return None
 
     if not dry_run:
         cur.execute("""INSERT OR REPLACE INTO source
@@ -84,10 +113,15 @@ def load(bucket, records_path, source_id, source_name, service_name, dir_url, dr
                 state = {"29": "MO", "20": "KS"}[office_fips[:2]]
                 served = {office_fips}
         if not served:
-            served = set(zone_counties.get(r.get("zone_id"), []))
+            # program (or un-geocoded site): use ONLY the resolved real service
+            # area. If scope is missing, SKIP — never zone-expand (over-claiming
+            # coverage sends people to providers that don't serve them).
+            served = served_from_scope(r) or set()
             kind = "program" if kind != "site" else kind
         if not served:
-            stats["no_geo"] += 1; continue
+            stats["no_geo"] += 1
+            sys.stderr.write(f"  skip (no resolved service area): {name}\n")
+            continue
 
         org_id = sid(source_id, name, zipc) if office_fips else sid(source_id, name)
         loc_id = sid("loc", org_id); svc_id = sid("svc", org_id)

@@ -14,7 +14,12 @@
    "phone": "816-353-0940 ext. 8",
    "website": "https://prckc.org/pet-resources/pet-food-pantry/",
    "zone_id": 1,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Jackson"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "Humane Society of Greater Kansas City - Community Pet Food Pantry",
@@ -78,7 +83,12 @@
    "phone": "816-683-1383",
    "website": "https://kcpetproject.org/programs/keep-em-together-kc/pet-resource-assistance/",
    "zone_id": 1,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Jackson"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "KC Shepherd's Center - Meals on Wheels Pet Food Program",
@@ -94,7 +104,17 @@
    "phone": "816-444-1121",
    "website": "https://kcshepherdscenter.org/programs-and-services/meals-on-wheels.html",
    "zone_id": 1,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Jackson",
+    "Platte",
+    "Cass",
+    "Clay",
+    "Johnson",
+    "Wyandotte"
+   ],
+   "served_state": null
   },
   {
    "name": "Bi-State Pet Food Pantry",
@@ -110,7 +130,13 @@
    "free_claim": "Free emergency pet food assistance to families experiencing financial hardship (per organization site).",
    "nonprofit_claim": "Volunteer-run nonprofit pet food pantry serving the St. Louis community; listed as a nonprofit on GreatNonprofits and the Missouri Coalition of Animal Care Organizations resource page.",
    "zone_id": 2,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "St. Louis City",
+    "St. Louis"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "Open Door Animal Sanctuary - Pet Food Pantry",
@@ -142,7 +168,12 @@
    "free_claim": "Provides free pet food once a month to low-income families, seniors, disabled, and homeless pet owners (per org site).",
    "nonprofit_claim": "501(c)(3), 100% volunteer-based organization relying solely on donations (dba Animal Buddies of Missouri).",
    "zone_id": 2,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Jefferson"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "Five Acres Animal Shelter - AniMeals Pet Food Pantry",
@@ -190,7 +221,8 @@
    "website": "https://sharefoodbringhope.org/",
    "source_url": "https://sharefoodbringhope.org/event/pet-food-march-2026/",
    "zone_id": 3,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_MO"
   },
   {
    "name": "HUGS Pet Food Pantry",
@@ -206,7 +238,12 @@
    "website": null,
    "source_url": "https://www.missourianimals.org/petfoodassistance",
    "zone_id": 3,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Randolph"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "Northeast Missouri Humane Society - Pet Food Assistance",
@@ -222,7 +259,16 @@
    "website": "https://www.nemohumane.com/",
    "source_url": "https://www.guidestar.org/profile/43-6063703",
    "zone_id": 3,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Marion",
+    "Ralls",
+    "Monroe",
+    "Shelby",
+    "Lewis"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "Rescue One Pet Food Assistance Program",
@@ -254,7 +300,12 @@
    "free_claim": "News coverage and findhelp listing describe it as a free pet food pantry providing food at no cost to those struggling to make ends meet; 828 lbs given to 308 owners in first year.",
    "nonprofit_claim": "Charitable community pet food pantry founded by Ann Leach (Ozark Center mental health professional); listed by Missouri Coalition of Animal Care Organizations as a pet food assistance resource.",
    "zone_id": 4,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Jasper"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "Humane Society of Southwest Missouri - Pet Food Assistance",
@@ -270,7 +321,12 @@
    "free_claim": "HSSW partners with local food banks/pantries to provide pet food free to pantry clients (supply not guaranteed); listed on Missouri Coalition pet food assistance directory.",
    "nonprofit_claim": "Humane Society of Southwest Missouri is a registered nonprofit animal welfare organization / humane society in Springfield.",
    "zone_id": 4,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Greene"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "Paws Pet Pantry (Pets of the Homeless)",
@@ -286,7 +342,12 @@
    "free_claim": "Listed on Pets of the Homeless (national nonprofit) get-help locations directory as a pet food assistance site for people experiencing homelessness/hardship.",
    "nonprofit_claim": "Affiliated with Pets of the Homeless, a national 501(c)(3) nonprofit providing free pet food and care to the homeless and less fortunate.",
    "zone_id": 4,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Greene"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "The Crossing Nutrition Center",
@@ -350,7 +411,12 @@
    "website": "https://www.rchsks.org/",
    "source_url": "https://www.rchsks.org/",
    "zone_id": 5,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Riley"
+   ],
+   "served_state": "KS"
   },
   {
    "name": "Wichita Animal Action League (WAAL) Emergency Pet Food Bank",
@@ -382,7 +448,12 @@
    "phone": "(316) 895-9225",
    "website": "https://waalrescue.org/community-pet-food-banks/",
    "zone_id": 6,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Sedgwick"
+   ],
+   "served_state": "KS"
   },
   {
    "name": "Saline County Senior Services Meals on Wheels - Pet Food & Healthcare Program",
@@ -398,7 +469,12 @@
    "phone": "(785) 823-7555",
    "website": "https://www.salinecountyks.gov/mealsonwheels",
    "zone_id": 6,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Saline"
+   ],
+   "served_state": "KS"
   }
  ]
 }

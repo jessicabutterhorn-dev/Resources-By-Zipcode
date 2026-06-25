@@ -158,7 +158,12 @@
    "phone": "816-756-5392",
    "website": "https://www.salvationarmyusa.org/mo/independence/e-truman-rd-corps/",
    "zone_id": 1,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Jackson"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "Community Assistance Council (CAC)",
@@ -190,7 +195,12 @@
    "phone": null,
    "website": "https://www.communitylinc.org/",
    "zone_id": 1,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Jackson"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "United Way of Greater Kansas City 211",
@@ -206,7 +216,17 @@
    "phone": "816-474-5112",
    "website": "https://www.211kc.org/",
    "zone_id": 1,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Jackson",
+    "Platte",
+    "Clay",
+    "Cass",
+    "Johnson",
+    "Wyandotte"
+   ],
+   "served_state": null
   },
   {
    "name": "Missouri Housing Development Commission (MHDC) - Emergency Solutions Grant (ESG) / Housing Emergency Solutions Program",
@@ -222,7 +242,8 @@
    "phone": "816-759-6600",
    "website": "https://mhdc.com/programs/housing-services/renters/",
    "zone_id": 1,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_MO"
   },
   {
    "name": "Johnson County Rental Arrears Assistance Program",
@@ -238,7 +259,12 @@
    "phone": null,
    "website": "https://www.jocogov.org/department/aging-and-human-services/human-services/rental-arrears-assistance-program",
    "zone_id": 1,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Johnson"
+   ],
+   "served_state": "KS"
   },
   {
    "name": "Society of St. Vincent de Paul - St. Louis",
@@ -254,7 +280,24 @@
    "zip": null,
    "website": "https://svdpstlouis.org/",
    "zone_id": 2,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "St. Louis",
+    "St. Louis City",
+    "Jefferson",
+    "Franklin",
+    "St. Charles",
+    "Madison",
+    "Lincoln",
+    "Warren",
+    "Washington",
+    "Crawford",
+    "Osage",
+    "Cole",
+    "Callaway"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "The Salvation Army Greater St. Louis Metropolitan Area",
@@ -270,7 +313,13 @@
    "zip": null,
    "website": "https://centralusa.salvationarmy.org/midland/salvation-army-st-louis-rental-and-utility-assistance/",
    "zone_id": 2,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "St. Louis",
+    "St. Louis City"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "Catholic Charities of St. Louis",
@@ -286,7 +335,13 @@
    "zip": null,
    "website": "https://ccstl.org/services/housing",
    "zone_id": 2,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "St. Louis",
+    "St. Louis City"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "Urban League of Metropolitan St. Louis",
@@ -302,7 +357,13 @@
    "zip": null,
    "website": "https://www.ulstl.com/housing-empowerment.html",
    "zone_id": 2,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "St. Louis",
+    "St. Louis City"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "Community Action Agency of St. Louis County (CAASTLC)",
@@ -350,7 +411,12 @@
    "zip": null,
    "website": "https://www.sccmo.org/316/Homeless-Prevention-Program",
    "zone_id": 2,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "St. Charles"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "Jefferson Franklin Community Action Corporation (JFCAC) - Franklin County Family Resource Center",
@@ -382,7 +448,8 @@
    "zip": null,
    "website": "https://mhdc.com/services/housing-services/renters/",
    "zone_id": 2,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_MO"
   },
   {
    "name": "United Way 2-1-1 Missouri",
@@ -398,7 +465,8 @@
    "zip": null,
    "website": null,
    "zone_id": 2,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_MO"
   },
   {
    "name": "Voluntary Action Center (VAC)",
@@ -430,7 +498,12 @@
    "free_claim": "Assists residents mostly with rent and utility bills as charitable aid (grant, not a loan).",
    "nonprofit_claim": "Charity organization of the Catholic Church (faith-based nonprofit).",
    "zone_id": 3,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Boone"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "Love Columbia",
@@ -462,7 +535,13 @@
    "free_claim": "Provides financial assistance with rent (and motel assistance) based on availability and grant guidelines; grant aid, not a loan.",
    "nonprofit_claim": "Central Missouri Community Action is a nonprofit Community Action Agency.",
    "zone_id": 3,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Boone",
+    "Cole"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "The Salvation Army Jefferson City (Center for Hope)",
@@ -478,7 +557,12 @@
    "free_claim": "Provides emergency assistance to help with mortgage/rent and utility bills to keep families in their homes (charitable aid, not a loan); applications accepted after the 1st of each month.",
    "nonprofit_claim": "The Salvation Army is a faith-based charitable nonprofit.",
    "zone_id": 3,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Cole"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "Douglass Community Services, Inc.",
@@ -526,7 +610,8 @@
    "free_claim": "Free statewide referral line connecting residents to nonprofit/government rent and emergency assistance; the helpline and referrals are free.",
    "nonprofit_claim": "Operated by United Way (nonprofit).",
    "zone_id": 3,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_MO"
   },
   {
    "name": "The Salvation Army - Springfield (Emergency Social Services, Greene & Christian Counties)",
@@ -670,7 +755,24 @@
    "phone": null,
    "website": "https://helpgivehope.org/",
    "zone_id": 4,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Greene",
+    "Christian",
+    "Dallas",
+    "Taney",
+    "Stone",
+    "Polk",
+    "Webster",
+    "Barry",
+    "Lawrence",
+    "Douglas",
+    "Ozark",
+    "Laclede",
+    "Wright"
+   ],
+   "served_state": "MO"
   },
   {
    "name": "Missouri 2-1-1 (United Way) - Housing/Rent Referral",
@@ -686,7 +788,8 @@
    "phone": "1-800-427-4626",
    "website": "https://mo211.org/",
    "zone_id": 4,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_MO"
   },
   {
    "name": "Missouri Housing Development Commission (MHDC) - Housing Emergency Solutions / Eviction Diversion",
@@ -702,7 +805,8 @@
    "phone": null,
    "website": "https://mhdc.com/services/housing-services/renters/",
    "zone_id": 4,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_MO"
   },
   {
    "name": "Catholic Charities of Kansas City-St. Joseph - Emergency Assistance",
@@ -798,7 +902,12 @@
    "free_claim": "Salvation Army emergency rent/utility assistance is charitable aid, not a loan.",
    "nonprofit_claim": "The Salvation Army is a faith-based nonprofit charity.",
    "zone_id": 5,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Shawnee"
+   ],
+   "served_state": "KS"
   },
   {
    "name": "Doorstep, Inc. (rent assistance via City of Topeka EAS Program)",
@@ -878,7 +987,12 @@
    "free_claim": "Provides rent/utility financial support as charitable aid, not a loan.",
    "nonprofit_claim": "Shepherd's Crossing is a faith-based/charitable nonprofit serving Riley County.",
    "zone_id": 5,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Riley"
+   ],
+   "served_state": "KS"
   },
   {
    "name": "Catholic Charities of Northern Kansas - Salina Support Center",
@@ -926,7 +1040,8 @@
    "free_claim": "Government/HUD-funded rental subsidies and homelessness-prevention grants, not loans.",
    "nonprofit_claim": "KHRC is the state housing finance agency (quasi-governmental); funds delivered via nonprofit/government partners.",
    "zone_id": 5,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_KS"
   },
   {
    "name": "Missouri Housing Development Commission - Housing Emergency Solutions Program (ESG)",
@@ -942,7 +1057,8 @@
    "free_claim": "Government/HUD-funded homelessness-prevention and rapid re-housing grants, not loans.",
    "nonprofit_claim": "MHDC is the Missouri state housing agency (government); funds delivered via local nonprofit/government agencies.",
    "zone_id": 5,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_MO"
   },
   {
    "name": "Kansas 211 (United Way) - Rent Assistance referral line",
@@ -958,7 +1074,8 @@
    "free_claim": "Free referral service connecting people to grant-based rent assistance; no cost, not a loan.",
    "nonprofit_claim": "Operated by United Way, a nonprofit charity.",
    "zone_id": 5,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_KS"
   },
   {
    "name": "Catholic Charities of Northern Kansas - Hays Office",
@@ -974,7 +1091,12 @@
    "phone": "785-625-2644",
    "website": "https://ccnks.org/financial",
    "zone_id": 6,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "counties",
+   "served_counties": [
+    "Ellis"
+   ],
+   "served_state": "KS"
   },
   {
    "name": "First Call For Help of Ellis County, Inc.",
@@ -1086,7 +1208,8 @@
    "phone": "785-217-2045",
    "website": "https://kshousingcorp.org/housing-partners/community-solutions/",
    "zone_id": 6,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_KS"
   },
   {
    "name": "Kansas Housing Resources Corporation - Emergency Solutions Grant (ESG)",
@@ -1102,7 +1225,8 @@
    "phone": "785-217-2019",
    "website": "https://kshousingcorp.org/housing-partners/community-solutions/",
    "zone_id": 6,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_KS"
   },
   {
    "name": "The Salvation Army - Kansas Utility & Rent Assistance",
@@ -1118,7 +1242,8 @@
    "phone": "1-816-756-5392",
    "website": "https://www.salvationarmyusa.org/usa-central-territory/kansas-and-western-missouri/utility-rent-assistance/",
    "zone_id": 6,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_KS"
   },
   {
    "name": "United Way 211 Kansas (Referral & Rent-Assistance Connection)",
@@ -1134,7 +1259,8 @@
    "phone": "211",
    "website": "https://211kansas.org/",
    "zone_id": 6,
-   "confidence": "medium"
+   "confidence": "medium",
+   "service_scope": "statewide_KS"
   }
  ]
 }
