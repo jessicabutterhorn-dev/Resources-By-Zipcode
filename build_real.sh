@@ -19,6 +19,7 @@ python3 pipeline/connectors/free_resource.py --bucket vision --records data/visi
 python3 pipeline/connectors/free_resource.py --bucket prescription --records data/rx_records.json --source-id rx-assist --source-name "Free/charitable prescription assistance (KS+MO)" --service-name "Prescription assistance" --dir-url https://www.needymeds.org/
 python3 pipeline/connectors/free_resource.py --bucket rent --records data/rent_records.json --source-id rent-assist --source-name "Nonprofit & govt rent assistance (KS+MO)" --service-name "Emergency rent assistance" --dir-url https://www.211.org/
 python3 pipeline/connectors/free_resource.py --bucket pet_food --records data/petfood_records.json --source-id petfood-assist --source-name "Free pet-food assistance (KS+MO)" --service-name "Pet food assistance" --dir-url https://www.feedingamerica.org/
+python3 pipeline/fill_phones.py
 python3 pipeline/load_zip_centroids.py
 python3 pipeline/build_frontend.py
 python3 pipeline/gen_credits.py

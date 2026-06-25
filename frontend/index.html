@@ -135,7 +135,9 @@
     if (r.serves_area){
       lines += '<div class="row"><b>Coverage</b> Serves your county — call for services near you</div>';
     }
-    if (r.phone)       lines += '<div class="row"><b>Phone</b> '+esc(r.phone)+'</div>';
+    // every resource must show a callable number; fall back to the free 211 line
+    if (r.phone)  lines += '<div class="row"><b>Phone</b> '+esc(r.phone)+'</div>';
+    else          lines += '<div class="row"><b>Phone</b> Dial 211 (free referral line) and ask for this program</div>';
     var addr = [r.address_1, r.city, (r.state_province||'')+' '+(r.postal_code||'')].filter(Boolean).join(', ');
     if (addr.trim() && !r.serves_area) lines += '<div class="row"><b>Address</b> '+esc(addr)+'</div>';
     if (r.website){
