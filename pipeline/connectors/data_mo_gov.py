@@ -217,8 +217,7 @@ def load(rows, dry_run=False):
 
         # zip -> county crosswalk learned from this record
         if rec["zip"] and (rec["zip"], geo["fips"]) not in seen_zip:
-            cur.execute("""INSERT OR IGNORE INTO zip_county (zip, fips, is_primary, crosswalk_vintage, source_id)
-                           VALUES (?,?,1,?,?)""", (rec["zip"], geo["fips"], "census-derived", SOURCE_ID))
+            pass  # zip_county via load_zip_county.py (Census crosswalk)
             seen_zip.add((rec["zip"], geo["fips"]))
 
         # organization

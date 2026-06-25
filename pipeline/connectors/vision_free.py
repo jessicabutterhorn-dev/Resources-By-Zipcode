@@ -111,8 +111,7 @@ def load(dry_run=False):
                        VALUES (?,?,?,?,?,?,?, (SELECT zone_id FROM county_zone WHERE fips=?))""",
                     (sid("addr", loc_id), loc_id, addr1, city, state, zipc, office_fips, office_fips))
         if zipc and office_fips:
-            cur.execute("INSERT OR IGNORE INTO zip_county (zip,fips,is_primary,crosswalk_vintage,source_id) VALUES (?,?,1,?,?)",
-                        (zipc, office_fips, "census-derived", SOURCE_ID))
+            pass  # zip_county via load_zip_county.py (Census crosswalk)
         cur.execute("""INSERT OR REPLACE INTO service (id,organization_id,name,description,resource_bucket,status,source_id,source_url,date_checked,confidence)
                        VALUES (?,?,?,?,?,?,?,?,?,?)""",
                     (svc_id, org_id, "Free vision care / eyeglasses", what, "vision", "active", SOURCE_ID, src, TODAY, conf))

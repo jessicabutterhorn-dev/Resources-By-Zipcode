@@ -117,7 +117,21 @@ def build():
             r["bucket_label"] = BUCKET_LABELS.get(r["resource_bucket"], r["resource_bucket"])
             del r["svc_id"]
 
-        # The directory tracks ONLY available community resources.
+        # Dedup within a ZIP by (bucket, normalized org name): the same program
+        # listed under two URLs (e.g. Mission of Mercy) gets one card. Prefer the
+        # entry that has a phone, then a nearer distance.
+        import re as _re
+        def _nk(r):
+            return (r["resource_bucket"], _re.sub(r"[^a-z0-9]", "", (r["org_name"] or "").lower()))
+        res.sort(key=lambda r: (0 if r.get("phone") else 1,
+                                r["distance_mi"] if r["distance_mi"] is not None else 9e9))
+        seen, deduped = set(), []
+        for r in res:
+            k = _nk(r)
+            if k in seen:
+                continue
+            seen.add(k); deduped.append(r)
+        res = deduped
 
         data[zip_code] = {
             "county": geo.get("county_name"), "state": geo.get("state"),

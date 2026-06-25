@@ -112,8 +112,7 @@ def load(dry_run=False):
             (sid("addr", loc_id), loc_id, r.get("address"), r.get("city"), state, r.get("zip"),
              office_fips, office_fips))
         if r.get("zip") and office_fips and re.fullmatch(r"\d{5}", r["zip"]):
-            cur.execute("INSERT OR IGNORE INTO zip_county (zip,fips,is_primary,crosswalk_vintage,source_id) VALUES (?,?,1,?,?)",
-                        (r["zip"], office_fips, "census-derived", SOURCE_ID))
+            pass  # zip_county via load_zip_county.py (Census crosswalk)
         if r.get("phone"):
             cur.execute("INSERT OR REPLACE INTO phone (id,organization_id,number,type) VALUES (?,?,?,?)",
                         (sid("ph", org_id), org_id, r["phone"], "voice"))

@@ -48,10 +48,17 @@ def main():
             land = 0.0
         by_zip.setdefault(zipc, []).append((cfips, land))
 
+    # Only assign a ZIP to a county where it has SUBSTANTIAL overlap. ZCTAs spill
+    # tiny slivers into neighboring counties; without this a rural ZIP (e.g. 63013,
+    # ~50mi from St. Louis) inherits a distant county's whole resource list.
+    MIN_SHARE = 0.15
     added = 0
     for zipc, pairs in by_zip.items():
+        total = sum(land for _f, land in pairs) or 1.0
         primary = max(pairs, key=lambda p: p[1])[0]
-        for cfips, _land in pairs:
+        for cfips, land in pairs:
+            if cfips != primary and (land / total) < MIN_SHARE:
+                continue   # sliver -> skip
             cur.execute("""INSERT OR IGNORE INTO zip_county
                 (zip,fips,is_primary,crosswalk_vintage,source_id) VALUES (?,?,?,?,?)""",
                 (zipc, cfips, 1 if cfips == primary else 0, "2020-census", SOURCE_ID))
