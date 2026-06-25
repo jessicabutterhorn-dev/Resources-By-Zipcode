@@ -50,12 +50,40 @@ def _get(url, raw=False):
 def sid(*p):
     return hashlib.sha1("|".join(str(x) for x in p).encode()).hexdigest()[:24]
 
+_DAYS = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+_ABBR = {"Monday": "Mon", "Tuesday": "Tue", "Wednesday": "Wed", "Thursday": "Thu",
+         "Friday": "Fri", "Saturday": "Sat", "Sunday": "Sun"}
+
 def clean_hours(h):
+    """Turn the per-day hours table into a compact line, grouping consecutive
+    days with the same hours: 'Mon-Fri 8:00 AM - 4:00 PM, Sat-Sun closed'."""
     if not h:
         return None
     t = html.unescape(re.sub(r"<[^>]+>", " ", h))
     t = re.sub(r"\s+", " ", t).strip()
-    return t or None
+    if not t:
+        return None
+    pairs = re.findall(r"(" + "|".join(_DAYS) + r")\s+(.*?)(?=(?:" + "|".join(_DAYS) + r")|$)", t)
+    if not pairs:
+        return t   # not the expected per-day format; return cleaned text as-is
+    dayhours = {}
+    for day, val in pairs:
+        v = val.strip(" -").strip()
+        dayhours[day] = "closed" if (not v or v.lower().startswith("closed")) else v
+    groups = []   # [start_day, end_day, hours]
+    for d in _DAYS:
+        if d not in dayhours:
+            continue
+        v = dayhours[d]
+        if groups and groups[-1][2] == v:
+            groups[-1][1] = d
+        else:
+            groups.append([d, d, v])
+    parts = []
+    for start, end, v in groups:
+        label = _ABBR[start] if start == end else f"{_ABBR[start]}-{_ABBR[end]}"
+        parts.append(f"{label} closed" if v == "closed" else f"{label} {v}")
+    return ", ".join(parts) or None
 
 def geocode_county(lat, lon):
     try:

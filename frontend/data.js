@@ -376,7 +376,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63010",
      "distance_mi": 0.8,
      "phone": "636-287-3663",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 11:00 AM - 3:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 11:00 AM - 3:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -397,7 +397,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63020",
      "distance_mi": 22.3,
      "phone": "636-586-7300",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -418,7 +418,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63049",
      "distance_mi": 8.1,
      "phone": "636-677-9885",
-     "hours": "Monday Closed Tuesday 8:00 AM - 2:00 PM Wednesday 8:00 AM - 2:00 PM Thursday 8:00 AM - 2:00 PM Friday 8:00 AM - 2:00 PM Saturday 9:30 AM - 12:30 PM Sunday Closed",
+     "hours": "Mon closed, Tue-Fri 8:00 AM - 2:00 PM, Sat 9:30 AM - 12:30 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -439,7 +439,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63028",
      "distance_mi": 14.5,
      "phone": "636-937-6205",
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -460,7 +460,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63049",
      "distance_mi": 8.1,
      "phone": "877-238-3228",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 3:00 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 3:00 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -481,7 +481,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63050",
      "distance_mi": 17.3,
      "phone": "636-789-5920",
-     "hours": "Monday Closed Tuesday 7:00 AM - 12:00 PM Wednesday 7:00 AM - 12:00 PM Thursday 7:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Thu 7:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -502,7 +502,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63070",
      "distance_mi": 10.3,
      "phone": "636-475-3030",
-     "hours": "Monday 9:30 AM - 2:30 PM Tuesday 9:30 AM - 2:30 PM Wednesday 9:30 AM - 2:30 PM Thursday 9:30 AM - 2:30 PM Friday 9:30 AM - 2:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:30 AM - 2:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -523,7 +523,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63028",
      "distance_mi": 15.2,
      "phone": "636-937-4999",
-     "hours": "Monday 12:00 PM - 1:00 PM Tuesday 12:00 PM - 1:00 PM Wednesday 12:00 PM - 1:00 PM Thursday Closed Friday 12:00 PM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 12:00 PM - 1:00 PM, Thu closed, Fri 12:00 PM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -544,7 +544,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63028",
      "distance_mi": 14.5,
      "phone": "636-933-9974",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 12:00 PM Saturday 8:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 12:00 PM, Sat 8:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -586,7 +586,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 15.1,
      "phone": "636-285-0934",
-     "hours": "Monday Closed Tuesday Closed Wednesday 6:30 PM - 5:00 PM Thursday 8:30 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 6:30 PM - 5:00 PM, Thu 8:30 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -607,7 +607,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63052",
      "distance_mi": 4.3,
      "phone": "636-464-7580",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 8:00 AM - 10:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 8:00 AM - 10:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -783,7 +783,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63123",
      "distance_mi": 14.2,
      "phone": "314-580-3138",
-     "hours": "Monday 12:30 PM - 2:30 PM Tuesday 4:00 PM - 6:30 PM Wednesday Closed Thursday 6:00 PM - 8:00 PM Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon 12:30 PM - 2:30 PM, Tue 4:00 PM - 6:30 PM, Wed closed, Thu 6:00 PM - 8:00 PM, Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -804,7 +804,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 14.4,
      "phone": "314-862-0038",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 12:00 PM Thursday 11:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 11:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -846,7 +846,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 13.2,
      "phone": "314-716-2711",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -867,7 +867,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 17.2,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday 9:30 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -888,7 +888,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 16.7,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 9:30 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 9:30 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -909,7 +909,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 12.7,
      "phone": "314-863-0015",
-     "hours": "Monday Closed Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday Closed Friday 8:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:00 AM - 3:00 PM, Thu closed, Fri 8:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -951,7 +951,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 18.3,
      "phone": "314-388-1211",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -972,7 +972,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63088",
      "distance_mi": 5.2,
      "phone": "636-861-2623",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 7:00 PM Thursday 1:00 PM - 5:00 PM Friday 9:00 AM - 3:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue 9:00 AM - 3:00 PM, Wed 9:00 AM - 7:00 PM, Thu 1:00 PM - 5:00 PM, Fri 9:00 AM - 3:00 PM, Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -993,7 +993,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 12.3,
      "phone": "314-680-9101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1014,7 +1014,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 15.7,
      "phone": "314-521-1122",
-     "hours": "Monday Closed Tuesday 11:00 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1056,7 +1056,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63044",
      "distance_mi": 12.5,
      "phone": "314-770-2216",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 10:00 AM - 2:00 PM, Wed 10:00 AM - 12:00 PM, Thu 10:00 AM - 2:00 PM, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1077,7 +1077,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 22.4,
      "phone": "314-438-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1098,7 +1098,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 15.5,
      "phone": null,
-     "hours": "Monday 12:00 PM - 5:00 PM Tuesday 12:00 PM - 5:00 PM Wednesday 12:00 PM - 5:00 PM Thursday 12:00 PM - 5:00 PM Friday 1:00 PM - 5:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 12:00 PM - 5:00 PM, Fri 1:00 PM - 5:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1119,7 +1119,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63045",
      "distance_mi": 11.7,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 4:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1140,7 +1140,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63127",
      "distance_mi": 9.6,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 4:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 4:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1161,7 +1161,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63125",
      "distance_mi": 16.1,
      "phone": "314-631-4900",
-     "hours": "Monday 10:00 AM - 3:00 PM Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 10:00 AM - 3:00 PM Friday 10:00 AM - 3:00 PM Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 3:00 PM, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1182,7 +1182,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 20.4,
      "phone": "314-867-2782",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:30 AM - 12:30 PM Thursday Closed Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:30 AM - 12:30 PM, Thu-Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1203,7 +1203,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 11.0,
      "phone": "314-291-1915",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1224,7 +1224,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63142",
      "distance_mi": 10.4,
      "phone": "314-513-1672",
-     "hours": "Monday 9:00 AM - 3:30 PM Tuesday 9:00 AM - 3:30 PM Wednesday 9:00 AM - 3:30 PM Thursday 9:00 AM - 3:30 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 9:00 AM - 3:30 PM, Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1245,7 +1245,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 22.3,
      "phone": null,
-     "hours": "Monday 11:15 AM - 11:30 AM Tuesday 11:15 AM - 11:30 AM Wednesday 11:15 AM - 11:30 AM Thursday 11:15 AM - 11:30 AM Friday 11:15 AM - 11:30 AM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 11:15 AM - 11:30 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1266,7 +1266,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 23.0,
      "phone": "314-741-5667",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1287,7 +1287,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63033",
      "distance_mi": 21.7,
      "phone": "314-741-4222",
-     "hours": "Monday Closed Tuesday 9:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1329,7 +1329,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 10.7,
      "phone": "314-329-4262",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday 11:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Fri closed, Sat 11:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1371,7 +1371,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 13.0,
      "phone": "314-719-2929",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1413,7 +1413,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 17.8,
      "phone": "314-922-8903",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1434,7 +1434,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63122",
      "distance_mi": 9.0,
      "phone": "314-822-4760",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1455,7 +1455,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 11.2,
      "phone": "314-961-6854",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 5:30 PM Thursday Closed Friday Closed Saturday Closed Sunday 11:30 AM - 1:00 PM",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 5:30 PM, Thu-Sat closed, Sun 11:30 AM - 1:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1497,7 +1497,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 13.5,
      "phone": "314-426-0101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1518,7 +1518,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 18.3,
      "phone": "314-868-0707",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday 10:00 AM - 12:00 PM",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 12:00 PM, Thu-Sat closed, Sun 10:00 AM - 12:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1539,7 +1539,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 16.2,
      "phone": "314-522-9264",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1560,7 +1560,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 16.4,
      "phone": "314-261-5266",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1581,7 +1581,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 21.2,
      "phone": null,
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1602,7 +1602,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 12.2,
      "phone": "314-427-7204",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:30 AM Wednesday 9:00 AM - 11:30 AM Thursday Closed Friday 9:00 AM - 11:30 AM Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 9:00 AM - 11:30 AM, Thu closed, Fri-Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1791,7 +1791,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 10.5,
      "phone": "314-423-7770",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 1:00 PM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 8:30 AM - 4:30 PM, Wed 1:00 PM - 4:30 PM, Thu-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1812,7 +1812,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63133",
      "distance_mi": 15.5,
      "phone": "314-382-7158",
-     "hours": "Monday Closed Tuesday 8:30 AM - 11:30 AM Wednesday 8:30 AM - 11:30 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:30 AM - 11:30 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1833,7 +1833,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 15.4,
      "phone": "314-382-8833",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1854,7 +1854,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 13.0,
      "phone": "314-429-0216",
-     "hours": "Monday Closed Tuesday 10:30 AM - 1:00 PM Wednesday Closed Thursday 10:30 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:30 AM - 1:00 PM, Wed closed, Thu 10:30 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1875,7 +1875,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 15.9,
      "phone": "314-261-0202",
-     "hours": "Monday 8:00 AM - 3:00 PM Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday 8:00 AM - 3:00 PM Friday 8:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 8:00 AM - 3:00 PM, Fri 8:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1896,7 +1896,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 12.4,
      "phone": "314-647-5611",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1917,7 +1917,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63031",
      "distance_mi": 17.9,
      "phone": "314-831-0879",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1959,7 +1959,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 13.8,
      "phone": "314-725-3840",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -1980,7 +1980,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 11.9,
      "phone": "314-427-2273",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -2001,7 +2001,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 13.6,
      "phone": "314-721-2722",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -2022,7 +2022,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 18.8,
      "phone": "314-388-9840",
-     "hours": "Monday 9:00 AM - 4:00 PM Tuesday 9:00 AM - 4:00 PM Wednesday 9:00 AM - 4:00 PM Thursday 9:00 AM - 4:00 PM Friday 9:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -2064,7 +2064,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 21.2,
      "phone": "314-660-3621",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -2450,7 +2450,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 48.8,
      "phone": "314-353-1005",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 11:00 AM, Wed-Thu closed, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -2471,7 +2471,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 50.8,
      "phone": "314-361-6446",
-     "hours": "Monday Closed Tuesday 12:00 PM - 1:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 1:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -2513,7 +2513,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 50.4,
      "phone": "314-261-3766",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 10:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 10:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -2534,7 +2534,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 50.9,
      "phone": "314-772-8444",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday 10:00 AM - 4:00 PM Friday Closed Saturday 1:00 PM - 2:30 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 10:00 AM - 4:00 PM, Fri closed, Sat 1:00 PM - 2:30 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -2555,7 +2555,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 51.3,
      "phone": "314-367-2974",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 8:00 AM - 10:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 8:00 AM - 10:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -2576,7 +2576,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 52.0,
      "phone": "314-977-3881",
-     "hours": "Monday 3:30 PM - 5:30 PM Tuesday 3:30 PM - 5:30 PM Wednesday 3:30 PM - 5:30 PM Thursday 3:30 PM - 5:30 PM Friday Closed Saturday Closed Sunday 3:30 PM - 5:30 PM",
+     "hours": "Mon-Thu 3:30 PM - 5:30 PM, Fri-Sat closed, Sun 3:30 PM - 5:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -2597,7 +2597,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 51.2,
      "phone": "314-367-1818",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -2618,7 +2618,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 50.9,
      "phone": "314-776-7172",
-     "hours": "Monday 12:30 PM - 1:00 PM Tuesday Closed Wednesday Closed Thursday 12:30 PM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 12:30 PM - 1:00 PM, Tue-Wed closed, Thu 12:30 PM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -2639,7 +2639,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 53.9,
      "phone": "314-382-8759",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -2660,7 +2660,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 52.5,
      "phone": "314-768-3201",
-     "hours": "Monday 9:00 AM - 12:00 PM Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon 9:00 AM - 12:00 PM, Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -2681,7 +2681,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 51.3,
      "phone": "314-367-9130",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -2702,7 +2702,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 53.3,
      "phone": "314-482-2594",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday Closed Thursday 9:00 AM - 11:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue-Wed closed, Thu 9:00 AM - 11:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -2723,7 +2723,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 49.2,
      "phone": "314-696-2939",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -2765,7 +2765,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 53.4,
      "phone": "314-744-9693",
-     "hours": "Monday Closed Tuesday 12:00 PM - 2:30 PM Wednesday Closed Thursday 12:00 PM - 2:30 PM Friday Closed Saturday 12:00 PM - 3:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 2:30 PM, Wed closed, Thu 12:00 PM - 2:30 PM, Fri closed, Sat 12:00 PM - 3:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -2786,7 +2786,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 49.1,
      "phone": "314-584-6960",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday Closed Wednesday 10:00 AM - 2:00 PM Thursday Closed Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 2:00 PM, Tue closed, Wed 10:00 AM - 2:00 PM, Thu closed, Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -2807,7 +2807,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 49.1,
      "phone": "314-863-1992",
-     "hours": "Monday Closed Tuesday 10:00 AM - 11:30 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 11:30 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -2828,7 +2828,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 51.6,
      "phone": "314-535-9002",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -2849,7 +2849,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 51.7,
      "phone": "314-773-9027",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 8:30 AM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -2870,7 +2870,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 51.3,
      "phone": "314-776-1410",
-     "hours": "Monday 9:00 AM - 11:00 AM Tuesday 10:00 AM - 1:00 PM Wednesday 10:00 AM - 1:00 PM Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 11:00 AM, Tue-Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -2891,7 +2891,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 53.4,
      "phone": "314-421-0400",
-     "hours": "Monday 6:00 AM - 8:00 PM Tuesday 6:00 AM - 8:00 PM Wednesday 6:00 AM - 8:00 PM Thursday 6:00 AM - 8:00 PM Friday 6:00 AM - 8:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 6:00 AM - 8:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -2912,7 +2912,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63110",
      "distance_mi": 50.9,
      "phone": "314-600-0239",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -2933,7 +2933,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 54.1,
      "phone": "314-452-6880",
-     "hours": "Monday Closed Tuesday 5:00 PM - 6:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 5:00 PM - 6:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -2975,7 +2975,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 49.2,
      "phone": "314-727-3550",
-     "hours": "Monday Closed Tuesday 11:30 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:30 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -2996,7 +2996,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 52.1,
      "phone": "314-534-7026",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -3017,7 +3017,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 51.1,
      "phone": "314-361-7878",
-     "hours": "Monday 11:30 AM - 1:00 PM Tuesday 11:30 AM - 1:00 PM Wednesday 11:30 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 11:30 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -3038,7 +3038,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 50.5,
      "phone": "314-832-2142",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -3059,7 +3059,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 53.7,
      "phone": "314-535-9794",
-     "hours": "Monday Closed Tuesday 9:00 AM - 12:00 PM Wednesday Closed Thursday 9:00 AM - 12:00 PM Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 12:00 PM, Wed closed, Thu 9:00 AM - 12:00 PM, Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -3080,7 +3080,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 49.8,
      "phone": "314-353-1457",
-     "hours": "Monday 9:00 AM - 2:00 PM Tuesday 9:00 AM - 2:00 PM Wednesday 9:00 AM - 2:00 PM Thursday 9:00 AM - 2:00 PM Friday 9:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -3101,7 +3101,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63120",
      "distance_mi": 53.0,
      "phone": "314-862-6270",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -3143,7 +3143,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 52.2,
      "phone": "314-766-6145",
-     "hours": "Monday Closed Tuesday Closed Wednesday 3:30 PM - 5:30 PM Thursday Closed Friday 3:30 PM - 5:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 3:30 PM - 5:30 PM, Thu closed, Fri 3:30 PM - 5:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -3164,7 +3164,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 54.6,
      "phone": "314-867-3773",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -3416,7 +3416,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 51.3,
      "phone": "314-367-0366",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -3437,7 +3437,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 50.8,
      "phone": "314-352-1460",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday 4:00 PM - 6:00 PM Thursday 10:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue closed, Wed 4:00 PM - 6:00 PM, Thu 10:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -3458,7 +3458,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 50.3,
      "phone": "314-385-1934",
-     "hours": "Monday 9:30 AM - 11:00 AM Tuesday Closed Wednesday 9:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:00 AM, Tue closed, Wed 9:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -3479,7 +3479,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 52.9,
      "phone": "314-616-4717",
-     "hours": "Monday Closed Tuesday Closed Wednesday 5:00 AM - 7:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 5:00 AM - 7:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -3521,7 +3521,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 53.4,
      "phone": "314-652-6100",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -3542,7 +3542,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 53.6,
      "phone": "314-231-2860",
-     "hours": "Monday 11:30 AM - 1:30 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 11:30 AM - 1:30 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -3563,7 +3563,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63101",
      "distance_mi": 54.1,
      "phone": "314-802-0700",
-     "hours": "Monday 8:00 AM - 4:00 PM Tuesday 8:00 AM - 4:00 PM Wednesday 8:00 AM - 4:00 PM Thursday 8:00 AM - 4:00 PM Friday 8:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -3584,7 +3584,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 49.2,
      "phone": "314-353-3276",
-     "hours": "Monday 9:00 AM - 10:30 AM Tuesday Closed Wednesday 9:00 AM - 10:30 AM Thursday Closed Friday Closed Saturday 9:00 AM - 10:30 AM Sunday Closed",
+     "hours": "Mon 9:00 AM - 10:30 AM, Tue closed, Wed 9:00 AM - 10:30 AM, Thu-Fri closed, Sat 9:00 AM - 10:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -3605,7 +3605,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 51.7,
      "phone": "314-865-1020",
-     "hours": "Monday 9:30 AM - 11:30 AM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:30 AM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -3626,7 +3626,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 53.7,
      "phone": "314-531-3554",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -3647,7 +3647,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 52.2,
      "phone": "314-615-3600",
-     "hours": "Monday 2:00 PM - 4:30 PM Tuesday 2:00 PM - 4:30 PM Wednesday 2:00 PM - 4:30 PM Thursday 2:00 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 2:00 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -3668,7 +3668,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 52.9,
      "phone": "314-385-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 12:00 PM - 3:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 12:00 PM - 3:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -3689,7 +3689,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 51.3,
      "phone": "314-367-0060",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 8:30 AM - 2:00 PM",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sat closed, Sun 8:30 AM - 2:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -3710,7 +3710,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 52.6,
      "phone": "314-531-1040",
-     "hours": "Monday Closed Tuesday 10:00 AM - 2:00 PM Wednesday Closed Thursday 10:00 AM - 2:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 2:00 PM, Wed closed, Thu 10:00 AM - 2:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -3731,7 +3731,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 53.6,
      "phone": "314-265-5455",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 11:00 AM - 1:30 PM",
+     "hours": "Mon-Sat closed, Sun 11:00 AM - 1:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -3752,7 +3752,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 53.9,
      "phone": "314-231-0382",
-     "hours": "Monday 9:00 AM - 1:00 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 1:00 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -3773,7 +3773,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 53.3,
      "phone": "314-652-9136",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -4201,7 +4201,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63010",
      "distance_mi": 15.5,
      "phone": "636-287-3663",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 11:00 AM - 3:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 11:00 AM - 3:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -4222,7 +4222,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63020",
      "distance_mi": 16.5,
      "phone": "636-586-7300",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -4243,7 +4243,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63049",
      "distance_mi": 8.8,
      "phone": "636-677-9885",
-     "hours": "Monday Closed Tuesday 8:00 AM - 2:00 PM Wednesday 8:00 AM - 2:00 PM Thursday 8:00 AM - 2:00 PM Friday 8:00 AM - 2:00 PM Saturday 9:30 AM - 12:30 PM Sunday Closed",
+     "hours": "Mon closed, Tue-Fri 8:00 AM - 2:00 PM, Sat 9:30 AM - 12:30 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -4264,7 +4264,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63028",
      "distance_mi": 16.8,
      "phone": "636-937-6205",
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -4285,7 +4285,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63049",
      "distance_mi": 9.4,
      "phone": "877-238-3228",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 3:00 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 3:00 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -4306,7 +4306,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63050",
      "distance_mi": 10.1,
      "phone": "636-789-5920",
-     "hours": "Monday Closed Tuesday 7:00 AM - 12:00 PM Wednesday 7:00 AM - 12:00 PM Thursday 7:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Thu 7:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -4327,7 +4327,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63070",
      "distance_mi": 15.0,
      "phone": "636-475-3030",
-     "hours": "Monday 9:30 AM - 2:30 PM Tuesday 9:30 AM - 2:30 PM Wednesday 9:30 AM - 2:30 PM Thursday 9:30 AM - 2:30 PM Friday 9:30 AM - 2:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:30 AM - 2:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -4348,7 +4348,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63028",
      "distance_mi": 15.9,
      "phone": "636-937-4999",
-     "hours": "Monday 12:00 PM - 1:00 PM Tuesday 12:00 PM - 1:00 PM Wednesday 12:00 PM - 1:00 PM Thursday Closed Friday 12:00 PM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 12:00 PM - 1:00 PM, Thu closed, Fri 12:00 PM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -4369,7 +4369,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63028",
      "distance_mi": 16.5,
      "phone": "636-933-9974",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 12:00 PM Saturday 8:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 12:00 PM, Sat 8:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -4411,7 +4411,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 0.5,
      "phone": "636-285-0934",
-     "hours": "Monday Closed Tuesday Closed Wednesday 6:30 PM - 5:00 PM Thursday 8:30 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 6:30 PM - 5:00 PM, Thu 8:30 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -4432,7 +4432,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63052",
      "distance_mi": 14.1,
      "phone": "636-464-7580",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 8:00 AM - 10:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 8:00 AM - 10:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -4629,7 +4629,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63010",
      "distance_mi": 25.2,
      "phone": "636-287-3663",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 11:00 AM - 3:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 11:00 AM - 3:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -4650,7 +4650,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63020",
      "distance_mi": 2.1,
      "phone": "636-586-7300",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -4671,7 +4671,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63049",
      "distance_mi": 23.7,
      "phone": "636-677-9885",
-     "hours": "Monday Closed Tuesday 8:00 AM - 2:00 PM Wednesday 8:00 AM - 2:00 PM Thursday 8:00 AM - 2:00 PM Friday 8:00 AM - 2:00 PM Saturday 9:30 AM - 12:30 PM Sunday Closed",
+     "hours": "Mon closed, Tue-Fri 8:00 AM - 2:00 PM, Sat 9:30 AM - 12:30 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -4692,7 +4692,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63028",
      "distance_mi": 12.4,
      "phone": "636-937-6205",
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -4713,7 +4713,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63049",
      "distance_mi": 24.4,
      "phone": "877-238-3228",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 3:00 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 3:00 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -4734,7 +4734,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63050",
      "distance_mi": 8.0,
      "phone": "636-789-5920",
-     "hours": "Monday Closed Tuesday 7:00 AM - 12:00 PM Wednesday 7:00 AM - 12:00 PM Thursday 7:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Thu 7:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -4755,7 +4755,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63070",
      "distance_mi": 15.5,
      "phone": "636-475-3030",
-     "hours": "Monday 9:30 AM - 2:30 PM Tuesday 9:30 AM - 2:30 PM Wednesday 9:30 AM - 2:30 PM Thursday 9:30 AM - 2:30 PM Friday 9:30 AM - 2:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:30 AM - 2:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -4776,7 +4776,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63028",
      "distance_mi": 10.8,
      "phone": "636-937-4999",
-     "hours": "Monday 12:00 PM - 1:00 PM Tuesday 12:00 PM - 1:00 PM Wednesday 12:00 PM - 1:00 PM Thursday Closed Friday 12:00 PM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 12:00 PM - 1:00 PM, Thu closed, Fri 12:00 PM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -4797,7 +4797,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63028",
      "distance_mi": 12.2,
      "phone": "636-933-9974",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 12:00 PM Saturday 8:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 12:00 PM, Sat 8:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -4839,7 +4839,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 17.3,
      "phone": "636-285-0934",
-     "hours": "Monday Closed Tuesday Closed Wednesday 6:30 PM - 5:00 PM Thursday 8:30 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 6:30 PM - 5:00 PM, Thu 8:30 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -4860,7 +4860,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63052",
      "distance_mi": 20.6,
      "phone": "636-464-7580",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 8:00 AM - 10:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 8:00 AM - 10:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5057,7 +5057,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63010",
      "distance_mi": 20.6,
      "phone": "636-287-3663",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 11:00 AM - 3:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 11:00 AM - 3:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5078,7 +5078,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63020",
      "distance_mi": 8.5,
      "phone": "636-586-7300",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5099,7 +5099,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63049",
      "distance_mi": 22.6,
      "phone": "636-677-9885",
-     "hours": "Monday Closed Tuesday 8:00 AM - 2:00 PM Wednesday 8:00 AM - 2:00 PM Thursday 8:00 AM - 2:00 PM Friday 8:00 AM - 2:00 PM Saturday 9:30 AM - 12:30 PM Sunday Closed",
+     "hours": "Mon closed, Tue-Fri 8:00 AM - 2:00 PM, Sat 9:30 AM - 12:30 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5120,7 +5120,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63028",
      "distance_mi": 5.4,
      "phone": "636-937-6205",
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5141,7 +5141,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63049",
      "distance_mi": 23.2,
      "phone": "877-238-3228",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 3:00 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 3:00 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5162,7 +5162,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63050",
      "distance_mi": 11.3,
      "phone": "636-789-5920",
-     "hours": "Monday Closed Tuesday 7:00 AM - 12:00 PM Wednesday 7:00 AM - 12:00 PM Thursday 7:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Thu 7:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5183,7 +5183,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63070",
      "distance_mi": 9.6,
      "phone": "636-475-3030",
-     "hours": "Monday 9:30 AM - 2:30 PM Tuesday 9:30 AM - 2:30 PM Wednesday 9:30 AM - 2:30 PM Thursday 9:30 AM - 2:30 PM Friday 9:30 AM - 2:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:30 AM - 2:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5204,7 +5204,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63028",
      "distance_mi": 5.0,
      "phone": "636-937-4999",
-     "hours": "Monday 12:00 PM - 1:00 PM Tuesday 12:00 PM - 1:00 PM Wednesday 12:00 PM - 1:00 PM Thursday Closed Friday 12:00 PM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 12:00 PM - 1:00 PM, Thu closed, Fri 12:00 PM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5225,7 +5225,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63028",
      "distance_mi": 5.4,
      "phone": "636-933-9974",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 12:00 PM Saturday 8:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 12:00 PM, Sat 8:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5267,7 +5267,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 20.0,
      "phone": "636-285-0934",
-     "hours": "Monday Closed Tuesday Closed Wednesday 6:30 PM - 5:00 PM Thursday 8:30 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 6:30 PM - 5:00 PM, Thu 8:30 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5288,7 +5288,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63052",
      "distance_mi": 15.6,
      "phone": "636-464-7580",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 8:00 AM - 10:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 8:00 AM - 10:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5464,7 +5464,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63123",
      "distance_mi": 17.8,
      "phone": "314-580-3138",
-     "hours": "Monday 12:30 PM - 2:30 PM Tuesday 4:00 PM - 6:30 PM Wednesday Closed Thursday 6:00 PM - 8:00 PM Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon 12:30 PM - 2:30 PM, Tue 4:00 PM - 6:30 PM, Wed closed, Thu 6:00 PM - 8:00 PM, Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5485,7 +5485,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 10.5,
      "phone": "314-862-0038",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 12:00 PM Thursday 11:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 11:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5527,7 +5527,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 13.6,
      "phone": "314-716-2711",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5548,7 +5548,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 5.3,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday 9:30 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5569,7 +5569,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 5.4,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 9:30 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 9:30 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5590,7 +5590,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 7.2,
      "phone": "314-863-0015",
-     "hours": "Monday Closed Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday Closed Friday 8:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:00 AM - 3:00 PM, Thu closed, Fri 8:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5632,7 +5632,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 7.3,
      "phone": "314-388-1211",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5653,7 +5653,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63088",
      "distance_mi": 19.5,
      "phone": "636-861-2623",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 7:00 PM Thursday 1:00 PM - 5:00 PM Friday 9:00 AM - 3:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue 9:00 AM - 3:00 PM, Wed 9:00 AM - 7:00 PM, Thu 1:00 PM - 5:00 PM, Fri 9:00 AM - 3:00 PM, Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5674,7 +5674,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 9.0,
      "phone": "314-680-9101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5695,7 +5695,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 4.5,
      "phone": "314-521-1122",
-     "hours": "Monday Closed Tuesday 11:00 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5737,7 +5737,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63044",
      "distance_mi": 5.6,
      "phone": "314-770-2216",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 10:00 AM - 2:00 PM, Wed 10:00 AM - 12:00 PM, Thu 10:00 AM - 2:00 PM, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5758,7 +5758,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 7.5,
      "phone": "314-438-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5779,7 +5779,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 8.0,
      "phone": null,
-     "hours": "Monday 12:00 PM - 5:00 PM Tuesday 12:00 PM - 5:00 PM Wednesday 12:00 PM - 5:00 PM Thursday 12:00 PM - 5:00 PM Friday 1:00 PM - 5:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 12:00 PM - 5:00 PM, Fri 1:00 PM - 5:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5800,7 +5800,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63045",
      "distance_mi": 7.1,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 4:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5821,7 +5821,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63127",
      "distance_mi": 20.7,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 4:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 4:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5842,7 +5842,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63125",
      "distance_mi": 20.5,
      "phone": "314-631-4900",
-     "hours": "Monday 10:00 AM - 3:00 PM Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 10:00 AM - 3:00 PM Friday 10:00 AM - 3:00 PM Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 3:00 PM, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5863,7 +5863,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 8.1,
      "phone": "314-867-2782",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:30 AM - 12:30 PM Thursday Closed Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:30 AM - 12:30 PM, Thu-Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5884,7 +5884,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 7.1,
      "phone": "314-291-1915",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5905,7 +5905,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63142",
      "distance_mi": 9.0,
      "phone": "314-513-1672",
-     "hours": "Monday 9:00 AM - 3:30 PM Tuesday 9:00 AM - 3:30 PM Wednesday 9:00 AM - 3:30 PM Thursday 9:00 AM - 3:30 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 9:00 AM - 3:30 PM, Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5926,7 +5926,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 7.3,
      "phone": null,
-     "hours": "Monday 11:15 AM - 11:30 AM Tuesday 11:15 AM - 11:30 AM Wednesday 11:15 AM - 11:30 AM Thursday 11:15 AM - 11:30 AM Friday 11:15 AM - 11:30 AM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 11:15 AM - 11:30 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5947,7 +5947,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 8.4,
      "phone": "314-741-5667",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -5968,7 +5968,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63033",
      "distance_mi": 5.3,
      "phone": "314-741-4222",
-     "hours": "Monday Closed Tuesday 9:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -6010,7 +6010,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 8.6,
      "phone": "314-329-4262",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday 11:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Fri closed, Sat 11:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -6052,7 +6052,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 14.0,
      "phone": "314-719-2929",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -6094,7 +6094,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 8.3,
      "phone": "314-922-8903",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -6115,7 +6115,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63122",
      "distance_mi": 17.2,
      "phone": "314-822-4760",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -6136,7 +6136,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 17.0,
      "phone": "314-961-6854",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 5:30 PM Thursday Closed Friday Closed Saturday Closed Sunday 11:30 AM - 1:00 PM",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 5:30 PM, Thu-Sat closed, Sun 11:30 AM - 1:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -6178,7 +6178,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 5.8,
      "phone": "314-426-0101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -6199,7 +6199,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 7.1,
      "phone": "314-868-0707",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday 10:00 AM - 12:00 PM",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 12:00 PM, Thu-Sat closed, Sun 10:00 AM - 12:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -6220,7 +6220,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 6.3,
      "phone": "314-522-9264",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -6241,7 +6241,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 9.0,
      "phone": "314-261-5266",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -6262,7 +6262,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 7.9,
      "phone": null,
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -6283,7 +6283,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 7.7,
      "phone": "314-427-7204",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:30 AM Wednesday 9:00 AM - 11:30 AM Thursday Closed Friday 9:00 AM - 11:30 AM Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 9:00 AM - 11:30 AM, Thu closed, Fri-Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -6472,7 +6472,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 8.6,
      "phone": "314-423-7770",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 1:00 PM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 8:30 AM - 4:30 PM, Wed 1:00 PM - 4:30 PM, Thu-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -6493,7 +6493,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63133",
      "distance_mi": 9.9,
      "phone": "314-382-7158",
-     "hours": "Monday Closed Tuesday 8:30 AM - 11:30 AM Wednesday 8:30 AM - 11:30 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:30 AM - 11:30 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -6514,7 +6514,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 9.2,
      "phone": "314-382-8833",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -6535,7 +6535,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 6.8,
      "phone": "314-429-0216",
-     "hours": "Monday Closed Tuesday 10:30 AM - 1:00 PM Wednesday Closed Thursday 10:30 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:30 AM - 1:00 PM, Wed closed, Thu 10:30 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -6556,7 +6556,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 8.4,
      "phone": "314-261-0202",
-     "hours": "Monday 8:00 AM - 3:00 PM Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday 8:00 AM - 3:00 PM Friday 8:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 8:00 AM - 3:00 PM, Fri 8:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -6577,7 +6577,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 15.1,
      "phone": "314-647-5611",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -6598,7 +6598,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63031",
      "distance_mi": 1.7,
      "phone": "314-831-0879",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -6640,7 +6640,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 11.1,
      "phone": "314-725-3840",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -6661,7 +6661,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 8.0,
      "phone": "314-427-2273",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -6682,7 +6682,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 10.5,
      "phone": "314-721-2722",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -6703,7 +6703,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 8.3,
      "phone": "314-388-9840",
-     "hours": "Monday 9:00 AM - 4:00 PM Tuesday 9:00 AM - 4:00 PM Wednesday 9:00 AM - 4:00 PM Thursday 9:00 AM - 4:00 PM Friday 9:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -6745,7 +6745,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 8.9,
      "phone": "314-660-3621",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7089,7 +7089,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63123",
      "distance_mi": 16.7,
      "phone": "314-580-3138",
-     "hours": "Monday 12:30 PM - 2:30 PM Tuesday 4:00 PM - 6:30 PM Wednesday Closed Thursday 6:00 PM - 8:00 PM Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon 12:30 PM - 2:30 PM, Tue 4:00 PM - 6:30 PM, Wed closed, Thu 6:00 PM - 8:00 PM, Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7110,7 +7110,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 9.4,
      "phone": "314-862-0038",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 12:00 PM Thursday 11:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 11:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7152,7 +7152,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 12.6,
      "phone": "314-716-2711",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7173,7 +7173,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 3.7,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday 9:30 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7194,7 +7194,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 4.0,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 9:30 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 9:30 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7215,7 +7215,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 7.8,
      "phone": "314-863-0015",
-     "hours": "Monday Closed Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday Closed Friday 8:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:00 AM - 3:00 PM, Thu closed, Fri 8:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7257,7 +7257,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 4.5,
      "phone": "314-388-1211",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7278,7 +7278,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63088",
      "distance_mi": 20.7,
      "phone": "636-861-2623",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 7:00 PM Thursday 1:00 PM - 5:00 PM Friday 9:00 AM - 3:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue 9:00 AM - 3:00 PM, Wed 9:00 AM - 7:00 PM, Thu 1:00 PM - 5:00 PM, Fri 9:00 AM - 3:00 PM, Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7299,7 +7299,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 9.0,
      "phone": "314-680-9101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7320,7 +7320,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 4.7,
      "phone": "314-521-1122",
-     "hours": "Monday Closed Tuesday 11:00 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7362,7 +7362,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63044",
      "distance_mi": 8.6,
      "phone": "314-770-2216",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 10:00 AM - 2:00 PM, Wed 10:00 AM - 12:00 PM, Thu 10:00 AM - 2:00 PM, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7383,7 +7383,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 3.1,
      "phone": "314-438-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7404,7 +7404,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 6.6,
      "phone": null,
-     "hours": "Monday 12:00 PM - 5:00 PM Tuesday 12:00 PM - 5:00 PM Wednesday 12:00 PM - 5:00 PM Thursday 12:00 PM - 5:00 PM Friday 1:00 PM - 5:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 12:00 PM - 5:00 PM, Fri 1:00 PM - 5:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7425,7 +7425,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63045",
      "distance_mi": 10.7,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 4:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7446,7 +7446,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63127",
      "distance_mi": 20.9,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 4:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 4:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7467,7 +7467,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63125",
      "distance_mi": 19.2,
      "phone": "314-631-4900",
-     "hours": "Monday 10:00 AM - 3:00 PM Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 10:00 AM - 3:00 PM Friday 10:00 AM - 3:00 PM Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 3:00 PM, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7488,7 +7488,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 4.3,
      "phone": "314-867-2782",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:30 AM - 12:30 PM Thursday Closed Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:30 AM - 12:30 PM, Thu-Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7509,7 +7509,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 9.6,
      "phone": "314-291-1915",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7530,7 +7530,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63142",
      "distance_mi": 10.2,
      "phone": "314-513-1672",
-     "hours": "Monday 9:00 AM - 3:30 PM Tuesday 9:00 AM - 3:30 PM Wednesday 9:00 AM - 3:30 PM Thursday 9:00 AM - 3:30 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 9:00 AM - 3:30 PM, Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7551,7 +7551,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 2.9,
      "phone": null,
-     "hours": "Monday 11:15 AM - 11:30 AM Tuesday 11:15 AM - 11:30 AM Wednesday 11:15 AM - 11:30 AM Thursday 11:15 AM - 11:30 AM Friday 11:15 AM - 11:30 AM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 11:15 AM - 11:30 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7572,7 +7572,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 4.0,
      "phone": "314-741-5667",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7593,7 +7593,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63033",
      "distance_mi": 1.4,
      "phone": "314-741-4222",
-     "hours": "Monday Closed Tuesday 9:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7635,7 +7635,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 9.8,
      "phone": "314-329-4262",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday 11:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Fri closed, Sat 11:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7677,7 +7677,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 13.1,
      "phone": "314-719-2929",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7719,7 +7719,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 5.7,
      "phone": "314-922-8903",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7740,7 +7740,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63122",
      "distance_mi": 17.5,
      "phone": "314-822-4760",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7761,7 +7761,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 16.6,
      "phone": "314-961-6854",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 5:30 PM Thursday Closed Friday Closed Saturday Closed Sunday 11:30 AM - 1:00 PM",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 5:30 PM, Thu-Sat closed, Sun 11:30 AM - 1:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7803,7 +7803,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 6.8,
      "phone": "314-426-0101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7824,7 +7824,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 4.2,
      "phone": "314-868-0707",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday 10:00 AM - 12:00 PM",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 12:00 PM, Thu-Sat closed, Sun 10:00 AM - 12:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7845,7 +7845,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 5.0,
      "phone": "314-522-9264",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7866,7 +7866,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 7.1,
      "phone": "314-261-5266",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7887,7 +7887,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 3.8,
      "phone": null,
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -7908,7 +7908,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 8.4,
      "phone": "314-427-7204",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:30 AM Wednesday 9:00 AM - 11:30 AM Thursday Closed Friday 9:00 AM - 11:30 AM Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 9:00 AM - 11:30 AM, Thu closed, Fri-Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -8097,7 +8097,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 10.0,
      "phone": "314-423-7770",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 1:00 PM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 8:30 AM - 4:30 PM, Wed 1:00 PM - 4:30 PM, Thu-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -8118,7 +8118,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63133",
      "distance_mi": 8.3,
      "phone": "314-382-7158",
-     "hours": "Monday Closed Tuesday 8:30 AM - 11:30 AM Wednesday 8:30 AM - 11:30 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:30 AM - 11:30 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -8139,7 +8139,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 7.7,
      "phone": "314-382-8833",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -8160,7 +8160,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 7.5,
      "phone": "314-429-0216",
-     "hours": "Monday Closed Tuesday 10:30 AM - 1:00 PM Wednesday Closed Thursday 10:30 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:30 AM - 1:00 PM, Wed closed, Thu 10:30 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -8181,7 +8181,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 6.8,
      "phone": "314-261-0202",
-     "hours": "Monday 8:00 AM - 3:00 PM Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday 8:00 AM - 3:00 PM Friday 8:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 8:00 AM - 3:00 PM, Fri 8:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -8202,7 +8202,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 14.4,
      "phone": "314-647-5611",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -8223,7 +8223,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63031",
      "distance_mi": 3.1,
      "phone": "314-831-0879",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -8265,7 +8265,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 10.1,
      "phone": "314-725-3840",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -8286,7 +8286,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 8.7,
      "phone": "314-427-2273",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -8307,7 +8307,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 9.6,
      "phone": "314-721-2722",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -8328,7 +8328,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 5.2,
      "phone": "314-388-9840",
-     "hours": "Monday 9:00 AM - 4:00 PM Tuesday 9:00 AM - 4:00 PM Wednesday 9:00 AM - 4:00 PM Thursday 9:00 AM - 4:00 PM Friday 9:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -8370,7 +8370,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 4.8,
      "phone": "314-660-3621",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -8714,7 +8714,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63123",
      "distance_mi": 16.0,
      "phone": "314-580-3138",
-     "hours": "Monday 12:30 PM - 2:30 PM Tuesday 4:00 PM - 6:30 PM Wednesday Closed Thursday 6:00 PM - 8:00 PM Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon 12:30 PM - 2:30 PM, Tue 4:00 PM - 6:30 PM, Wed closed, Thu 6:00 PM - 8:00 PM, Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -8735,7 +8735,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 9.0,
      "phone": "314-862-0038",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 12:00 PM Thursday 11:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 11:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -8777,7 +8777,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 11.8,
      "phone": "314-716-2711",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -8798,7 +8798,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 4.9,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday 9:30 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -8819,7 +8819,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 4.8,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 9:30 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 9:30 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -8840,7 +8840,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 5.2,
      "phone": "314-863-0015",
-     "hours": "Monday Closed Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday Closed Friday 8:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:00 AM - 3:00 PM, Thu closed, Fri 8:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -8882,7 +8882,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 7.1,
      "phone": "314-388-1211",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -8903,7 +8903,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63088",
      "distance_mi": 17.0,
      "phone": "636-861-2623",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 7:00 PM Thursday 1:00 PM - 5:00 PM Friday 9:00 AM - 3:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue 9:00 AM - 3:00 PM, Wed 9:00 AM - 7:00 PM, Thu 1:00 PM - 5:00 PM, Fri 9:00 AM - 3:00 PM, Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -8924,7 +8924,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 7.0,
      "phone": "314-680-9101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -8945,7 +8945,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 3.3,
      "phone": "314-521-1122",
-     "hours": "Monday Closed Tuesday 11:00 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -8987,7 +8987,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63044",
      "distance_mi": 3.1,
      "phone": "314-770-2216",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 10:00 AM - 2:00 PM, Wed 10:00 AM - 12:00 PM, Thu 10:00 AM - 2:00 PM, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9008,7 +9008,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 8.7,
      "phone": "314-438-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9029,7 +9029,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 6.8,
      "phone": null,
-     "hours": "Monday 12:00 PM - 5:00 PM Tuesday 12:00 PM - 5:00 PM Wednesday 12:00 PM - 5:00 PM Thursday 12:00 PM - 5:00 PM Friday 1:00 PM - 5:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 12:00 PM - 5:00 PM, Fri 1:00 PM - 5:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9050,7 +9050,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63045",
      "distance_mi": 5.0,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 4:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9071,7 +9071,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63127",
      "distance_mi": 18.4,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 4:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 4:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9092,7 +9092,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63125",
      "distance_mi": 18.8,
      "phone": "314-631-4900",
-     "hours": "Monday 10:00 AM - 3:00 PM Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 10:00 AM - 3:00 PM Friday 10:00 AM - 3:00 PM Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 3:00 PM, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9113,7 +9113,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 8.5,
      "phone": "314-867-2782",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:30 AM - 12:30 PM Thursday Closed Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:30 AM - 12:30 PM, Thu-Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9134,7 +9134,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 4.6,
      "phone": "314-291-1915",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9155,7 +9155,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63142",
      "distance_mi": 6.7,
      "phone": "314-513-1672",
-     "hours": "Monday 9:00 AM - 3:30 PM Tuesday 9:00 AM - 3:30 PM Wednesday 9:00 AM - 3:30 PM Thursday 9:00 AM - 3:30 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 9:00 AM - 3:30 PM, Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9176,7 +9176,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 8.6,
      "phone": null,
-     "hours": "Monday 11:15 AM - 11:30 AM Tuesday 11:15 AM - 11:30 AM Wednesday 11:15 AM - 11:30 AM Thursday 11:15 AM - 11:30 AM Friday 11:15 AM - 11:30 AM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 11:15 AM - 11:30 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9197,7 +9197,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 9.6,
      "phone": "314-741-5667",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9218,7 +9218,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63033",
      "distance_mi": 7.0,
      "phone": "314-741-4222",
-     "hours": "Monday Closed Tuesday 9:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9260,7 +9260,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 6.2,
      "phone": "314-329-4262",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday 11:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Fri closed, Sat 11:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9302,7 +9302,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 12.2,
      "phone": "314-719-2929",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9344,7 +9344,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 7.8,
      "phone": "314-922-8903",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9365,7 +9365,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63122",
      "distance_mi": 15.0,
      "phone": "314-822-4760",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9386,7 +9386,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 14.9,
      "phone": "314-961-6854",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 5:30 PM Thursday Closed Friday Closed Saturday Closed Sunday 11:30 AM - 1:00 PM",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 5:30 PM, Thu-Sat closed, Sun 11:30 AM - 1:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9428,7 +9428,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 3.7,
      "phone": "314-426-0101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9449,7 +9449,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 6.9,
      "phone": "314-868-0707",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday 10:00 AM - 12:00 PM",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 12:00 PM, Thu-Sat closed, Sun 10:00 AM - 12:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9470,7 +9470,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 5.4,
      "phone": "314-522-9264",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9491,7 +9491,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 8.0,
      "phone": "314-261-5266",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9512,7 +9512,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 8.6,
      "phone": null,
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9533,7 +9533,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 5.6,
      "phone": "314-427-7204",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:30 AM Wednesday 9:00 AM - 11:30 AM Thursday Closed Friday 9:00 AM - 11:30 AM Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 9:00 AM - 11:30 AM, Thu closed, Fri-Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9722,7 +9722,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 6.3,
      "phone": "314-423-7770",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 1:00 PM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 8:30 AM - 4:30 PM, Wed 1:00 PM - 4:30 PM, Thu-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9743,7 +9743,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63133",
      "distance_mi": 8.7,
      "phone": "314-382-7158",
-     "hours": "Monday Closed Tuesday 8:30 AM - 11:30 AM Wednesday 8:30 AM - 11:30 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:30 AM - 11:30 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9764,7 +9764,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 7.9,
      "phone": "314-382-8833",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9785,7 +9785,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 4.8,
      "phone": "314-429-0216",
-     "hours": "Monday Closed Tuesday 10:30 AM - 1:00 PM Wednesday Closed Thursday 10:30 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:30 AM - 1:00 PM, Wed closed, Thu 10:30 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9806,7 +9806,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 7.4,
      "phone": "314-261-0202",
-     "hours": "Monday 8:00 AM - 3:00 PM Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday 8:00 AM - 3:00 PM Friday 8:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 8:00 AM - 3:00 PM, Fri 8:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9827,7 +9827,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 13.2,
      "phone": "314-647-5611",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9848,7 +9848,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63031",
      "distance_mi": 2.7,
      "phone": "314-831-0879",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9890,7 +9890,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 9.5,
      "phone": "314-725-3840",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9911,7 +9911,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 5.8,
      "phone": "314-427-2273",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9932,7 +9932,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 8.8,
      "phone": "314-721-2722",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9953,7 +9953,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 8.2,
      "phone": "314-388-9840",
-     "hours": "Monday 9:00 AM - 4:00 PM Tuesday 9:00 AM - 4:00 PM Wednesday 9:00 AM - 4:00 PM Thursday 9:00 AM - 4:00 PM Friday 9:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -9995,7 +9995,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 9.3,
      "phone": "314-660-3621",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -10339,7 +10339,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63123",
      "distance_mi": 16.4,
      "phone": "314-580-3138",
-     "hours": "Monday 12:30 PM - 2:30 PM Tuesday 4:00 PM - 6:30 PM Wednesday Closed Thursday 6:00 PM - 8:00 PM Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon 12:30 PM - 2:30 PM, Tue 4:00 PM - 6:30 PM, Wed closed, Thu 6:00 PM - 8:00 PM, Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -10360,7 +10360,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 10.1,
      "phone": "314-862-0038",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 12:00 PM Thursday 11:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 11:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -10402,7 +10402,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 12.4,
      "phone": "314-716-2711",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -10423,7 +10423,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 7.3,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday 9:30 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -10444,7 +10444,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 7.1,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 9:30 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 9:30 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -10465,7 +10465,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 5.8,
      "phone": "314-863-0015",
-     "hours": "Monday Closed Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday Closed Friday 8:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:00 AM - 3:00 PM, Thu closed, Fri 8:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -10507,7 +10507,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 9.5,
      "phone": "314-388-1211",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -10528,7 +10528,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63088",
      "distance_mi": 15.7,
      "phone": "636-861-2623",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 7:00 PM Thursday 1:00 PM - 5:00 PM Friday 9:00 AM - 3:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue 9:00 AM - 3:00 PM, Wed 9:00 AM - 7:00 PM, Thu 1:00 PM - 5:00 PM, Fri 9:00 AM - 3:00 PM, Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -10549,7 +10549,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 7.6,
      "phone": "314-680-9101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -10570,7 +10570,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 5.5,
      "phone": "314-521-1122",
-     "hours": "Monday Closed Tuesday 11:00 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -10612,7 +10612,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63044",
      "distance_mi": 1.5,
      "phone": "314-770-2216",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 10:00 AM - 2:00 PM, Wed 10:00 AM - 12:00 PM, Thu 10:00 AM - 2:00 PM, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -10633,7 +10633,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 11.5,
      "phone": "314-438-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -10654,7 +10654,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 8.4,
      "phone": null,
-     "hours": "Monday 12:00 PM - 5:00 PM Tuesday 12:00 PM - 5:00 PM Wednesday 12:00 PM - 5:00 PM Thursday 12:00 PM - 5:00 PM Friday 1:00 PM - 5:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 12:00 PM - 5:00 PM, Fri 1:00 PM - 5:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -10675,7 +10675,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63045",
      "distance_mi": 2.2,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 4:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -10696,7 +10696,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63127",
      "distance_mi": 17.7,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 4:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 4:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -10717,7 +10717,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63125",
      "distance_mi": 19.2,
      "phone": "314-631-4900",
-     "hours": "Monday 10:00 AM - 3:00 PM Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 10:00 AM - 3:00 PM Friday 10:00 AM - 3:00 PM Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 3:00 PM, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -10738,7 +10738,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 11.1,
      "phone": "314-867-2782",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:30 AM - 12:30 PM Thursday Closed Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:30 AM - 12:30 PM, Thu-Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -10759,7 +10759,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 3.2,
      "phone": "314-291-1915",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -10780,7 +10780,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63142",
      "distance_mi": 6.3,
      "phone": "314-513-1672",
-     "hours": "Monday 9:00 AM - 3:30 PM Tuesday 9:00 AM - 3:30 PM Wednesday 9:00 AM - 3:30 PM Thursday 9:00 AM - 3:30 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 9:00 AM - 3:30 PM, Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -10801,7 +10801,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 11.3,
      "phone": null,
-     "hours": "Monday 11:15 AM - 11:30 AM Tuesday 11:15 AM - 11:30 AM Wednesday 11:15 AM - 11:30 AM Thursday 11:15 AM - 11:30 AM Friday 11:15 AM - 11:30 AM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 11:15 AM - 11:30 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -10822,7 +10822,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 12.4,
      "phone": "314-741-5667",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -10843,7 +10843,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63033",
      "distance_mi": 9.8,
      "phone": "314-741-4222",
-     "hours": "Monday Closed Tuesday 9:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -10885,7 +10885,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 5.9,
      "phone": "314-329-4262",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday 11:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Fri closed, Sat 11:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -10927,7 +10927,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 12.7,
      "phone": "314-719-2929",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -10969,7 +10969,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 9.9,
      "phone": "314-922-8903",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -10990,7 +10990,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63122",
      "distance_mi": 14.4,
      "phone": "314-822-4760",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -11011,7 +11011,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 14.8,
      "phone": "314-961-6854",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 5:30 PM Thursday Closed Friday Closed Saturday Closed Sunday 11:30 AM - 1:00 PM",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 5:30 PM, Thu-Sat closed, Sun 11:30 AM - 1:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -11053,7 +11053,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 4.6,
      "phone": "314-426-0101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -11074,7 +11074,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 9.3,
      "phone": "314-868-0707",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday 10:00 AM - 12:00 PM",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 12:00 PM, Thu-Sat closed, Sun 10:00 AM - 12:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -11095,7 +11095,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 7.4,
      "phone": "314-522-9264",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -11116,7 +11116,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 9.8,
      "phone": "314-261-5266",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -11137,7 +11137,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 11.3,
      "phone": null,
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -11158,7 +11158,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 6.1,
      "phone": "314-427-7204",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:30 AM Wednesday 9:00 AM - 11:30 AM Thursday Closed Friday 9:00 AM - 11:30 AM Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 9:00 AM - 11:30 AM, Thu closed, Fri-Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -11347,7 +11347,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 5.8,
      "phone": "314-423-7770",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 1:00 PM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 8:30 AM - 4:30 PM, Wed 1:00 PM - 4:30 PM, Thu-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -11368,7 +11368,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63133",
      "distance_mi": 10.1,
      "phone": "314-382-7158",
-     "hours": "Monday Closed Tuesday 8:30 AM - 11:30 AM Wednesday 8:30 AM - 11:30 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:30 AM - 11:30 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -11389,7 +11389,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 9.4,
      "phone": "314-382-8833",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -11410,7 +11410,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 5.5,
      "phone": "314-429-0216",
-     "hours": "Monday Closed Tuesday 10:30 AM - 1:00 PM Wednesday Closed Thursday 10:30 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:30 AM - 1:00 PM, Wed closed, Thu 10:30 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -11431,7 +11431,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 9.1,
      "phone": "314-261-0202",
-     "hours": "Monday 8:00 AM - 3:00 PM Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday 8:00 AM - 3:00 PM Friday 8:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 8:00 AM - 3:00 PM, Fri 8:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -11452,7 +11452,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 13.5,
      "phone": "314-647-5611",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -11473,7 +11473,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63031",
      "distance_mi": 5.5,
      "phone": "314-831-0879",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -11515,7 +11515,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 10.4,
      "phone": "314-725-3840",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -11536,7 +11536,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 6.0,
      "phone": "314-427-2273",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -11557,7 +11557,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 9.7,
      "phone": "314-721-2722",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -11578,7 +11578,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 10.4,
      "phone": "314-388-9840",
-     "hours": "Monday 9:00 AM - 4:00 PM Tuesday 9:00 AM - 4:00 PM Wednesday 9:00 AM - 4:00 PM Thursday 9:00 AM - 4:00 PM Friday 9:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -11620,7 +11620,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 11.9,
      "phone": "314-660-3621",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -11964,7 +11964,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63123",
      "distance_mi": 17.0,
      "phone": "314-580-3138",
-     "hours": "Monday 12:30 PM - 2:30 PM Tuesday 4:00 PM - 6:30 PM Wednesday Closed Thursday 6:00 PM - 8:00 PM Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon 12:30 PM - 2:30 PM, Tue 4:00 PM - 6:30 PM, Wed closed, Thu 6:00 PM - 8:00 PM, Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -11985,7 +11985,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 11.3,
      "phone": "314-862-0038",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 12:00 PM Thursday 11:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 11:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12027,7 +12027,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 13.2,
      "phone": "314-716-2711",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12048,7 +12048,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 9.0,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday 9:30 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12069,7 +12069,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 8.8,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 9:30 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 9:30 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12090,7 +12090,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 7.0,
      "phone": "314-863-0015",
-     "hours": "Monday Closed Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday Closed Friday 8:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:00 AM - 3:00 PM, Thu closed, Fri 8:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12132,7 +12132,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 11.2,
      "phone": "314-388-1211",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12153,7 +12153,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63088",
      "distance_mi": 15.2,
      "phone": "636-861-2623",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 7:00 PM Thursday 1:00 PM - 5:00 PM Friday 9:00 AM - 3:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue 9:00 AM - 3:00 PM, Wed 9:00 AM - 7:00 PM, Thu 1:00 PM - 5:00 PM, Fri 9:00 AM - 3:00 PM, Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12174,7 +12174,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 8.6,
      "phone": "314-680-9101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12195,7 +12195,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 7.2,
      "phone": "314-521-1122",
-     "hours": "Monday Closed Tuesday 11:00 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12237,7 +12237,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63044",
      "distance_mi": 2.5,
      "phone": "314-770-2216",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 10:00 AM - 2:00 PM, Wed 10:00 AM - 12:00 PM, Thu 10:00 AM - 2:00 PM, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12258,7 +12258,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 13.4,
      "phone": "314-438-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12279,7 +12279,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 9.9,
      "phone": null,
-     "hours": "Monday 12:00 PM - 5:00 PM Tuesday 12:00 PM - 5:00 PM Wednesday 12:00 PM - 5:00 PM Thursday 12:00 PM - 5:00 PM Friday 1:00 PM - 5:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 12:00 PM - 5:00 PM, Fri 1:00 PM - 5:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12300,7 +12300,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63045",
      "distance_mi": 0.7,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 4:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12321,7 +12321,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63127",
      "distance_mi": 17.6,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 4:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 4:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12342,7 +12342,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63125",
      "distance_mi": 19.9,
      "phone": "314-631-4900",
-     "hours": "Monday 10:00 AM - 3:00 PM Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 10:00 AM - 3:00 PM Friday 10:00 AM - 3:00 PM Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 3:00 PM, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12363,7 +12363,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 12.9,
      "phone": "314-867-2782",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:30 AM - 12:30 PM Thursday Closed Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:30 AM - 12:30 PM, Thu-Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12384,7 +12384,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 3.5,
      "phone": "314-291-1915",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12405,7 +12405,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63142",
      "distance_mi": 6.9,
      "phone": "314-513-1672",
-     "hours": "Monday 9:00 AM - 3:30 PM Tuesday 9:00 AM - 3:30 PM Wednesday 9:00 AM - 3:30 PM Thursday 9:00 AM - 3:30 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 9:00 AM - 3:30 PM, Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12426,7 +12426,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 13.2,
      "phone": null,
-     "hours": "Monday 11:15 AM - 11:30 AM Tuesday 11:15 AM - 11:30 AM Wednesday 11:15 AM - 11:30 AM Thursday 11:15 AM - 11:30 AM Friday 11:15 AM - 11:30 AM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 11:15 AM - 11:30 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12447,7 +12447,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 14.3,
      "phone": "314-741-5667",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12468,7 +12468,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63033",
      "distance_mi": 11.6,
      "phone": "314-741-4222",
-     "hours": "Monday Closed Tuesday 9:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12510,7 +12510,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 6.5,
      "phone": "314-329-4262",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday 11:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Fri closed, Sat 11:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12552,7 +12552,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 13.5,
      "phone": "314-719-2929",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12594,7 +12594,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 11.6,
      "phone": "314-922-8903",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12615,7 +12615,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63122",
      "distance_mi": 14.5,
      "phone": "314-822-4760",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12636,7 +12636,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 15.2,
      "phone": "314-961-6854",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 5:30 PM Thursday Closed Friday Closed Saturday Closed Sunday 11:30 AM - 1:00 PM",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 5:30 PM, Thu-Sat closed, Sun 11:30 AM - 1:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12678,7 +12678,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 6.0,
      "phone": "314-426-0101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12699,7 +12699,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 11.0,
      "phone": "314-868-0707",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday 10:00 AM - 12:00 PM",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 12:00 PM, Thu-Sat closed, Sun 10:00 AM - 12:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12720,7 +12720,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 9.1,
      "phone": "314-522-9264",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12741,7 +12741,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 11.2,
      "phone": "314-261-5266",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12762,7 +12762,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 13.1,
      "phone": null,
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12783,7 +12783,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 7.1,
      "phone": "314-427-7204",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:30 AM Wednesday 9:00 AM - 11:30 AM Thursday Closed Friday 9:00 AM - 11:30 AM Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 9:00 AM - 11:30 AM, Thu closed, Fri-Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12972,7 +12972,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 6.4,
      "phone": "314-423-7770",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 1:00 PM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 8:30 AM - 4:30 PM, Wed 1:00 PM - 4:30 PM, Thu-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -12993,7 +12993,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63133",
      "distance_mi": 11.5,
      "phone": "314-382-7158",
-     "hours": "Monday Closed Tuesday 8:30 AM - 11:30 AM Wednesday 8:30 AM - 11:30 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:30 AM - 11:30 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -13014,7 +13014,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 10.8,
      "phone": "314-382-8833",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -13035,7 +13035,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 6.8,
      "phone": "314-429-0216",
-     "hours": "Monday Closed Tuesday 10:30 AM - 1:00 PM Wednesday Closed Thursday 10:30 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:30 AM - 1:00 PM, Wed closed, Thu 10:30 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -13056,7 +13056,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 10.5,
      "phone": "314-261-0202",
-     "hours": "Monday 8:00 AM - 3:00 PM Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday 8:00 AM - 3:00 PM Friday 8:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 8:00 AM - 3:00 PM, Fri 8:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -13077,7 +13077,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 14.2,
      "phone": "314-647-5611",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -13098,7 +13098,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63031",
      "distance_mi": 7.4,
      "phone": "314-831-0879",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -13140,7 +13140,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 11.5,
      "phone": "314-725-3840",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -13161,7 +13161,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 7.0,
      "phone": "314-427-2273",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -13182,7 +13182,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 10.8,
      "phone": "314-721-2722",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -13203,7 +13203,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 12.2,
      "phone": "314-388-9840",
-     "hours": "Monday 9:00 AM - 4:00 PM Tuesday 9:00 AM - 4:00 PM Wednesday 9:00 AM - 4:00 PM Thursday 9:00 AM - 4:00 PM Friday 9:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -13245,7 +13245,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 13.7,
      "phone": "314-660-3621",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -13610,7 +13610,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63010",
      "distance_mi": 8.2,
      "phone": "636-287-3663",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 11:00 AM - 3:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 11:00 AM - 3:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -13631,7 +13631,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63020",
      "distance_mi": 24.0,
      "phone": "636-586-7300",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -13652,7 +13652,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63049",
      "distance_mi": 2.1,
      "phone": "636-677-9885",
-     "hours": "Monday Closed Tuesday 8:00 AM - 2:00 PM Wednesday 8:00 AM - 2:00 PM Thursday 8:00 AM - 2:00 PM Friday 8:00 AM - 2:00 PM Saturday 9:30 AM - 12:30 PM Sunday Closed",
+     "hours": "Mon closed, Tue-Fri 8:00 AM - 2:00 PM, Sat 9:30 AM - 12:30 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -13673,7 +13673,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63028",
      "distance_mi": 19.2,
      "phone": "636-937-6205",
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -13694,7 +13694,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63049",
      "distance_mi": 1.4,
      "phone": "877-238-3228",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 3:00 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 3:00 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -13715,7 +13715,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63050",
      "distance_mi": 17.7,
      "phone": "636-789-5920",
-     "hours": "Monday Closed Tuesday 7:00 AM - 12:00 PM Wednesday 7:00 AM - 12:00 PM Thursday 7:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Thu 7:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -13736,7 +13736,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63070",
      "distance_mi": 15.5,
      "phone": "636-475-3030",
-     "hours": "Monday 9:30 AM - 2:30 PM Tuesday 9:30 AM - 2:30 PM Wednesday 9:30 AM - 2:30 PM Thursday 9:30 AM - 2:30 PM Friday 9:30 AM - 2:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:30 AM - 2:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -13757,7 +13757,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63028",
      "distance_mi": 19.3,
      "phone": "636-937-4999",
-     "hours": "Monday 12:00 PM - 1:00 PM Tuesday 12:00 PM - 1:00 PM Wednesday 12:00 PM - 1:00 PM Thursday Closed Friday 12:00 PM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 12:00 PM - 1:00 PM, Thu closed, Fri 12:00 PM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -13778,7 +13778,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63028",
      "distance_mi": 19.1,
      "phone": "636-933-9974",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 12:00 PM Saturday 8:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 12:00 PM, Sat 8:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -13820,7 +13820,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 11.1,
      "phone": "636-285-0934",
-     "hours": "Monday Closed Tuesday Closed Wednesday 6:30 PM - 5:00 PM Thursday 8:30 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 6:30 PM - 5:00 PM, Thu 8:30 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -13841,7 +13841,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63052",
      "distance_mi": 10.6,
      "phone": "636-464-7580",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 8:00 AM - 10:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 8:00 AM - 10:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -14038,7 +14038,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63010",
      "distance_mi": 16.4,
      "phone": "636-287-3663",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 11:00 AM - 3:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 11:00 AM - 3:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -14059,7 +14059,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63020",
      "distance_mi": 8.9,
      "phone": "636-586-7300",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -14080,7 +14080,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63049",
      "distance_mi": 13.4,
      "phone": "636-677-9885",
-     "hours": "Monday Closed Tuesday 8:00 AM - 2:00 PM Wednesday 8:00 AM - 2:00 PM Thursday 8:00 AM - 2:00 PM Friday 8:00 AM - 2:00 PM Saturday 9:30 AM - 12:30 PM Sunday Closed",
+     "hours": "Mon closed, Tue-Fri 8:00 AM - 2:00 PM, Sat 9:30 AM - 12:30 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -14101,7 +14101,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63028",
      "distance_mi": 10.4,
      "phone": "636-937-6205",
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -14122,7 +14122,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63049",
      "distance_mi": 14.1,
      "phone": "877-238-3228",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 3:00 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 3:00 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -14143,7 +14143,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63050",
      "distance_mi": 2.4,
      "phone": "636-789-5920",
-     "hours": "Monday Closed Tuesday 7:00 AM - 12:00 PM Wednesday 7:00 AM - 12:00 PM Thursday 7:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Thu 7:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -14164,7 +14164,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63070",
      "distance_mi": 10.4,
      "phone": "636-475-3030",
-     "hours": "Monday 9:30 AM - 2:30 PM Tuesday 9:30 AM - 2:30 PM Wednesday 9:30 AM - 2:30 PM Thursday 9:30 AM - 2:30 PM Friday 9:30 AM - 2:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:30 AM - 2:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -14185,7 +14185,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63028",
      "distance_mi": 9.1,
      "phone": "636-937-4999",
-     "hours": "Monday 12:00 PM - 1:00 PM Tuesday 12:00 PM - 1:00 PM Wednesday 12:00 PM - 1:00 PM Thursday Closed Friday 12:00 PM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 12:00 PM - 1:00 PM, Thu closed, Fri 12:00 PM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -14206,7 +14206,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63028",
      "distance_mi": 10.1,
      "phone": "636-933-9974",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 12:00 PM Saturday 8:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 12:00 PM, Sat 8:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -14248,7 +14248,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 7.4,
      "phone": "636-285-0934",
-     "hours": "Monday Closed Tuesday Closed Wednesday 6:30 PM - 5:00 PM Thursday 8:30 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 6:30 PM - 5:00 PM, Thu 8:30 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -14269,7 +14269,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63052",
      "distance_mi": 12.8,
      "phone": "636-464-7580",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 8:00 AM - 10:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 8:00 AM - 10:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -14466,7 +14466,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63010",
      "distance_mi": 4.2,
      "phone": "636-287-3663",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 11:00 AM - 3:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 11:00 AM - 3:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -14487,7 +14487,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63020",
      "distance_mi": 19.1,
      "phone": "636-586-7300",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -14508,7 +14508,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63049",
      "distance_mi": 7.0,
      "phone": "636-677-9885",
-     "hours": "Monday Closed Tuesday 8:00 AM - 2:00 PM Wednesday 8:00 AM - 2:00 PM Thursday 8:00 AM - 2:00 PM Friday 8:00 AM - 2:00 PM Saturday 9:30 AM - 12:30 PM Sunday Closed",
+     "hours": "Mon closed, Tue-Fri 8:00 AM - 2:00 PM, Sat 9:30 AM - 12:30 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -14529,7 +14529,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63028",
      "distance_mi": 12.1,
      "phone": "636-937-6205",
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -14550,7 +14550,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63049",
      "distance_mi": 7.2,
      "phone": "877-238-3228",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 3:00 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 3:00 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -14571,7 +14571,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63050",
      "distance_mi": 14.0,
      "phone": "636-789-5920",
-     "hours": "Monday Closed Tuesday 7:00 AM - 12:00 PM Wednesday 7:00 AM - 12:00 PM Thursday 7:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Thu 7:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -14592,7 +14592,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63070",
      "distance_mi": 8.1,
      "phone": "636-475-3030",
-     "hours": "Monday 9:30 AM - 2:30 PM Tuesday 9:30 AM - 2:30 PM Wednesday 9:30 AM - 2:30 PM Thursday 9:30 AM - 2:30 PM Friday 9:30 AM - 2:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:30 AM - 2:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -14613,7 +14613,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63028",
      "distance_mi": 12.6,
      "phone": "636-937-4999",
-     "hours": "Monday 12:00 PM - 1:00 PM Tuesday 12:00 PM - 1:00 PM Wednesday 12:00 PM - 1:00 PM Thursday Closed Friday 12:00 PM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 12:00 PM - 1:00 PM, Thu closed, Fri 12:00 PM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -14634,7 +14634,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63028",
      "distance_mi": 12.0,
      "phone": "636-933-9974",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 12:00 PM Saturday 8:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 12:00 PM, Sat 8:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -14676,7 +14676,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 12.2,
      "phone": "636-285-0934",
-     "hours": "Monday Closed Tuesday Closed Wednesday 6:30 PM - 5:00 PM Thursday 8:30 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 6:30 PM - 5:00 PM, Thu 8:30 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -14697,7 +14697,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63052",
      "distance_mi": 2.8,
      "phone": "636-464-7580",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 8:00 AM - 10:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 8:00 AM - 10:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -14873,7 +14873,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63069",
      "distance_mi": 3.4,
      "phone": "636-271-5315",
-     "hours": "Monday 9:00 AM - 1:00 PM Tuesday 9:00 AM - 5:00 PM Wednesday Closed Thursday 9:00 AM - 7:00 PM Friday 9:00 AM - 1:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon 9:00 AM - 1:00 PM, Tue 9:00 AM - 5:00 PM, Wed closed, Thu 9:00 AM - 7:00 PM, Fri-Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -14894,7 +14894,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63077",
      "distance_mi": 18.8,
      "phone": "636-629-0053",
-     "hours": "Monday 12:00 PM - 3:00 PM Tuesday Closed Wednesday Closed Thursday 11:00 AM - 3:00 PM Friday 1:00 PM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 12:00 PM - 3:00 PM, Tue-Wed closed, Thu 11:00 AM - 3:00 PM, Fri 1:00 PM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -14915,7 +14915,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63077",
      "distance_mi": 18.8,
      "phone": "636-629-0053",
-     "hours": "Monday 12:00 PM - 3:00 PM Tuesday Closed Wednesday Closed Thursday 11:00 AM - 3:00 PM Friday 1:00 PM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 12:00 PM - 3:00 PM, Tue-Wed closed, Thu 11:00 AM - 3:00 PM, Fri 1:00 PM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -14957,7 +14957,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63090",
      "distance_mi": 19.5,
      "phone": "636-390-8300",
-     "hours": "Monday 9:00 AM - 2:00 PM Tuesday Closed Wednesday 9:00 AM - 2:00 PM Thursday Closed Friday 9:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 2:00 PM, Tue closed, Wed 9:00 AM - 2:00 PM, Thu closed, Fri 9:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -14978,7 +14978,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63084",
      "distance_mi": 16.1,
      "phone": "636-649-4545",
-     "hours": "Monday Closed Tuesday 5:30 PM - 7:00 PM Wednesday Closed Thursday 1:30 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 5:30 PM - 7:00 PM, Wed closed, Thu 1:30 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -14999,7 +14999,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63090",
      "distance_mi": 17.8,
      "phone": null,
-     "hours": "Monday 4:00 PM - 5:30 PM Tuesday Closed Wednesday Closed Thursday 4:00 PM - 5:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 4:00 PM - 5:30 PM, Tue-Wed closed, Thu 4:00 PM - 5:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -15196,7 +15196,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63010",
      "distance_mi": 10.7,
      "phone": "636-287-3663",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 11:00 AM - 3:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 11:00 AM - 3:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -15217,7 +15217,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63020",
      "distance_mi": 12.8,
      "phone": "636-586-7300",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -15238,7 +15238,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63049",
      "distance_mi": 12.9,
      "phone": "636-677-9885",
-     "hours": "Monday Closed Tuesday 8:00 AM - 2:00 PM Wednesday 8:00 AM - 2:00 PM Thursday 8:00 AM - 2:00 PM Friday 8:00 AM - 2:00 PM Saturday 9:30 AM - 12:30 PM Sunday Closed",
+     "hours": "Mon closed, Tue-Fri 8:00 AM - 2:00 PM, Sat 9:30 AM - 12:30 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -15259,7 +15259,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63028",
      "distance_mi": 4.9,
      "phone": "636-937-6205",
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -15280,7 +15280,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63049",
      "distance_mi": 13.4,
      "phone": "877-238-3228",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 3:00 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 3:00 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -15301,7 +15301,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63050",
      "distance_mi": 9.3,
      "phone": "636-789-5920",
-     "hours": "Monday Closed Tuesday 7:00 AM - 12:00 PM Wednesday 7:00 AM - 12:00 PM Thursday 7:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Thu 7:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -15322,7 +15322,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63070",
      "distance_mi": 1.7,
      "phone": "636-475-3030",
-     "hours": "Monday 9:30 AM - 2:30 PM Tuesday 9:30 AM - 2:30 PM Wednesday 9:30 AM - 2:30 PM Thursday 9:30 AM - 2:30 PM Friday 9:30 AM - 2:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:30 AM - 2:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -15343,7 +15343,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63028",
      "distance_mi": 5.3,
      "phone": "636-937-4999",
-     "hours": "Monday 12:00 PM - 1:00 PM Tuesday 12:00 PM - 1:00 PM Wednesday 12:00 PM - 1:00 PM Thursday Closed Friday 12:00 PM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 12:00 PM - 1:00 PM, Thu closed, Fri 12:00 PM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -15364,7 +15364,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63028",
      "distance_mi": 4.8,
      "phone": "636-933-9974",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 12:00 PM Saturday 8:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 12:00 PM, Sat 8:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -15406,7 +15406,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 13.2,
      "phone": "636-285-0934",
-     "hours": "Monday Closed Tuesday Closed Wednesday 6:30 PM - 5:00 PM Thursday 8:30 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 6:30 PM - 5:00 PM, Thu 8:30 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -15427,7 +15427,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63052",
      "distance_mi": 5.8,
      "phone": "636-464-7580",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 8:00 AM - 10:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 8:00 AM - 10:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -15645,7 +15645,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63071",
      "distance_mi": 1.0,
      "phone": "573-678-2005",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday 8:00 AM - 10:00 AM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 1:00 PM, Thu-Fri closed, Sat 8:00 AM - 10:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -15800,7 +15800,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63123",
      "distance_mi": 12.6,
      "phone": "314-580-3138",
-     "hours": "Monday 12:30 PM - 2:30 PM Tuesday 4:00 PM - 6:30 PM Wednesday Closed Thursday 6:00 PM - 8:00 PM Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon 12:30 PM - 2:30 PM, Tue 4:00 PM - 6:30 PM, Wed closed, Thu 6:00 PM - 8:00 PM, Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -15821,7 +15821,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 6.3,
      "phone": "314-862-0038",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 12:00 PM Thursday 11:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 11:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -15863,7 +15863,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 8.5,
      "phone": "314-716-2711",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -15884,7 +15884,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 5.1,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday 9:30 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -15905,7 +15905,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 4.8,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 9:30 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 9:30 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -15926,7 +15926,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 2.0,
      "phone": "314-863-0015",
-     "hours": "Monday Closed Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday Closed Friday 8:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:00 AM - 3:00 PM, Thu closed, Fri 8:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -15968,7 +15968,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 6.9,
      "phone": "314-388-1211",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -15989,7 +15989,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63088",
      "distance_mi": 13.3,
      "phone": "636-861-2623",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 7:00 PM Thursday 1:00 PM - 5:00 PM Friday 9:00 AM - 3:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue 9:00 AM - 3:00 PM, Wed 9:00 AM - 7:00 PM, Thu 1:00 PM - 5:00 PM, Fri 9:00 AM - 3:00 PM, Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16010,7 +16010,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 3.7,
      "phone": "314-680-9101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16031,7 +16031,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 3.4,
      "phone": "314-521-1122",
-     "hours": "Monday Closed Tuesday 11:00 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16073,7 +16073,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63044",
      "distance_mi": 2.6,
      "phone": "314-770-2216",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 10:00 AM - 2:00 PM, Wed 10:00 AM - 12:00 PM, Thu 10:00 AM - 2:00 PM, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16094,7 +16094,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 10.3,
      "phone": "314-438-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16115,7 +16115,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 5.0,
      "phone": null,
-     "hours": "Monday 12:00 PM - 5:00 PM Tuesday 12:00 PM - 5:00 PM Wednesday 12:00 PM - 5:00 PM Thursday 12:00 PM - 5:00 PM Friday 1:00 PM - 5:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 12:00 PM - 5:00 PM, Fri 1:00 PM - 5:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16136,7 +16136,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63045",
      "distance_mi": 4.8,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 4:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16157,7 +16157,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63127",
      "distance_mi": 14.5,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 4:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 4:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16178,7 +16178,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63125",
      "distance_mi": 15.4,
      "phone": "314-631-4900",
-     "hours": "Monday 10:00 AM - 3:00 PM Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 10:00 AM - 3:00 PM Friday 10:00 AM - 3:00 PM Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 3:00 PM, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16199,7 +16199,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 8.9,
      "phone": "314-867-2782",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:30 AM - 12:30 PM Thursday Closed Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:30 AM - 12:30 PM, Thu-Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16220,7 +16220,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 2.1,
      "phone": "314-291-1915",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16241,7 +16241,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63142",
      "distance_mi": 2.8,
      "phone": "314-513-1672",
-     "hours": "Monday 9:00 AM - 3:30 PM Tuesday 9:00 AM - 3:30 PM Wednesday 9:00 AM - 3:30 PM Thursday 9:00 AM - 3:30 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 9:00 AM - 3:30 PM, Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16262,7 +16262,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 10.2,
      "phone": null,
-     "hours": "Monday 11:15 AM - 11:30 AM Tuesday 11:15 AM - 11:30 AM Wednesday 11:15 AM - 11:30 AM Thursday 11:15 AM - 11:30 AM Friday 11:15 AM - 11:30 AM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 11:15 AM - 11:30 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16283,7 +16283,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 11.0,
      "phone": "314-741-5667",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16304,7 +16304,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63033",
      "distance_mi": 9.3,
      "phone": "314-741-4222",
-     "hours": "Monday Closed Tuesday 9:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16346,7 +16346,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 2.4,
      "phone": "314-329-4262",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday 11:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Fri closed, Sat 11:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16388,7 +16388,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 8.8,
      "phone": "314-719-2929",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16430,7 +16430,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 7.0,
      "phone": "314-922-8903",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16451,7 +16451,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63122",
      "distance_mi": 11.1,
      "phone": "314-822-4760",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16472,7 +16472,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 11.2,
      "phone": "314-961-6854",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 5:30 PM Thursday Closed Friday Closed Saturday Closed Sunday 11:30 AM - 1:00 PM",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 5:30 PM, Thu-Sat closed, Sun 11:30 AM - 1:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16514,7 +16514,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 1.3,
      "phone": "314-426-0101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16535,7 +16535,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 6.8,
      "phone": "314-868-0707",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday 10:00 AM - 12:00 PM",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 12:00 PM, Thu-Sat closed, Sun 10:00 AM - 12:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16556,7 +16556,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 4.6,
      "phone": "314-522-9264",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16577,7 +16577,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 6.3,
      "phone": "314-261-5266",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16598,7 +16598,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 9.4,
      "phone": null,
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16619,7 +16619,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 2.2,
      "phone": "314-427-7204",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:30 AM Wednesday 9:00 AM - 11:30 AM Thursday Closed Friday 9:00 AM - 11:30 AM Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 9:00 AM - 11:30 AM, Thu closed, Fri-Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16808,7 +16808,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 2.4,
      "phone": "314-423-7770",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 1:00 PM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 8:30 AM - 4:30 PM, Wed 1:00 PM - 4:30 PM, Thu-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16829,7 +16829,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63133",
      "distance_mi": 6.5,
      "phone": "314-382-7158",
-     "hours": "Monday Closed Tuesday 8:30 AM - 11:30 AM Wednesday 8:30 AM - 11:30 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:30 AM - 11:30 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16850,7 +16850,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 5.8,
      "phone": "314-382-8833",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16871,7 +16871,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 1.8,
      "phone": "314-429-0216",
-     "hours": "Monday Closed Tuesday 10:30 AM - 1:00 PM Wednesday Closed Thursday 10:30 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:30 AM - 1:00 PM, Wed closed, Thu 10:30 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16892,7 +16892,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 5.6,
      "phone": "314-261-0202",
-     "hours": "Monday 8:00 AM - 3:00 PM Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday 8:00 AM - 3:00 PM Friday 8:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 8:00 AM - 3:00 PM, Fri 8:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16913,7 +16913,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 9.7,
      "phone": "314-647-5611",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16934,7 +16934,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63031",
      "distance_mi": 5.6,
      "phone": "314-831-0879",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16976,7 +16976,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 6.5,
      "phone": "314-725-3840",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -16997,7 +16997,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 2.2,
      "phone": "314-427-2273",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -17018,7 +17018,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 5.8,
      "phone": "314-721-2722",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -17039,7 +17039,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 7.7,
      "phone": "314-388-9840",
-     "hours": "Monday 9:00 AM - 4:00 PM Tuesday 9:00 AM - 4:00 PM Wednesday 9:00 AM - 4:00 PM Thursday 9:00 AM - 4:00 PM Friday 9:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -17081,7 +17081,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 9.7,
      "phone": "314-660-3621",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -17425,7 +17425,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63069",
      "distance_mi": 15.8,
      "phone": "636-271-5315",
-     "hours": "Monday 9:00 AM - 1:00 PM Tuesday 9:00 AM - 5:00 PM Wednesday Closed Thursday 9:00 AM - 7:00 PM Friday 9:00 AM - 1:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon 9:00 AM - 1:00 PM, Tue 9:00 AM - 5:00 PM, Wed closed, Thu 9:00 AM - 7:00 PM, Fri-Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -17446,7 +17446,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63077",
      "distance_mi": 1.9,
      "phone": "636-629-0053",
-     "hours": "Monday 12:00 PM - 3:00 PM Tuesday Closed Wednesday Closed Thursday 11:00 AM - 3:00 PM Friday 1:00 PM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 12:00 PM - 3:00 PM, Tue-Wed closed, Thu 11:00 AM - 3:00 PM, Fri 1:00 PM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -17467,7 +17467,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63077",
      "distance_mi": 1.9,
      "phone": "636-629-0053",
-     "hours": "Monday 12:00 PM - 3:00 PM Tuesday Closed Wednesday Closed Thursday 11:00 AM - 3:00 PM Friday 1:00 PM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 12:00 PM - 3:00 PM, Tue-Wed closed, Thu 11:00 AM - 3:00 PM, Fri 1:00 PM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -17509,7 +17509,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63090",
      "distance_mi": 17.3,
      "phone": "636-390-8300",
-     "hours": "Monday 9:00 AM - 2:00 PM Tuesday Closed Wednesday 9:00 AM - 2:00 PM Thursday Closed Friday 9:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 2:00 PM, Tue closed, Wed 9:00 AM - 2:00 PM, Thu closed, Fri 9:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -17530,7 +17530,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63084",
      "distance_mi": 8.2,
      "phone": "636-649-4545",
-     "hours": "Monday Closed Tuesday 5:30 PM - 7:00 PM Wednesday Closed Thursday 1:30 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 5:30 PM - 7:00 PM, Wed closed, Thu 1:30 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -17551,7 +17551,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63090",
      "distance_mi": 16.1,
      "phone": null,
-     "hours": "Monday 4:00 PM - 5:30 PM Tuesday Closed Wednesday Closed Thursday 4:00 PM - 5:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 4:00 PM - 5:30 PM, Tue-Wed closed, Thu 4:00 PM - 5:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -17727,7 +17727,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63069",
      "distance_mi": 14.2,
      "phone": "636-271-5315",
-     "hours": "Monday 9:00 AM - 1:00 PM Tuesday 9:00 AM - 5:00 PM Wednesday Closed Thursday 9:00 AM - 7:00 PM Friday 9:00 AM - 1:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon 9:00 AM - 1:00 PM, Tue 9:00 AM - 5:00 PM, Wed closed, Thu 9:00 AM - 7:00 PM, Fri-Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -17748,7 +17748,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63077",
      "distance_mi": 5.9,
      "phone": "636-629-0053",
-     "hours": "Monday 12:00 PM - 3:00 PM Tuesday Closed Wednesday Closed Thursday 11:00 AM - 3:00 PM Friday 1:00 PM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 12:00 PM - 3:00 PM, Tue-Wed closed, Thu 11:00 AM - 3:00 PM, Fri 1:00 PM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -17769,7 +17769,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63077",
      "distance_mi": 5.9,
      "phone": "636-629-0053",
-     "hours": "Monday 12:00 PM - 3:00 PM Tuesday Closed Wednesday Closed Thursday 11:00 AM - 3:00 PM Friday 1:00 PM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 12:00 PM - 3:00 PM, Tue-Wed closed, Thu 11:00 AM - 3:00 PM, Fri 1:00 PM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -17811,7 +17811,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63090",
      "distance_mi": 10.7,
      "phone": "636-390-8300",
-     "hours": "Monday 9:00 AM - 2:00 PM Tuesday Closed Wednesday 9:00 AM - 2:00 PM Thursday Closed Friday 9:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 2:00 PM, Tue closed, Wed 9:00 AM - 2:00 PM, Thu closed, Fri 9:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -17832,7 +17832,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63084",
      "distance_mi": 1.8,
      "phone": "636-649-4545",
-     "hours": "Monday Closed Tuesday 5:30 PM - 7:00 PM Wednesday Closed Thursday 1:30 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 5:30 PM - 7:00 PM, Wed closed, Thu 1:30 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -17853,7 +17853,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63090",
      "distance_mi": 9.6,
      "phone": null,
-     "hours": "Monday 4:00 PM - 5:30 PM Tuesday Closed Wednesday Closed Thursday 4:00 PM - 5:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 4:00 PM - 5:30 PM, Tue-Wed closed, Thu 4:00 PM - 5:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18029,7 +18029,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63123",
      "distance_mi": 10.8,
      "phone": "314-580-3138",
-     "hours": "Monday 12:30 PM - 2:30 PM Tuesday 4:00 PM - 6:30 PM Wednesday Closed Thursday 6:00 PM - 8:00 PM Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon 12:30 PM - 2:30 PM, Tue 4:00 PM - 6:30 PM, Wed closed, Thu 6:00 PM - 8:00 PM, Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18050,7 +18050,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 13.4,
      "phone": "314-862-0038",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 12:00 PM Thursday 11:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 11:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18092,7 +18092,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 11.3,
      "phone": "314-716-2711",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18113,7 +18113,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 17.7,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday 9:30 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18134,7 +18134,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 17.2,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 9:30 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 9:30 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18155,7 +18155,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 13.3,
      "phone": "314-863-0015",
-     "hours": "Monday Closed Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday Closed Friday 8:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:00 AM - 3:00 PM, Thu closed, Fri 8:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18197,7 +18197,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 18.3,
      "phone": "314-388-1211",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18218,7 +18218,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63088",
      "distance_mi": 0.6,
      "phone": "636-861-2623",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 7:00 PM Thursday 1:00 PM - 5:00 PM Friday 9:00 AM - 3:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue 9:00 AM - 3:00 PM, Wed 9:00 AM - 7:00 PM, Thu 1:00 PM - 5:00 PM, Fri 9:00 AM - 3:00 PM, Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18239,7 +18239,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 12.3,
      "phone": "314-680-9101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18260,7 +18260,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 16.6,
      "phone": "314-521-1122",
-     "hours": "Monday Closed Tuesday 11:00 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18302,7 +18302,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63044",
      "distance_mi": 14.7,
      "phone": "314-770-2216",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 10:00 AM - 2:00 PM, Wed 10:00 AM - 12:00 PM, Thu 10:00 AM - 2:00 PM, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18323,7 +18323,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 22.8,
      "phone": "314-438-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18344,7 +18344,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 15.3,
      "phone": null,
-     "hours": "Monday 12:00 PM - 5:00 PM Tuesday 12:00 PM - 5:00 PM Wednesday 12:00 PM - 5:00 PM Thursday 12:00 PM - 5:00 PM Friday 1:00 PM - 5:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 12:00 PM - 5:00 PM, Fri 1:00 PM - 5:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18365,7 +18365,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63045",
      "distance_mi": 14.7,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 4:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18386,7 +18386,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63127",
      "distance_mi": 4.9,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 4:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 4:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18407,7 +18407,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63125",
      "distance_mi": 12.1,
      "phone": "314-631-4900",
-     "hours": "Monday 10:00 AM - 3:00 PM Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 10:00 AM - 3:00 PM Friday 10:00 AM - 3:00 PM Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 3:00 PM, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18428,7 +18428,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 20.3,
      "phone": "314-867-2782",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:30 AM - 12:30 PM Thursday Closed Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:30 AM - 12:30 PM, Thu-Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18449,7 +18449,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 13.0,
      "phone": "314-291-1915",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18470,7 +18470,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63142",
      "distance_mi": 11.1,
      "phone": "314-513-1672",
-     "hours": "Monday 9:00 AM - 3:30 PM Tuesday 9:00 AM - 3:30 PM Wednesday 9:00 AM - 3:30 PM Thursday 9:00 AM - 3:30 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 9:00 AM - 3:30 PM, Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18491,7 +18491,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 22.7,
      "phone": null,
-     "hours": "Monday 11:15 AM - 11:30 AM Tuesday 11:15 AM - 11:30 AM Wednesday 11:15 AM - 11:30 AM Thursday 11:15 AM - 11:30 AM Friday 11:15 AM - 11:30 AM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 11:15 AM - 11:30 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18512,7 +18512,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 23.2,
      "phone": "314-741-5667",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18533,7 +18533,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63033",
      "distance_mi": 22.5,
      "phone": "314-741-4222",
-     "hours": "Monday Closed Tuesday 9:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18575,7 +18575,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 11.5,
      "phone": "314-329-4262",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday 11:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Fri closed, Sat 11:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18617,7 +18617,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 10.9,
      "phone": "314-719-2929",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18659,7 +18659,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 17.4,
      "phone": "314-922-8903",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18680,7 +18680,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63122",
      "distance_mi": 5.6,
      "phone": "314-822-4760",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18701,7 +18701,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 8.0,
      "phone": "314-961-6854",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 5:30 PM Thursday Closed Friday Closed Saturday Closed Sunday 11:30 AM - 1:00 PM",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 5:30 PM, Thu-Sat closed, Sun 11:30 AM - 1:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18743,7 +18743,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 14.5,
      "phone": "314-426-0101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18764,7 +18764,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 18.3,
      "phone": "314-868-0707",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday 10:00 AM - 12:00 PM",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 12:00 PM, Thu-Sat closed, Sun 10:00 AM - 12:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18785,7 +18785,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 16.5,
      "phone": "314-522-9264",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18806,7 +18806,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 15.8,
      "phone": "314-261-5266",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18827,7 +18827,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 21.2,
      "phone": null,
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -18848,7 +18848,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 12.8,
      "phone": "314-427-7204",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:30 AM Wednesday 9:00 AM - 11:30 AM Thursday Closed Friday 9:00 AM - 11:30 AM Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 9:00 AM - 11:30 AM, Thu closed, Fri-Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -19037,7 +19037,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 11.4,
      "phone": "314-423-7770",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 1:00 PM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 8:30 AM - 4:30 PM, Wed 1:00 PM - 4:30 PM, Thu-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -19058,7 +19058,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63133",
      "distance_mi": 14.7,
      "phone": "314-382-7158",
-     "hours": "Monday Closed Tuesday 8:30 AM - 11:30 AM Wednesday 8:30 AM - 11:30 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:30 AM - 11:30 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -19079,7 +19079,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 14.8,
      "phone": "314-382-8833",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -19100,7 +19100,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 13.7,
      "phone": "314-429-0216",
-     "hours": "Monday Closed Tuesday 10:30 AM - 1:00 PM Wednesday Closed Thursday 10:30 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:30 AM - 1:00 PM, Wed closed, Thu 10:30 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -19121,7 +19121,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 15.5,
      "phone": "314-261-0202",
-     "hours": "Monday 8:00 AM - 3:00 PM Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday 8:00 AM - 3:00 PM Friday 8:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 8:00 AM - 3:00 PM, Fri 8:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -19142,7 +19142,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 9.8,
      "phone": "314-647-5611",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -19163,7 +19163,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63031",
      "distance_mi": 19.3,
      "phone": "314-831-0879",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -19205,7 +19205,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 12.7,
      "phone": "314-725-3840",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -19226,7 +19226,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 12.4,
      "phone": "314-427-2273",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -19247,7 +19247,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 12.8,
      "phone": "314-721-2722",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -19268,7 +19268,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 18.5,
      "phone": "314-388-9840",
-     "hours": "Monday 9:00 AM - 4:00 PM Tuesday 9:00 AM - 4:00 PM Wednesday 9:00 AM - 4:00 PM Thursday 9:00 AM - 4:00 PM Friday 9:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -19310,7 +19310,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 20.9,
      "phone": "314-660-3621",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -19654,7 +19654,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63069",
      "distance_mi": 15.6,
      "phone": "636-271-5315",
-     "hours": "Monday 9:00 AM - 1:00 PM Tuesday 9:00 AM - 5:00 PM Wednesday Closed Thursday 9:00 AM - 7:00 PM Friday 9:00 AM - 1:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon 9:00 AM - 1:00 PM, Tue 9:00 AM - 5:00 PM, Wed closed, Thu 9:00 AM - 7:00 PM, Fri-Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -19675,7 +19675,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63077",
      "distance_mi": 13.8,
      "phone": "636-629-0053",
-     "hours": "Monday 12:00 PM - 3:00 PM Tuesday Closed Wednesday Closed Thursday 11:00 AM - 3:00 PM Friday 1:00 PM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 12:00 PM - 3:00 PM, Tue-Wed closed, Thu 11:00 AM - 3:00 PM, Fri 1:00 PM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -19696,7 +19696,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63077",
      "distance_mi": 13.8,
      "phone": "636-629-0053",
-     "hours": "Monday 12:00 PM - 3:00 PM Tuesday Closed Wednesday Closed Thursday 11:00 AM - 3:00 PM Friday 1:00 PM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 12:00 PM - 3:00 PM, Tue-Wed closed, Thu 11:00 AM - 3:00 PM, Fri 1:00 PM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -19738,7 +19738,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63090",
      "distance_mi": 2.8,
      "phone": "636-390-8300",
-     "hours": "Monday 9:00 AM - 2:00 PM Tuesday Closed Wednesday 9:00 AM - 2:00 PM Thursday Closed Friday 9:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 2:00 PM, Tue closed, Wed 9:00 AM - 2:00 PM, Thu closed, Fri 9:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -19759,7 +19759,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63084",
      "distance_mi": 6.6,
      "phone": "636-649-4545",
-     "hours": "Monday Closed Tuesday 5:30 PM - 7:00 PM Wednesday Closed Thursday 1:30 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 5:30 PM - 7:00 PM, Wed closed, Thu 1:30 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -19780,7 +19780,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63090",
      "distance_mi": 2.5,
      "phone": null,
-     "hours": "Monday 4:00 PM - 5:30 PM Tuesday Closed Wednesday Closed Thursday 4:00 PM - 5:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 4:00 PM - 5:30 PM, Tue-Wed closed, Thu 4:00 PM - 5:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -19998,7 +19998,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 5.8,
      "phone": "314-353-1005",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 11:00 AM, Wed-Thu closed, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20019,7 +20019,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 4.7,
      "phone": "314-361-6446",
-     "hours": "Monday Closed Tuesday 12:00 PM - 1:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 1:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20061,7 +20061,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 5.8,
      "phone": "314-261-3766",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 10:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 10:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20082,7 +20082,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 3.7,
      "phone": "314-772-8444",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday 10:00 AM - 4:00 PM Friday Closed Saturday 1:00 PM - 2:30 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 10:00 AM - 4:00 PM, Fri closed, Sat 1:00 PM - 2:30 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20103,7 +20103,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 4.3,
      "phone": "314-367-2974",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 8:00 AM - 10:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 8:00 AM - 10:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20124,7 +20124,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 2.3,
      "phone": "314-977-3881",
-     "hours": "Monday 3:30 PM - 5:30 PM Tuesday 3:30 PM - 5:30 PM Wednesday 3:30 PM - 5:30 PM Thursday 3:30 PM - 5:30 PM Friday Closed Saturday Closed Sunday 3:30 PM - 5:30 PM",
+     "hours": "Mon-Thu 3:30 PM - 5:30 PM, Fri-Sat closed, Sun 3:30 PM - 5:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20145,7 +20145,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 4.1,
      "phone": "314-367-1818",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20166,7 +20166,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 3.9,
      "phone": "314-776-7172",
-     "hours": "Monday 12:30 PM - 1:00 PM Tuesday Closed Wednesday Closed Thursday 12:30 PM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 12:30 PM - 1:00 PM, Tue-Wed closed, Thu 12:30 PM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20187,7 +20187,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 6.4,
      "phone": "314-382-8759",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20208,7 +20208,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 2.1,
      "phone": "314-768-3201",
-     "hours": "Monday 9:00 AM - 12:00 PM Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon 9:00 AM - 12:00 PM, Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20229,7 +20229,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 4.4,
      "phone": "314-367-9130",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20250,7 +20250,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 1.1,
      "phone": "314-482-2594",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday Closed Thursday 9:00 AM - 11:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue-Wed closed, Thu 9:00 AM - 11:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20271,7 +20271,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 5.2,
      "phone": "314-696-2939",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20313,7 +20313,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 3.6,
      "phone": "314-744-9693",
-     "hours": "Monday Closed Tuesday 12:00 PM - 2:30 PM Wednesday Closed Thursday 12:00 PM - 2:30 PM Friday Closed Saturday 12:00 PM - 3:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 2:30 PM, Wed closed, Thu 12:00 PM - 2:30 PM, Fri closed, Sat 12:00 PM - 3:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20334,7 +20334,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 7.0,
      "phone": "314-584-6960",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday Closed Wednesday 10:00 AM - 2:00 PM Thursday Closed Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 2:00 PM, Tue closed, Wed 10:00 AM - 2:00 PM, Thu closed, Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20355,7 +20355,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 5.9,
      "phone": "314-863-1992",
-     "hours": "Monday Closed Tuesday 10:00 AM - 11:30 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 11:30 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20376,7 +20376,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 3.8,
      "phone": "314-535-9002",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20397,7 +20397,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 3.2,
      "phone": "314-773-9027",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 8:30 AM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20418,7 +20418,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 2.9,
      "phone": "314-776-1410",
-     "hours": "Monday 9:00 AM - 11:00 AM Tuesday 10:00 AM - 1:00 PM Wednesday 10:00 AM - 1:00 PM Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 11:00 AM, Tue-Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20439,7 +20439,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 1.2,
      "phone": "314-421-0400",
-     "hours": "Monday 6:00 AM - 8:00 PM Tuesday 6:00 AM - 8:00 PM Wednesday 6:00 AM - 8:00 PM Thursday 6:00 AM - 8:00 PM Friday 6:00 AM - 8:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 6:00 AM - 8:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20460,7 +20460,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63110",
      "distance_mi": 3.4,
      "phone": "314-600-0239",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20481,7 +20481,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 6.2,
      "phone": "314-452-6880",
-     "hours": "Monday Closed Tuesday 5:00 PM - 6:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 5:00 PM - 6:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20523,7 +20523,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 6.0,
      "phone": "314-727-3550",
-     "hours": "Monday Closed Tuesday 11:30 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:30 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20544,7 +20544,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 3.5,
      "phone": "314-534-7026",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20565,7 +20565,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 4.7,
      "phone": "314-361-7878",
-     "hours": "Monday 11:30 AM - 1:00 PM Tuesday 11:30 AM - 1:00 PM Wednesday 11:30 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 11:30 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20586,7 +20586,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 4.8,
      "phone": "314-832-2142",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20607,7 +20607,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 3.2,
      "phone": "314-535-9794",
-     "hours": "Monday Closed Tuesday 9:00 AM - 12:00 PM Wednesday Closed Thursday 9:00 AM - 12:00 PM Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 12:00 PM, Wed closed, Thu 9:00 AM - 12:00 PM, Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20628,7 +20628,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 6.3,
      "phone": "314-353-1457",
-     "hours": "Monday 9:00 AM - 2:00 PM Tuesday 9:00 AM - 2:00 PM Wednesday 9:00 AM - 2:00 PM Thursday 9:00 AM - 2:00 PM Friday 9:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20649,7 +20649,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63120",
      "distance_mi": 6.0,
      "phone": "314-862-6270",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20691,7 +20691,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 2.2,
      "phone": "314-766-6145",
-     "hours": "Monday Closed Tuesday Closed Wednesday 3:30 PM - 5:30 PM Thursday Closed Friday 3:30 PM - 5:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 3:30 PM - 5:30 PM, Thu closed, Fri 3:30 PM - 5:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20712,7 +20712,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 6.9,
      "phone": "314-867-3773",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20964,7 +20964,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 3.6,
      "phone": "314-367-0366",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -20985,7 +20985,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 4.4,
      "phone": "314-352-1460",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday 4:00 PM - 6:00 PM Thursday 10:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue closed, Wed 4:00 PM - 6:00 PM, Thu 10:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -21006,7 +21006,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 5.7,
      "phone": "314-385-1934",
-     "hours": "Monday 9:30 AM - 11:00 AM Tuesday Closed Wednesday 9:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:00 AM, Tue closed, Wed 9:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -21027,7 +21027,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 1.6,
      "phone": "314-616-4717",
-     "hours": "Monday Closed Tuesday Closed Wednesday 5:00 AM - 7:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 5:00 AM - 7:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -21069,7 +21069,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 0.8,
      "phone": "314-652-6100",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -21090,7 +21090,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 0.7,
      "phone": "314-231-2860",
-     "hours": "Monday 11:30 AM - 1:30 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 11:30 AM - 1:30 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -21111,7 +21111,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63101",
      "distance_mi": 0.2,
      "phone": "314-802-0700",
-     "hours": "Monday 8:00 AM - 4:00 PM Tuesday 8:00 AM - 4:00 PM Wednesday 8:00 AM - 4:00 PM Thursday 8:00 AM - 4:00 PM Friday 8:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -21132,7 +21132,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 6.7,
      "phone": "314-353-3276",
-     "hours": "Monday 9:00 AM - 10:30 AM Tuesday Closed Wednesday 9:00 AM - 10:30 AM Thursday Closed Friday Closed Saturday 9:00 AM - 10:30 AM Sunday Closed",
+     "hours": "Mon 9:00 AM - 10:30 AM, Tue closed, Wed 9:00 AM - 10:30 AM, Thu-Fri closed, Sat 9:00 AM - 10:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -21153,7 +21153,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 2.9,
      "phone": "314-865-1020",
-     "hours": "Monday 9:30 AM - 11:30 AM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:30 AM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -21174,7 +21174,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 2.1,
      "phone": "314-531-3554",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -21195,7 +21195,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 2.6,
      "phone": "314-615-3600",
-     "hours": "Monday 2:00 PM - 4:30 PM Tuesday 2:00 PM - 4:30 PM Wednesday 2:00 PM - 4:30 PM Thursday 2:00 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 2:00 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -21216,7 +21216,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 3.9,
      "phone": "314-385-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 12:00 PM - 3:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 12:00 PM - 3:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -21237,7 +21237,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 3.7,
      "phone": "314-367-0060",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 8:30 AM - 2:00 PM",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sat closed, Sun 8:30 AM - 2:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -21258,7 +21258,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 2.1,
      "phone": "314-531-1040",
-     "hours": "Monday Closed Tuesday 10:00 AM - 2:00 PM Wednesday Closed Thursday 10:00 AM - 2:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 2:00 PM, Wed closed, Thu 10:00 AM - 2:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -21279,7 +21279,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 3.3,
      "phone": "314-265-5455",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 11:00 AM - 1:30 PM",
+     "hours": "Mon-Sat closed, Sun 11:00 AM - 1:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -21300,7 +21300,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 1.3,
      "phone": "314-231-0382",
-     "hours": "Monday 9:00 AM - 1:00 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 1:00 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -21321,7 +21321,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 1.4,
      "phone": "314-652-9136",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -21770,7 +21770,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 4.7,
      "phone": "314-353-1005",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 11:00 AM, Wed-Thu closed, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -21791,7 +21791,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 3.6,
      "phone": "314-361-6446",
-     "hours": "Monday Closed Tuesday 12:00 PM - 1:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 1:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -21833,7 +21833,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 4.8,
      "phone": "314-261-3766",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 10:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 10:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -21854,7 +21854,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 2.9,
      "phone": "314-772-8444",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday 10:00 AM - 4:00 PM Friday Closed Saturday 1:00 PM - 2:30 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 10:00 AM - 4:00 PM, Fri closed, Sat 1:00 PM - 2:30 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -21875,7 +21875,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 3.3,
      "phone": "314-367-2974",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 8:00 AM - 10:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 8:00 AM - 10:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -21896,7 +21896,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 1.0,
      "phone": "314-977-3881",
-     "hours": "Monday 3:30 PM - 5:30 PM Tuesday 3:30 PM - 5:30 PM Wednesday 3:30 PM - 5:30 PM Thursday 3:30 PM - 5:30 PM Friday Closed Saturday Closed Sunday 3:30 PM - 5:30 PM",
+     "hours": "Mon-Thu 3:30 PM - 5:30 PM, Fri-Sat closed, Sun 3:30 PM - 5:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -21917,7 +21917,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 3.0,
      "phone": "314-367-1818",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -21938,7 +21938,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 3.1,
      "phone": "314-776-7172",
-     "hours": "Monday 12:30 PM - 1:00 PM Tuesday Closed Wednesday Closed Thursday 12:30 PM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 12:30 PM - 1:00 PM, Tue-Wed closed, Thu 12:30 PM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -21959,7 +21959,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 6.2,
      "phone": "314-382-8759",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -21980,7 +21980,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 1.6,
      "phone": "314-768-3201",
-     "hours": "Monday 9:00 AM - 12:00 PM Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon 9:00 AM - 12:00 PM, Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22001,7 +22001,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 3.4,
      "phone": "314-367-9130",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22022,7 +22022,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 1.0,
      "phone": "314-482-2594",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday Closed Thursday 9:00 AM - 11:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue-Wed closed, Thu 9:00 AM - 11:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22043,7 +22043,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 4.1,
      "phone": "314-696-2939",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22085,7 +22085,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 3.2,
      "phone": "314-744-9693",
-     "hours": "Monday Closed Tuesday 12:00 PM - 2:30 PM Wednesday Closed Thursday 12:00 PM - 2:30 PM Friday Closed Saturday 12:00 PM - 3:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 2:30 PM, Wed closed, Thu 12:00 PM - 2:30 PM, Fri closed, Sat 12:00 PM - 3:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22106,7 +22106,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 6.3,
      "phone": "314-584-6960",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday Closed Wednesday 10:00 AM - 2:00 PM Thursday Closed Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 2:00 PM, Tue closed, Wed 10:00 AM - 2:00 PM, Thu closed, Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22127,7 +22127,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 4.7,
      "phone": "314-863-1992",
-     "hours": "Monday Closed Tuesday 10:00 AM - 11:30 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 11:30 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22148,7 +22148,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 2.8,
      "phone": "314-535-9002",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22169,7 +22169,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 2.6,
      "phone": "314-773-9027",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 8:30 AM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22190,7 +22190,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 1.8,
      "phone": "314-776-1410",
-     "hours": "Monday 9:00 AM - 11:00 AM Tuesday 10:00 AM - 1:00 PM Wednesday 10:00 AM - 1:00 PM Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 11:00 AM, Tue-Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22211,7 +22211,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 1.3,
      "phone": "314-421-0400",
-     "hours": "Monday 6:00 AM - 8:00 PM Tuesday 6:00 AM - 8:00 PM Wednesday 6:00 AM - 8:00 PM Thursday 6:00 AM - 8:00 PM Friday 6:00 AM - 8:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 6:00 AM - 8:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22232,7 +22232,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63110",
      "distance_mi": 2.1,
      "phone": "314-600-0239",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22253,7 +22253,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 6.0,
      "phone": "314-452-6880",
-     "hours": "Monday Closed Tuesday 5:00 PM - 6:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 5:00 PM - 6:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22295,7 +22295,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 4.8,
      "phone": "314-727-3550",
-     "hours": "Monday Closed Tuesday 11:30 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:30 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22316,7 +22316,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 2.6,
      "phone": "314-534-7026",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22337,7 +22337,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 3.7,
      "phone": "314-361-7878",
-     "hours": "Monday 11:30 AM - 1:00 PM Tuesday 11:30 AM - 1:00 PM Wednesday 11:30 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 11:30 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22358,7 +22358,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 4.1,
      "phone": "314-832-2142",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22379,7 +22379,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 3.0,
      "phone": "314-535-9794",
-     "hours": "Monday Closed Tuesday 9:00 AM - 12:00 PM Wednesday Closed Thursday 9:00 AM - 12:00 PM Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 12:00 PM, Wed closed, Thu 9:00 AM - 12:00 PM, Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22400,7 +22400,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 5.6,
      "phone": "314-353-1457",
-     "hours": "Monday 9:00 AM - 2:00 PM Tuesday 9:00 AM - 2:00 PM Wednesday 9:00 AM - 2:00 PM Thursday 9:00 AM - 2:00 PM Friday 9:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22421,7 +22421,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63120",
      "distance_mi": 5.6,
      "phone": "314-862-6270",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22463,7 +22463,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 1.4,
      "phone": "314-766-6145",
-     "hours": "Monday Closed Tuesday Closed Wednesday 3:30 PM - 5:30 PM Thursday Closed Friday 3:30 PM - 5:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 3:30 PM - 5:30 PM, Thu closed, Fri 3:30 PM - 5:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22484,7 +22484,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 6.7,
      "phone": "314-867-3773",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22736,7 +22736,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 2.4,
      "phone": "314-367-0366",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22757,7 +22757,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 3.7,
      "phone": "314-352-1460",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday 4:00 PM - 6:00 PM Thursday 10:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue closed, Wed 4:00 PM - 6:00 PM, Thu 10:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22778,7 +22778,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 4.6,
      "phone": "314-385-1934",
-     "hours": "Monday 9:30 AM - 11:00 AM Tuesday Closed Wednesday 9:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:00 AM, Tue closed, Wed 9:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22799,7 +22799,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 0.7,
      "phone": "314-616-4717",
-     "hours": "Monday Closed Tuesday Closed Wednesday 5:00 AM - 7:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 5:00 AM - 7:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22841,7 +22841,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 0.5,
      "phone": "314-652-6100",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22862,7 +22862,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 0.7,
      "phone": "314-231-2860",
-     "hours": "Monday 11:30 AM - 1:30 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 11:30 AM - 1:30 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22883,7 +22883,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63101",
      "distance_mi": 1.2,
      "phone": "314-802-0700",
-     "hours": "Monday 8:00 AM - 4:00 PM Tuesday 8:00 AM - 4:00 PM Wednesday 8:00 AM - 4:00 PM Thursday 8:00 AM - 4:00 PM Friday 8:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22904,7 +22904,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 6.0,
      "phone": "314-353-3276",
-     "hours": "Monday 9:00 AM - 10:30 AM Tuesday Closed Wednesday 9:00 AM - 10:30 AM Thursday Closed Friday Closed Saturday 9:00 AM - 10:30 AM Sunday Closed",
+     "hours": "Mon 9:00 AM - 10:30 AM, Tue closed, Wed 9:00 AM - 10:30 AM, Thu-Fri closed, Sat 9:00 AM - 10:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22925,7 +22925,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 2.1,
      "phone": "314-865-1020",
-     "hours": "Monday 9:30 AM - 11:30 AM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:30 AM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22946,7 +22946,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 2.0,
      "phone": "314-531-3554",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22967,7 +22967,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 1.5,
      "phone": "314-615-3600",
-     "hours": "Monday 2:00 PM - 4:30 PM Tuesday 2:00 PM - 4:30 PM Wednesday 2:00 PM - 4:30 PM Thursday 2:00 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 2:00 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -22988,7 +22988,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 3.4,
      "phone": "314-385-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 12:00 PM - 3:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 12:00 PM - 3:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -23009,7 +23009,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 2.6,
      "phone": "314-367-0060",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 8:30 AM - 2:00 PM",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sat closed, Sun 8:30 AM - 2:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -23030,7 +23030,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 1.1,
      "phone": "314-531-1040",
-     "hours": "Monday Closed Tuesday 10:00 AM - 2:00 PM Wednesday Closed Thursday 10:00 AM - 2:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 2:00 PM, Wed closed, Thu 10:00 AM - 2:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -23051,7 +23051,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 3.0,
      "phone": "314-265-5455",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 11:00 AM - 1:30 PM",
+     "hours": "Mon-Sat closed, Sun 11:00 AM - 1:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -23072,7 +23072,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 1.5,
      "phone": "314-231-0382",
-     "hours": "Monday 9:00 AM - 1:00 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 1:00 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -23093,7 +23093,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 0.9,
      "phone": "314-652-9136",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -23542,7 +23542,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 4.0,
      "phone": "314-353-1005",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 11:00 AM, Wed-Thu closed, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -23563,7 +23563,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 4.6,
      "phone": "314-361-6446",
-     "hours": "Monday Closed Tuesday 12:00 PM - 1:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 1:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -23605,7 +23605,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 5.8,
      "phone": "314-261-3766",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 10:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 10:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -23626,7 +23626,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 1.9,
      "phone": "314-772-8444",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday 10:00 AM - 4:00 PM Friday Closed Saturday 1:00 PM - 2:30 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 10:00 AM - 4:00 PM, Fri closed, Sat 1:00 PM - 2:30 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -23647,7 +23647,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 4.3,
      "phone": "314-367-2974",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 8:00 AM - 10:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 8:00 AM - 10:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -23668,7 +23668,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 1.9,
      "phone": "314-977-3881",
-     "hours": "Monday 3:30 PM - 5:30 PM Tuesday 3:30 PM - 5:30 PM Wednesday 3:30 PM - 5:30 PM Thursday 3:30 PM - 5:30 PM Friday Closed Saturday Closed Sunday 3:30 PM - 5:30 PM",
+     "hours": "Mon-Thu 3:30 PM - 5:30 PM, Fri-Sat closed, Sun 3:30 PM - 5:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -23689,7 +23689,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 4.0,
      "phone": "314-367-1818",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -23710,7 +23710,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 2.1,
      "phone": "314-776-7172",
-     "hours": "Monday 12:30 PM - 1:00 PM Tuesday Closed Wednesday Closed Thursday 12:30 PM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 12:30 PM - 1:00 PM, Tue-Wed closed, Thu 12:30 PM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -23731,7 +23731,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 7.5,
      "phone": "314-382-8759",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -23752,7 +23752,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 0.3,
      "phone": "314-768-3201",
-     "hours": "Monday 9:00 AM - 12:00 PM Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon 9:00 AM - 12:00 PM, Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -23773,7 +23773,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 4.5,
      "phone": "314-367-9130",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -23794,7 +23794,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 0.7,
      "phone": "314-482-2594",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday Closed Thursday 9:00 AM - 11:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue-Wed closed, Thu 9:00 AM - 11:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -23815,7 +23815,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 3.5,
      "phone": "314-696-2939",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -23857,7 +23857,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 4.5,
      "phone": "314-744-9693",
-     "hours": "Monday Closed Tuesday 12:00 PM - 2:30 PM Wednesday Closed Thursday 12:00 PM - 2:30 PM Friday Closed Saturday 12:00 PM - 3:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 2:30 PM, Wed closed, Thu 12:00 PM - 2:30 PM, Fri closed, Sat 12:00 PM - 3:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -23878,7 +23878,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 5.2,
      "phone": "314-584-6960",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday Closed Wednesday 10:00 AM - 2:00 PM Thursday Closed Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 2:00 PM, Tue closed, Wed 10:00 AM - 2:00 PM, Thu closed, Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -23899,7 +23899,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 5.4,
      "phone": "314-863-1992",
-     "hours": "Monday Closed Tuesday 10:00 AM - 11:30 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 11:30 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -23920,7 +23920,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 3.9,
      "phone": "314-535-9002",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -23941,7 +23941,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 1.4,
      "phone": "314-773-9027",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 8:30 AM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -23962,7 +23962,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 1.4,
      "phone": "314-776-1410",
-     "hours": "Monday 9:00 AM - 11:00 AM Tuesday 10:00 AM - 1:00 PM Wednesday 10:00 AM - 1:00 PM Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 11:00 AM, Tue-Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -23983,7 +23983,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 0.7,
      "phone": "314-421-0400",
-     "hours": "Monday 6:00 AM - 8:00 PM Tuesday 6:00 AM - 8:00 PM Wednesday 6:00 AM - 8:00 PM Thursday 6:00 AM - 8:00 PM Friday 6:00 AM - 8:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 6:00 AM - 8:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -24004,7 +24004,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63110",
      "distance_mi": 2.6,
      "phone": "314-600-0239",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -24025,7 +24025,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 7.3,
      "phone": "314-452-6880",
-     "hours": "Monday Closed Tuesday 5:00 PM - 6:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 5:00 PM - 6:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -24067,7 +24067,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 5.5,
      "phone": "314-727-3550",
-     "hours": "Monday Closed Tuesday 11:30 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:30 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -24088,7 +24088,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 3.8,
      "phone": "314-534-7026",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -24109,7 +24109,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 4.7,
      "phone": "314-361-7878",
-     "hours": "Monday 11:30 AM - 1:00 PM Tuesday 11:30 AM - 1:00 PM Wednesday 11:30 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 11:30 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -24130,7 +24130,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 3.0,
      "phone": "314-832-2142",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -24151,7 +24151,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 4.3,
      "phone": "314-535-9794",
-     "hours": "Monday Closed Tuesday 9:00 AM - 12:00 PM Wednesday Closed Thursday 9:00 AM - 12:00 PM Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 12:00 PM, Wed closed, Thu 9:00 AM - 12:00 PM, Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -24172,7 +24172,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 4.5,
      "phone": "314-353-1457",
-     "hours": "Monday 9:00 AM - 2:00 PM Tuesday 9:00 AM - 2:00 PM Wednesday 9:00 AM - 2:00 PM Thursday 9:00 AM - 2:00 PM Friday 9:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -24193,7 +24193,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63120",
      "distance_mi": 6.8,
      "phone": "314-862-6270",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -24235,7 +24235,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 0.5,
      "phone": "314-766-6145",
-     "hours": "Monday Closed Tuesday Closed Wednesday 3:30 PM - 5:30 PM Thursday Closed Friday 3:30 PM - 5:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 3:30 PM - 5:30 PM, Thu closed, Fri 3:30 PM - 5:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -24256,7 +24256,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 8.0,
      "phone": "314-867-3773",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -24508,7 +24508,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 3.4,
      "phone": "314-367-0366",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -24529,7 +24529,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 2.6,
      "phone": "314-352-1460",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday 4:00 PM - 6:00 PM Thursday 10:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue closed, Wed 4:00 PM - 6:00 PM, Thu 10:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -24550,7 +24550,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 5.6,
      "phone": "314-385-1934",
-     "hours": "Monday 9:30 AM - 11:00 AM Tuesday Closed Wednesday 9:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:00 AM, Tue closed, Wed 9:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -24571,7 +24571,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 2.0,
      "phone": "314-616-4717",
-     "hours": "Monday Closed Tuesday Closed Wednesday 5:00 AM - 7:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 5:00 AM - 7:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -24613,7 +24613,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 1.5,
      "phone": "314-652-6100",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -24634,7 +24634,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 1.7,
      "phone": "314-231-2860",
-     "hours": "Monday 11:30 AM - 1:30 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 11:30 AM - 1:30 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -24655,7 +24655,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63101",
      "distance_mi": 1.8,
      "phone": "314-802-0700",
-     "hours": "Monday 8:00 AM - 4:00 PM Tuesday 8:00 AM - 4:00 PM Wednesday 8:00 AM - 4:00 PM Thursday 8:00 AM - 4:00 PM Friday 8:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -24676,7 +24676,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 4.9,
      "phone": "314-353-3276",
-     "hours": "Monday 9:00 AM - 10:30 AM Tuesday Closed Wednesday 9:00 AM - 10:30 AM Thursday Closed Friday Closed Saturday 9:00 AM - 10:30 AM Sunday Closed",
+     "hours": "Mon 9:00 AM - 10:30 AM, Tue closed, Wed 9:00 AM - 10:30 AM, Thu-Fri closed, Sat 9:00 AM - 10:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -24697,7 +24697,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 1.1,
      "phone": "314-865-1020",
-     "hours": "Monday 9:30 AM - 11:30 AM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:30 AM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -24718,7 +24718,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 3.3,
      "phone": "314-531-3554",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -24739,7 +24739,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 2.7,
      "phone": "314-615-3600",
-     "hours": "Monday 2:00 PM - 4:30 PM Tuesday 2:00 PM - 4:30 PM Wednesday 2:00 PM - 4:30 PM Thursday 2:00 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 2:00 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -24760,7 +24760,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 4.7,
      "phone": "314-385-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 12:00 PM - 3:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 12:00 PM - 3:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -24781,7 +24781,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 3.6,
      "phone": "314-367-0060",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 8:30 AM - 2:00 PM",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sat closed, Sun 8:30 AM - 2:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -24802,7 +24802,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 2.4,
      "phone": "314-531-1040",
-     "hours": "Monday Closed Tuesday 10:00 AM - 2:00 PM Wednesday Closed Thursday 10:00 AM - 2:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 2:00 PM, Wed closed, Thu 10:00 AM - 2:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -24823,7 +24823,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 4.3,
      "phone": "314-265-5455",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 11:00 AM - 1:30 PM",
+     "hours": "Mon-Sat closed, Sun 11:00 AM - 1:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -24844,7 +24844,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 2.6,
      "phone": "314-231-0382",
-     "hours": "Monday 9:00 AM - 1:00 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 1:00 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -24865,7 +24865,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 2.2,
      "phone": "314-652-9136",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25314,7 +25314,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 5.8,
      "phone": "314-353-1005",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 11:00 AM, Wed-Thu closed, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25335,7 +25335,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 3.6,
      "phone": "314-361-6446",
-     "hours": "Monday Closed Tuesday 12:00 PM - 1:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 1:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25377,7 +25377,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 4.7,
      "phone": "314-261-3766",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 10:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 10:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25398,7 +25398,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 4.0,
      "phone": "314-772-8444",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday 10:00 AM - 4:00 PM Friday Closed Saturday 1:00 PM - 2:30 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 10:00 AM - 4:00 PM, Fri closed, Sat 1:00 PM - 2:30 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25419,7 +25419,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 3.2,
      "phone": "314-367-2974",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 8:00 AM - 10:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 8:00 AM - 10:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25440,7 +25440,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 1.7,
      "phone": "314-977-3881",
-     "hours": "Monday 3:30 PM - 5:30 PM Tuesday 3:30 PM - 5:30 PM Wednesday 3:30 PM - 5:30 PM Thursday 3:30 PM - 5:30 PM Friday Closed Saturday Closed Sunday 3:30 PM - 5:30 PM",
+     "hours": "Mon-Thu 3:30 PM - 5:30 PM, Fri-Sat closed, Sun 3:30 PM - 5:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25461,7 +25461,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 3.0,
      "phone": "314-367-1818",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25482,7 +25482,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 4.2,
      "phone": "314-776-7172",
-     "hours": "Monday 12:30 PM - 1:00 PM Tuesday Closed Wednesday Closed Thursday 12:30 PM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 12:30 PM - 1:00 PM, Tue-Wed closed, Thu 12:30 PM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25503,7 +25503,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 5.3,
      "phone": "314-382-8759",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25524,7 +25524,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 2.6,
      "phone": "314-768-3201",
-     "hours": "Monday 9:00 AM - 12:00 PM Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon 9:00 AM - 12:00 PM, Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25545,7 +25545,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 3.3,
      "phone": "314-367-9130",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25566,7 +25566,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 1.8,
      "phone": "314-482-2594",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday Closed Thursday 9:00 AM - 11:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue-Wed closed, Thu 9:00 AM - 11:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25587,7 +25587,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 5.1,
      "phone": "314-696-2939",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25629,7 +25629,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 2.4,
      "phone": "314-744-9693",
-     "hours": "Monday Closed Tuesday 12:00 PM - 2:30 PM Wednesday Closed Thursday 12:00 PM - 2:30 PM Friday Closed Saturday 12:00 PM - 3:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 2:30 PM, Wed closed, Thu 12:00 PM - 2:30 PM, Fri closed, Sat 12:00 PM - 3:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25650,7 +25650,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 7.4,
      "phone": "314-584-6960",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday Closed Wednesday 10:00 AM - 2:00 PM Thursday Closed Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 2:00 PM, Tue closed, Wed 10:00 AM - 2:00 PM, Thu closed, Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25671,7 +25671,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 5.0,
      "phone": "314-863-1992",
-     "hours": "Monday Closed Tuesday 10:00 AM - 11:30 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 11:30 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25692,7 +25692,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 2.7,
      "phone": "314-535-9002",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25713,7 +25713,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 3.7,
      "phone": "314-773-9027",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 8:30 AM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25734,7 +25734,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 2.9,
      "phone": "314-776-1410",
-     "hours": "Monday 9:00 AM - 11:00 AM Tuesday 10:00 AM - 1:00 PM Wednesday 10:00 AM - 1:00 PM Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 11:00 AM, Tue-Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25755,7 +25755,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 2.0,
      "phone": "314-421-0400",
-     "hours": "Monday 6:00 AM - 8:00 PM Tuesday 6:00 AM - 8:00 PM Wednesday 6:00 AM - 8:00 PM Thursday 6:00 AM - 8:00 PM Friday 6:00 AM - 8:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 6:00 AM - 8:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25776,7 +25776,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63110",
      "distance_mi": 2.8,
      "phone": "314-600-0239",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25797,7 +25797,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 5.1,
      "phone": "314-452-6880",
-     "hours": "Monday Closed Tuesday 5:00 PM - 6:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 5:00 PM - 6:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25839,7 +25839,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 5.0,
      "phone": "314-727-3550",
-     "hours": "Monday Closed Tuesday 11:30 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:30 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25860,7 +25860,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 2.3,
      "phone": "314-534-7026",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25881,7 +25881,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 3.5,
      "phone": "314-361-7878",
-     "hours": "Monday 11:30 AM - 1:00 PM Tuesday 11:30 AM - 1:00 PM Wednesday 11:30 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 11:30 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25902,7 +25902,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 5.2,
      "phone": "314-832-2142",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25923,7 +25923,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 2.0,
      "phone": "314-535-9794",
-     "hours": "Monday Closed Tuesday 9:00 AM - 12:00 PM Wednesday Closed Thursday 9:00 AM - 12:00 PM Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 12:00 PM, Wed closed, Thu 9:00 AM - 12:00 PM, Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25944,7 +25944,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 6.8,
      "phone": "314-353-1457",
-     "hours": "Monday 9:00 AM - 2:00 PM Tuesday 9:00 AM - 2:00 PM Wednesday 9:00 AM - 2:00 PM Thursday 9:00 AM - 2:00 PM Friday 9:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -25965,7 +25965,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63120",
      "distance_mi": 4.8,
      "phone": "314-862-6270",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -26007,7 +26007,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 2.5,
      "phone": "314-766-6145",
-     "hours": "Monday Closed Tuesday Closed Wednesday 3:30 PM - 5:30 PM Thursday Closed Friday 3:30 PM - 5:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 3:30 PM - 5:30 PM, Thu closed, Fri 3:30 PM - 5:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -26028,7 +26028,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 5.8,
      "phone": "314-867-3773",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -26280,7 +26280,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 2.6,
      "phone": "314-367-0366",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -26301,7 +26301,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 4.8,
      "phone": "314-352-1460",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday 4:00 PM - 6:00 PM Thursday 10:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue closed, Wed 4:00 PM - 6:00 PM, Thu 10:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -26322,7 +26322,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 4.5,
      "phone": "314-385-1934",
-     "hours": "Monday 9:30 AM - 11:00 AM Tuesday Closed Wednesday 9:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:00 AM, Tue closed, Wed 9:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -26343,7 +26343,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 0.7,
      "phone": "314-616-4717",
-     "hours": "Monday Closed Tuesday Closed Wednesday 5:00 AM - 7:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 5:00 AM - 7:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -26385,7 +26385,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 0.9,
      "phone": "314-652-6100",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -26406,7 +26406,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 0.7,
      "phone": "314-231-2860",
-     "hours": "Monday 11:30 AM - 1:30 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 11:30 AM - 1:30 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -26427,7 +26427,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63101",
      "distance_mi": 1.0,
      "phone": "314-802-0700",
-     "hours": "Monday 8:00 AM - 4:00 PM Tuesday 8:00 AM - 4:00 PM Wednesday 8:00 AM - 4:00 PM Thursday 8:00 AM - 4:00 PM Friday 8:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -26448,7 +26448,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 7.1,
      "phone": "314-353-3276",
-     "hours": "Monday 9:00 AM - 10:30 AM Tuesday Closed Wednesday 9:00 AM - 10:30 AM Thursday Closed Friday Closed Saturday 9:00 AM - 10:30 AM Sunday Closed",
+     "hours": "Mon 9:00 AM - 10:30 AM, Tue closed, Wed 9:00 AM - 10:30 AM, Thu-Fri closed, Sat 9:00 AM - 10:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -26469,7 +26469,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 3.2,
      "phone": "314-865-1020",
-     "hours": "Monday 9:30 AM - 11:30 AM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:30 AM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -26490,7 +26490,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 1.0,
      "phone": "314-531-3554",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -26511,7 +26511,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 1.6,
      "phone": "314-615-3600",
-     "hours": "Monday 2:00 PM - 4:30 PM Tuesday 2:00 PM - 4:30 PM Wednesday 2:00 PM - 4:30 PM Thursday 2:00 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 2:00 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -26532,7 +26532,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 2.7,
      "phone": "314-385-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 12:00 PM - 3:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 12:00 PM - 3:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -26553,7 +26553,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 2.7,
      "phone": "314-367-0060",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 8:30 AM - 2:00 PM",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sat closed, Sun 8:30 AM - 2:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -26574,7 +26574,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 1.1,
      "phone": "314-531-1040",
-     "hours": "Monday Closed Tuesday 10:00 AM - 2:00 PM Wednesday Closed Thursday 10:00 AM - 2:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 2:00 PM, Wed closed, Thu 10:00 AM - 2:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -26595,7 +26595,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 2.2,
      "phone": "314-265-5455",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 11:00 AM - 1:30 PM",
+     "hours": "Mon-Sat closed, Sun 11:00 AM - 1:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -26616,7 +26616,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 0.3,
      "phone": "314-231-0382",
-     "hours": "Monday 9:00 AM - 1:00 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 1:00 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -26637,7 +26637,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 0.3,
      "phone": "314-652-9136",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27086,7 +27086,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 6.7,
      "phone": "314-353-1005",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 11:00 AM, Wed-Thu closed, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27107,7 +27107,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 3.2,
      "phone": "314-361-6446",
-     "hours": "Monday Closed Tuesday 12:00 PM - 1:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 1:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27149,7 +27149,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 4.1,
      "phone": "314-261-3766",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 10:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 10:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27170,7 +27170,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 5.1,
      "phone": "314-772-8444",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday 10:00 AM - 4:00 PM Friday Closed Saturday 1:00 PM - 2:30 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 10:00 AM - 4:00 PM, Fri closed, Sat 1:00 PM - 2:30 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27191,7 +27191,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 2.7,
      "phone": "314-367-2974",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 8:00 AM - 10:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 8:00 AM - 10:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27212,7 +27212,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 2.5,
      "phone": "314-977-3881",
-     "hours": "Monday 3:30 PM - 5:30 PM Tuesday 3:30 PM - 5:30 PM Wednesday 3:30 PM - 5:30 PM Thursday 3:30 PM - 5:30 PM Friday Closed Saturday Closed Sunday 3:30 PM - 5:30 PM",
+     "hours": "Mon-Thu 3:30 PM - 5:30 PM, Fri-Sat closed, Sun 3:30 PM - 5:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27233,7 +27233,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 2.7,
      "phone": "314-367-1818",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27254,7 +27254,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 5.4,
      "phone": "314-776-7172",
-     "hours": "Monday 12:30 PM - 1:00 PM Tuesday Closed Wednesday Closed Thursday 12:30 PM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 12:30 PM - 1:00 PM, Tue-Wed closed, Thu 12:30 PM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27275,7 +27275,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 4.0,
      "phone": "314-382-8759",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27296,7 +27296,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 3.9,
      "phone": "314-768-3201",
-     "hours": "Monday 9:00 AM - 12:00 PM Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon 9:00 AM - 12:00 PM, Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27317,7 +27317,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 2.8,
      "phone": "314-367-9130",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27338,7 +27338,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 3.1,
      "phone": "314-482-2594",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday Closed Thursday 9:00 AM - 11:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue-Wed closed, Thu 9:00 AM - 11:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27359,7 +27359,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 6.1,
      "phone": "314-696-2939",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27401,7 +27401,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 1.2,
      "phone": "314-744-9693",
-     "hours": "Monday Closed Tuesday 12:00 PM - 2:30 PM Wednesday Closed Thursday 12:00 PM - 2:30 PM Friday Closed Saturday 12:00 PM - 3:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 2:30 PM, Wed closed, Thu 12:00 PM - 2:30 PM, Fri closed, Sat 12:00 PM - 3:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27422,7 +27422,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 8.6,
      "phone": "314-584-6960",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday Closed Wednesday 10:00 AM - 2:00 PM Thursday Closed Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 2:00 PM, Tue closed, Wed 10:00 AM - 2:00 PM, Thu closed, Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27443,7 +27443,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 4.8,
      "phone": "314-863-1992",
-     "hours": "Monday Closed Tuesday 10:00 AM - 11:30 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 11:30 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27464,7 +27464,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 2.3,
      "phone": "314-535-9002",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27485,7 +27485,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 4.9,
      "phone": "314-773-9027",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 8:30 AM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27506,7 +27506,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 3.9,
      "phone": "314-776-1410",
-     "hours": "Monday 9:00 AM - 11:00 AM Tuesday 10:00 AM - 1:00 PM Wednesday 10:00 AM - 1:00 PM Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 11:00 AM, Tue-Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27527,7 +27527,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 3.4,
      "phone": "314-421-0400",
-     "hours": "Monday 6:00 AM - 8:00 PM Tuesday 6:00 AM - 8:00 PM Wednesday 6:00 AM - 8:00 PM Thursday 6:00 AM - 8:00 PM Friday 6:00 AM - 8:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 6:00 AM - 8:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27548,7 +27548,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63110",
      "distance_mi": 3.4,
      "phone": "314-600-0239",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27569,7 +27569,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 3.8,
      "phone": "314-452-6880",
-     "hours": "Monday Closed Tuesday 5:00 PM - 6:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 5:00 PM - 6:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27611,7 +27611,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 4.7,
      "phone": "314-727-3550",
-     "hours": "Monday Closed Tuesday 11:30 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:30 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27632,7 +27632,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 1.8,
      "phone": "314-534-7026",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27653,7 +27653,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 3.0,
      "phone": "314-361-7878",
-     "hours": "Monday 11:30 AM - 1:00 PM Tuesday 11:30 AM - 1:00 PM Wednesday 11:30 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 11:30 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27674,7 +27674,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 6.4,
      "phone": "314-832-2142",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27695,7 +27695,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 0.7,
      "phone": "314-535-9794",
-     "hours": "Monday Closed Tuesday 9:00 AM - 12:00 PM Wednesday Closed Thursday 9:00 AM - 12:00 PM Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 12:00 PM, Wed closed, Thu 9:00 AM - 12:00 PM, Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27716,7 +27716,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 8.0,
      "phone": "314-353-1457",
-     "hours": "Monday 9:00 AM - 2:00 PM Tuesday 9:00 AM - 2:00 PM Wednesday 9:00 AM - 2:00 PM Thursday 9:00 AM - 2:00 PM Friday 9:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27737,7 +27737,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63120",
      "distance_mi": 3.6,
      "phone": "314-862-6270",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27779,7 +27779,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 3.8,
      "phone": "314-766-6145",
-     "hours": "Monday Closed Tuesday Closed Wednesday 3:30 PM - 5:30 PM Thursday Closed Friday 3:30 PM - 5:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 3:30 PM - 5:30 PM, Thu closed, Fri 3:30 PM - 5:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -27800,7 +27800,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 4.4,
      "phone": "314-867-3773",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -28052,7 +28052,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 2.6,
      "phone": "314-367-0366",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -28073,7 +28073,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 6.0,
      "phone": "314-352-1460",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday 4:00 PM - 6:00 PM Thursday 10:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue closed, Wed 4:00 PM - 6:00 PM, Thu 10:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -28094,7 +28094,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 4.0,
      "phone": "314-385-1934",
-     "hours": "Monday 9:30 AM - 11:00 AM Tuesday Closed Wednesday 9:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:00 AM, Tue closed, Wed 9:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -28115,7 +28115,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 1.7,
      "phone": "314-616-4717",
-     "hours": "Monday Closed Tuesday Closed Wednesday 5:00 AM - 7:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 5:00 AM - 7:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -28157,7 +28157,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 2.2,
      "phone": "314-652-6100",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -28178,7 +28178,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 2.0,
      "phone": "314-231-2860",
-     "hours": "Monday 11:30 AM - 1:30 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 11:30 AM - 1:30 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -28199,7 +28199,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63101",
      "distance_mi": 2.3,
      "phone": "314-802-0700",
-     "hours": "Monday 8:00 AM - 4:00 PM Tuesday 8:00 AM - 4:00 PM Wednesday 8:00 AM - 4:00 PM Thursday 8:00 AM - 4:00 PM Friday 8:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -28220,7 +28220,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 8.2,
      "phone": "314-353-3276",
-     "hours": "Monday 9:00 AM - 10:30 AM Tuesday Closed Wednesday 9:00 AM - 10:30 AM Thursday Closed Friday Closed Saturday 9:00 AM - 10:30 AM Sunday Closed",
+     "hours": "Mon 9:00 AM - 10:30 AM, Tue closed, Wed 9:00 AM - 10:30 AM, Thu-Fri closed, Sat 9:00 AM - 10:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -28241,7 +28241,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 4.4,
      "phone": "314-865-1020",
-     "hours": "Monday 9:30 AM - 11:30 AM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:30 AM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -28262,7 +28262,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 0.4,
      "phone": "314-531-3554",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -28283,7 +28283,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 1.9,
      "phone": "314-615-3600",
-     "hours": "Monday 2:00 PM - 4:30 PM Tuesday 2:00 PM - 4:30 PM Wednesday 2:00 PM - 4:30 PM Thursday 2:00 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 2:00 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -28304,7 +28304,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 1.6,
      "phone": "314-385-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 12:00 PM - 3:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 12:00 PM - 3:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -28325,7 +28325,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 2.6,
      "phone": "314-367-0060",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 8:30 AM - 2:00 PM",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sat closed, Sun 8:30 AM - 2:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -28346,7 +28346,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 1.6,
      "phone": "314-531-1040",
-     "hours": "Monday Closed Tuesday 10:00 AM - 2:00 PM Wednesday Closed Thursday 10:00 AM - 2:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 2:00 PM, Wed closed, Thu 10:00 AM - 2:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -28367,7 +28367,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 0.9,
      "phone": "314-265-5455",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 11:00 AM - 1:30 PM",
+     "hours": "Mon-Sat closed, Sun 11:00 AM - 1:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -28388,7 +28388,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 1.1,
      "phone": "314-231-0382",
-     "hours": "Monday 9:00 AM - 1:00 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 1:00 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -28409,7 +28409,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 1.4,
      "phone": "314-652-9136",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -28858,7 +28858,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 4.6,
      "phone": "314-353-1005",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 11:00 AM, Wed-Thu closed, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -28879,7 +28879,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 1.5,
      "phone": "314-361-6446",
-     "hours": "Monday Closed Tuesday 12:00 PM - 1:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 1:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -28921,7 +28921,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 2.7,
      "phone": "314-261-3766",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 10:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 10:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -28942,7 +28942,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 3.6,
      "phone": "314-772-8444",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday 10:00 AM - 4:00 PM Friday Closed Saturday 1:00 PM - 2:30 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 10:00 AM - 4:00 PM, Fri closed, Sat 1:00 PM - 2:30 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -28963,7 +28963,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 1.2,
      "phone": "314-367-2974",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 8:00 AM - 10:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 8:00 AM - 10:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -28984,7 +28984,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 1.3,
      "phone": "314-977-3881",
-     "hours": "Monday 3:30 PM - 5:30 PM Tuesday 3:30 PM - 5:30 PM Wednesday 3:30 PM - 5:30 PM Thursday 3:30 PM - 5:30 PM Friday Closed Saturday Closed Sunday 3:30 PM - 5:30 PM",
+     "hours": "Mon-Thu 3:30 PM - 5:30 PM, Fri-Sat closed, Sun 3:30 PM - 5:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29005,7 +29005,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 0.8,
      "phone": "314-367-1818",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29026,7 +29026,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 3.9,
      "phone": "314-776-7172",
-     "hours": "Monday 12:30 PM - 1:00 PM Tuesday Closed Wednesday Closed Thursday 12:30 PM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 12:30 PM - 1:00 PM, Tue-Wed closed, Thu 12:30 PM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29047,7 +29047,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 5.1,
      "phone": "314-382-8759",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29068,7 +29068,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 3.3,
      "phone": "314-768-3201",
-     "hours": "Monday 9:00 AM - 12:00 PM Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon 9:00 AM - 12:00 PM, Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29089,7 +29089,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 1.4,
      "phone": "314-367-9130",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29110,7 +29110,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 3.2,
      "phone": "314-482-2594",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday Closed Thursday 9:00 AM - 11:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue-Wed closed, Thu 9:00 AM - 11:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29131,7 +29131,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 3.9,
      "phone": "314-696-2939",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29173,7 +29173,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 2.5,
      "phone": "314-744-9693",
-     "hours": "Monday Closed Tuesday 12:00 PM - 2:30 PM Wednesday Closed Thursday 12:00 PM - 2:30 PM Friday Closed Saturday 12:00 PM - 3:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 2:30 PM, Wed closed, Thu 12:00 PM - 2:30 PM, Fri closed, Sat 12:00 PM - 3:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29194,7 +29194,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 6.8,
      "phone": "314-584-6960",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday Closed Wednesday 10:00 AM - 2:00 PM Thursday Closed Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 2:00 PM, Tue closed, Wed 10:00 AM - 2:00 PM, Thu closed, Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29215,7 +29215,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 2.5,
      "phone": "314-863-1992",
-     "hours": "Monday Closed Tuesday 10:00 AM - 11:30 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 11:30 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29236,7 +29236,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 0.9,
      "phone": "314-535-9002",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29257,7 +29257,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 3.8,
      "phone": "314-773-9027",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 8:30 AM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29278,7 +29278,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 2.4,
      "phone": "314-776-1410",
-     "hours": "Monday 9:00 AM - 11:00 AM Tuesday 10:00 AM - 1:00 PM Wednesday 10:00 AM - 1:00 PM Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 11:00 AM, Tue-Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29299,7 +29299,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 3.4,
      "phone": "314-421-0400",
-     "hours": "Monday 6:00 AM - 8:00 PM Tuesday 6:00 AM - 8:00 PM Wednesday 6:00 AM - 8:00 PM Thursday 6:00 AM - 8:00 PM Friday 6:00 AM - 8:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 6:00 AM - 8:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29320,7 +29320,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63110",
      "distance_mi": 1.1,
      "phone": "314-600-0239",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29341,7 +29341,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 5.0,
      "phone": "314-452-6880",
-     "hours": "Monday Closed Tuesday 5:00 PM - 6:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 5:00 PM - 6:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29383,7 +29383,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 2.6,
      "phone": "314-727-3550",
-     "hours": "Monday Closed Tuesday 11:30 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:30 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29404,7 +29404,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 1.1,
      "phone": "314-534-7026",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29425,7 +29425,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 1.6,
      "phone": "314-361-7878",
-     "hours": "Monday 11:30 AM - 1:00 PM Tuesday 11:30 AM - 1:00 PM Wednesday 11:30 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 11:30 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29446,7 +29446,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 4.9,
      "phone": "314-832-2142",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29467,7 +29467,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 2.7,
      "phone": "314-535-9794",
-     "hours": "Monday Closed Tuesday 9:00 AM - 12:00 PM Wednesday Closed Thursday 9:00 AM - 12:00 PM Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 12:00 PM, Wed closed, Thu 9:00 AM - 12:00 PM, Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29488,7 +29488,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 6.4,
      "phone": "314-353-1457",
-     "hours": "Monday 9:00 AM - 2:00 PM Tuesday 9:00 AM - 2:00 PM Wednesday 9:00 AM - 2:00 PM Thursday 9:00 AM - 2:00 PM Friday 9:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29509,7 +29509,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63120",
      "distance_mi": 4.2,
      "phone": "314-862-6270",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29551,7 +29551,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 3.0,
      "phone": "314-766-6145",
-     "hours": "Monday Closed Tuesday Closed Wednesday 3:30 PM - 5:30 PM Thursday Closed Friday 3:30 PM - 5:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 3:30 PM - 5:30 PM, Thu closed, Fri 3:30 PM - 5:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29572,7 +29572,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 5.8,
      "phone": "314-867-3773",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29824,7 +29824,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 0.2,
      "phone": "314-367-0366",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29845,7 +29845,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 4.6,
      "phone": "314-352-1460",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday 4:00 PM - 6:00 PM Thursday 10:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue closed, Wed 4:00 PM - 6:00 PM, Thu 10:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29866,7 +29866,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 2.5,
      "phone": "314-385-1934",
-     "hours": "Monday 9:30 AM - 11:00 AM Tuesday Closed Wednesday 9:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:00 AM, Tue closed, Wed 9:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29887,7 +29887,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 1.8,
      "phone": "314-616-4717",
-     "hours": "Monday Closed Tuesday Closed Wednesday 5:00 AM - 7:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 5:00 AM - 7:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29929,7 +29929,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 2.6,
      "phone": "314-652-6100",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29950,7 +29950,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 2.7,
      "phone": "314-231-2860",
-     "hours": "Monday 11:30 AM - 1:30 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 11:30 AM - 1:30 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29971,7 +29971,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63101",
      "distance_mi": 3.2,
      "phone": "314-802-0700",
-     "hours": "Monday 8:00 AM - 4:00 PM Tuesday 8:00 AM - 4:00 PM Wednesday 8:00 AM - 4:00 PM Thursday 8:00 AM - 4:00 PM Friday 8:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -29992,7 +29992,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 6.5,
      "phone": "314-353-3276",
-     "hours": "Monday 9:00 AM - 10:30 AM Tuesday Closed Wednesday 9:00 AM - 10:30 AM Thursday Closed Friday Closed Saturday 9:00 AM - 10:30 AM Sunday Closed",
+     "hours": "Mon 9:00 AM - 10:30 AM, Tue closed, Wed 9:00 AM - 10:30 AM, Thu-Fri closed, Sat 9:00 AM - 10:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -30013,7 +30013,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 3.3,
      "phone": "314-865-1020",
-     "hours": "Monday 9:30 AM - 11:30 AM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:30 AM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -30034,7 +30034,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 2.4,
      "phone": "314-531-3554",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -30055,7 +30055,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 0.9,
      "phone": "314-615-3600",
-     "hours": "Monday 2:00 PM - 4:30 PM Tuesday 2:00 PM - 4:30 PM Wednesday 2:00 PM - 4:30 PM Thursday 2:00 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 2:00 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -30076,7 +30076,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 2.4,
      "phone": "314-385-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 12:00 PM - 3:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 12:00 PM - 3:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -30097,7 +30097,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 0.5,
      "phone": "314-367-0060",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 8:30 AM - 2:00 PM",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sat closed, Sun 8:30 AM - 2:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -30118,7 +30118,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 1.4,
      "phone": "314-531-1040",
-     "hours": "Monday Closed Tuesday 10:00 AM - 2:00 PM Wednesday Closed Thursday 10:00 AM - 2:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 2:00 PM, Wed closed, Thu 10:00 AM - 2:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -30139,7 +30139,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 2.6,
      "phone": "314-265-5455",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 11:00 AM - 1:30 PM",
+     "hours": "Mon-Sat closed, Sun 11:00 AM - 1:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -30160,7 +30160,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 2.7,
      "phone": "314-231-0382",
-     "hours": "Monday 9:00 AM - 1:00 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 1:00 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -30181,7 +30181,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 2.1,
      "phone": "314-652-9136",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -30630,7 +30630,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 0.9,
      "phone": "314-353-1005",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 11:00 AM, Wed-Thu closed, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -30651,7 +30651,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 5.4,
      "phone": "314-361-6446",
-     "hours": "Monday Closed Tuesday 12:00 PM - 1:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 1:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -30693,7 +30693,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 6.2,
      "phone": "314-261-3766",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 10:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 10:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -30714,7 +30714,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 2.9,
      "phone": "314-772-8444",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday 10:00 AM - 4:00 PM Friday Closed Saturday 1:00 PM - 2:30 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 10:00 AM - 4:00 PM, Fri closed, Sat 1:00 PM - 2:30 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -30735,7 +30735,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 5.6,
      "phone": "314-367-2974",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 8:00 AM - 10:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 8:00 AM - 10:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -30756,7 +30756,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 4.6,
      "phone": "314-977-3881",
-     "hours": "Monday 3:30 PM - 5:30 PM Tuesday 3:30 PM - 5:30 PM Wednesday 3:30 PM - 5:30 PM Thursday 3:30 PM - 5:30 PM Friday Closed Saturday Closed Sunday 3:30 PM - 5:30 PM",
+     "hours": "Mon-Thu 3:30 PM - 5:30 PM, Fri-Sat closed, Sun 3:30 PM - 5:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -30777,7 +30777,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 5.2,
      "phone": "314-367-1818",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -30798,7 +30798,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 2.9,
      "phone": "314-776-7172",
-     "hours": "Monday 12:30 PM - 1:00 PM Tuesday Closed Wednesday Closed Thursday 12:30 PM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 12:30 PM - 1:00 PM, Tue-Wed closed, Thu 12:30 PM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -30819,7 +30819,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 9.7,
      "phone": "314-382-8759",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -30840,7 +30840,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 4.5,
      "phone": "314-768-3201",
-     "hours": "Monday 9:00 AM - 12:00 PM Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon 9:00 AM - 12:00 PM, Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -30861,7 +30861,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 5.7,
      "phone": "314-367-9130",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -30882,7 +30882,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 5.4,
      "phone": "314-482-2594",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday Closed Thursday 9:00 AM - 11:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue-Wed closed, Thu 9:00 AM - 11:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -30903,7 +30903,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 1.2,
      "phone": "314-696-2939",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -30945,7 +30945,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 7.2,
      "phone": "314-744-9693",
-     "hours": "Monday Closed Tuesday 12:00 PM - 2:30 PM Wednesday Closed Thursday 12:00 PM - 2:30 PM Friday Closed Saturday 12:00 PM - 3:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 2:30 PM, Wed closed, Thu 12:00 PM - 2:30 PM, Fri closed, Sat 12:00 PM - 3:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -30966,7 +30966,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 3.1,
      "phone": "314-584-6960",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday Closed Wednesday 10:00 AM - 2:00 PM Thursday Closed Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 2:00 PM, Tue closed, Wed 10:00 AM - 2:00 PM, Thu closed, Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -30987,7 +30987,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 4.6,
      "phone": "314-863-1992",
-     "hours": "Monday Closed Tuesday 10:00 AM - 11:30 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 11:30 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31008,7 +31008,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 5.5,
      "phone": "314-535-9002",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31029,7 +31029,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 3.6,
      "phone": "314-773-9027",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 8:30 AM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31050,7 +31050,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 3.5,
      "phone": "314-776-1410",
-     "hours": "Monday 9:00 AM - 11:00 AM Tuesday 10:00 AM - 1:00 PM Wednesday 10:00 AM - 1:00 PM Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 11:00 AM, Tue-Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31071,7 +31071,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 5.4,
      "phone": "314-421-0400",
-     "hours": "Monday 6:00 AM - 8:00 PM Tuesday 6:00 AM - 8:00 PM Wednesday 6:00 AM - 8:00 PM Thursday 6:00 AM - 8:00 PM Friday 6:00 AM - 8:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 6:00 AM - 8:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31092,7 +31092,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63110",
      "distance_mi": 3.7,
      "phone": "314-600-0239",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31113,7 +31113,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 9.6,
      "phone": "314-452-6880",
-     "hours": "Monday Closed Tuesday 5:00 PM - 6:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 5:00 PM - 6:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31155,7 +31155,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 4.9,
      "phone": "314-727-3550",
-     "hours": "Monday Closed Tuesday 11:30 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:30 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31176,7 +31176,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 5.8,
      "phone": "314-534-7026",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31197,7 +31197,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 5.8,
      "phone": "314-361-7878",
-     "hours": "Monday 11:30 AM - 1:00 PM Tuesday 11:30 AM - 1:00 PM Wednesday 11:30 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 11:30 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31218,7 +31218,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 2.9,
      "phone": "314-832-2142",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31239,7 +31239,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 7.3,
      "phone": "314-535-9794",
-     "hours": "Monday Closed Tuesday 9:00 AM - 12:00 PM Wednesday Closed Thursday 9:00 AM - 12:00 PM Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 12:00 PM, Wed closed, Thu 9:00 AM - 12:00 PM, Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31260,7 +31260,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 3.2,
      "phone": "314-353-1457",
-     "hours": "Monday 9:00 AM - 2:00 PM Tuesday 9:00 AM - 2:00 PM Wednesday 9:00 AM - 2:00 PM Thursday 9:00 AM - 2:00 PM Friday 9:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31281,7 +31281,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63120",
      "distance_mi": 8.7,
      "phone": "314-862-6270",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31323,7 +31323,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 4.3,
      "phone": "314-766-6145",
-     "hours": "Monday Closed Tuesday Closed Wednesday 3:30 PM - 5:30 PM Thursday Closed Friday 3:30 PM - 5:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 3:30 PM - 5:30 PM, Thu closed, Fri 3:30 PM - 5:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31344,7 +31344,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 10.4,
      "phone": "314-867-3773",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31596,7 +31596,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 4.8,
      "phone": "314-367-0366",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31617,7 +31617,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 3.0,
      "phone": "314-352-1460",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday 4:00 PM - 6:00 PM Thursday 10:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue closed, Wed 4:00 PM - 6:00 PM, Thu 10:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31638,7 +31638,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 6.0,
      "phone": "314-385-1934",
-     "hours": "Monday 9:30 AM - 11:00 AM Tuesday Closed Wednesday 9:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:00 AM, Tue closed, Wed 9:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31659,7 +31659,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 5.5,
      "phone": "314-616-4717",
-     "hours": "Monday Closed Tuesday Closed Wednesday 5:00 AM - 7:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 5:00 AM - 7:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31701,7 +31701,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 5.7,
      "phone": "314-652-6100",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31722,7 +31722,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 5.9,
      "phone": "314-231-2860",
-     "hours": "Monday 11:30 AM - 1:30 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 11:30 AM - 1:30 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31743,7 +31743,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63101",
      "distance_mi": 6.3,
      "phone": "314-802-0700",
-     "hours": "Monday 8:00 AM - 4:00 PM Tuesday 8:00 AM - 4:00 PM Wednesday 8:00 AM - 4:00 PM Thursday 8:00 AM - 4:00 PM Friday 8:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31764,7 +31764,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 2.9,
      "phone": "314-353-3276",
-     "hours": "Monday 9:00 AM - 10:30 AM Tuesday Closed Wednesday 9:00 AM - 10:30 AM Thursday Closed Friday Closed Saturday 9:00 AM - 10:30 AM Sunday Closed",
+     "hours": "Mon 9:00 AM - 10:30 AM, Tue closed, Wed 9:00 AM - 10:30 AM, Thu-Fri closed, Sat 9:00 AM - 10:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31785,7 +31785,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 3.7,
      "phone": "314-865-1020",
-     "hours": "Monday 9:30 AM - 11:30 AM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:30 AM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31806,7 +31806,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 6.7,
      "phone": "314-531-3554",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31827,7 +31827,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 5.2,
      "phone": "314-615-3600",
-     "hours": "Monday 2:00 PM - 4:30 PM Tuesday 2:00 PM - 4:30 PM Wednesday 2:00 PM - 4:30 PM Thursday 2:00 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 2:00 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31848,7 +31848,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 7.1,
      "phone": "314-385-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 12:00 PM - 3:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 12:00 PM - 3:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31869,7 +31869,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 5.0,
      "phone": "314-367-0060",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 8:30 AM - 2:00 PM",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sat closed, Sun 8:30 AM - 2:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31890,7 +31890,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 5.5,
      "phone": "314-531-1040",
-     "hours": "Monday Closed Tuesday 10:00 AM - 2:00 PM Wednesday Closed Thursday 10:00 AM - 2:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 2:00 PM, Wed closed, Thu 10:00 AM - 2:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31911,7 +31911,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 7.3,
      "phone": "314-265-5455",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 11:00 AM - 1:30 PM",
+     "hours": "Mon-Sat closed, Sun 11:00 AM - 1:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31932,7 +31932,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 6.6,
      "phone": "314-231-0382",
-     "hours": "Monday 9:00 AM - 1:00 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 1:00 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -31953,7 +31953,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 5.9,
      "phone": "314-652-9136",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -32402,7 +32402,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 3.1,
      "phone": "314-353-1005",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 11:00 AM, Wed-Thu closed, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -32423,7 +32423,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 2.4,
      "phone": "314-361-6446",
-     "hours": "Monday Closed Tuesday 12:00 PM - 1:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 1:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -32465,7 +32465,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 3.5,
      "phone": "314-261-3766",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 10:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 10:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -32486,7 +32486,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 2.6,
      "phone": "314-772-8444",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday 10:00 AM - 4:00 PM Friday Closed Saturday 1:00 PM - 2:30 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 10:00 AM - 4:00 PM, Fri closed, Sat 1:00 PM - 2:30 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -32507,7 +32507,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 2.5,
      "phone": "314-367-2974",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 8:00 AM - 10:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 8:00 AM - 10:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -32528,7 +32528,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 1.8,
      "phone": "314-977-3881",
-     "hours": "Monday 3:30 PM - 5:30 PM Tuesday 3:30 PM - 5:30 PM Wednesday 3:30 PM - 5:30 PM Thursday 3:30 PM - 5:30 PM Friday Closed Saturday Closed Sunday 3:30 PM - 5:30 PM",
+     "hours": "Mon-Thu 3:30 PM - 5:30 PM, Fri-Sat closed, Sun 3:30 PM - 5:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -32549,7 +32549,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 2.1,
      "phone": "314-367-1818",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -32570,7 +32570,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 2.8,
      "phone": "314-776-7172",
-     "hours": "Monday 12:30 PM - 1:00 PM Tuesday Closed Wednesday Closed Thursday 12:30 PM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 12:30 PM - 1:00 PM, Tue-Wed closed, Thu 12:30 PM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -32591,7 +32591,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 6.6,
      "phone": "314-382-8759",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -32612,7 +32612,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 3.0,
      "phone": "314-768-3201",
-     "hours": "Monday 9:00 AM - 12:00 PM Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon 9:00 AM - 12:00 PM, Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -32633,7 +32633,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 2.6,
      "phone": "314-367-9130",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -32654,7 +32654,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 3.3,
      "phone": "314-482-2594",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday Closed Thursday 9:00 AM - 11:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue-Wed closed, Thu 9:00 AM - 11:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -32675,7 +32675,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 2.4,
      "phone": "314-696-2939",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -32717,7 +32717,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 4.1,
      "phone": "314-744-9693",
-     "hours": "Monday Closed Tuesday 12:00 PM - 2:30 PM Wednesday Closed Thursday 12:00 PM - 2:30 PM Friday Closed Saturday 12:00 PM - 3:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 2:30 PM, Wed closed, Thu 12:00 PM - 2:30 PM, Fri closed, Sat 12:00 PM - 3:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -32738,7 +32738,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 5.5,
      "phone": "314-584-6960",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday Closed Wednesday 10:00 AM - 2:00 PM Thursday Closed Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 2:00 PM, Tue closed, Wed 10:00 AM - 2:00 PM, Thu closed, Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -32759,7 +32759,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 2.5,
      "phone": "314-863-1992",
-     "hours": "Monday Closed Tuesday 10:00 AM - 11:30 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 11:30 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -32780,7 +32780,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 2.3,
      "phone": "314-535-9002",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -32801,7 +32801,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 3.0,
      "phone": "314-773-9027",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 8:30 AM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -32822,7 +32822,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 1.7,
      "phone": "314-776-1410",
-     "hours": "Monday 9:00 AM - 11:00 AM Tuesday 10:00 AM - 1:00 PM Wednesday 10:00 AM - 1:00 PM Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 11:00 AM, Tue-Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -32843,7 +32843,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 3.5,
      "phone": "314-421-0400",
-     "hours": "Monday 6:00 AM - 8:00 PM Tuesday 6:00 AM - 8:00 PM Wednesday 6:00 AM - 8:00 PM Thursday 6:00 AM - 8:00 PM Friday 6:00 AM - 8:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 6:00 AM - 8:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -32864,7 +32864,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63110",
      "distance_mi": 0.6,
      "phone": "314-600-0239",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -32885,7 +32885,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 6.5,
      "phone": "314-452-6880",
-     "hours": "Monday Closed Tuesday 5:00 PM - 6:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 5:00 PM - 6:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -32927,7 +32927,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 2.7,
      "phone": "314-727-3550",
-     "hours": "Monday Closed Tuesday 11:30 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:30 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -32948,7 +32948,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 2.7,
      "phone": "314-534-7026",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -32969,7 +32969,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 2.8,
      "phone": "314-361-7878",
-     "hours": "Monday 11:30 AM - 1:00 PM Tuesday 11:30 AM - 1:00 PM Wednesday 11:30 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 11:30 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -32990,7 +32990,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 3.8,
      "phone": "314-832-2142",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -33011,7 +33011,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 4.1,
      "phone": "314-535-9794",
-     "hours": "Monday Closed Tuesday 9:00 AM - 12:00 PM Wednesday Closed Thursday 9:00 AM - 12:00 PM Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 12:00 PM, Wed closed, Thu 9:00 AM - 12:00 PM, Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -33032,7 +33032,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 5.1,
      "phone": "314-353-1457",
-     "hours": "Monday 9:00 AM - 2:00 PM Tuesday 9:00 AM - 2:00 PM Wednesday 9:00 AM - 2:00 PM Thursday 9:00 AM - 2:00 PM Friday 9:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -33053,7 +33053,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63120",
      "distance_mi": 5.7,
      "phone": "314-862-6270",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -33095,7 +33095,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 2.6,
      "phone": "314-766-6145",
-     "hours": "Monday Closed Tuesday Closed Wednesday 3:30 PM - 5:30 PM Thursday Closed Friday 3:30 PM - 5:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 3:30 PM - 5:30 PM, Thu closed, Fri 3:30 PM - 5:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -33116,7 +33116,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 7.3,
      "phone": "314-867-3773",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -33368,7 +33368,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 1.6,
      "phone": "314-367-0366",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -33389,7 +33389,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 3.5,
      "phone": "314-352-1460",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday 4:00 PM - 6:00 PM Thursday 10:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue closed, Wed 4:00 PM - 6:00 PM, Thu 10:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -33410,7 +33410,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 3.3,
      "phone": "314-385-1934",
-     "hours": "Monday 9:30 AM - 11:00 AM Tuesday Closed Wednesday 9:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:00 AM, Tue closed, Wed 9:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -33431,7 +33431,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 2.7,
      "phone": "314-616-4717",
-     "hours": "Monday Closed Tuesday Closed Wednesday 5:00 AM - 7:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 5:00 AM - 7:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -33473,7 +33473,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 3.2,
      "phone": "314-652-6100",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -33494,7 +33494,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 3.4,
      "phone": "314-231-2860",
-     "hours": "Monday 11:30 AM - 1:30 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 11:30 AM - 1:30 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -33515,7 +33515,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63101",
      "distance_mi": 3.9,
      "phone": "314-802-0700",
-     "hours": "Monday 8:00 AM - 4:00 PM Tuesday 8:00 AM - 4:00 PM Wednesday 8:00 AM - 4:00 PM Thursday 8:00 AM - 4:00 PM Friday 8:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -33536,7 +33536,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 5.1,
      "phone": "314-353-3276",
-     "hours": "Monday 9:00 AM - 10:30 AM Tuesday Closed Wednesday 9:00 AM - 10:30 AM Thursday Closed Friday Closed Saturday 9:00 AM - 10:30 AM Sunday Closed",
+     "hours": "Mon 9:00 AM - 10:30 AM, Tue closed, Wed 9:00 AM - 10:30 AM, Thu-Fri closed, Sat 9:00 AM - 10:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -33557,7 +33557,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 2.6,
      "phone": "314-865-1020",
-     "hours": "Monday 9:30 AM - 11:30 AM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:30 AM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -33578,7 +33578,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 3.7,
      "phone": "314-531-3554",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -33599,7 +33599,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 2.1,
      "phone": "314-615-3600",
-     "hours": "Monday 2:00 PM - 4:30 PM Tuesday 2:00 PM - 4:30 PM Wednesday 2:00 PM - 4:30 PM Thursday 2:00 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 2:00 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -33620,7 +33620,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 3.9,
      "phone": "314-385-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 12:00 PM - 3:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 12:00 PM - 3:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -33641,7 +33641,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 1.8,
      "phone": "314-367-0060",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 8:30 AM - 2:00 PM",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sat closed, Sun 8:30 AM - 2:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -33662,7 +33662,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 2.4,
      "phone": "314-531-1040",
-     "hours": "Monday Closed Tuesday 10:00 AM - 2:00 PM Wednesday Closed Thursday 10:00 AM - 2:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 2:00 PM, Wed closed, Thu 10:00 AM - 2:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -33683,7 +33683,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 4.1,
      "phone": "314-265-5455",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 11:00 AM - 1:30 PM",
+     "hours": "Mon-Sat closed, Sun 11:00 AM - 1:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -33704,7 +33704,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 3.7,
      "phone": "314-231-0382",
-     "hours": "Monday 9:00 AM - 1:00 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 1:00 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -33725,7 +33725,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 3.1,
      "phone": "314-652-9136",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34174,7 +34174,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 2.2,
      "phone": "314-353-1005",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 11:00 AM, Wed-Thu closed, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34195,7 +34195,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 7.1,
      "phone": "314-361-6446",
-     "hours": "Monday Closed Tuesday 12:00 PM - 1:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 1:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34237,7 +34237,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 8.2,
      "phone": "314-261-3766",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 10:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 10:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34258,7 +34258,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 2.5,
      "phone": "314-772-8444",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday 10:00 AM - 4:00 PM Friday Closed Saturday 1:00 PM - 2:30 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 10:00 AM - 4:00 PM, Fri closed, Sat 1:00 PM - 2:30 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34279,7 +34279,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 7.2,
      "phone": "314-367-2974",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 8:00 AM - 10:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 8:00 AM - 10:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34300,7 +34300,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 5.2,
      "phone": "314-977-3881",
-     "hours": "Monday 3:30 PM - 5:30 PM Tuesday 3:30 PM - 5:30 PM Wednesday 3:30 PM - 5:30 PM Thursday 3:30 PM - 5:30 PM Friday Closed Saturday Closed Sunday 3:30 PM - 5:30 PM",
+     "hours": "Mon-Thu 3:30 PM - 5:30 PM, Fri-Sat closed, Sun 3:30 PM - 5:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34321,7 +34321,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 6.7,
      "phone": "314-367-1818",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34342,7 +34342,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 2.2,
      "phone": "314-776-7172",
-     "hours": "Monday 12:30 PM - 1:00 PM Tuesday Closed Wednesday Closed Thursday 12:30 PM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 12:30 PM - 1:00 PM, Tue-Wed closed, Thu 12:30 PM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34363,7 +34363,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 11.1,
      "phone": "314-382-8759",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34384,7 +34384,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 3.9,
      "phone": "314-768-3201",
-     "hours": "Monday 9:00 AM - 12:00 PM Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon 9:00 AM - 12:00 PM, Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34405,7 +34405,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 7.3,
      "phone": "314-367-9130",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34426,7 +34426,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 4.8,
      "phone": "314-482-2594",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday Closed Thursday 9:00 AM - 11:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue-Wed closed, Thu 9:00 AM - 11:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34447,7 +34447,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 2.6,
      "phone": "314-696-2939",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34489,7 +34489,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 8.2,
      "phone": "314-744-9693",
-     "hours": "Monday Closed Tuesday 12:00 PM - 2:30 PM Wednesday Closed Thursday 12:00 PM - 2:30 PM Friday Closed Saturday 12:00 PM - 3:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 2:30 PM, Wed closed, Thu 12:00 PM - 2:30 PM, Fri closed, Sat 12:00 PM - 3:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34510,7 +34510,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 1.1,
      "phone": "314-584-6960",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday Closed Wednesday 10:00 AM - 2:00 PM Thursday Closed Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 2:00 PM, Tue closed, Wed 10:00 AM - 2:00 PM, Thu closed, Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34531,7 +34531,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 7.0,
      "phone": "314-863-1992",
-     "hours": "Monday Closed Tuesday 10:00 AM - 11:30 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 11:30 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34552,7 +34552,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 6.9,
      "phone": "314-535-9002",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34573,7 +34573,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 2.7,
      "phone": "314-773-9027",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 8:30 AM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34594,7 +34594,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 3.8,
      "phone": "314-776-1410",
-     "hours": "Monday 9:00 AM - 11:00 AM Tuesday 10:00 AM - 1:00 PM Wednesday 10:00 AM - 1:00 PM Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 11:00 AM, Tue-Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34615,7 +34615,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 4.7,
      "phone": "314-421-0400",
-     "hours": "Monday 6:00 AM - 8:00 PM Tuesday 6:00 AM - 8:00 PM Wednesday 6:00 AM - 8:00 PM Thursday 6:00 AM - 8:00 PM Friday 6:00 AM - 8:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 6:00 AM - 8:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34636,7 +34636,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63110",
      "distance_mi": 4.9,
      "phone": "314-600-0239",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34657,7 +34657,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 10.9,
      "phone": "314-452-6880",
-     "hours": "Monday Closed Tuesday 5:00 PM - 6:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 5:00 PM - 6:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34699,7 +34699,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 7.2,
      "phone": "314-727-3550",
-     "hours": "Monday Closed Tuesday 11:30 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:30 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34720,7 +34720,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 7.1,
      "phone": "314-534-7026",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34741,7 +34741,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 7.5,
      "phone": "314-361-7878",
-     "hours": "Monday 11:30 AM - 1:00 PM Tuesday 11:30 AM - 1:00 PM Wednesday 11:30 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 11:30 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34762,7 +34762,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 1.2,
      "phone": "314-832-2142",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34783,7 +34783,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 8.1,
      "phone": "314-535-9794",
-     "hours": "Monday Closed Tuesday 9:00 AM - 12:00 PM Wednesday Closed Thursday 9:00 AM - 12:00 PM Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 12:00 PM, Wed closed, Thu 9:00 AM - 12:00 PM, Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34804,7 +34804,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 0.4,
      "phone": "314-353-1457",
-     "hours": "Monday 9:00 AM - 2:00 PM Tuesday 9:00 AM - 2:00 PM Wednesday 9:00 AM - 2:00 PM Thursday 9:00 AM - 2:00 PM Friday 9:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34825,7 +34825,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63120",
      "distance_mi": 10.2,
      "phone": "314-862-6270",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34867,7 +34867,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 3.9,
      "phone": "314-766-6145",
-     "hours": "Monday Closed Tuesday Closed Wednesday 3:30 PM - 5:30 PM Thursday Closed Friday 3:30 PM - 5:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 3:30 PM - 5:30 PM, Thu closed, Fri 3:30 PM - 5:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -34888,7 +34888,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 11.7,
      "phone": "314-867-3773",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -35140,7 +35140,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 6.2,
      "phone": "314-367-0366",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -35161,7 +35161,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 1.6,
      "phone": "314-352-1460",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday 4:00 PM - 6:00 PM Thursday 10:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue closed, Wed 4:00 PM - 6:00 PM, Thu 10:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -35182,7 +35182,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 8.0,
      "phone": "314-385-1934",
-     "hours": "Monday 9:30 AM - 11:00 AM Tuesday Closed Wednesday 9:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:00 AM, Tue closed, Wed 9:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -35203,7 +35203,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 5.9,
      "phone": "314-616-4717",
-     "hours": "Monday Closed Tuesday Closed Wednesday 5:00 AM - 7:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 5:00 AM - 7:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -35245,7 +35245,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 5.6,
      "phone": "314-652-6100",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -35266,7 +35266,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 5.8,
      "phone": "314-231-2860",
-     "hours": "Monday 11:30 AM - 1:30 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 11:30 AM - 1:30 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -35287,7 +35287,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63101",
      "distance_mi": 6.0,
      "phone": "314-802-0700",
-     "hours": "Monday 8:00 AM - 4:00 PM Tuesday 8:00 AM - 4:00 PM Wednesday 8:00 AM - 4:00 PM Thursday 8:00 AM - 4:00 PM Friday 8:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -35308,7 +35308,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 0.8,
      "phone": "314-353-3276",
-     "hours": "Monday 9:00 AM - 10:30 AM Tuesday Closed Wednesday 9:00 AM - 10:30 AM Thursday Closed Friday Closed Saturday 9:00 AM - 10:30 AM Sunday Closed",
+     "hours": "Mon 9:00 AM - 10:30 AM, Tue closed, Wed 9:00 AM - 10:30 AM, Thu-Fri closed, Sat 9:00 AM - 10:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -35329,7 +35329,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 3.2,
      "phone": "314-865-1020",
-     "hours": "Monday 9:30 AM - 11:30 AM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:30 AM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -35350,7 +35350,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 7.2,
      "phone": "314-531-3554",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -35371,7 +35371,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 6.1,
      "phone": "314-615-3600",
-     "hours": "Monday 2:00 PM - 4:30 PM Tuesday 2:00 PM - 4:30 PM Wednesday 2:00 PM - 4:30 PM Thursday 2:00 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 2:00 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -35392,7 +35392,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 8.2,
      "phone": "314-385-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 12:00 PM - 3:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 12:00 PM - 3:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -35413,7 +35413,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 6.4,
      "phone": "314-367-0060",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 8:30 AM - 2:00 PM",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sat closed, Sun 8:30 AM - 2:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -35434,7 +35434,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 6.1,
      "phone": "314-531-1040",
-     "hours": "Monday Closed Tuesday 10:00 AM - 2:00 PM Wednesday Closed Thursday 10:00 AM - 2:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 2:00 PM, Wed closed, Thu 10:00 AM - 2:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -35455,7 +35455,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 8.1,
      "phone": "314-265-5455",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 11:00 AM - 1:30 PM",
+     "hours": "Mon-Sat closed, Sun 11:00 AM - 1:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -35476,7 +35476,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 6.7,
      "phone": "314-231-0382",
-     "hours": "Monday 9:00 AM - 1:00 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 1:00 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -35497,7 +35497,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 6.2,
      "phone": "314-652-9136",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -35946,7 +35946,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 5.5,
      "phone": "314-353-1005",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 11:00 AM, Wed-Thu closed, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -35967,7 +35967,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 0.6,
      "phone": "314-361-6446",
-     "hours": "Monday Closed Tuesday 12:00 PM - 1:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 1:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36009,7 +36009,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 1.0,
      "phone": "314-261-3766",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 10:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 10:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36030,7 +36030,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 5.1,
      "phone": "314-772-8444",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday 10:00 AM - 4:00 PM Friday Closed Saturday 1:00 PM - 2:30 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 10:00 AM - 4:00 PM, Fri closed, Sat 1:00 PM - 2:30 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36051,7 +36051,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 1.1,
      "phone": "314-367-2974",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 8:00 AM - 10:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 8:00 AM - 10:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36072,7 +36072,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 3.2,
      "phone": "314-977-3881",
-     "hours": "Monday 3:30 PM - 5:30 PM Tuesday 3:30 PM - 5:30 PM Wednesday 3:30 PM - 5:30 PM Thursday 3:30 PM - 5:30 PM Friday Closed Saturday Closed Sunday 3:30 PM - 5:30 PM",
+     "hours": "Mon-Thu 3:30 PM - 5:30 PM, Fri-Sat closed, Sun 3:30 PM - 5:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36093,7 +36093,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 1.2,
      "phone": "314-367-1818",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36114,7 +36114,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 5.4,
      "phone": "314-776-7172",
-     "hours": "Monday 12:30 PM - 1:00 PM Tuesday Closed Wednesday Closed Thursday 12:30 PM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 12:30 PM - 1:00 PM, Tue-Wed closed, Thu 12:30 PM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36135,7 +36135,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 4.7,
      "phone": "314-382-8759",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36156,7 +36156,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 5.2,
      "phone": "314-768-3201",
-     "hours": "Monday 9:00 AM - 12:00 PM Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon 9:00 AM - 12:00 PM, Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36177,7 +36177,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 1.1,
      "phone": "314-367-9130",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36198,7 +36198,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 5.1,
      "phone": "314-482-2594",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday Closed Thursday 9:00 AM - 11:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue-Wed closed, Thu 9:00 AM - 11:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36219,7 +36219,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 4.8,
      "phone": "314-696-2939",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36261,7 +36261,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 3.2,
      "phone": "314-744-9693",
-     "hours": "Monday Closed Tuesday 12:00 PM - 2:30 PM Wednesday Closed Thursday 12:00 PM - 2:30 PM Friday Closed Saturday 12:00 PM - 3:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 2:30 PM, Wed closed, Thu 12:00 PM - 2:30 PM, Fri closed, Sat 12:00 PM - 3:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36282,7 +36282,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 7.9,
      "phone": "314-584-6960",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday Closed Wednesday 10:00 AM - 2:00 PM Thursday Closed Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 2:00 PM, Tue closed, Wed 10:00 AM - 2:00 PM, Thu closed, Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36303,7 +36303,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 1.1,
      "phone": "314-863-1992",
-     "hours": "Monday Closed Tuesday 10:00 AM - 11:30 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 11:30 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36324,7 +36324,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 1.6,
      "phone": "314-535-9002",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36345,7 +36345,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 5.5,
      "phone": "314-773-9027",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 8:30 AM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36366,7 +36366,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 4.0,
      "phone": "314-776-1410",
-     "hours": "Monday 9:00 AM - 11:00 AM Tuesday 10:00 AM - 1:00 PM Wednesday 10:00 AM - 1:00 PM Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 11:00 AM, Tue-Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36387,7 +36387,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 5.3,
      "phone": "314-421-0400",
-     "hours": "Monday 6:00 AM - 8:00 PM Tuesday 6:00 AM - 8:00 PM Wednesday 6:00 AM - 8:00 PM Thursday 6:00 AM - 8:00 PM Friday 6:00 AM - 8:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 6:00 AM - 8:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36408,7 +36408,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63110",
      "distance_mi": 2.6,
      "phone": "314-600-0239",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36429,7 +36429,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 4.7,
      "phone": "314-452-6880",
-     "hours": "Monday Closed Tuesday 5:00 PM - 6:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 5:00 PM - 6:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36471,7 +36471,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 0.9,
      "phone": "314-727-3550",
-     "hours": "Monday Closed Tuesday 11:30 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:30 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36492,7 +36492,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 2.0,
      "phone": "314-534-7026",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36513,7 +36513,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 1.0,
      "phone": "314-361-7878",
-     "hours": "Monday 11:30 AM - 1:00 PM Tuesday 11:30 AM - 1:00 PM Wednesday 11:30 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 11:30 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36534,7 +36534,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 6.3,
      "phone": "314-832-2142",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36555,7 +36555,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 3.6,
      "phone": "314-535-9794",
-     "hours": "Monday Closed Tuesday 9:00 AM - 12:00 PM Wednesday Closed Thursday 9:00 AM - 12:00 PM Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 12:00 PM, Wed closed, Thu 9:00 AM - 12:00 PM, Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36576,7 +36576,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 7.6,
      "phone": "314-353-1457",
-     "hours": "Monday 9:00 AM - 2:00 PM Tuesday 9:00 AM - 2:00 PM Wednesday 9:00 AM - 2:00 PM Thursday 9:00 AM - 2:00 PM Friday 9:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36597,7 +36597,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63120",
      "distance_mi": 3.7,
      "phone": "314-862-6270",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36639,7 +36639,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 4.8,
      "phone": "314-766-6145",
-     "hours": "Monday Closed Tuesday Closed Wednesday 3:30 PM - 5:30 PM Thursday Closed Friday 3:30 PM - 5:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 3:30 PM - 5:30 PM, Thu closed, Fri 3:30 PM - 5:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36660,7 +36660,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 5.4,
      "phone": "314-867-3773",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36912,7 +36912,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 1.7,
      "phone": "314-367-0366",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36933,7 +36933,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 6.0,
      "phone": "314-352-1460",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday 4:00 PM - 6:00 PM Thursday 10:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue closed, Wed 4:00 PM - 6:00 PM, Thu 10:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36954,7 +36954,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 0.7,
      "phone": "314-385-1934",
-     "hours": "Monday 9:30 AM - 11:00 AM Tuesday Closed Wednesday 9:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:00 AM, Tue closed, Wed 9:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -36975,7 +36975,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 3.7,
      "phone": "314-616-4717",
-     "hours": "Monday Closed Tuesday Closed Wednesday 5:00 AM - 7:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 5:00 AM - 7:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -37017,7 +37017,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 4.5,
      "phone": "314-652-6100",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -37038,7 +37038,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 4.6,
      "phone": "314-231-2860",
-     "hours": "Monday 11:30 AM - 1:30 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 11:30 AM - 1:30 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -37059,7 +37059,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63101",
      "distance_mi": 5.1,
      "phone": "314-802-0700",
-     "hours": "Monday 8:00 AM - 4:00 PM Tuesday 8:00 AM - 4:00 PM Wednesday 8:00 AM - 4:00 PM Thursday 8:00 AM - 4:00 PM Friday 8:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -37080,7 +37080,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 7.6,
      "phone": "314-353-3276",
-     "hours": "Monday 9:00 AM - 10:30 AM Tuesday Closed Wednesday 9:00 AM - 10:30 AM Thursday Closed Friday Closed Saturday 9:00 AM - 10:30 AM Sunday Closed",
+     "hours": "Mon 9:00 AM - 10:30 AM, Tue closed, Wed 9:00 AM - 10:30 AM, Thu-Fri closed, Sat 9:00 AM - 10:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -37101,7 +37101,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 5.0,
      "phone": "314-865-1020",
-     "hours": "Monday 9:30 AM - 11:30 AM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:30 AM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -37122,7 +37122,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 3.8,
      "phone": "314-531-3554",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -37143,7 +37143,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 2.7,
      "phone": "314-615-3600",
-     "hours": "Monday 2:00 PM - 4:30 PM Tuesday 2:00 PM - 4:30 PM Wednesday 2:00 PM - 4:30 PM Thursday 2:00 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 2:00 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -37164,7 +37164,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 2.8,
      "phone": "314-385-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 12:00 PM - 3:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 12:00 PM - 3:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -37185,7 +37185,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 1.5,
      "phone": "314-367-0060",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 8:30 AM - 2:00 PM",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sat closed, Sun 8:30 AM - 2:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -37206,7 +37206,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 3.2,
      "phone": "314-531-1040",
-     "hours": "Monday Closed Tuesday 10:00 AM - 2:00 PM Wednesday Closed Thursday 10:00 AM - 2:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 2:00 PM, Wed closed, Thu 10:00 AM - 2:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -37227,7 +37227,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 3.4,
      "phone": "314-265-5455",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 11:00 AM - 1:30 PM",
+     "hours": "Mon-Sat closed, Sun 11:00 AM - 1:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -37248,7 +37248,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 4.3,
      "phone": "314-231-0382",
-     "hours": "Monday 9:00 AM - 1:00 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 1:00 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -37269,7 +37269,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 3.9,
      "phone": "314-652-9136",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -37718,7 +37718,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 5.6,
      "phone": "314-353-1005",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 11:00 AM, Wed-Thu closed, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -37739,7 +37739,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 1.3,
      "phone": "314-361-6446",
-     "hours": "Monday Closed Tuesday 12:00 PM - 1:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 1:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -37781,7 +37781,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 2.3,
      "phone": "314-261-3766",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 10:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 10:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -37802,7 +37802,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 4.5,
      "phone": "314-772-8444",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday 10:00 AM - 4:00 PM Friday Closed Saturday 1:00 PM - 2:30 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 10:00 AM - 4:00 PM, Fri closed, Sat 1:00 PM - 2:30 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -37823,7 +37823,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 0.8,
      "phone": "314-367-2974",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 8:00 AM - 10:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 8:00 AM - 10:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -37844,7 +37844,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 1.9,
      "phone": "314-977-3881",
-     "hours": "Monday 3:30 PM - 5:30 PM Tuesday 3:30 PM - 5:30 PM Wednesday 3:30 PM - 5:30 PM Thursday 3:30 PM - 5:30 PM Friday Closed Saturday Closed Sunday 3:30 PM - 5:30 PM",
+     "hours": "Mon-Thu 3:30 PM - 5:30 PM, Fri-Sat closed, Sun 3:30 PM - 5:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -37865,7 +37865,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 0.8,
      "phone": "314-367-1818",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -37886,7 +37886,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 4.8,
      "phone": "314-776-7172",
-     "hours": "Monday 12:30 PM - 1:00 PM Tuesday Closed Wednesday Closed Thursday 12:30 PM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 12:30 PM - 1:00 PM, Tue-Wed closed, Thu 12:30 PM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -37907,7 +37907,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 4.2,
      "phone": "314-382-8759",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -37928,7 +37928,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 3.9,
      "phone": "314-768-3201",
-     "hours": "Monday 9:00 AM - 12:00 PM Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon 9:00 AM - 12:00 PM, Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -37949,7 +37949,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 0.9,
      "phone": "314-367-9130",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -37970,7 +37970,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 3.6,
      "phone": "314-482-2594",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday Closed Thursday 9:00 AM - 11:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue-Wed closed, Thu 9:00 AM - 11:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -37991,7 +37991,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 4.9,
      "phone": "314-696-2939",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38033,7 +38033,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 1.6,
      "phone": "314-744-9693",
-     "hours": "Monday Closed Tuesday 12:00 PM - 2:30 PM Wednesday Closed Thursday 12:00 PM - 2:30 PM Friday Closed Saturday 12:00 PM - 3:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 2:30 PM, Wed closed, Thu 12:00 PM - 2:30 PM, Fri closed, Sat 12:00 PM - 3:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38054,7 +38054,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 7.8,
      "phone": "314-584-6960",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday Closed Wednesday 10:00 AM - 2:00 PM Thursday Closed Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 2:00 PM, Tue closed, Wed 10:00 AM - 2:00 PM, Thu closed, Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38075,7 +38075,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 2.9,
      "phone": "314-863-1992",
-     "hours": "Monday Closed Tuesday 10:00 AM - 11:30 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 11:30 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38096,7 +38096,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 0.4,
      "phone": "314-535-9002",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38117,7 +38117,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 4.6,
      "phone": "314-773-9027",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 8:30 AM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38138,7 +38138,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 3.2,
      "phone": "314-776-1410",
-     "hours": "Monday 9:00 AM - 11:00 AM Tuesday 10:00 AM - 1:00 PM Wednesday 10:00 AM - 1:00 PM Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 11:00 AM, Tue-Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38159,7 +38159,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 3.8,
      "phone": "314-421-0400",
-     "hours": "Monday 6:00 AM - 8:00 PM Tuesday 6:00 AM - 8:00 PM Wednesday 6:00 AM - 8:00 PM Thursday 6:00 AM - 8:00 PM Friday 6:00 AM - 8:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 6:00 AM - 8:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38180,7 +38180,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63110",
      "distance_mi": 2.1,
      "phone": "314-600-0239",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38201,7 +38201,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 4.1,
      "phone": "314-452-6880",
-     "hours": "Monday Closed Tuesday 5:00 PM - 6:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 5:00 PM - 6:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38243,7 +38243,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 2.8,
      "phone": "314-727-3550",
-     "hours": "Monday Closed Tuesday 11:30 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:30 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38264,7 +38264,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 0.2,
      "phone": "314-534-7026",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38285,7 +38285,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 1.2,
      "phone": "314-361-7878",
-     "hours": "Monday 11:30 AM - 1:00 PM Tuesday 11:30 AM - 1:00 PM Wednesday 11:30 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 11:30 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38306,7 +38306,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 5.8,
      "phone": "314-832-2142",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38327,7 +38327,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 1.8,
      "phone": "314-535-9794",
-     "hours": "Monday Closed Tuesday 9:00 AM - 12:00 PM Wednesday Closed Thursday 9:00 AM - 12:00 PM Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 12:00 PM, Wed closed, Thu 9:00 AM - 12:00 PM, Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38348,7 +38348,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 7.3,
      "phone": "314-353-1457",
-     "hours": "Monday 9:00 AM - 2:00 PM Tuesday 9:00 AM - 2:00 PM Wednesday 9:00 AM - 2:00 PM Thursday 9:00 AM - 2:00 PM Friday 9:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38369,7 +38369,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63120",
      "distance_mi": 3.3,
      "phone": "314-862-6270",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38411,7 +38411,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 3.6,
      "phone": "314-766-6145",
-     "hours": "Monday Closed Tuesday Closed Wednesday 3:30 PM - 5:30 PM Thursday Closed Friday 3:30 PM - 5:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 3:30 PM - 5:30 PM, Thu closed, Fri 3:30 PM - 5:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38432,7 +38432,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 4.8,
      "phone": "314-867-3773",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38684,7 +38684,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 0.8,
      "phone": "314-367-0366",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38705,7 +38705,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 5.4,
      "phone": "314-352-1460",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday 4:00 PM - 6:00 PM Thursday 10:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue closed, Wed 4:00 PM - 6:00 PM, Thu 10:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38726,7 +38726,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 2.2,
      "phone": "314-385-1934",
-     "hours": "Monday 9:30 AM - 11:00 AM Tuesday Closed Wednesday 9:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:00 AM, Tue closed, Wed 9:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38747,7 +38747,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 1.9,
      "phone": "314-616-4717",
-     "hours": "Monday Closed Tuesday Closed Wednesday 5:00 AM - 7:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 5:00 AM - 7:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38789,7 +38789,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 2.8,
      "phone": "314-652-6100",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38810,7 +38810,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 2.8,
      "phone": "314-231-2860",
-     "hours": "Monday 11:30 AM - 1:30 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 11:30 AM - 1:30 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38831,7 +38831,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63101",
      "distance_mi": 3.3,
      "phone": "314-802-0700",
-     "hours": "Monday 8:00 AM - 4:00 PM Tuesday 8:00 AM - 4:00 PM Wednesday 8:00 AM - 4:00 PM Thursday 8:00 AM - 4:00 PM Friday 8:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38852,7 +38852,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 7.4,
      "phone": "314-353-3276",
-     "hours": "Monday 9:00 AM - 10:30 AM Tuesday Closed Wednesday 9:00 AM - 10:30 AM Thursday Closed Friday Closed Saturday 9:00 AM - 10:30 AM Sunday Closed",
+     "hours": "Mon 9:00 AM - 10:30 AM, Tue closed, Wed 9:00 AM - 10:30 AM, Thu-Fri closed, Sat 9:00 AM - 10:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38873,7 +38873,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 4.0,
      "phone": "314-865-1020",
-     "hours": "Monday 9:30 AM - 11:30 AM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:30 AM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38894,7 +38894,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 1.9,
      "phone": "314-531-3554",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38915,7 +38915,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 1.1,
      "phone": "314-615-3600",
-     "hours": "Monday 2:00 PM - 4:30 PM Tuesday 2:00 PM - 4:30 PM Wednesday 2:00 PM - 4:30 PM Thursday 2:00 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 2:00 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38936,7 +38936,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 1.4,
      "phone": "314-385-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 12:00 PM - 3:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 12:00 PM - 3:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38957,7 +38957,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 0.7,
      "phone": "314-367-0060",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 8:30 AM - 2:00 PM",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sat closed, Sun 8:30 AM - 2:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38978,7 +38978,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 1.4,
      "phone": "314-531-1040",
-     "hours": "Monday Closed Tuesday 10:00 AM - 2:00 PM Wednesday Closed Thursday 10:00 AM - 2:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 2:00 PM, Wed closed, Thu 10:00 AM - 2:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -38999,7 +38999,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 1.7,
      "phone": "314-265-5455",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 11:00 AM - 1:30 PM",
+     "hours": "Mon-Sat closed, Sun 11:00 AM - 1:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -39020,7 +39020,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 2.4,
      "phone": "314-231-0382",
-     "hours": "Monday 9:00 AM - 1:00 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 1:00 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -39041,7 +39041,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 2.1,
      "phone": "314-652-9136",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -39448,7 +39448,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63123",
      "distance_mi": 10.5,
      "phone": "314-580-3138",
-     "hours": "Monday 12:30 PM - 2:30 PM Tuesday 4:00 PM - 6:30 PM Wednesday Closed Thursday 6:00 PM - 8:00 PM Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon 12:30 PM - 2:30 PM, Tue 4:00 PM - 6:30 PM, Wed closed, Thu 6:00 PM - 8:00 PM, Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -39469,7 +39469,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 4.2,
      "phone": "314-862-0038",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 12:00 PM Thursday 11:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 11:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -39511,7 +39511,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 6.4,
      "phone": "314-716-2711",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -39532,7 +39532,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 4.8,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday 9:30 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -39553,7 +39553,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 4.4,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 9:30 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 9:30 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -39574,7 +39574,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 0.4,
      "phone": "314-863-0015",
-     "hours": "Monday Closed Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday Closed Friday 8:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:00 AM - 3:00 PM, Thu closed, Fri 8:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -39616,7 +39616,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 6.0,
      "phone": "314-388-1211",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -39637,7 +39637,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63088",
      "distance_mi": 12.5,
      "phone": "636-861-2623",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 7:00 PM Thursday 1:00 PM - 5:00 PM Friday 9:00 AM - 3:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue 9:00 AM - 3:00 PM, Wed 9:00 AM - 7:00 PM, Thu 1:00 PM - 5:00 PM, Fri 9:00 AM - 3:00 PM, Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -39658,7 +39658,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 1.5,
      "phone": "314-680-9101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -39679,7 +39679,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 3.6,
      "phone": "314-521-1122",
-     "hours": "Monday Closed Tuesday 11:00 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -39721,7 +39721,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63044",
      "distance_mi": 4.7,
      "phone": "314-770-2216",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 10:00 AM - 2:00 PM, Wed 10:00 AM - 12:00 PM, Thu 10:00 AM - 2:00 PM, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -39742,7 +39742,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 10.0,
      "phone": "314-438-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -39763,7 +39763,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 3.5,
      "phone": null,
-     "hours": "Monday 12:00 PM - 5:00 PM Tuesday 12:00 PM - 5:00 PM Wednesday 12:00 PM - 5:00 PM Thursday 12:00 PM - 5:00 PM Friday 1:00 PM - 5:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 12:00 PM - 5:00 PM, Fri 1:00 PM - 5:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -39784,7 +39784,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63045",
      "distance_mi": 6.9,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 4:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -39805,7 +39805,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63127",
      "distance_mi": 13.1,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 4:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 4:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -39826,7 +39826,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63125",
      "distance_mi": 13.3,
      "phone": "314-631-4900",
-     "hours": "Monday 10:00 AM - 3:00 PM Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 10:00 AM - 3:00 PM Friday 10:00 AM - 3:00 PM Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 3:00 PM, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -39847,7 +39847,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 8.1,
      "phone": "314-867-2782",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:30 AM - 12:30 PM Thursday Closed Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:30 AM - 12:30 PM, Thu-Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -39868,7 +39868,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 3.9,
      "phone": "314-291-1915",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -39889,7 +39889,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63142",
      "distance_mi": 2.0,
      "phone": "314-513-1672",
-     "hours": "Monday 9:00 AM - 3:30 PM Tuesday 9:00 AM - 3:30 PM Wednesday 9:00 AM - 3:30 PM Thursday 9:00 AM - 3:30 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 9:00 AM - 3:30 PM, Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -39910,7 +39910,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 10.0,
      "phone": null,
-     "hours": "Monday 11:15 AM - 11:30 AM Tuesday 11:15 AM - 11:30 AM Wednesday 11:15 AM - 11:30 AM Thursday 11:15 AM - 11:30 AM Friday 11:15 AM - 11:30 AM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 11:15 AM - 11:30 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -39931,7 +39931,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 10.6,
      "phone": "314-741-5667",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -39952,7 +39952,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63033",
      "distance_mi": 9.6,
      "phone": "314-741-4222",
-     "hours": "Monday Closed Tuesday 9:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -39994,7 +39994,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 1.8,
      "phone": "314-329-4262",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday 11:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Fri closed, Sat 11:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -40036,7 +40036,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 6.8,
      "phone": "314-719-2929",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -40078,7 +40078,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 5.7,
      "phone": "314-922-8903",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -40099,7 +40099,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63122",
      "distance_mi": 9.7,
      "phone": "314-822-4760",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -40120,7 +40120,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 9.4,
      "phone": "314-961-6854",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 5:30 PM Thursday Closed Friday Closed Saturday Closed Sunday 11:30 AM - 1:00 PM",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 5:30 PM, Thu-Sat closed, Sun 11:30 AM - 1:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -40162,7 +40162,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 1.8,
      "phone": "314-426-0101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -40183,7 +40183,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 5.9,
      "phone": "314-868-0707",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday 10:00 AM - 12:00 PM",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 12:00 PM, Thu-Sat closed, Sun 10:00 AM - 12:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -40204,7 +40204,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 3.8,
      "phone": "314-522-9264",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -40225,7 +40225,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 4.6,
      "phone": "314-261-5266",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -40246,7 +40246,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 8.8,
      "phone": null,
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -40267,7 +40267,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 0.2,
      "phone": "314-427-7204",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:30 AM Wednesday 9:00 AM - 11:30 AM Thursday Closed Friday 9:00 AM - 11:30 AM Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 9:00 AM - 11:30 AM, Thu closed, Fri-Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -40456,7 +40456,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 2.0,
      "phone": "314-423-7770",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 1:00 PM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 8:30 AM - 4:30 PM, Wed 1:00 PM - 4:30 PM, Thu-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -40477,7 +40477,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63133",
      "distance_mi": 4.5,
      "phone": "314-382-7158",
-     "hours": "Monday Closed Tuesday 8:30 AM - 11:30 AM Wednesday 8:30 AM - 11:30 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:30 AM - 11:30 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -40498,7 +40498,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 3.9,
      "phone": "314-382-8833",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -40519,7 +40519,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 0.8,
      "phone": "314-429-0216",
-     "hours": "Monday Closed Tuesday 10:30 AM - 1:00 PM Wednesday Closed Thursday 10:30 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:30 AM - 1:00 PM, Wed closed, Thu 10:30 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -40540,7 +40540,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 4.0,
      "phone": "314-261-0202",
-     "hours": "Monday 8:00 AM - 3:00 PM Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday 8:00 AM - 3:00 PM Friday 8:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 8:00 AM - 3:00 PM, Fri 8:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -40561,7 +40561,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 7.7,
      "phone": "314-647-5611",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -40582,7 +40582,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63031",
      "distance_mi": 6.6,
      "phone": "314-831-0879",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -40624,7 +40624,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 4.4,
      "phone": "314-725-3840",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -40645,7 +40645,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 0.6,
      "phone": "314-427-2273",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -40666,7 +40666,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 3.7,
      "phone": "314-721-2722",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -40687,7 +40687,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 6.6,
      "phone": "314-388-9840",
-     "hours": "Monday 9:00 AM - 4:00 PM Tuesday 9:00 AM - 4:00 PM Wednesday 9:00 AM - 4:00 PM Thursday 9:00 AM - 4:00 PM Friday 9:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -40729,7 +40729,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 8.9,
      "phone": "314-660-3621",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41115,7 +41115,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 7.3,
      "phone": "314-353-1005",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 11:00 AM, Wed-Thu closed, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41136,7 +41136,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 2.3,
      "phone": "314-361-6446",
-     "hours": "Monday Closed Tuesday 12:00 PM - 1:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 1:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41178,7 +41178,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 2.6,
      "phone": "314-261-3766",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 10:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 10:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41199,7 +41199,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 6.1,
      "phone": "314-772-8444",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday 10:00 AM - 4:00 PM Friday Closed Saturday 1:00 PM - 2:30 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 10:00 AM - 4:00 PM, Fri closed, Sat 1:00 PM - 2:30 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41220,7 +41220,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 1.9,
      "phone": "314-367-2974",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 8:00 AM - 10:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 8:00 AM - 10:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41241,7 +41241,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 3.4,
      "phone": "314-977-3881",
-     "hours": "Monday 3:30 PM - 5:30 PM Tuesday 3:30 PM - 5:30 PM Wednesday 3:30 PM - 5:30 PM Thursday 3:30 PM - 5:30 PM Friday Closed Saturday Closed Sunday 3:30 PM - 5:30 PM",
+     "hours": "Mon-Thu 3:30 PM - 5:30 PM, Fri-Sat closed, Sun 3:30 PM - 5:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41262,7 +41262,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 2.2,
      "phone": "314-367-1818",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41283,7 +41283,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 6.4,
      "phone": "314-776-7172",
-     "hours": "Monday 12:30 PM - 1:00 PM Tuesday Closed Wednesday Closed Thursday 12:30 PM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 12:30 PM - 1:00 PM, Tue-Wed closed, Thu 12:30 PM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41304,7 +41304,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 2.5,
      "phone": "314-382-8759",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41325,7 +41325,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 5.3,
      "phone": "314-768-3201",
-     "hours": "Monday 9:00 AM - 12:00 PM Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon 9:00 AM - 12:00 PM, Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41346,7 +41346,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 1.8,
      "phone": "314-367-9130",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41367,7 +41367,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 4.8,
      "phone": "314-482-2594",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday Closed Thursday 9:00 AM - 11:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue-Wed closed, Thu 9:00 AM - 11:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41388,7 +41388,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 6.6,
      "phone": "314-696-2939",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41430,7 +41430,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 0.8,
      "phone": "314-744-9693",
-     "hours": "Monday Closed Tuesday 12:00 PM - 2:30 PM Wednesday Closed Thursday 12:00 PM - 2:30 PM Friday Closed Saturday 12:00 PM - 3:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 2:30 PM, Wed closed, Thu 12:00 PM - 2:30 PM, Fri closed, Sat 12:00 PM - 3:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41451,7 +41451,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 9.5,
      "phone": "314-584-6960",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday Closed Wednesday 10:00 AM - 2:00 PM Thursday Closed Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 2:00 PM, Tue closed, Wed 10:00 AM - 2:00 PM, Thu closed, Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41472,7 +41472,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 3.9,
      "phone": "314-863-1992",
-     "hours": "Monday Closed Tuesday 10:00 AM - 11:30 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 11:30 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41493,7 +41493,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 1.8,
      "phone": "314-535-9002",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41514,7 +41514,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 6.1,
      "phone": "314-773-9027",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 8:30 AM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41535,7 +41535,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 4.8,
      "phone": "314-776-1410",
-     "hours": "Monday 9:00 AM - 11:00 AM Tuesday 10:00 AM - 1:00 PM Wednesday 10:00 AM - 1:00 PM Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 11:00 AM, Tue-Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41556,7 +41556,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 5.0,
      "phone": "314-421-0400",
-     "hours": "Monday 6:00 AM - 8:00 PM Tuesday 6:00 AM - 8:00 PM Wednesday 6:00 AM - 8:00 PM Thursday 6:00 AM - 8:00 PM Friday 6:00 AM - 8:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 6:00 AM - 8:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41577,7 +41577,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63110",
      "distance_mi": 3.8,
      "phone": "314-600-0239",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41598,7 +41598,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 2.4,
      "phone": "314-452-6880",
-     "hours": "Monday Closed Tuesday 5:00 PM - 6:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 5:00 PM - 6:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41640,7 +41640,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 3.7,
      "phone": "314-727-3550",
-     "hours": "Monday Closed Tuesday 11:30 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:30 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41661,7 +41661,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 1.5,
      "phone": "314-534-7026",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41682,7 +41682,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 1.8,
      "phone": "314-361-7878",
-     "hours": "Monday 11:30 AM - 1:00 PM Tuesday 11:30 AM - 1:00 PM Wednesday 11:30 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 11:30 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41703,7 +41703,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 7.5,
      "phone": "314-832-2142",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41724,7 +41724,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 1.3,
      "phone": "314-535-9794",
-     "hours": "Monday Closed Tuesday 9:00 AM - 12:00 PM Wednesday Closed Thursday 9:00 AM - 12:00 PM Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 12:00 PM, Wed closed, Thu 9:00 AM - 12:00 PM, Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41745,7 +41745,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 8.9,
      "phone": "314-353-1457",
-     "hours": "Monday 9:00 AM - 2:00 PM Tuesday 9:00 AM - 2:00 PM Wednesday 9:00 AM - 2:00 PM Thursday 9:00 AM - 2:00 PM Friday 9:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41766,7 +41766,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63120",
      "distance_mi": 1.8,
      "phone": "314-862-6270",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41808,7 +41808,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 5.1,
      "phone": "314-766-6145",
-     "hours": "Monday Closed Tuesday Closed Wednesday 3:30 PM - 5:30 PM Thursday Closed Friday 3:30 PM - 5:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 3:30 PM - 5:30 PM, Thu closed, Fri 3:30 PM - 5:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -41829,7 +41829,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 3.1,
      "phone": "314-867-3773",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -42081,7 +42081,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 2.5,
      "phone": "314-367-0366",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -42102,7 +42102,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 7.1,
      "phone": "314-352-1460",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday 4:00 PM - 6:00 PM Thursday 10:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue closed, Wed 4:00 PM - 6:00 PM, Thu 10:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -42123,7 +42123,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 2.5,
      "phone": "314-385-1934",
-     "hours": "Monday 9:30 AM - 11:00 AM Tuesday Closed Wednesday 9:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:00 AM, Tue closed, Wed 9:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -42144,7 +42144,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 3.1,
      "phone": "314-616-4717",
-     "hours": "Monday Closed Tuesday Closed Wednesday 5:00 AM - 7:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 5:00 AM - 7:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -42186,7 +42186,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 3.9,
      "phone": "314-652-6100",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -42207,7 +42207,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 3.8,
      "phone": "314-231-2860",
-     "hours": "Monday 11:30 AM - 1:30 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 11:30 AM - 1:30 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -42228,7 +42228,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63101",
      "distance_mi": 4.1,
      "phone": "314-802-0700",
-     "hours": "Monday 8:00 AM - 4:00 PM Tuesday 8:00 AM - 4:00 PM Wednesday 8:00 AM - 4:00 PM Thursday 8:00 AM - 4:00 PM Friday 8:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -42249,7 +42249,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 9.1,
      "phone": "314-353-3276",
-     "hours": "Monday 9:00 AM - 10:30 AM Tuesday Closed Wednesday 9:00 AM - 10:30 AM Thursday Closed Friday Closed Saturday 9:00 AM - 10:30 AM Sunday Closed",
+     "hours": "Mon 9:00 AM - 10:30 AM, Tue closed, Wed 9:00 AM - 10:30 AM, Thu-Fri closed, Sat 9:00 AM - 10:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -42270,7 +42270,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 5.6,
      "phone": "314-865-1020",
-     "hours": "Monday 9:30 AM - 11:30 AM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:30 AM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -42291,7 +42291,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 2.2,
      "phone": "314-531-3554",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -42312,7 +42312,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 2.5,
      "phone": "314-615-3600",
-     "hours": "Monday 2:00 PM - 4:30 PM Tuesday 2:00 PM - 4:30 PM Wednesday 2:00 PM - 4:30 PM Thursday 2:00 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 2:00 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -42333,7 +42333,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 0.4,
      "phone": "314-385-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 12:00 PM - 3:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 12:00 PM - 3:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -42354,7 +42354,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 2.3,
      "phone": "314-367-0060",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 8:30 AM - 2:00 PM",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sat closed, Sun 8:30 AM - 2:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -42375,7 +42375,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 2.7,
      "phone": "314-531-1040",
-     "hours": "Monday Closed Tuesday 10:00 AM - 2:00 PM Wednesday Closed Thursday 10:00 AM - 2:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 2:00 PM, Wed closed, Thu 10:00 AM - 2:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -42396,7 +42396,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 1.1,
      "phone": "314-265-5455",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 11:00 AM - 1:30 PM",
+     "hours": "Mon-Sat closed, Sun 11:00 AM - 1:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -42417,7 +42417,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 3.0,
      "phone": "314-231-0382",
-     "hours": "Monday 9:00 AM - 1:00 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 1:00 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -42438,7 +42438,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 3.0,
      "phone": "314-652-9136",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -42887,7 +42887,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 3.0,
      "phone": "314-353-1005",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 11:00 AM, Wed-Thu closed, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -42908,7 +42908,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 5.3,
      "phone": "314-361-6446",
-     "hours": "Monday Closed Tuesday 12:00 PM - 1:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 1:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -42950,7 +42950,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 6.5,
      "phone": "314-261-3766",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 10:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 10:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -42971,7 +42971,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 0.9,
      "phone": "314-772-8444",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday 10:00 AM - 4:00 PM Friday Closed Saturday 1:00 PM - 2:30 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 10:00 AM - 4:00 PM, Fri closed, Sat 1:00 PM - 2:30 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -42992,7 +42992,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 5.2,
      "phone": "314-367-2974",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 8:00 AM - 10:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 8:00 AM - 10:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43013,7 +43013,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 2.8,
      "phone": "314-977-3881",
-     "hours": "Monday 3:30 PM - 5:30 PM Tuesday 3:30 PM - 5:30 PM Wednesday 3:30 PM - 5:30 PM Thursday 3:30 PM - 5:30 PM Friday Closed Saturday Closed Sunday 3:30 PM - 5:30 PM",
+     "hours": "Mon-Thu 3:30 PM - 5:30 PM, Fri-Sat closed, Sun 3:30 PM - 5:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43034,7 +43034,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 4.8,
      "phone": "314-367-1818",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43055,7 +43055,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 0.9,
      "phone": "314-776-7172",
-     "hours": "Monday 12:30 PM - 1:00 PM Tuesday Closed Wednesday Closed Thursday 12:30 PM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 12:30 PM - 1:00 PM, Tue-Wed closed, Thu 12:30 PM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43076,7 +43076,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 8.7,
      "phone": "314-382-8759",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43097,7 +43097,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 1.1,
      "phone": "314-768-3201",
-     "hours": "Monday 9:00 AM - 12:00 PM Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon 9:00 AM - 12:00 PM, Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43118,7 +43118,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 5.3,
      "phone": "314-367-9130",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43139,7 +43139,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 2.1,
      "phone": "314-482-2594",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday Closed Thursday 9:00 AM - 11:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue-Wed closed, Thu 9:00 AM - 11:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43160,7 +43160,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 2.6,
      "phone": "314-696-2939",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43202,7 +43202,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 5.7,
      "phone": "314-744-9693",
-     "hours": "Monday Closed Tuesday 12:00 PM - 2:30 PM Wednesday Closed Thursday 12:00 PM - 2:30 PM Friday Closed Saturday 12:00 PM - 3:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 2:30 PM, Wed closed, Thu 12:00 PM - 2:30 PM, Fri closed, Sat 12:00 PM - 3:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43223,7 +43223,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 3.8,
      "phone": "314-584-6960",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday Closed Wednesday 10:00 AM - 2:00 PM Thursday Closed Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 2:00 PM, Tue closed, Wed 10:00 AM - 2:00 PM, Thu closed, Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43244,7 +43244,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 5.7,
      "phone": "314-863-1992",
-     "hours": "Monday Closed Tuesday 10:00 AM - 11:30 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 11:30 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43265,7 +43265,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 4.8,
      "phone": "314-535-9002",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43286,7 +43286,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 0.2,
      "phone": "314-773-9027",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 8:30 AM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43307,7 +43307,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 1.6,
      "phone": "314-776-1410",
-     "hours": "Monday 9:00 AM - 11:00 AM Tuesday 10:00 AM - 1:00 PM Wednesday 10:00 AM - 1:00 PM Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 11:00 AM, Tue-Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43328,7 +43328,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 2.0,
      "phone": "314-421-0400",
-     "hours": "Monday 6:00 AM - 8:00 PM Tuesday 6:00 AM - 8:00 PM Wednesday 6:00 AM - 8:00 PM Thursday 6:00 AM - 8:00 PM Friday 6:00 AM - 8:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 6:00 AM - 8:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43349,7 +43349,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63110",
      "distance_mi": 3.0,
      "phone": "314-600-0239",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43370,7 +43370,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 8.5,
      "phone": "314-452-6880",
-     "hours": "Monday Closed Tuesday 5:00 PM - 6:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 5:00 PM - 6:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43412,7 +43412,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 5.9,
      "phone": "314-727-3550",
-     "hours": "Monday Closed Tuesday 11:30 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:30 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43433,7 +43433,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 4.8,
      "phone": "314-534-7026",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43454,7 +43454,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 5.6,
      "phone": "314-361-7878",
-     "hours": "Monday 11:30 AM - 1:00 PM Tuesday 11:30 AM - 1:00 PM Wednesday 11:30 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 11:30 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43475,7 +43475,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 1.6,
      "phone": "314-832-2142",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43496,7 +43496,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 5.6,
      "phone": "314-535-9794",
-     "hours": "Monday Closed Tuesday 9:00 AM - 12:00 PM Wednesday Closed Thursday 9:00 AM - 12:00 PM Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 12:00 PM, Wed closed, Thu 9:00 AM - 12:00 PM, Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43517,7 +43517,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 3.1,
      "phone": "314-353-1457",
-     "hours": "Monday 9:00 AM - 2:00 PM Tuesday 9:00 AM - 2:00 PM Wednesday 9:00 AM - 2:00 PM Thursday 9:00 AM - 2:00 PM Friday 9:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43538,7 +43538,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63120",
      "distance_mi": 8.0,
      "phone": "314-862-6270",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43580,7 +43580,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 1.2,
      "phone": "314-766-6145",
-     "hours": "Monday Closed Tuesday Closed Wednesday 3:30 PM - 5:30 PM Thursday Closed Friday 3:30 PM - 5:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 3:30 PM - 5:30 PM, Thu closed, Fri 3:30 PM - 5:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43601,7 +43601,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 9.3,
      "phone": "314-867-3773",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43853,7 +43853,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 4.2,
      "phone": "314-367-0366",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43874,7 +43874,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 1.2,
      "phone": "314-352-1460",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday 4:00 PM - 6:00 PM Thursday 10:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue closed, Wed 4:00 PM - 6:00 PM, Thu 10:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43895,7 +43895,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 6.3,
      "phone": "314-385-1934",
-     "hours": "Monday 9:30 AM - 11:00 AM Tuesday Closed Wednesday 9:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:00 AM, Tue closed, Wed 9:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43916,7 +43916,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 3.3,
      "phone": "314-616-4717",
-     "hours": "Monday Closed Tuesday Closed Wednesday 5:00 AM - 7:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 5:00 AM - 7:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43958,7 +43958,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 2.9,
      "phone": "314-652-6100",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -43979,7 +43979,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 3.1,
      "phone": "314-231-2860",
-     "hours": "Monday 11:30 AM - 1:30 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 11:30 AM - 1:30 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -44000,7 +44000,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63101",
      "distance_mi": 3.3,
      "phone": "314-802-0700",
-     "hours": "Monday 8:00 AM - 4:00 PM Tuesday 8:00 AM - 4:00 PM Wednesday 8:00 AM - 4:00 PM Thursday 8:00 AM - 4:00 PM Friday 8:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -44021,7 +44021,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 3.5,
      "phone": "314-353-3276",
-     "hours": "Monday 9:00 AM - 10:30 AM Tuesday Closed Wednesday 9:00 AM - 10:30 AM Thursday Closed Friday Closed Saturday 9:00 AM - 10:30 AM Sunday Closed",
+     "hours": "Mon 9:00 AM - 10:30 AM, Tue closed, Wed 9:00 AM - 10:30 AM, Thu-Fri closed, Sat 9:00 AM - 10:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -44042,7 +44042,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 0.7,
      "phone": "314-865-1020",
-     "hours": "Monday 9:30 AM - 11:30 AM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:30 AM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -44063,7 +44063,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 4.6,
      "phone": "314-531-3554",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -44084,7 +44084,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 3.7,
      "phone": "314-615-3600",
-     "hours": "Monday 2:00 PM - 4:30 PM Tuesday 2:00 PM - 4:30 PM Wednesday 2:00 PM - 4:30 PM Thursday 2:00 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 2:00 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -44105,7 +44105,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 5.9,
      "phone": "314-385-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 12:00 PM - 3:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 12:00 PM - 3:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -44126,7 +44126,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 4.4,
      "phone": "314-367-0060",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 8:30 AM - 2:00 PM",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sat closed, Sun 8:30 AM - 2:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -44147,7 +44147,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 3.6,
      "phone": "314-531-1040",
-     "hours": "Monday Closed Tuesday 10:00 AM - 2:00 PM Wednesday Closed Thursday 10:00 AM - 2:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 2:00 PM, Wed closed, Thu 10:00 AM - 2:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -44168,7 +44168,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 5.6,
      "phone": "314-265-5455",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 11:00 AM - 1:30 PM",
+     "hours": "Mon-Sat closed, Sun 11:00 AM - 1:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -44189,7 +44189,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 4.0,
      "phone": "314-231-0382",
-     "hours": "Monday 9:00 AM - 1:00 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 1:00 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -44210,7 +44210,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 3.6,
      "phone": "314-652-9136",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -44617,7 +44617,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63123",
      "distance_mi": 3.4,
      "phone": "314-580-3138",
-     "hours": "Monday 12:30 PM - 2:30 PM Tuesday 4:00 PM - 6:30 PM Wednesday Closed Thursday 6:00 PM - 8:00 PM Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon 12:30 PM - 2:30 PM, Tue 4:00 PM - 6:30 PM, Wed closed, Thu 6:00 PM - 8:00 PM, Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -44638,7 +44638,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 5.8,
      "phone": "314-862-0038",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 12:00 PM Thursday 11:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 11:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -44680,7 +44680,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 2.8,
      "phone": "314-716-2711",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -44701,7 +44701,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 11.3,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday 9:30 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -44722,7 +44722,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 11.0,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 9:30 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 9:30 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -44743,7 +44743,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 8.1,
      "phone": "314-863-0015",
-     "hours": "Monday Closed Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday Closed Friday 8:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:00 AM - 3:00 PM, Thu closed, Fri 8:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -44785,7 +44785,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 11.1,
      "phone": "314-388-1211",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -44806,7 +44806,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63088",
      "distance_mi": 8.0,
      "phone": "636-861-2623",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 7:00 PM Thursday 1:00 PM - 5:00 PM Friday 9:00 AM - 3:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue 9:00 AM - 3:00 PM, Wed 9:00 AM - 7:00 PM, Thu 1:00 PM - 5:00 PM, Fri 9:00 AM - 3:00 PM, Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -44827,7 +44827,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 6.4,
      "phone": "314-680-9101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -44848,7 +44848,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 11.0,
      "phone": "314-521-1122",
-     "hours": "Monday Closed Tuesday 11:00 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -44890,7 +44890,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63044",
      "distance_mi": 11.9,
      "phone": "314-770-2216",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 10:00 AM - 2:00 PM, Wed 10:00 AM - 12:00 PM, Thu 10:00 AM - 2:00 PM, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -44911,7 +44911,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 15.7,
      "phone": "314-438-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -44932,7 +44932,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 8.4,
      "phone": null,
-     "hours": "Monday 12:00 PM - 5:00 PM Tuesday 12:00 PM - 5:00 PM Wednesday 12:00 PM - 5:00 PM Thursday 12:00 PM - 5:00 PM Friday 1:00 PM - 5:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 12:00 PM - 5:00 PM, Fri 1:00 PM - 5:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -44953,7 +44953,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63045",
      "distance_mi": 13.3,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 4:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -44974,7 +44974,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63127",
      "distance_mi": 6.3,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 4:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 4:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -44995,7 +44995,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63125",
      "distance_mi": 6.1,
      "phone": "314-631-4900",
-     "hours": "Monday 10:00 AM - 3:00 PM Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 10:00 AM - 3:00 PM Friday 10:00 AM - 3:00 PM Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 3:00 PM, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45016,7 +45016,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 12.8,
      "phone": "314-867-2782",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:30 AM - 12:30 PM Thursday Closed Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:30 AM - 12:30 PM, Thu-Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45037,7 +45037,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 10.4,
      "phone": "314-291-1915",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45058,7 +45058,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63142",
      "distance_mi": 7.0,
      "phone": "314-513-1672",
-     "hours": "Monday 9:00 AM - 3:30 PM Tuesday 9:00 AM - 3:30 PM Wednesday 9:00 AM - 3:30 PM Thursday 9:00 AM - 3:30 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 9:00 AM - 3:30 PM, Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45079,7 +45079,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 15.7,
      "phone": null,
-     "hours": "Monday 11:15 AM - 11:30 AM Tuesday 11:15 AM - 11:30 AM Wednesday 11:15 AM - 11:30 AM Thursday 11:15 AM - 11:30 AM Friday 11:15 AM - 11:30 AM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 11:15 AM - 11:30 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45100,7 +45100,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 15.9,
      "phone": "314-741-5667",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45121,7 +45121,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63033",
      "distance_mi": 16.1,
      "phone": "314-741-4222",
-     "hours": "Monday Closed Tuesday 9:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45163,7 +45163,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 7.4,
      "phone": "314-329-4262",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday 11:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Fri closed, Sat 11:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45205,7 +45205,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 2.3,
      "phone": "314-719-2929",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45247,7 +45247,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 10.0,
      "phone": "314-922-8903",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45268,7 +45268,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63122",
      "distance_mi": 3.2,
      "phone": "314-822-4760",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45289,7 +45289,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 1.6,
      "phone": "314-961-6854",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 5:30 PM Thursday Closed Friday Closed Saturday Closed Sunday 11:30 AM - 1:00 PM",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 5:30 PM, Thu-Sat closed, Sun 11:30 AM - 1:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45331,7 +45331,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 9.6,
      "phone": "314-426-0101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45352,7 +45352,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 11.2,
      "phone": "314-868-0707",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday 10:00 AM - 12:00 PM",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 12:00 PM, Thu-Sat closed, Sun 10:00 AM - 12:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45373,7 +45373,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 10.0,
      "phone": "314-522-9264",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45394,7 +45394,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 8.3,
      "phone": "314-261-5266",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45415,7 +45415,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 13.8,
      "phone": null,
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45436,7 +45436,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 7.7,
      "phone": "314-427-7204",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:30 AM Wednesday 9:00 AM - 11:30 AM Thursday Closed Friday 9:00 AM - 11:30 AM Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 9:00 AM - 11:30 AM, Thu closed, Fri-Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45625,7 +45625,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 7.5,
      "phone": "314-423-7770",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 1:00 PM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 8:30 AM - 4:30 PM, Wed 1:00 PM - 4:30 PM, Thu-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45646,7 +45646,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63133",
      "distance_mi": 7.0,
      "phone": "314-382-7158",
-     "hours": "Monday Closed Tuesday 8:30 AM - 11:30 AM Wednesday 8:30 AM - 11:30 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:30 AM - 11:30 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45667,7 +45667,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 7.4,
      "phone": "314-382-8833",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45688,7 +45688,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 8.6,
      "phone": "314-429-0216",
-     "hours": "Monday Closed Tuesday 10:30 AM - 1:00 PM Wednesday Closed Thursday 10:30 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:30 AM - 1:00 PM, Wed closed, Thu 10:30 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45709,7 +45709,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 8.3,
      "phone": "314-261-0202",
-     "hours": "Monday 8:00 AM - 3:00 PM Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday 8:00 AM - 3:00 PM Friday 8:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 8:00 AM - 3:00 PM, Fri 8:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45730,7 +45730,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 1.2,
      "phone": "314-647-5611",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45751,7 +45751,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63031",
      "distance_mi": 14.2,
      "phone": "314-831-0879",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45793,7 +45793,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 5.0,
      "phone": "314-725-3840",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45814,7 +45814,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 7.5,
      "phone": "314-427-2273",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45835,7 +45835,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 5.4,
      "phone": "314-721-2722",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45856,7 +45856,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 11.0,
      "phone": "314-388-9840",
-     "hours": "Monday 9:00 AM - 4:00 PM Tuesday 9:00 AM - 4:00 PM Wednesday 9:00 AM - 4:00 PM Thursday 9:00 AM - 4:00 PM Friday 9:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -45898,7 +45898,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 13.3,
      "phone": "314-660-3621",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46284,7 +46284,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 7.6,
      "phone": "314-353-1005",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 11:00 AM, Wed-Thu closed, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46305,7 +46305,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 2.2,
      "phone": "314-361-6446",
-     "hours": "Monday Closed Tuesday 12:00 PM - 1:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 1:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46347,7 +46347,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 1.8,
      "phone": "314-261-3766",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 10:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 10:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46368,7 +46368,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 6.8,
      "phone": "314-772-8444",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday 10:00 AM - 4:00 PM Friday Closed Saturday 1:00 PM - 2:30 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 10:00 AM - 4:00 PM, Fri closed, Sat 1:00 PM - 2:30 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46389,7 +46389,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 2.0,
      "phone": "314-367-2974",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 8:00 AM - 10:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 8:00 AM - 10:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46410,7 +46410,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 4.3,
      "phone": "314-977-3881",
-     "hours": "Monday 3:30 PM - 5:30 PM Tuesday 3:30 PM - 5:30 PM Wednesday 3:30 PM - 5:30 PM Thursday 3:30 PM - 5:30 PM Friday Closed Saturday Closed Sunday 3:30 PM - 5:30 PM",
+     "hours": "Mon-Thu 3:30 PM - 5:30 PM, Fri-Sat closed, Sun 3:30 PM - 5:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46431,7 +46431,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 2.4,
      "phone": "314-367-1818",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46452,7 +46452,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 7.1,
      "phone": "314-776-7172",
-     "hours": "Monday 12:30 PM - 1:00 PM Tuesday Closed Wednesday Closed Thursday 12:30 PM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 12:30 PM - 1:00 PM, Tue-Wed closed, Thu 12:30 PM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46473,7 +46473,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 2.3,
      "phone": "314-382-8759",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46494,7 +46494,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 6.3,
      "phone": "314-768-3201",
-     "hours": "Monday 9:00 AM - 12:00 PM Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon 9:00 AM - 12:00 PM, Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46515,7 +46515,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 1.9,
      "phone": "314-367-9130",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46536,7 +46536,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 5.8,
      "phone": "314-482-2594",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday Closed Thursday 9:00 AM - 11:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue-Wed closed, Thu 9:00 AM - 11:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46557,7 +46557,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 6.9,
      "phone": "314-696-2939",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46599,7 +46599,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 2.2,
      "phone": "314-744-9693",
-     "hours": "Monday Closed Tuesday 12:00 PM - 2:30 PM Wednesday Closed Thursday 12:00 PM - 2:30 PM Friday Closed Saturday 12:00 PM - 3:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 2:30 PM, Wed closed, Thu 12:00 PM - 2:30 PM, Fri closed, Sat 12:00 PM - 3:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46620,7 +46620,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 10.0,
      "phone": "314-584-6960",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday Closed Wednesday 10:00 AM - 2:00 PM Thursday Closed Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 2:00 PM, Tue closed, Wed 10:00 AM - 2:00 PM, Thu closed, Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46641,7 +46641,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 3.4,
      "phone": "314-863-1992",
-     "hours": "Monday Closed Tuesday 10:00 AM - 11:30 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 11:30 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46662,7 +46662,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 2.3,
      "phone": "314-535-9002",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46683,7 +46683,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 7.0,
      "phone": "314-773-9027",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 8:30 AM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46704,7 +46704,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 5.6,
      "phone": "314-776-1410",
-     "hours": "Monday 9:00 AM - 11:00 AM Tuesday 10:00 AM - 1:00 PM Wednesday 10:00 AM - 1:00 PM Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 11:00 AM, Tue-Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46725,7 +46725,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 6.1,
      "phone": "314-421-0400",
-     "hours": "Monday 6:00 AM - 8:00 PM Tuesday 6:00 AM - 8:00 PM Wednesday 6:00 AM - 8:00 PM Thursday 6:00 AM - 8:00 PM Friday 6:00 AM - 8:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 6:00 AM - 8:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46746,7 +46746,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63110",
      "distance_mi": 4.3,
      "phone": "314-600-0239",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46767,7 +46767,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 2.3,
      "phone": "314-452-6880",
-     "hours": "Monday Closed Tuesday 5:00 PM - 6:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 5:00 PM - 6:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46809,7 +46809,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 3.2,
      "phone": "314-727-3550",
-     "hours": "Monday Closed Tuesday 11:30 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:30 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46830,7 +46830,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 2.3,
      "phone": "314-534-7026",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46851,7 +46851,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 1.7,
      "phone": "314-361-7878",
-     "hours": "Monday 11:30 AM - 1:00 PM Tuesday 11:30 AM - 1:00 PM Wednesday 11:30 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 11:30 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46872,7 +46872,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 8.1,
      "phone": "314-832-2142",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46893,7 +46893,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 2.6,
      "phone": "314-535-9794",
-     "hours": "Monday Closed Tuesday 9:00 AM - 12:00 PM Wednesday Closed Thursday 9:00 AM - 12:00 PM Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 12:00 PM, Wed closed, Thu 9:00 AM - 12:00 PM, Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46914,7 +46914,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 9.5,
      "phone": "314-353-1457",
-     "hours": "Monday 9:00 AM - 2:00 PM Tuesday 9:00 AM - 2:00 PM Wednesday 9:00 AM - 2:00 PM Thursday 9:00 AM - 2:00 PM Friday 9:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46935,7 +46935,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63120",
      "distance_mi": 1.3,
      "phone": "314-862-6270",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46977,7 +46977,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 6.0,
      "phone": "314-766-6145",
-     "hours": "Monday Closed Tuesday Closed Wednesday 3:30 PM - 5:30 PM Thursday Closed Friday 3:30 PM - 5:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 3:30 PM - 5:30 PM, Thu closed, Fri 3:30 PM - 5:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -46998,7 +46998,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 3.0,
      "phone": "314-867-3773",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -47250,7 +47250,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 3.0,
      "phone": "314-367-0366",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -47271,7 +47271,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 7.8,
      "phone": "314-352-1460",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday 4:00 PM - 6:00 PM Thursday 10:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue closed, Wed 4:00 PM - 6:00 PM, Thu 10:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -47292,7 +47292,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 1.9,
      "phone": "314-385-1934",
-     "hours": "Monday 9:30 AM - 11:00 AM Tuesday Closed Wednesday 9:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:00 AM, Tue closed, Wed 9:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -47313,7 +47313,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 4.1,
      "phone": "314-616-4717",
-     "hours": "Monday Closed Tuesday Closed Wednesday 5:00 AM - 7:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 5:00 AM - 7:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -47355,7 +47355,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 5.0,
      "phone": "314-652-6100",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -47376,7 +47376,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 4.9,
      "phone": "314-231-2860",
-     "hours": "Monday 11:30 AM - 1:30 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 11:30 AM - 1:30 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -47397,7 +47397,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63101",
      "distance_mi": 5.3,
      "phone": "314-802-0700",
-     "hours": "Monday 8:00 AM - 4:00 PM Tuesday 8:00 AM - 4:00 PM Wednesday 8:00 AM - 4:00 PM Thursday 8:00 AM - 4:00 PM Friday 8:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -47418,7 +47418,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 9.6,
      "phone": "314-353-3276",
-     "hours": "Monday 9:00 AM - 10:30 AM Tuesday Closed Wednesday 9:00 AM - 10:30 AM Thursday Closed Friday Closed Saturday 9:00 AM - 10:30 AM Sunday Closed",
+     "hours": "Mon 9:00 AM - 10:30 AM, Tue closed, Wed 9:00 AM - 10:30 AM, Thu-Fri closed, Sat 9:00 AM - 10:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -47439,7 +47439,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 6.4,
      "phone": "314-865-1020",
-     "hours": "Monday 9:30 AM - 11:30 AM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:30 AM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -47460,7 +47460,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 3.5,
      "phone": "314-531-3554",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -47481,7 +47481,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 3.4,
      "phone": "314-615-3600",
-     "hours": "Monday 2:00 PM - 4:30 PM Tuesday 2:00 PM - 4:30 PM Wednesday 2:00 PM - 4:30 PM Thursday 2:00 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 2:00 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -47502,7 +47502,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 1.7,
      "phone": "314-385-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 12:00 PM - 3:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 12:00 PM - 3:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -47523,7 +47523,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 2.8,
      "phone": "314-367-0060",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 8:30 AM - 2:00 PM",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sat closed, Sun 8:30 AM - 2:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -47544,7 +47544,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 3.7,
      "phone": "314-531-1040",
-     "hours": "Monday Closed Tuesday 10:00 AM - 2:00 PM Wednesday Closed Thursday 10:00 AM - 2:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 2:00 PM, Wed closed, Thu 10:00 AM - 2:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -47565,7 +47565,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 2.4,
      "phone": "314-265-5455",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 11:00 AM - 1:30 PM",
+     "hours": "Mon-Sat closed, Sun 11:00 AM - 1:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -47586,7 +47586,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 4.3,
      "phone": "314-231-0382",
-     "hours": "Monday 9:00 AM - 1:00 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 1:00 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -47607,7 +47607,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 4.2,
      "phone": "314-652-9136",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48014,7 +48014,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63123",
      "distance_mi": 10.4,
      "phone": "314-580-3138",
-     "hours": "Monday 12:30 PM - 2:30 PM Tuesday 4:00 PM - 6:30 PM Wednesday Closed Thursday 6:00 PM - 8:00 PM Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon 12:30 PM - 2:30 PM, Tue 4:00 PM - 6:30 PM, Wed closed, Thu 6:00 PM - 8:00 PM, Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48035,7 +48035,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 3.0,
      "phone": "314-862-0038",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 12:00 PM Thursday 11:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 11:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48077,7 +48077,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 6.2,
      "phone": "314-716-2711",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48098,7 +48098,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 2.8,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday 9:30 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48119,7 +48119,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 2.5,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 9:30 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 9:30 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48140,7 +48140,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 3.3,
      "phone": "314-863-0015",
-     "hours": "Monday Closed Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday Closed Friday 8:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:00 AM - 3:00 PM, Thu closed, Fri 8:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48182,7 +48182,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 2.8,
      "phone": "314-388-1211",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48203,7 +48203,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63088",
      "distance_mi": 14.9,
      "phone": "636-861-2623",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 7:00 PM Thursday 1:00 PM - 5:00 PM Friday 9:00 AM - 3:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue 9:00 AM - 3:00 PM, Wed 9:00 AM - 7:00 PM, Thu 1:00 PM - 5:00 PM, Fri 9:00 AM - 3:00 PM, Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48224,7 +48224,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 3.3,
      "phone": "314-680-9101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48245,7 +48245,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 3.3,
      "phone": "314-521-1122",
-     "hours": "Monday Closed Tuesday 11:00 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48287,7 +48287,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63044",
      "distance_mi": 7.3,
      "phone": "314-770-2216",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 10:00 AM - 2:00 PM, Wed 10:00 AM - 12:00 PM, Thu 10:00 AM - 2:00 PM, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48308,7 +48308,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 7.3,
      "phone": "314-438-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48329,7 +48329,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 0.2,
      "phone": null,
-     "hours": "Monday 12:00 PM - 5:00 PM Tuesday 12:00 PM - 5:00 PM Wednesday 12:00 PM - 5:00 PM Thursday 12:00 PM - 5:00 PM Friday 1:00 PM - 5:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 12:00 PM - 5:00 PM, Fri 1:00 PM - 5:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48350,7 +48350,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63045",
      "distance_mi": 9.7,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 4:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48371,7 +48371,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63127",
      "distance_mi": 14.6,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 4:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 4:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48392,7 +48392,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63125",
      "distance_mi": 13.0,
      "phone": "314-631-4900",
-     "hours": "Monday 10:00 AM - 3:00 PM Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 10:00 AM - 3:00 PM Friday 10:00 AM - 3:00 PM Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 3:00 PM, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48413,7 +48413,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 4.9,
      "phone": "314-867-2782",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:30 AM - 12:30 PM Thursday Closed Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:30 AM - 12:30 PM, Thu-Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48434,7 +48434,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 7.0,
      "phone": "314-291-1915",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48455,7 +48455,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63142",
      "distance_mi": 5.3,
      "phone": "314-513-1672",
-     "hours": "Monday 9:00 AM - 3:30 PM Tuesday 9:00 AM - 3:30 PM Wednesday 9:00 AM - 3:30 PM Thursday 9:00 AM - 3:30 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 9:00 AM - 3:30 PM, Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48476,7 +48476,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 7.3,
      "phone": null,
-     "hours": "Monday 11:15 AM - 11:30 AM Tuesday 11:15 AM - 11:30 AM Wednesday 11:15 AM - 11:30 AM Thursday 11:15 AM - 11:30 AM Friday 11:15 AM - 11:30 AM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 11:15 AM - 11:30 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48497,7 +48497,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 7.7,
      "phone": "314-741-5667",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48518,7 +48518,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63033",
      "distance_mi": 7.6,
      "phone": "314-741-4222",
-     "hours": "Monday Closed Tuesday 9:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48560,7 +48560,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 5.2,
      "phone": "314-329-4262",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday 11:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Fri closed, Sat 11:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48602,7 +48602,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 6.7,
      "phone": "314-719-2929",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48644,7 +48644,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 2.3,
      "phone": "314-922-8903",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48665,7 +48665,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63122",
      "distance_mi": 11.2,
      "phone": "314-822-4760",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48686,7 +48686,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 10.2,
      "phone": "314-961-6854",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 5:30 PM Thursday Closed Friday Closed Saturday Closed Sunday 11:30 AM - 1:00 PM",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 5:30 PM, Thu-Sat closed, Sun 11:30 AM - 1:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48728,7 +48728,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 3.8,
      "phone": "314-426-0101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48749,7 +48749,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 2.9,
      "phone": "314-868-0707",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday 10:00 AM - 12:00 PM",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 12:00 PM, Thu-Sat closed, Sun 10:00 AM - 12:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48770,7 +48770,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 1.5,
      "phone": "314-522-9264",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48791,7 +48791,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 1.5,
      "phone": "314-261-5266",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48812,7 +48812,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 5.7,
      "phone": null,
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -48833,7 +48833,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 3.6,
      "phone": "314-427-7204",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:30 AM Wednesday 9:00 AM - 11:30 AM Thursday Closed Friday 9:00 AM - 11:30 AM Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 9:00 AM - 11:30 AM, Thu closed, Fri-Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -49022,7 +49022,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 5.4,
      "phone": "314-423-7770",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 1:00 PM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 8:30 AM - 4:30 PM, Wed 1:00 PM - 4:30 PM, Thu-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -49043,7 +49043,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63133",
      "distance_mi": 2.2,
      "phone": "314-382-7158",
-     "hours": "Monday Closed Tuesday 8:30 AM - 11:30 AM Wednesday 8:30 AM - 11:30 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:30 AM - 11:30 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -49064,7 +49064,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 1.4,
      "phone": "314-382-8833",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -49085,7 +49085,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 3.3,
      "phone": "314-429-0216",
-     "hours": "Monday Closed Tuesday 10:30 AM - 1:00 PM Wednesday Closed Thursday 10:30 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:30 AM - 1:00 PM, Wed closed, Thu 10:30 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -49106,7 +49106,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 0.8,
      "phone": "314-261-0202",
-     "hours": "Monday 8:00 AM - 3:00 PM Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday 8:00 AM - 3:00 PM Friday 8:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 8:00 AM - 3:00 PM, Fri 8:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -49127,7 +49127,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 8.0,
      "phone": "314-647-5611",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -49148,7 +49148,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63031",
      "distance_mi": 6.2,
      "phone": "314-831-0879",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -49190,7 +49190,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 3.7,
      "phone": "314-725-3840",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -49211,7 +49211,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 3.9,
      "phone": "314-427-2273",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -49232,7 +49232,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 3.2,
      "phone": "314-721-2722",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -49253,7 +49253,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 3.2,
      "phone": "314-388-9840",
-     "hours": "Monday 9:00 AM - 4:00 PM Tuesday 9:00 AM - 4:00 PM Wednesday 9:00 AM - 4:00 PM Thursday 9:00 AM - 4:00 PM Friday 9:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -49295,7 +49295,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 5.6,
      "phone": "314-660-3621",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -49639,7 +49639,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63123",
      "distance_mi": 6.6,
      "phone": "314-580-3138",
-     "hours": "Monday 12:30 PM - 2:30 PM Tuesday 4:00 PM - 6:30 PM Wednesday Closed Thursday 6:00 PM - 8:00 PM Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon 12:30 PM - 2:30 PM, Tue 4:00 PM - 6:30 PM, Wed closed, Thu 6:00 PM - 8:00 PM, Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -49660,7 +49660,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 8.7,
      "phone": "314-862-0038",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 12:00 PM Thursday 11:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 11:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -49702,7 +49702,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 6.4,
      "phone": "314-716-2711",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -49723,7 +49723,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 13.4,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday 9:30 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -49744,7 +49744,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 13.1,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 9:30 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 9:30 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -49765,7 +49765,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 9.4,
      "phone": "314-863-0015",
-     "hours": "Monday Closed Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday Closed Friday 8:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:00 AM - 3:00 PM, Thu closed, Fri 8:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -49807,7 +49807,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 13.8,
      "phone": "314-388-1211",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -49828,7 +49828,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63088",
      "distance_mi": 4.2,
      "phone": "636-861-2623",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 7:00 PM Thursday 1:00 PM - 5:00 PM Friday 9:00 AM - 3:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue 9:00 AM - 3:00 PM, Wed 9:00 AM - 7:00 PM, Thu 1:00 PM - 5:00 PM, Fri 9:00 AM - 3:00 PM, Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -49849,7 +49849,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 8.0,
      "phone": "314-680-9101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -49870,7 +49870,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 12.6,
      "phone": "314-521-1122",
-     "hours": "Monday Closed Tuesday 11:00 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -49912,7 +49912,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63044",
      "distance_mi": 11.9,
      "phone": "314-770-2216",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 10:00 AM - 2:00 PM, Wed 10:00 AM - 12:00 PM, Thu 10:00 AM - 2:00 PM, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -49933,7 +49933,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 18.4,
      "phone": "314-438-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -49954,7 +49954,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 10.9,
      "phone": null,
-     "hours": "Monday 12:00 PM - 5:00 PM Tuesday 12:00 PM - 5:00 PM Wednesday 12:00 PM - 5:00 PM Thursday 12:00 PM - 5:00 PM Friday 1:00 PM - 5:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 12:00 PM - 5:00 PM, Fri 1:00 PM - 5:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -49975,7 +49975,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63045",
      "distance_mi": 12.7,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 4:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -49996,7 +49996,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63127",
      "distance_mi": 4.3,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 4:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 4:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50017,7 +50017,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63125",
      "distance_mi": 8.6,
      "phone": "314-631-4900",
-     "hours": "Monday 10:00 AM - 3:00 PM Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 10:00 AM - 3:00 PM Friday 10:00 AM - 3:00 PM Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 3:00 PM, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50038,7 +50038,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 15.7,
      "phone": "314-867-2782",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:30 AM - 12:30 PM Thursday Closed Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:30 AM - 12:30 PM, Thu-Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50059,7 +50059,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 10.2,
      "phone": "314-291-1915",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50080,7 +50080,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63142",
      "distance_mi": 7.5,
      "phone": "314-513-1672",
-     "hours": "Monday 9:00 AM - 3:30 PM Tuesday 9:00 AM - 3:30 PM Wednesday 9:00 AM - 3:30 PM Thursday 9:00 AM - 3:30 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 9:00 AM - 3:30 PM, Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50101,7 +50101,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 18.3,
      "phone": null,
-     "hours": "Monday 11:15 AM - 11:30 AM Tuesday 11:15 AM - 11:30 AM Wednesday 11:15 AM - 11:30 AM Thursday 11:15 AM - 11:30 AM Friday 11:15 AM - 11:30 AM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 11:15 AM - 11:30 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50122,7 +50122,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 18.7,
      "phone": "314-741-5667",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50143,7 +50143,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63033",
      "distance_mi": 18.4,
      "phone": "314-741-4222",
-     "hours": "Monday Closed Tuesday 9:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50185,7 +50185,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 7.9,
      "phone": "314-329-4262",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday 11:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Fri closed, Sat 11:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50227,7 +50227,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 6.1,
      "phone": "314-719-2929",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50269,7 +50269,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 12.8,
      "phone": "314-922-8903",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50290,7 +50290,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63122",
      "distance_mi": 1.5,
      "phone": "314-822-4760",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50311,7 +50311,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 3.6,
      "phone": "314-961-6854",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 5:30 PM Thursday Closed Friday Closed Saturday Closed Sunday 11:30 AM - 1:00 PM",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 5:30 PM, Thu-Sat closed, Sun 11:30 AM - 1:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50353,7 +50353,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 10.8,
      "phone": "314-426-0101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50374,7 +50374,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 13.9,
      "phone": "314-868-0707",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday 10:00 AM - 12:00 PM",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 12:00 PM, Thu-Sat closed, Sun 10:00 AM - 12:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50395,7 +50395,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 12.2,
      "phone": "314-522-9264",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50416,7 +50416,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 11.2,
      "phone": "314-261-5266",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50437,7 +50437,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 16.7,
      "phone": null,
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50458,7 +50458,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 8.9,
      "phone": "314-427-7204",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:30 AM Wednesday 9:00 AM - 11:30 AM Thursday Closed Friday 9:00 AM - 11:30 AM Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 9:00 AM - 11:30 AM, Thu closed, Fri-Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50647,7 +50647,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 7.9,
      "phone": "314-423-7770",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 1:00 PM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 8:30 AM - 4:30 PM, Wed 1:00 PM - 4:30 PM, Thu-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50668,7 +50668,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63133",
      "distance_mi": 10.0,
      "phone": "314-382-7158",
-     "hours": "Monday Closed Tuesday 8:30 AM - 11:30 AM Wednesday 8:30 AM - 11:30 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:30 AM - 11:30 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50689,7 +50689,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 10.2,
      "phone": "314-382-8833",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50710,7 +50710,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 9.8,
      "phone": "314-429-0216",
-     "hours": "Monday Closed Tuesday 10:30 AM - 1:00 PM Wednesday Closed Thursday 10:30 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:30 AM - 1:00 PM, Wed closed, Thu 10:30 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50731,7 +50731,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 11.0,
      "phone": "314-261-0202",
-     "hours": "Monday 8:00 AM - 3:00 PM Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday 8:00 AM - 3:00 PM Friday 8:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 8:00 AM - 3:00 PM, Fri 8:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50752,7 +50752,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 5.1,
      "phone": "314-647-5611",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50773,7 +50773,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63031",
      "distance_mi": 15.6,
      "phone": "314-831-0879",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50815,7 +50815,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 7.9,
      "phone": "314-725-3840",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50836,7 +50836,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 8.6,
      "phone": "314-427-2273",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50857,7 +50857,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 8.1,
      "phone": "314-721-2722",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50878,7 +50878,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 13.9,
      "phone": "314-388-9840",
-     "hours": "Monday 9:00 AM - 4:00 PM Tuesday 9:00 AM - 4:00 PM Wednesday 9:00 AM - 4:00 PM Thursday 9:00 AM - 4:00 PM Friday 9:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -50920,7 +50920,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 16.3,
      "phone": "314-660-3621",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51264,7 +51264,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63123",
      "distance_mi": 1.6,
      "phone": "314-580-3138",
-     "hours": "Monday 12:30 PM - 2:30 PM Tuesday 4:00 PM - 6:30 PM Wednesday Closed Thursday 6:00 PM - 8:00 PM Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon 12:30 PM - 2:30 PM, Tue 4:00 PM - 6:30 PM, Wed closed, Thu 6:00 PM - 8:00 PM, Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51285,7 +51285,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 8.2,
      "phone": "314-862-0038",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 12:00 PM Thursday 11:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 11:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51327,7 +51327,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 5.0,
      "phone": "314-716-2711",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51348,7 +51348,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 14.0,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday 9:30 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51369,7 +51369,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 13.7,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 9:30 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 9:30 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51390,7 +51390,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 11.2,
      "phone": "314-863-0015",
-     "hours": "Monday Closed Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday Closed Friday 8:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:00 AM - 3:00 PM, Thu closed, Fri 8:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51432,7 +51432,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 13.4,
      "phone": "314-388-1211",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51453,7 +51453,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63088",
      "distance_mi": 8.8,
      "phone": "636-861-2623",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 7:00 PM Thursday 1:00 PM - 5:00 PM Friday 9:00 AM - 3:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue 9:00 AM - 3:00 PM, Wed 9:00 AM - 7:00 PM, Thu 1:00 PM - 5:00 PM, Fri 9:00 AM - 3:00 PM, Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51474,7 +51474,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 9.4,
      "phone": "314-680-9101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51495,7 +51495,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 13.9,
      "phone": "314-521-1122",
-     "hours": "Monday Closed Tuesday 11:00 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51537,7 +51537,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63044",
      "distance_mi": 15.0,
      "phone": "314-770-2216",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 10:00 AM - 2:00 PM, Wed 10:00 AM - 12:00 PM, Thu 10:00 AM - 2:00 PM, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51558,7 +51558,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 17.9,
      "phone": "314-438-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51579,7 +51579,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 11.0,
      "phone": null,
-     "hours": "Monday 12:00 PM - 5:00 PM Tuesday 12:00 PM - 5:00 PM Wednesday 12:00 PM - 5:00 PM Thursday 12:00 PM - 5:00 PM Friday 1:00 PM - 5:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 12:00 PM - 5:00 PM, Fri 1:00 PM - 5:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51600,7 +51600,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63045",
      "distance_mi": 16.5,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 4:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51621,7 +51621,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63127",
      "distance_mi": 5.3,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 4:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 4:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51642,7 +51642,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63125",
      "distance_mi": 3.2,
      "phone": "314-631-4900",
-     "hours": "Monday 10:00 AM - 3:00 PM Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 10:00 AM - 3:00 PM Friday 10:00 AM - 3:00 PM Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 3:00 PM, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51663,7 +51663,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 15.0,
      "phone": "314-867-2782",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:30 AM - 12:30 PM Thursday Closed Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:30 AM - 12:30 PM, Thu-Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51684,7 +51684,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 13.5,
      "phone": "314-291-1915",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51705,7 +51705,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63142",
      "distance_mi": 10.2,
      "phone": "314-513-1672",
-     "hours": "Monday 9:00 AM - 3:30 PM Tuesday 9:00 AM - 3:30 PM Wednesday 9:00 AM - 3:30 PM Thursday 9:00 AM - 3:30 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 9:00 AM - 3:30 PM, Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51726,7 +51726,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 18.0,
      "phone": null,
-     "hours": "Monday 11:15 AM - 11:30 AM Tuesday 11:15 AM - 11:30 AM Wednesday 11:15 AM - 11:30 AM Thursday 11:15 AM - 11:30 AM Friday 11:15 AM - 11:30 AM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 11:15 AM - 11:30 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51747,7 +51747,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 18.0,
      "phone": "314-741-5667",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51768,7 +51768,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63033",
      "distance_mi": 18.7,
      "phone": "314-741-4222",
-     "hours": "Monday Closed Tuesday 9:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51810,7 +51810,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 10.6,
      "phone": "314-329-4262",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday 11:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Fri closed, Sat 11:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51852,7 +51852,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 4.5,
      "phone": "314-719-2929",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51894,7 +51894,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 12.2,
      "phone": "314-922-8903",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51915,7 +51915,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63122",
      "distance_mi": 4.1,
      "phone": "314-822-4760",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51936,7 +51936,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 2.0,
      "phone": "314-961-6854",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 5:30 PM Thursday Closed Friday Closed Saturday Closed Sunday 11:30 AM - 1:00 PM",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 5:30 PM, Thu-Sat closed, Sun 11:30 AM - 1:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51978,7 +51978,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 12.7,
      "phone": "314-426-0101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -51999,7 +51999,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 13.6,
      "phone": "314-868-0707",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday 10:00 AM - 12:00 PM",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 12:00 PM, Thu-Sat closed, Sun 10:00 AM - 12:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -52020,7 +52020,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 12.7,
      "phone": "314-522-9264",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -52041,7 +52041,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 10.6,
      "phone": "314-261-5266",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -52062,7 +52062,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 16.0,
      "phone": null,
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -52083,7 +52083,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 10.8,
      "phone": "314-427-7204",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:30 AM Wednesday 9:00 AM - 11:30 AM Thursday Closed Friday 9:00 AM - 11:30 AM Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 9:00 AM - 11:30 AM, Thu closed, Fri-Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -52272,7 +52272,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 10.7,
      "phone": "314-423-7770",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 1:00 PM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 8:30 AM - 4:30 PM, Wed 1:00 PM - 4:30 PM, Thu-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -52293,7 +52293,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63133",
      "distance_mi": 9.3,
      "phone": "314-382-7158",
-     "hours": "Monday Closed Tuesday 8:30 AM - 11:30 AM Wednesday 8:30 AM - 11:30 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:30 AM - 11:30 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -52314,7 +52314,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 9.9,
      "phone": "314-382-8833",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -52335,7 +52335,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 11.6,
      "phone": "314-429-0216",
-     "hours": "Monday Closed Tuesday 10:30 AM - 1:00 PM Wednesday Closed Thursday 10:30 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:30 AM - 1:00 PM, Wed closed, Thu 10:30 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -52356,7 +52356,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 10.8,
      "phone": "314-261-0202",
-     "hours": "Monday 8:00 AM - 3:00 PM Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday 8:00 AM - 3:00 PM Friday 8:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 8:00 AM - 3:00 PM, Fri 8:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -52377,7 +52377,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 3.2,
      "phone": "314-647-5611",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -52398,7 +52398,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63031",
      "distance_mi": 17.1,
      "phone": "314-831-0879",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -52440,7 +52440,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 7.5,
      "phone": "314-725-3840",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -52461,7 +52461,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 10.7,
      "phone": "314-427-2273",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -52482,7 +52482,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 8.0,
      "phone": "314-721-2722",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -52503,7 +52503,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 13.1,
      "phone": "314-388-9840",
-     "hours": "Monday 9:00 AM - 4:00 PM Tuesday 9:00 AM - 4:00 PM Wednesday 9:00 AM - 4:00 PM Thursday 9:00 AM - 4:00 PM Friday 9:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -52545,7 +52545,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 15.3,
      "phone": "314-660-3621",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -52889,7 +52889,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63123",
      "distance_mi": 2.7,
      "phone": "314-580-3138",
-     "hours": "Monday 12:30 PM - 2:30 PM Tuesday 4:00 PM - 6:30 PM Wednesday Closed Thursday 6:00 PM - 8:00 PM Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon 12:30 PM - 2:30 PM, Tue 4:00 PM - 6:30 PM, Wed closed, Thu 6:00 PM - 8:00 PM, Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -52910,7 +52910,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 10.1,
      "phone": "314-862-0038",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 12:00 PM Thursday 11:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 11:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -52952,7 +52952,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 6.9,
      "phone": "314-716-2711",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -52973,7 +52973,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 15.8,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday 9:30 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -52994,7 +52994,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 15.6,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 9:30 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 9:30 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53015,7 +53015,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 13.5,
      "phone": "314-863-0015",
-     "hours": "Monday Closed Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday Closed Friday 8:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:00 AM - 3:00 PM, Thu closed, Fri 8:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53057,7 +53057,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 14.9,
      "phone": "314-388-1211",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53078,7 +53078,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63088",
      "distance_mi": 10.9,
      "phone": "636-861-2623",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 7:00 PM Thursday 1:00 PM - 5:00 PM Friday 9:00 AM - 3:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue 9:00 AM - 3:00 PM, Wed 9:00 AM - 7:00 PM, Thu 1:00 PM - 5:00 PM, Fri 9:00 AM - 3:00 PM, Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53099,7 +53099,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 11.7,
      "phone": "314-680-9101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53120,7 +53120,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 16.0,
      "phone": "314-521-1122",
-     "hours": "Monday Closed Tuesday 11:00 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53162,7 +53162,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63044",
      "distance_mi": 17.5,
      "phone": "314-770-2216",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 10:00 AM - 2:00 PM, Wed 10:00 AM - 12:00 PM, Thu 10:00 AM - 2:00 PM, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53183,7 +53183,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 19.3,
      "phone": "314-438-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53204,7 +53204,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 12.8,
      "phone": null,
-     "hours": "Monday 12:00 PM - 5:00 PM Tuesday 12:00 PM - 5:00 PM Wednesday 12:00 PM - 5:00 PM Thursday 12:00 PM - 5:00 PM Friday 1:00 PM - 5:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 12:00 PM - 5:00 PM, Fri 1:00 PM - 5:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53225,7 +53225,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63045",
      "distance_mi": 19.1,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 4:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53246,7 +53246,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63127",
      "distance_mi": 6.8,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 4:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 4:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53267,7 +53267,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63125",
      "distance_mi": 0.7,
      "phone": "314-631-4900",
-     "hours": "Monday 10:00 AM - 3:00 PM Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 10:00 AM - 3:00 PM Friday 10:00 AM - 3:00 PM Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 3:00 PM, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53288,7 +53288,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 16.3,
      "phone": "314-867-2782",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:30 AM - 12:30 PM Thursday Closed Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:30 AM - 12:30 PM, Thu-Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53309,7 +53309,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 16.1,
      "phone": "314-291-1915",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53330,7 +53330,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63142",
      "distance_mi": 12.7,
      "phone": "314-513-1672",
-     "hours": "Monday 9:00 AM - 3:30 PM Tuesday 9:00 AM - 3:30 PM Wednesday 9:00 AM - 3:30 PM Thursday 9:00 AM - 3:30 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 9:00 AM - 3:30 PM, Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53351,7 +53351,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 19.3,
      "phone": null,
-     "hours": "Monday 11:15 AM - 11:30 AM Tuesday 11:15 AM - 11:30 AM Wednesday 11:15 AM - 11:30 AM Thursday 11:15 AM - 11:30 AM Friday 11:15 AM - 11:30 AM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 11:15 AM - 11:30 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53372,7 +53372,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 19.2,
      "phone": "314-741-5667",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53393,7 +53393,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63033",
      "distance_mi": 20.3,
      "phone": "314-741-4222",
-     "hours": "Monday Closed Tuesday 9:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53435,7 +53435,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 13.1,
      "phone": "314-329-4262",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday 11:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Fri closed, Sat 11:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53477,7 +53477,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 6.5,
      "phone": "314-719-2929",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53519,7 +53519,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 13.7,
      "phone": "314-922-8903",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53540,7 +53540,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63122",
      "distance_mi": 6.6,
      "phone": "314-822-4760",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53561,7 +53561,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 4.7,
      "phone": "314-961-6854",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 5:30 PM Thursday Closed Friday Closed Saturday Closed Sunday 11:30 AM - 1:00 PM",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 5:30 PM, Thu-Sat closed, Sun 11:30 AM - 1:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53603,7 +53603,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 15.0,
      "phone": "314-426-0101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53624,7 +53624,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 15.2,
      "phone": "314-868-0707",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday 10:00 AM - 12:00 PM",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 12:00 PM, Thu-Sat closed, Sun 10:00 AM - 12:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53645,7 +53645,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 14.6,
      "phone": "314-522-9264",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53666,7 +53666,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 12.2,
      "phone": "314-261-5266",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53687,7 +53687,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 17.3,
      "phone": null,
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53708,7 +53708,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 13.1,
      "phone": "314-427-7204",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:30 AM Wednesday 9:00 AM - 11:30 AM Thursday Closed Friday 9:00 AM - 11:30 AM Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 9:00 AM - 11:30 AM, Thu closed, Fri-Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53897,7 +53897,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 13.2,
      "phone": "314-423-7770",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 1:00 PM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 8:30 AM - 4:30 PM, Wed 1:00 PM - 4:30 PM, Thu-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53918,7 +53918,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63133",
      "distance_mi": 11.0,
      "phone": "314-382-7158",
-     "hours": "Monday Closed Tuesday 8:30 AM - 11:30 AM Wednesday 8:30 AM - 11:30 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:30 AM - 11:30 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53939,7 +53939,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 11.7,
      "phone": "314-382-8833",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53960,7 +53960,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 13.9,
      "phone": "314-429-0216",
-     "hours": "Monday Closed Tuesday 10:30 AM - 1:00 PM Wednesday Closed Thursday 10:30 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:30 AM - 1:00 PM, Wed closed, Thu 10:30 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -53981,7 +53981,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 12.5,
      "phone": "314-261-0202",
-     "hours": "Monday 8:00 AM - 3:00 PM Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday 8:00 AM - 3:00 PM Friday 8:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 8:00 AM - 3:00 PM, Fri 8:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -54002,7 +54002,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 5.5,
      "phone": "314-647-5611",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -54023,7 +54023,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63031",
      "distance_mi": 19.1,
      "phone": "314-831-0879",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -54065,7 +54065,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 9.4,
      "phone": "314-725-3840",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -54086,7 +54086,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 13.1,
      "phone": "314-427-2273",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -54107,7 +54107,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 10.0,
      "phone": "314-721-2722",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -54128,7 +54128,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 14.5,
      "phone": "314-388-9840",
-     "hours": "Monday 9:00 AM - 4:00 PM Tuesday 9:00 AM - 4:00 PM Wednesday 9:00 AM - 4:00 PM Thursday 9:00 AM - 4:00 PM Friday 9:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -54170,7 +54170,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 16.5,
      "phone": "314-660-3621",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -54514,7 +54514,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63123",
      "distance_mi": 6.5,
      "phone": "314-580-3138",
-     "hours": "Monday 12:30 PM - 2:30 PM Tuesday 4:00 PM - 6:30 PM Wednesday Closed Thursday 6:00 PM - 8:00 PM Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon 12:30 PM - 2:30 PM, Tue 4:00 PM - 6:30 PM, Wed closed, Thu 6:00 PM - 8:00 PM, Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -54535,7 +54535,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 10.9,
      "phone": "314-862-0038",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 12:00 PM Thursday 11:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 11:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -54577,7 +54577,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 8.1,
      "phone": "314-716-2711",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -54598,7 +54598,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 16.1,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday 9:30 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -54619,7 +54619,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 15.8,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 9:30 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 9:30 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -54640,7 +54640,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 12.3,
      "phone": "314-863-0015",
-     "hours": "Monday Closed Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday Closed Friday 8:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:00 AM - 3:00 PM, Thu closed, Fri 8:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -54682,7 +54682,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 16.2,
      "phone": "314-388-1211",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -54703,7 +54703,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63088",
      "distance_mi": 4.1,
      "phone": "636-861-2623",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 7:00 PM Thursday 1:00 PM - 5:00 PM Friday 9:00 AM - 3:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue 9:00 AM - 3:00 PM, Wed 9:00 AM - 7:00 PM, Thu 1:00 PM - 5:00 PM, Fri 9:00 AM - 3:00 PM, Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -54724,7 +54724,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 10.8,
      "phone": "314-680-9101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -54745,7 +54745,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 15.5,
      "phone": "314-521-1122",
-     "hours": "Monday Closed Tuesday 11:00 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -54787,7 +54787,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63044",
      "distance_mi": 15.0,
      "phone": "314-770-2216",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 10:00 AM - 2:00 PM, Wed 10:00 AM - 12:00 PM, Thu 10:00 AM - 2:00 PM, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -54808,7 +54808,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 20.8,
      "phone": "314-438-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -54829,7 +54829,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 13.4,
      "phone": null,
-     "hours": "Monday 12:00 PM - 5:00 PM Tuesday 12:00 PM - 5:00 PM Wednesday 12:00 PM - 5:00 PM Thursday 12:00 PM - 5:00 PM Friday 1:00 PM - 5:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 12:00 PM - 5:00 PM, Fri 1:00 PM - 5:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -54850,7 +54850,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63045",
      "distance_mi": 15.8,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 4:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -54871,7 +54871,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63127",
      "distance_mi": 1.2,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 4:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 4:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -54892,7 +54892,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63125",
      "distance_mi": 7.4,
      "phone": "314-631-4900",
-     "hours": "Monday 10:00 AM - 3:00 PM Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 10:00 AM - 3:00 PM Friday 10:00 AM - 3:00 PM Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 3:00 PM, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -54913,7 +54913,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 18.0,
      "phone": "314-867-2782",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:30 AM - 12:30 PM Thursday Closed Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:30 AM - 12:30 PM, Thu-Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -54934,7 +54934,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 13.3,
      "phone": "314-291-1915",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -54955,7 +54955,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63142",
      "distance_mi": 10.5,
      "phone": "314-513-1672",
-     "hours": "Monday 9:00 AM - 3:30 PM Tuesday 9:00 AM - 3:30 PM Wednesday 9:00 AM - 3:30 PM Thursday 9:00 AM - 3:30 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 9:00 AM - 3:30 PM, Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -54976,7 +54976,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 20.8,
      "phone": null,
-     "hours": "Monday 11:15 AM - 11:30 AM Tuesday 11:15 AM - 11:30 AM Wednesday 11:15 AM - 11:30 AM Thursday 11:15 AM - 11:30 AM Friday 11:15 AM - 11:30 AM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 11:15 AM - 11:30 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -54997,7 +54997,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 21.1,
      "phone": "314-741-5667",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -55018,7 +55018,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63033",
      "distance_mi": 21.1,
      "phone": "314-741-4222",
-     "hours": "Monday Closed Tuesday 9:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -55060,7 +55060,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 11.0,
      "phone": "314-329-4262",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday 11:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Fri closed, Sat 11:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -55102,7 +55102,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 7.6,
      "phone": "314-719-2929",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -55144,7 +55144,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 15.2,
      "phone": "314-922-8903",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -55165,7 +55165,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63122",
      "distance_mi": 2.3,
      "phone": "314-822-4760",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -55186,7 +55186,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 4.0,
      "phone": "314-961-6854",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 5:30 PM Thursday Closed Friday Closed Saturday Closed Sunday 11:30 AM - 1:00 PM",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 5:30 PM, Thu-Sat closed, Sun 11:30 AM - 1:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -55228,7 +55228,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 13.7,
      "phone": "314-426-0101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -55249,7 +55249,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 16.3,
      "phone": "314-868-0707",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday 10:00 AM - 12:00 PM",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 12:00 PM, Thu-Sat closed, Sun 10:00 AM - 12:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -55270,7 +55270,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 14.9,
      "phone": "314-522-9264",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -55291,7 +55291,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 13.5,
      "phone": "314-261-5266",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -55312,7 +55312,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 19.0,
      "phone": null,
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -55333,7 +55333,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 11.8,
      "phone": "314-427-7204",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:30 AM Wednesday 9:00 AM - 11:30 AM Thursday Closed Friday 9:00 AM - 11:30 AM Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 9:00 AM - 11:30 AM, Thu closed, Fri-Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -55522,7 +55522,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 10.9,
      "phone": "314-423-7770",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 1:00 PM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 8:30 AM - 4:30 PM, Wed 1:00 PM - 4:30 PM, Thu-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -55543,7 +55543,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63133",
      "distance_mi": 12.2,
      "phone": "314-382-7158",
-     "hours": "Monday Closed Tuesday 8:30 AM - 11:30 AM Wednesday 8:30 AM - 11:30 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:30 AM - 11:30 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -55564,7 +55564,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 12.6,
      "phone": "314-382-8833",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -55585,7 +55585,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 12.8,
      "phone": "314-429-0216",
-     "hours": "Monday Closed Tuesday 10:30 AM - 1:00 PM Wednesday Closed Thursday 10:30 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:30 AM - 1:00 PM, Wed closed, Thu 10:30 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -55606,7 +55606,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 13.4,
      "phone": "314-261-0202",
-     "hours": "Monday 8:00 AM - 3:00 PM Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday 8:00 AM - 3:00 PM Friday 8:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 8:00 AM - 3:00 PM, Fri 8:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -55627,7 +55627,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 6.3,
      "phone": "314-647-5611",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -55648,7 +55648,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63031",
      "distance_mi": 18.6,
      "phone": "314-831-0879",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -55690,7 +55690,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 10.1,
      "phone": "314-725-3840",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -55711,7 +55711,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 11.5,
      "phone": "314-427-2273",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -55732,7 +55732,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 10.5,
      "phone": "314-721-2722",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -55753,7 +55753,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 16.2,
      "phone": "314-388-9840",
-     "hours": "Monday 9:00 AM - 4:00 PM Tuesday 9:00 AM - 4:00 PM Wednesday 9:00 AM - 4:00 PM Thursday 9:00 AM - 4:00 PM Friday 9:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -55795,7 +55795,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 18.5,
      "phone": "314-660-3621",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56139,7 +56139,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63123",
      "distance_mi": 7.0,
      "phone": "314-580-3138",
-     "hours": "Monday 12:30 PM - 2:30 PM Tuesday 4:00 PM - 6:30 PM Wednesday Closed Thursday 6:00 PM - 8:00 PM Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon 12:30 PM - 2:30 PM, Tue 4:00 PM - 6:30 PM, Wed closed, Thu 6:00 PM - 8:00 PM, Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56160,7 +56160,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 14.3,
      "phone": "314-862-0038",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 12:00 PM Thursday 11:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 11:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56202,7 +56202,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 11.1,
      "phone": "314-716-2711",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56223,7 +56223,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 20.1,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday 9:30 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56244,7 +56244,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 19.8,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 9:30 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 9:30 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56265,7 +56265,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 17.4,
      "phone": "314-863-0015",
-     "hours": "Monday Closed Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday Closed Friday 8:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:00 AM - 3:00 PM, Thu closed, Fri 8:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56307,7 +56307,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 19.4,
      "phone": "314-388-1211",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56328,7 +56328,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63088",
      "distance_mi": 11.3,
      "phone": "636-861-2623",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 7:00 PM Thursday 1:00 PM - 5:00 PM Friday 9:00 AM - 3:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue 9:00 AM - 3:00 PM, Wed 9:00 AM - 7:00 PM, Thu 1:00 PM - 5:00 PM, Fri 9:00 AM - 3:00 PM, Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56349,7 +56349,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 15.6,
      "phone": "314-680-9101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56370,7 +56370,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 20.1,
      "phone": "314-521-1122",
-     "hours": "Monday Closed Tuesday 11:00 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56412,7 +56412,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63044",
      "distance_mi": 21.1,
      "phone": "314-770-2216",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 10:00 AM - 2:00 PM, Wed 10:00 AM - 12:00 PM, Thu 10:00 AM - 2:00 PM, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56433,7 +56433,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 23.7,
      "phone": "314-438-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56454,7 +56454,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 17.1,
      "phone": null,
-     "hours": "Monday 12:00 PM - 5:00 PM Tuesday 12:00 PM - 5:00 PM Wednesday 12:00 PM - 5:00 PM Thursday 12:00 PM - 5:00 PM Friday 1:00 PM - 5:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 12:00 PM - 5:00 PM, Fri 1:00 PM - 5:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56475,7 +56475,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63045",
      "distance_mi": 22.4,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 4:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56496,7 +56496,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63127",
      "distance_mi": 6.8,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 4:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 4:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56517,7 +56517,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63125",
      "distance_mi": 4.8,
      "phone": "314-631-4900",
-     "hours": "Monday 10:00 AM - 3:00 PM Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 10:00 AM - 3:00 PM Friday 10:00 AM - 3:00 PM Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 3:00 PM, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56538,7 +56538,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 20.7,
      "phone": "314-867-2782",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:30 AM - 12:30 PM Thursday Closed Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:30 AM - 12:30 PM, Thu-Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56559,7 +56559,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 19.5,
      "phone": "314-291-1915",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56580,7 +56580,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63142",
      "distance_mi": 16.3,
      "phone": "314-513-1672",
-     "hours": "Monday 9:00 AM - 3:30 PM Tuesday 9:00 AM - 3:30 PM Wednesday 9:00 AM - 3:30 PM Thursday 9:00 AM - 3:30 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 9:00 AM - 3:30 PM, Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56601,7 +56601,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 23.8,
      "phone": null,
-     "hours": "Monday 11:15 AM - 11:30 AM Tuesday 11:15 AM - 11:30 AM Wednesday 11:15 AM - 11:30 AM Thursday 11:15 AM - 11:30 AM Friday 11:15 AM - 11:30 AM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 11:15 AM - 11:30 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56622,7 +56622,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 23.7,
      "phone": "314-741-5667",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56643,7 +56643,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63033",
      "distance_mi": 24.7,
      "phone": "314-741-4222",
-     "hours": "Monday Closed Tuesday 9:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56685,7 +56685,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 16.7,
      "phone": "314-329-4262",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday 11:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Fri closed, Sat 11:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56727,7 +56727,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 10.6,
      "phone": "314-719-2929",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56769,7 +56769,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 18.1,
      "phone": "314-922-8903",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56790,7 +56790,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63122",
      "distance_mi": 8.6,
      "phone": "314-822-4760",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56811,7 +56811,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 7.8,
      "phone": "314-961-6854",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 5:30 PM Thursday Closed Friday Closed Saturday Closed Sunday 11:30 AM - 1:00 PM",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 5:30 PM, Thu-Sat closed, Sun 11:30 AM - 1:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56853,7 +56853,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 18.9,
      "phone": "314-426-0101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56874,7 +56874,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 19.6,
      "phone": "314-868-0707",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday 10:00 AM - 12:00 PM",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 12:00 PM, Thu-Sat closed, Sun 10:00 AM - 12:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56895,7 +56895,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 18.8,
      "phone": "314-522-9264",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56916,7 +56916,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 16.6,
      "phone": "314-261-5266",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56937,7 +56937,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 21.8,
      "phone": null,
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -56958,7 +56958,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 17.0,
      "phone": "314-427-7204",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:30 AM Wednesday 9:00 AM - 11:30 AM Thursday Closed Friday 9:00 AM - 11:30 AM Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 9:00 AM - 11:30 AM, Thu closed, Fri-Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -57147,7 +57147,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 16.7,
      "phone": "314-423-7770",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 1:00 PM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 8:30 AM - 4:30 PM, Wed 1:00 PM - 4:30 PM, Thu-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -57168,7 +57168,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63133",
      "distance_mi": 15.4,
      "phone": "314-382-7158",
-     "hours": "Monday Closed Tuesday 8:30 AM - 11:30 AM Wednesday 8:30 AM - 11:30 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:30 AM - 11:30 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -57189,7 +57189,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 16.0,
      "phone": "314-382-8833",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -57210,7 +57210,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 17.8,
      "phone": "314-429-0216",
-     "hours": "Monday Closed Tuesday 10:30 AM - 1:00 PM Wednesday Closed Thursday 10:30 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:30 AM - 1:00 PM, Wed closed, Thu 10:30 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -57231,7 +57231,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 16.8,
      "phone": "314-261-0202",
-     "hours": "Monday 8:00 AM - 3:00 PM Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday 8:00 AM - 3:00 PM Friday 8:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 8:00 AM - 3:00 PM, Fri 8:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -57252,7 +57252,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 9.4,
      "phone": "314-647-5611",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -57273,7 +57273,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63031",
      "distance_mi": 23.3,
      "phone": "314-831-0879",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -57315,7 +57315,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 13.6,
      "phone": "314-725-3840",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -57336,7 +57336,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 16.8,
      "phone": "314-427-2273",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -57357,7 +57357,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 14.2,
      "phone": "314-721-2722",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -57378,7 +57378,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 19.0,
      "phone": "314-388-9840",
-     "hours": "Monday 9:00 AM - 4:00 PM Tuesday 9:00 AM - 4:00 PM Wednesday 9:00 AM - 4:00 PM Thursday 9:00 AM - 4:00 PM Friday 9:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -57420,7 +57420,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 20.9,
      "phone": "314-660-3621",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -57764,7 +57764,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63123",
      "distance_mi": 7.5,
      "phone": "314-580-3138",
-     "hours": "Monday 12:30 PM - 2:30 PM Tuesday 4:00 PM - 6:30 PM Wednesday Closed Thursday 6:00 PM - 8:00 PM Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon 12:30 PM - 2:30 PM, Tue 4:00 PM - 6:30 PM, Wed closed, Thu 6:00 PM - 8:00 PM, Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -57785,7 +57785,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 1.2,
      "phone": "314-862-0038",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 12:00 PM Thursday 11:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 11:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -57827,7 +57827,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 3.3,
      "phone": "314-716-2711",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -57848,7 +57848,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 6.0,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday 9:30 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -57869,7 +57869,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 5.6,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 9:30 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 9:30 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -57890,7 +57890,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 3.5,
      "phone": "314-863-0015",
-     "hours": "Monday Closed Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday Closed Friday 8:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:00 AM - 3:00 PM, Thu closed, Fri 8:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -57932,7 +57932,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 5.9,
      "phone": "314-388-1211",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -57953,7 +57953,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63088",
      "distance_mi": 11.9,
      "phone": "636-861-2623",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 7:00 PM Thursday 1:00 PM - 5:00 PM Friday 9:00 AM - 3:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue 9:00 AM - 3:00 PM, Wed 9:00 AM - 7:00 PM, Thu 1:00 PM - 5:00 PM, Fri 9:00 AM - 3:00 PM, Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -57974,7 +57974,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 1.9,
      "phone": "314-680-9101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -57995,7 +57995,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 5.8,
      "phone": "314-521-1122",
-     "hours": "Monday Closed Tuesday 11:00 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58037,7 +58037,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63044",
      "distance_mi": 8.0,
      "phone": "314-770-2216",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 10:00 AM - 2:00 PM, Wed 10:00 AM - 12:00 PM, Thu 10:00 AM - 2:00 PM, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58058,7 +58058,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 10.5,
      "phone": "314-438-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58079,7 +58079,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 3.1,
      "phone": null,
-     "hours": "Monday 12:00 PM - 5:00 PM Tuesday 12:00 PM - 5:00 PM Wednesday 12:00 PM - 5:00 PM Thursday 12:00 PM - 5:00 PM Friday 1:00 PM - 5:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 12:00 PM - 5:00 PM, Fri 1:00 PM - 5:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58100,7 +58100,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63045",
      "distance_mi": 10.1,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 4:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58121,7 +58121,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63127",
      "distance_mi": 11.4,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 4:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 4:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58142,7 +58142,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63125",
      "distance_mi": 10.3,
      "phone": "314-631-4900",
-     "hours": "Monday 10:00 AM - 3:00 PM Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 10:00 AM - 3:00 PM Friday 10:00 AM - 3:00 PM Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 3:00 PM, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58163,7 +58163,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 7.9,
      "phone": "314-867-2782",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:30 AM - 12:30 PM Thursday Closed Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:30 AM - 12:30 PM, Thu-Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58184,7 +58184,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 7.0,
      "phone": "314-291-1915",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58205,7 +58205,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63142",
      "distance_mi": 4.0,
      "phone": "314-513-1672",
-     "hours": "Monday 9:00 AM - 3:30 PM Tuesday 9:00 AM - 3:30 PM Wednesday 9:00 AM - 3:30 PM Thursday 9:00 AM - 3:30 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 9:00 AM - 3:30 PM, Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58226,7 +58226,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 10.5,
      "phone": null,
-     "hours": "Monday 11:15 AM - 11:30 AM Tuesday 11:15 AM - 11:30 AM Wednesday 11:15 AM - 11:30 AM Thursday 11:15 AM - 11:30 AM Friday 11:15 AM - 11:30 AM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 11:15 AM - 11:30 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58247,7 +58247,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 10.8,
      "phone": "314-741-5667",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58268,7 +58268,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63033",
      "distance_mi": 10.8,
      "phone": "314-741-4222",
-     "hours": "Monday Closed Tuesday 9:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58310,7 +58310,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 4.2,
      "phone": "314-329-4262",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday 11:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Fri closed, Sat 11:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58352,7 +58352,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 3.7,
      "phone": "314-719-2929",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58394,7 +58394,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 5.0,
      "phone": "314-922-8903",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58415,7 +58415,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63122",
      "distance_mi": 8.0,
      "phone": "314-822-4760",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58436,7 +58436,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 7.0,
      "phone": "314-961-6854",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 5:30 PM Thursday Closed Friday Closed Saturday Closed Sunday 11:30 AM - 1:00 PM",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 5:30 PM, Thu-Sat closed, Sun 11:30 AM - 1:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58478,7 +58478,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 4.9,
      "phone": "314-426-0101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58499,7 +58499,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 6.0,
      "phone": "314-868-0707",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday 10:00 AM - 12:00 PM",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 12:00 PM, Thu-Sat closed, Sun 10:00 AM - 12:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58520,7 +58520,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 4.7,
      "phone": "314-522-9264",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58541,7 +58541,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 3.3,
      "phone": "314-261-5266",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58562,7 +58562,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 8.8,
      "phone": null,
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58583,7 +58583,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 3.3,
      "phone": "314-427-7204",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:30 AM Wednesday 9:00 AM - 11:30 AM Thursday Closed Friday 9:00 AM - 11:30 AM Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 9:00 AM - 11:30 AM, Thu closed, Fri-Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58772,7 +58772,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 4.4,
      "phone": "314-423-7770",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 1:00 PM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 8:30 AM - 4:30 PM, Wed 1:00 PM - 4:30 PM, Thu-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58793,7 +58793,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63133",
      "distance_mi": 2.3,
      "phone": "314-382-7158",
-     "hours": "Monday Closed Tuesday 8:30 AM - 11:30 AM Wednesday 8:30 AM - 11:30 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:30 AM - 11:30 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58814,7 +58814,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 2.3,
      "phone": "314-382-8833",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58835,7 +58835,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 3.9,
      "phone": "314-429-0216",
-     "hours": "Monday Closed Tuesday 10:30 AM - 1:00 PM Wednesday Closed Thursday 10:30 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:30 AM - 1:00 PM, Wed closed, Thu 10:30 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58856,7 +58856,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 3.1,
      "phone": "314-261-0202",
-     "hours": "Monday 8:00 AM - 3:00 PM Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday 8:00 AM - 3:00 PM Friday 8:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 8:00 AM - 3:00 PM, Fri 8:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58877,7 +58877,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 4.9,
      "phone": "314-647-5611",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58898,7 +58898,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63031",
      "distance_mi": 9.0,
      "phone": "314-831-0879",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58940,7 +58940,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 1.1,
      "phone": "314-725-3840",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58961,7 +58961,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 3.4,
      "phone": "314-427-2273",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -58982,7 +58982,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 0.5,
      "phone": "314-721-2722",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -59003,7 +59003,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 6.0,
      "phone": "314-388-9840",
-     "hours": "Monday 9:00 AM - 4:00 PM Tuesday 9:00 AM - 4:00 PM Wednesday 9:00 AM - 4:00 PM Thursday 9:00 AM - 4:00 PM Friday 9:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -59045,7 +59045,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 8.5,
      "phone": "314-660-3621",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -59389,7 +59389,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63123",
      "distance_mi": 9.1,
      "phone": "314-580-3138",
-     "hours": "Monday 12:30 PM - 2:30 PM Tuesday 4:00 PM - 6:30 PM Wednesday Closed Thursday 6:00 PM - 8:00 PM Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon 12:30 PM - 2:30 PM, Tue 4:00 PM - 6:30 PM, Wed closed, Thu 6:00 PM - 8:00 PM, Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -59410,7 +59410,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 4.1,
      "phone": "314-862-0038",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 12:00 PM Thursday 11:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 11:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -59452,7 +59452,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 5.3,
      "phone": "314-716-2711",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -59473,7 +59473,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 6.6,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday 9:30 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -59494,7 +59494,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 6.2,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 9:30 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 9:30 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -59515,7 +59515,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 2.3,
      "phone": "314-863-0015",
-     "hours": "Monday Closed Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday Closed Friday 8:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:00 AM - 3:00 PM, Thu closed, Fri 8:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -59557,7 +59557,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 7.5,
      "phone": "314-388-1211",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -59578,7 +59578,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63088",
      "distance_mi": 10.6,
      "phone": "636-861-2623",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 7:00 PM Thursday 1:00 PM - 5:00 PM Friday 9:00 AM - 3:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue 9:00 AM - 3:00 PM, Wed 9:00 AM - 7:00 PM, Thu 1:00 PM - 5:00 PM, Fri 9:00 AM - 3:00 PM, Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -59599,7 +59599,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 1.5,
      "phone": "314-680-9101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -59620,7 +59620,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 5.6,
      "phone": "314-521-1122",
-     "hours": "Monday Closed Tuesday 11:00 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -59662,7 +59662,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63044",
      "distance_mi": 5.8,
      "phone": "314-770-2216",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 10:00 AM - 2:00 PM, Wed 10:00 AM - 12:00 PM, Thu 10:00 AM - 2:00 PM, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -59683,7 +59683,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 11.8,
      "phone": "314-438-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -59704,7 +59704,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 4.6,
      "phone": null,
-     "hours": "Monday 12:00 PM - 5:00 PM Tuesday 12:00 PM - 5:00 PM Wednesday 12:00 PM - 5:00 PM Thursday 12:00 PM - 5:00 PM Friday 1:00 PM - 5:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 12:00 PM - 5:00 PM, Fri 1:00 PM - 5:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -59725,7 +59725,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63045",
      "distance_mi": 7.6,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 4:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -59746,7 +59746,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63127",
      "distance_mi": 11.2,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 4:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 4:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -59767,7 +59767,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63125",
      "distance_mi": 12.0,
      "phone": "314-631-4900",
-     "hours": "Monday 10:00 AM - 3:00 PM Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 10:00 AM - 3:00 PM Friday 10:00 AM - 3:00 PM Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 3:00 PM, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -59788,7 +59788,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 9.6,
      "phone": "314-867-2782",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:30 AM - 12:30 PM Thursday Closed Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:30 AM - 12:30 PM, Thu-Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -59809,7 +59809,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 4.5,
      "phone": "314-291-1915",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -59830,7 +59830,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63142",
      "distance_mi": 1.2,
      "phone": "314-513-1672",
-     "hours": "Monday 9:00 AM - 3:30 PM Tuesday 9:00 AM - 3:30 PM Wednesday 9:00 AM - 3:30 PM Thursday 9:00 AM - 3:30 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 9:00 AM - 3:30 PM, Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -59851,7 +59851,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 11.7,
      "phone": null,
-     "hours": "Monday 11:15 AM - 11:30 AM Tuesday 11:15 AM - 11:30 AM Wednesday 11:15 AM - 11:30 AM Thursday 11:15 AM - 11:30 AM Friday 11:15 AM - 11:30 AM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 11:15 AM - 11:30 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -59872,7 +59872,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 12.3,
      "phone": "314-741-5667",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -59893,7 +59893,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63033",
      "distance_mi": 11.5,
      "phone": "314-741-4222",
-     "hours": "Monday Closed Tuesday 9:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -59935,7 +59935,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 1.4,
      "phone": "314-329-4262",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday 11:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Fri closed, Sat 11:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -59977,7 +59977,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 5.5,
      "phone": "314-719-2929",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -60019,7 +60019,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 6.9,
      "phone": "314-922-8903",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -60040,7 +60040,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63122",
      "distance_mi": 7.7,
      "phone": "314-822-4760",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -60061,7 +60061,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 7.6,
      "phone": "314-961-6854",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 5:30 PM Thursday Closed Friday Closed Saturday Closed Sunday 11:30 AM - 1:00 PM",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 5:30 PM, Thu-Sat closed, Sun 11:30 AM - 1:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -60103,7 +60103,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 3.7,
      "phone": "314-426-0101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -60124,7 +60124,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 7.5,
      "phone": "314-868-0707",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday 10:00 AM - 12:00 PM",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 12:00 PM, Thu-Sat closed, Sun 10:00 AM - 12:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -60145,7 +60145,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 5.5,
      "phone": "314-522-9264",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -60166,7 +60166,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 5.5,
      "phone": "314-261-5266",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -60187,7 +60187,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 10.4,
      "phone": null,
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -60208,7 +60208,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 1.8,
      "phone": "314-427-7204",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:30 AM Wednesday 9:00 AM - 11:30 AM Thursday Closed Friday 9:00 AM - 11:30 AM Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 9:00 AM - 11:30 AM, Thu closed, Fri-Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -60397,7 +60397,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 1.6,
      "phone": "314-423-7770",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 1:00 PM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 8:30 AM - 4:30 PM, Wed 1:00 PM - 4:30 PM, Thu-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -60418,7 +60418,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63133",
      "distance_mi": 4.9,
      "phone": "314-382-7158",
-     "hours": "Monday Closed Tuesday 8:30 AM - 11:30 AM Wednesday 8:30 AM - 11:30 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:30 AM - 11:30 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -60439,7 +60439,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 4.6,
      "phone": "314-382-8833",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -60460,7 +60460,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 2.8,
      "phone": "314-429-0216",
-     "hours": "Monday Closed Tuesday 10:30 AM - 1:00 PM Wednesday Closed Thursday 10:30 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:30 AM - 1:00 PM, Wed closed, Thu 10:30 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -60481,7 +60481,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 5.0,
      "phone": "314-261-0202",
-     "hours": "Monday 8:00 AM - 3:00 PM Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday 8:00 AM - 3:00 PM Friday 8:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 8:00 AM - 3:00 PM, Fri 8:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -60502,7 +60502,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 6.3,
      "phone": "314-647-5611",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -60523,7 +60523,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63031",
      "distance_mi": 8.6,
      "phone": "314-831-0879",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -60565,7 +60565,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 3.9,
      "phone": "314-725-3840",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -60586,7 +60586,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 1.5,
      "phone": "314-427-2273",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -60607,7 +60607,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 3.4,
      "phone": "314-721-2722",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -60628,7 +60628,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 7.9,
      "phone": "314-388-9840",
-     "hours": "Monday 9:00 AM - 4:00 PM Tuesday 9:00 AM - 4:00 PM Wednesday 9:00 AM - 4:00 PM Thursday 9:00 AM - 4:00 PM Friday 9:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -60670,7 +60670,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 10.3,
      "phone": "314-660-3621",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61014,7 +61014,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63123",
      "distance_mi": 8.6,
      "phone": "314-580-3138",
-     "hours": "Monday 12:30 PM - 2:30 PM Tuesday 4:00 PM - 6:30 PM Wednesday Closed Thursday 6:00 PM - 8:00 PM Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon 12:30 PM - 2:30 PM, Tue 4:00 PM - 6:30 PM, Wed closed, Thu 6:00 PM - 8:00 PM, Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61035,7 +61035,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 1.2,
      "phone": "314-862-0038",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 12:00 PM Thursday 11:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 11:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61077,7 +61077,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 4.4,
      "phone": "314-716-2711",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61098,7 +61098,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 4.6,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday 9:30 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61119,7 +61119,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 4.3,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 9:30 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 9:30 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61140,7 +61140,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 3.4,
      "phone": "314-863-0015",
-     "hours": "Monday Closed Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday Closed Friday 8:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:00 AM - 3:00 PM, Thu closed, Fri 8:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61182,7 +61182,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 4.4,
      "phone": "314-388-1211",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61203,7 +61203,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63088",
      "distance_mi": 13.4,
      "phone": "636-861-2623",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 7:00 PM Thursday 1:00 PM - 5:00 PM Friday 9:00 AM - 3:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue 9:00 AM - 3:00 PM, Wed 9:00 AM - 7:00 PM, Thu 1:00 PM - 5:00 PM, Fri 9:00 AM - 3:00 PM, Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61224,7 +61224,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 2.4,
      "phone": "314-680-9101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61245,7 +61245,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 4.8,
      "phone": "314-521-1122",
-     "hours": "Monday Closed Tuesday 11:00 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61287,7 +61287,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63044",
      "distance_mi": 7.9,
      "phone": "314-770-2216",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 10:00 AM - 2:00 PM, Wed 10:00 AM - 12:00 PM, Thu 10:00 AM - 2:00 PM, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61308,7 +61308,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 9.0,
      "phone": "314-438-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61329,7 +61329,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 1.6,
      "phone": null,
-     "hours": "Monday 12:00 PM - 5:00 PM Tuesday 12:00 PM - 5:00 PM Wednesday 12:00 PM - 5:00 PM Thursday 12:00 PM - 5:00 PM Friday 1:00 PM - 5:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 12:00 PM - 5:00 PM, Fri 1:00 PM - 5:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61350,7 +61350,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63045",
      "distance_mi": 10.2,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 4:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61371,7 +61371,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63127",
      "distance_mi": 12.9,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 4:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 4:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61392,7 +61392,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63125",
      "distance_mi": 11.3,
      "phone": "314-631-4900",
-     "hours": "Monday 10:00 AM - 3:00 PM Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 10:00 AM - 3:00 PM Friday 10:00 AM - 3:00 PM Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 3:00 PM, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61413,7 +61413,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 6.3,
      "phone": "314-867-2782",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:30 AM - 12:30 PM Thursday Closed Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:30 AM - 12:30 PM, Thu-Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61434,7 +61434,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 7.2,
      "phone": "314-291-1915",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61455,7 +61455,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63142",
      "distance_mi": 4.8,
      "phone": "314-513-1672",
-     "hours": "Monday 9:00 AM - 3:30 PM Tuesday 9:00 AM - 3:30 PM Wednesday 9:00 AM - 3:30 PM Thursday 9:00 AM - 3:30 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 9:00 AM - 3:30 PM, Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61476,7 +61476,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 9.0,
      "phone": null,
-     "hours": "Monday 11:15 AM - 11:30 AM Tuesday 11:15 AM - 11:30 AM Wednesday 11:15 AM - 11:30 AM Thursday 11:15 AM - 11:30 AM Friday 11:15 AM - 11:30 AM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 11:15 AM - 11:30 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61497,7 +61497,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 9.3,
      "phone": "314-741-5667",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61518,7 +61518,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63033",
      "distance_mi": 9.4,
      "phone": "314-741-4222",
-     "hours": "Monday Closed Tuesday 9:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61560,7 +61560,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 4.8,
      "phone": "314-329-4262",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday 11:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Fri closed, Sat 11:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61602,7 +61602,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 4.9,
      "phone": "314-719-2929",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61644,7 +61644,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 3.4,
      "phone": "314-922-8903",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61665,7 +61665,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63122",
      "distance_mi": 9.5,
      "phone": "314-822-4760",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61686,7 +61686,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 8.4,
      "phone": "314-961-6854",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 5:30 PM Thursday Closed Friday Closed Saturday Closed Sunday 11:30 AM - 1:00 PM",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 5:30 PM, Thu-Sat closed, Sun 11:30 AM - 1:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61728,7 +61728,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 4.5,
      "phone": "314-426-0101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61749,7 +61749,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 4.5,
      "phone": "314-868-0707",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday 10:00 AM - 12:00 PM",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 12:00 PM, Thu-Sat closed, Sun 10:00 AM - 12:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61770,7 +61770,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 3.3,
      "phone": "314-522-9264",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61791,7 +61791,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 1.8,
      "phone": "314-261-5266",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61812,7 +61812,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 7.3,
      "phone": null,
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -61833,7 +61833,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 3.5,
      "phone": "314-427-7204",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:30 AM Wednesday 9:00 AM - 11:30 AM Thursday Closed Friday 9:00 AM - 11:30 AM Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 9:00 AM - 11:30 AM, Thu closed, Fri-Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -62022,7 +62022,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 5.0,
      "phone": "314-423-7770",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 1:00 PM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 8:30 AM - 4:30 PM, Wed 1:00 PM - 4:30 PM, Thu-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -62043,7 +62043,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63133",
      "distance_mi": 1.2,
      "phone": "314-382-7158",
-     "hours": "Monday Closed Tuesday 8:30 AM - 11:30 AM Wednesday 8:30 AM - 11:30 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:30 AM - 11:30 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -62064,7 +62064,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 0.8,
      "phone": "314-382-8833",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -62085,7 +62085,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 3.6,
      "phone": "314-429-0216",
-     "hours": "Monday Closed Tuesday 10:30 AM - 1:00 PM Wednesday Closed Thursday 10:30 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:30 AM - 1:00 PM, Wed closed, Thu 10:30 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -62106,7 +62106,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 1.6,
      "phone": "314-261-0202",
-     "hours": "Monday 8:00 AM - 3:00 PM Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday 8:00 AM - 3:00 PM Friday 8:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 8:00 AM - 3:00 PM, Fri 8:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -62127,7 +62127,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 6.2,
      "phone": "314-647-5611",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -62148,7 +62148,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63031",
      "distance_mi": 7.9,
      "phone": "314-831-0879",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -62190,7 +62190,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 1.9,
      "phone": "314-725-3840",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -62211,7 +62211,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 3.7,
      "phone": "314-427-2273",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -62232,7 +62232,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 1.4,
      "phone": "314-721-2722",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -62253,7 +62253,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 4.5,
      "phone": "314-388-9840",
-     "hours": "Monday 9:00 AM - 4:00 PM Tuesday 9:00 AM - 4:00 PM Wednesday 9:00 AM - 4:00 PM Thursday 9:00 AM - 4:00 PM Friday 9:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -62295,7 +62295,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 6.9,
      "phone": "314-660-3621",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -62639,7 +62639,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63123",
      "distance_mi": 12.8,
      "phone": "314-580-3138",
-     "hours": "Monday 12:30 PM - 2:30 PM Tuesday 4:00 PM - 6:30 PM Wednesday Closed Thursday 6:00 PM - 8:00 PM Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon 12:30 PM - 2:30 PM, Tue 4:00 PM - 6:30 PM, Wed closed, Thu 6:00 PM - 8:00 PM, Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -62660,7 +62660,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 5.7,
      "phone": "314-862-0038",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 12:00 PM Thursday 11:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 11:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -62702,7 +62702,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 8.6,
      "phone": "314-716-2711",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -62723,7 +62723,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 2.6,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday 9:30 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -62744,7 +62744,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 2.3,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 9:30 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 9:30 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -62765,7 +62765,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 2.4,
      "phone": "314-863-0015",
-     "hours": "Monday Closed Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday Closed Friday 8:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:00 AM - 3:00 PM, Thu closed, Fri 8:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -62807,7 +62807,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 4.6,
      "phone": "314-388-1211",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -62828,7 +62828,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63088",
      "distance_mi": 15.2,
      "phone": "636-861-2623",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 7:00 PM Thursday 1:00 PM - 5:00 PM Friday 9:00 AM - 3:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue 9:00 AM - 3:00 PM, Wed 9:00 AM - 7:00 PM, Thu 1:00 PM - 5:00 PM, Fri 9:00 AM - 3:00 PM, Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -62849,7 +62849,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 4.0,
      "phone": "314-680-9101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -62870,7 +62870,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 0.9,
      "phone": "314-521-1122",
-     "hours": "Monday Closed Tuesday 11:00 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -62912,7 +62912,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63044",
      "distance_mi": 4.2,
      "phone": "314-770-2216",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 10:00 AM - 2:00 PM, Wed 10:00 AM - 12:00 PM, Thu 10:00 AM - 2:00 PM, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -62933,7 +62933,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 7.8,
      "phone": "314-438-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -62954,7 +62954,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 3.5,
      "phone": null,
-     "hours": "Monday 12:00 PM - 5:00 PM Tuesday 12:00 PM - 5:00 PM Wednesday 12:00 PM - 5:00 PM Thursday 12:00 PM - 5:00 PM Friday 1:00 PM - 5:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 12:00 PM - 5:00 PM, Fri 1:00 PM - 5:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -62975,7 +62975,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63045",
      "distance_mi": 6.7,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 4:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -62996,7 +62996,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63127",
      "distance_mi": 15.9,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 4:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 4:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63017,7 +63017,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63125",
      "distance_mi": 15.6,
      "phone": "314-631-4900",
-     "hours": "Monday 10:00 AM - 3:00 PM Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 10:00 AM - 3:00 PM Friday 10:00 AM - 3:00 PM Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 3:00 PM, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63038,7 +63038,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 6.4,
      "phone": "314-867-2782",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:30 AM - 12:30 PM Thursday Closed Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:30 AM - 12:30 PM, Thu-Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63059,7 +63059,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 4.5,
      "phone": "314-291-1915",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63080,7 +63080,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63142",
      "distance_mi": 4.6,
      "phone": "314-513-1672",
-     "hours": "Monday 9:00 AM - 3:30 PM Tuesday 9:00 AM - 3:30 PM Wednesday 9:00 AM - 3:30 PM Thursday 9:00 AM - 3:30 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 9:00 AM - 3:30 PM, Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63101,7 +63101,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 7.7,
      "phone": null,
-     "hours": "Monday 11:15 AM - 11:30 AM Tuesday 11:15 AM - 11:30 AM Wednesday 11:15 AM - 11:30 AM Thursday 11:15 AM - 11:30 AM Friday 11:15 AM - 11:30 AM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 11:15 AM - 11:30 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63122,7 +63122,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 8.5,
      "phone": "314-741-5667",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63143,7 +63143,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63033",
      "distance_mi": 7.0,
      "phone": "314-741-4222",
-     "hours": "Monday Closed Tuesday 9:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63185,7 +63185,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 4.2,
      "phone": "314-329-4262",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday 11:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Fri closed, Sat 11:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63227,7 +63227,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 9.0,
      "phone": "314-719-2929",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63269,7 +63269,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 4.9,
      "phone": "314-922-8903",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63290,7 +63290,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63122",
      "distance_mi": 12.4,
      "phone": "314-822-4760",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63311,7 +63311,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 12.0,
      "phone": "314-961-6854",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 5:30 PM Thursday Closed Friday Closed Saturday Closed Sunday 11:30 AM - 1:00 PM",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 5:30 PM, Thu-Sat closed, Sun 11:30 AM - 1:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63353,7 +63353,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 1.3,
      "phone": "314-426-0101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63374,7 +63374,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 4.5,
      "phone": "314-868-0707",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday 10:00 AM - 12:00 PM",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 12:00 PM, Thu-Sat closed, Sun 10:00 AM - 12:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63395,7 +63395,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 2.4,
      "phone": "314-522-9264",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63416,7 +63416,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 4.8,
      "phone": "314-261-5266",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63437,7 +63437,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 6.9,
      "phone": null,
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63458,7 +63458,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 3.0,
      "phone": "314-427-7204",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:30 AM Wednesday 9:00 AM - 11:30 AM Thursday Closed Friday 9:00 AM - 11:30 AM Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 9:00 AM - 11:30 AM, Thu closed, Fri-Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63647,7 +63647,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 4.4,
      "phone": "314-423-7770",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 1:00 PM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 8:30 AM - 4:30 PM, Wed 1:00 PM - 4:30 PM, Thu-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63668,7 +63668,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63133",
      "distance_mi": 5.4,
      "phone": "314-382-7158",
-     "hours": "Monday Closed Tuesday 8:30 AM - 11:30 AM Wednesday 8:30 AM - 11:30 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:30 AM - 11:30 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63689,7 +63689,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 4.6,
      "phone": "314-382-8833",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63710,7 +63710,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 2.0,
      "phone": "314-429-0216",
-     "hours": "Monday Closed Tuesday 10:30 AM - 1:00 PM Wednesday Closed Thursday 10:30 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:30 AM - 1:00 PM, Wed closed, Thu 10:30 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63731,7 +63731,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 4.1,
      "phone": "314-261-0202",
-     "hours": "Monday 8:00 AM - 3:00 PM Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday 8:00 AM - 3:00 PM Friday 8:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 8:00 AM - 3:00 PM, Fri 8:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63752,7 +63752,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 10.2,
      "phone": "314-647-5611",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63773,7 +63773,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63031",
      "distance_mi": 3.8,
      "phone": "314-831-0879",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63815,7 +63815,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 6.2,
      "phone": "314-725-3840",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63836,7 +63836,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 3.3,
      "phone": "314-427-2273",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63857,7 +63857,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 5.5,
      "phone": "314-721-2722",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63878,7 +63878,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 5.5,
      "phone": "314-388-9840",
-     "hours": "Monday 9:00 AM - 4:00 PM Tuesday 9:00 AM - 4:00 PM Wednesday 9:00 AM - 4:00 PM Thursday 9:00 AM - 4:00 PM Friday 9:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -63920,7 +63920,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 7.3,
      "phone": "314-660-3621",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64264,7 +64264,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63123",
      "distance_mi": 13.3,
      "phone": "314-580-3138",
-     "hours": "Monday 12:30 PM - 2:30 PM Tuesday 4:00 PM - 6:30 PM Wednesday Closed Thursday 6:00 PM - 8:00 PM Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon 12:30 PM - 2:30 PM, Tue 4:00 PM - 6:30 PM, Wed closed, Thu 6:00 PM - 8:00 PM, Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64285,7 +64285,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 6.0,
      "phone": "314-862-0038",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 12:00 PM Thursday 11:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 11:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64327,7 +64327,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 9.2,
      "phone": "314-716-2711",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64348,7 +64348,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 0.2,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday 9:30 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64369,7 +64369,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 0.5,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 9:30 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 9:30 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64390,7 +64390,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 4.5,
      "phone": "314-863-0015",
-     "hours": "Monday Closed Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday Closed Friday 8:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:00 AM - 3:00 PM, Thu closed, Fri 8:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64432,7 +64432,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 2.4,
      "phone": "314-388-1211",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64453,7 +64453,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63088",
      "distance_mi": 17.2,
      "phone": "636-861-2623",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 7:00 PM Thursday 1:00 PM - 5:00 PM Friday 9:00 AM - 3:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue 9:00 AM - 3:00 PM, Wed 9:00 AM - 7:00 PM, Thu 1:00 PM - 5:00 PM, Fri 9:00 AM - 3:00 PM, Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64474,7 +64474,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 5.5,
      "phone": "314-680-9101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64495,7 +64495,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 1.8,
      "phone": "314-521-1122",
-     "hours": "Monday Closed Tuesday 11:00 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64537,7 +64537,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63044",
      "distance_mi": 6.6,
      "phone": "314-770-2216",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 10:00 AM - 2:00 PM, Wed 10:00 AM - 12:00 PM, Thu 10:00 AM - 2:00 PM, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64558,7 +64558,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 5.3,
      "phone": "314-438-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64579,7 +64579,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 3.2,
      "phone": null,
-     "hours": "Monday 12:00 PM - 5:00 PM Tuesday 12:00 PM - 5:00 PM Wednesday 12:00 PM - 5:00 PM Thursday 12:00 PM - 5:00 PM Friday 1:00 PM - 5:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 12:00 PM - 5:00 PM, Fri 1:00 PM - 5:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64600,7 +64600,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63045",
      "distance_mi": 9.1,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 4:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64621,7 +64621,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63127",
      "distance_mi": 17.4,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 4:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 4:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64642,7 +64642,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63125",
      "distance_mi": 16.0,
      "phone": "314-631-4900",
-     "hours": "Monday 10:00 AM - 3:00 PM Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 10:00 AM - 3:00 PM Friday 10:00 AM - 3:00 PM Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 3:00 PM, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64663,7 +64663,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 3.9,
      "phone": "314-867-2782",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:30 AM - 12:30 PM Thursday Closed Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:30 AM - 12:30 PM, Thu-Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64684,7 +64684,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 7.1,
      "phone": "314-291-1915",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64705,7 +64705,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63142",
      "distance_mi": 6.9,
      "phone": "314-513-1672",
-     "hours": "Monday 9:00 AM - 3:30 PM Tuesday 9:00 AM - 3:30 PM Wednesday 9:00 AM - 3:30 PM Thursday 9:00 AM - 3:30 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 9:00 AM - 3:30 PM, Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64726,7 +64726,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 5.2,
      "phone": null,
-     "hours": "Monday 11:15 AM - 11:30 AM Tuesday 11:15 AM - 11:30 AM Wednesday 11:15 AM - 11:30 AM Thursday 11:15 AM - 11:30 AM Friday 11:15 AM - 11:30 AM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 11:15 AM - 11:30 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64747,7 +64747,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 5.9,
      "phone": "314-741-5667",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64768,7 +64768,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63033",
      "distance_mi": 4.8,
      "phone": "314-741-4222",
-     "hours": "Monday Closed Tuesday 9:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64810,7 +64810,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 6.5,
      "phone": "314-329-4262",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday 11:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Fri closed, Sat 11:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64852,7 +64852,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 9.7,
      "phone": "314-719-2929",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64894,7 +64894,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 3.2,
      "phone": "314-922-8903",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64915,7 +64915,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63122",
      "distance_mi": 13.9,
      "phone": "314-822-4760",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64936,7 +64936,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 13.1,
      "phone": "314-961-6854",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 5:30 PM Thursday Closed Friday Closed Saturday Closed Sunday 11:30 AM - 1:00 PM",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 5:30 PM, Thu-Sat closed, Sun 11:30 AM - 1:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64978,7 +64978,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 3.8,
      "phone": "314-426-0101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -64999,7 +64999,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 2.2,
      "phone": "314-868-0707",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday 10:00 AM - 12:00 PM",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 12:00 PM, Thu-Sat closed, Sun 10:00 AM - 12:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -65020,7 +65020,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 1.5,
      "phone": "314-522-9264",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -65041,7 +65041,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 4.0,
      "phone": "314-261-5266",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -65062,7 +65062,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 4.3,
      "phone": null,
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -65083,7 +65083,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 5.0,
      "phone": "314-427-7204",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:30 AM Wednesday 9:00 AM - 11:30 AM Thursday Closed Friday 9:00 AM - 11:30 AM Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 9:00 AM - 11:30 AM, Thu closed, Fri-Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -65272,7 +65272,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 6.7,
      "phone": "314-423-7770",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 1:00 PM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 8:30 AM - 4:30 PM, Wed 1:00 PM - 4:30 PM, Thu-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -65293,7 +65293,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63133",
      "distance_mi": 5.1,
      "phone": "314-382-7158",
-     "hours": "Monday Closed Tuesday 8:30 AM - 11:30 AM Wednesday 8:30 AM - 11:30 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:30 AM - 11:30 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -65314,7 +65314,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 4.4,
      "phone": "314-382-8833",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -65335,7 +65335,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 4.2,
      "phone": "314-429-0216",
-     "hours": "Monday Closed Tuesday 10:30 AM - 1:00 PM Wednesday Closed Thursday 10:30 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:30 AM - 1:00 PM, Wed closed, Thu 10:30 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -65356,7 +65356,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 3.5,
      "phone": "314-261-0202",
-     "hours": "Monday 8:00 AM - 3:00 PM Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday 8:00 AM - 3:00 PM Friday 8:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 8:00 AM - 3:00 PM, Fri 8:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -65377,7 +65377,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 11.0,
      "phone": "314-647-5611",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -65398,7 +65398,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63031",
      "distance_mi": 3.5,
      "phone": "314-831-0879",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -65440,7 +65440,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 6.7,
      "phone": "314-725-3840",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -65461,7 +65461,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 5.4,
      "phone": "314-427-2273",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -65482,7 +65482,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 6.1,
      "phone": "314-721-2722",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -65503,7 +65503,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 3.4,
      "phone": "314-388-9840",
-     "hours": "Monday 9:00 AM - 4:00 PM Tuesday 9:00 AM - 4:00 PM Wednesday 9:00 AM - 4:00 PM Thursday 9:00 AM - 4:00 PM Friday 9:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -65545,7 +65545,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 4.8,
      "phone": "314-660-3621",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -65889,7 +65889,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63123",
      "distance_mi": 13.1,
      "phone": "314-580-3138",
-     "hours": "Monday 12:30 PM - 2:30 PM Tuesday 4:00 PM - 6:30 PM Wednesday Closed Thursday 6:00 PM - 8:00 PM Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon 12:30 PM - 2:30 PM, Tue 4:00 PM - 6:30 PM, Wed closed, Thu 6:00 PM - 8:00 PM, Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -65910,7 +65910,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 6.0,
      "phone": "314-862-0038",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 12:00 PM Thursday 11:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 11:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -65952,7 +65952,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 9.2,
      "phone": "314-716-2711",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -65973,7 +65973,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 2.1,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday 9:30 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -65994,7 +65994,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 2.4,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 9:30 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 9:30 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66015,7 +66015,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 6.0,
      "phone": "314-863-0015",
-     "hours": "Monday Closed Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday Closed Friday 8:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:00 AM - 3:00 PM, Thu closed, Fri 8:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66057,7 +66057,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 0.7,
      "phone": "314-388-1211",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66078,7 +66078,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63088",
      "distance_mi": 18.3,
      "phone": "636-861-2623",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 7:00 PM Thursday 1:00 PM - 5:00 PM Friday 9:00 AM - 3:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue 9:00 AM - 3:00 PM, Wed 9:00 AM - 7:00 PM, Thu 1:00 PM - 5:00 PM, Fri 9:00 AM - 3:00 PM, Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66099,7 +66099,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 6.6,
      "phone": "314-680-9101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66120,7 +66120,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 4.0,
      "phone": "314-521-1122",
-     "hours": "Monday Closed Tuesday 11:00 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66162,7 +66162,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63044",
      "distance_mi": 8.8,
      "phone": "314-770-2216",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 10:00 AM - 2:00 PM, Wed 10:00 AM - 12:00 PM, Thu 10:00 AM - 2:00 PM, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66183,7 +66183,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 4.0,
      "phone": "314-438-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66204,7 +66204,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 3.5,
      "phone": null,
-     "hours": "Monday 12:00 PM - 5:00 PM Tuesday 12:00 PM - 5:00 PM Wednesday 12:00 PM - 5:00 PM Thursday 12:00 PM - 5:00 PM Friday 1:00 PM - 5:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 12:00 PM - 5:00 PM, Fri 1:00 PM - 5:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66225,7 +66225,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63045",
      "distance_mi": 11.2,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 4:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66246,7 +66246,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63127",
      "distance_mi": 17.9,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 4:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 4:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66267,7 +66267,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63125",
      "distance_mi": 15.5,
      "phone": "314-631-4900",
-     "hours": "Monday 10:00 AM - 3:00 PM Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 10:00 AM - 3:00 PM Friday 10:00 AM - 3:00 PM Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 3:00 PM, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66288,7 +66288,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 1.8,
      "phone": "314-867-2782",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:30 AM - 12:30 PM Thursday Closed Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:30 AM - 12:30 PM, Thu-Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66309,7 +66309,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 9.1,
      "phone": "314-291-1915",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66330,7 +66330,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63142",
      "distance_mi": 8.4,
      "phone": "314-513-1672",
-     "hours": "Monday 9:00 AM - 3:30 PM Tuesday 9:00 AM - 3:30 PM Wednesday 9:00 AM - 3:30 PM Thursday 9:00 AM - 3:30 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 9:00 AM - 3:30 PM, Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66351,7 +66351,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 4.0,
      "phone": null,
-     "hours": "Monday 11:15 AM - 11:30 AM Tuesday 11:15 AM - 11:30 AM Wednesday 11:15 AM - 11:30 AM Thursday 11:15 AM - 11:30 AM Friday 11:15 AM - 11:30 AM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 11:15 AM - 11:30 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66372,7 +66372,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 4.4,
      "phone": "314-741-5667",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66393,7 +66393,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63033",
      "distance_mi": 4.6,
      "phone": "314-741-4222",
-     "hours": "Monday Closed Tuesday 9:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66435,7 +66435,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 8.1,
      "phone": "314-329-4262",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday 11:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Fri closed, Sat 11:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66477,7 +66477,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 9.7,
      "phone": "314-719-2929",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66519,7 +66519,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 2.0,
      "phone": "314-922-8903",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66540,7 +66540,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63122",
      "distance_mi": 14.5,
      "phone": "314-822-4760",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66561,7 +66561,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 13.3,
      "phone": "314-961-6854",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 5:30 PM Thursday Closed Friday Closed Saturday Closed Sunday 11:30 AM - 1:00 PM",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 5:30 PM, Thu-Sat closed, Sun 11:30 AM - 1:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66603,7 +66603,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 5.8,
      "phone": "314-426-0101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66624,7 +66624,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 0.5,
      "phone": "314-868-0707",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday 10:00 AM - 12:00 PM",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 12:00 PM, Thu-Sat closed, Sun 10:00 AM - 12:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66645,7 +66645,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 2.5,
      "phone": "314-522-9264",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66666,7 +66666,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 3.5,
      "phone": "314-261-5266",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66687,7 +66687,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 2.5,
      "phone": null,
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66708,7 +66708,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 6.5,
      "phone": "314-427-7204",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:30 AM Wednesday 9:00 AM - 11:30 AM Thursday Closed Friday 9:00 AM - 11:30 AM Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 9:00 AM - 11:30 AM, Thu closed, Fri-Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66897,7 +66897,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 8.3,
      "phone": "314-423-7770",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 1:00 PM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 8:30 AM - 4:30 PM, Wed 1:00 PM - 4:30 PM, Thu-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66918,7 +66918,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63133",
      "distance_mi": 4.8,
      "phone": "314-382-7158",
-     "hours": "Monday Closed Tuesday 8:30 AM - 11:30 AM Wednesday 8:30 AM - 11:30 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:30 AM - 11:30 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66939,7 +66939,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 4.3,
      "phone": "314-382-8833",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66960,7 +66960,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 5.8,
      "phone": "314-429-0216",
-     "hours": "Monday Closed Tuesday 10:30 AM - 1:00 PM Wednesday Closed Thursday 10:30 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:30 AM - 1:00 PM, Wed closed, Thu 10:30 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -66981,7 +66981,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 3.5,
      "phone": "314-261-0202",
-     "hours": "Monday 8:00 AM - 3:00 PM Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday 8:00 AM - 3:00 PM Friday 8:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 8:00 AM - 3:00 PM, Fri 8:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -67002,7 +67002,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 11.1,
      "phone": "314-647-5611",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -67023,7 +67023,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63031",
      "distance_mi": 5.2,
      "phone": "314-831-0879",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -67065,7 +67065,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 6.8,
      "phone": "314-725-3840",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -67086,7 +67086,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 6.9,
      "phone": "314-427-2273",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -67107,7 +67107,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 6.4,
      "phone": "314-721-2722",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -67128,7 +67128,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 1.5,
      "phone": "314-388-9840",
-     "hours": "Monday 9:00 AM - 4:00 PM Tuesday 9:00 AM - 4:00 PM Wednesday 9:00 AM - 4:00 PM Thursday 9:00 AM - 4:00 PM Friday 9:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -67170,7 +67170,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 2.7,
      "phone": "314-660-3621",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -67514,7 +67514,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63123",
      "distance_mi": 14.1,
      "phone": "314-580-3138",
-     "hours": "Monday 12:30 PM - 2:30 PM Tuesday 4:00 PM - 6:30 PM Wednesday Closed Thursday 6:00 PM - 8:00 PM Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon 12:30 PM - 2:30 PM, Tue 4:00 PM - 6:30 PM, Wed closed, Thu 6:00 PM - 8:00 PM, Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -67535,7 +67535,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 7.6,
      "phone": "314-862-0038",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 12:00 PM Thursday 11:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 11:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -67577,7 +67577,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 10.6,
      "phone": "314-716-2711",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -67598,7 +67598,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 4.6,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday 9:30 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -67619,7 +67619,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 4.9,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 9:30 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 9:30 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -67640,7 +67640,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 8.5,
      "phone": "314-863-0015",
-     "hours": "Monday Closed Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday Closed Friday 8:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:00 AM - 3:00 PM, Thu closed, Fri 8:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -67682,7 +67682,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 2.8,
      "phone": "314-388-1211",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -67703,7 +67703,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63088",
      "distance_mi": 20.3,
      "phone": "636-861-2623",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 7:00 PM Thursday 1:00 PM - 5:00 PM Friday 9:00 AM - 3:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue 9:00 AM - 3:00 PM, Wed 9:00 AM - 7:00 PM, Thu 1:00 PM - 5:00 PM, Fri 9:00 AM - 3:00 PM, Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -67724,7 +67724,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 8.8,
      "phone": "314-680-9101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -67745,7 +67745,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 6.5,
      "phone": "314-521-1122",
-     "hours": "Monday Closed Tuesday 11:00 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -67787,7 +67787,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63044",
      "distance_mi": 11.3,
      "phone": "314-770-2216",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 10:00 AM - 2:00 PM, Wed 10:00 AM - 12:00 PM, Thu 10:00 AM - 2:00 PM, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -67808,7 +67808,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 2.9,
      "phone": "314-438-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -67829,7 +67829,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 5.6,
      "phone": null,
-     "hours": "Monday 12:00 PM - 5:00 PM Tuesday 12:00 PM - 5:00 PM Wednesday 12:00 PM - 5:00 PM Thursday 12:00 PM - 5:00 PM Friday 1:00 PM - 5:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 12:00 PM - 5:00 PM, Fri 1:00 PM - 5:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -67850,7 +67850,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63045",
      "distance_mi": 13.7,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 4:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -67871,7 +67871,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63127",
      "distance_mi": 19.5,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 4:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 4:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -67892,7 +67892,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63125",
      "distance_mi": 16.3,
      "phone": "314-631-4900",
-     "hours": "Monday 10:00 AM - 3:00 PM Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 10:00 AM - 3:00 PM Friday 10:00 AM - 3:00 PM Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 3:00 PM, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -67913,7 +67913,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 0.8,
      "phone": "314-867-2782",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:30 AM - 12:30 PM Thursday Closed Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:30 AM - 12:30 PM, Thu-Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -67934,7 +67934,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 11.7,
      "phone": "314-291-1915",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -67955,7 +67955,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63142",
      "distance_mi": 10.8,
      "phone": "314-513-1672",
-     "hours": "Monday 9:00 AM - 3:30 PM Tuesday 9:00 AM - 3:30 PM Wednesday 9:00 AM - 3:30 PM Thursday 9:00 AM - 3:30 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 9:00 AM - 3:30 PM, Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -67976,7 +67976,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 3.1,
      "phone": null,
-     "hours": "Monday 11:15 AM - 11:30 AM Tuesday 11:15 AM - 11:30 AM Wednesday 11:15 AM - 11:30 AM Thursday 11:15 AM - 11:30 AM Friday 11:15 AM - 11:30 AM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 11:15 AM - 11:30 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -67997,7 +67997,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 2.7,
      "phone": "314-741-5667",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -68018,7 +68018,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63033",
      "distance_mi": 4.8,
      "phone": "314-741-4222",
-     "hours": "Monday Closed Tuesday 9:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -68060,7 +68060,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 10.6,
      "phone": "314-329-4262",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday 11:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Fri closed, Sat 11:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -68102,7 +68102,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 11.1,
      "phone": "314-719-2929",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -68144,7 +68144,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 3.4,
      "phone": "314-922-8903",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -68165,7 +68165,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63122",
      "distance_mi": 16.2,
      "phone": "314-822-4760",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -68186,7 +68186,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 14.8,
      "phone": "314-961-6854",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 5:30 PM Thursday Closed Friday Closed Saturday Closed Sunday 11:30 AM - 1:00 PM",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 5:30 PM, Thu-Sat closed, Sun 11:30 AM - 1:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -68228,7 +68228,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 8.3,
      "phone": "314-426-0101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -68249,7 +68249,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 2.8,
      "phone": "314-868-0707",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday 10:00 AM - 12:00 PM",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 12:00 PM, Thu-Sat closed, Sun 10:00 AM - 12:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -68270,7 +68270,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 5.0,
      "phone": "314-522-9264",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -68291,7 +68291,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 5.1,
      "phone": "314-261-5266",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -68312,7 +68312,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 1.0,
      "phone": null,
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -68333,7 +68333,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 8.9,
      "phone": "314-427-7204",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:30 AM Wednesday 9:00 AM - 11:30 AM Thursday Closed Friday 9:00 AM - 11:30 AM Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 9:00 AM - 11:30 AM, Thu closed, Fri-Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -68522,7 +68522,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 10.8,
      "phone": "314-423-7770",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 1:00 PM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 8:30 AM - 4:30 PM, Wed 1:00 PM - 4:30 PM, Thu-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -68543,7 +68543,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63133",
      "distance_mi": 6.3,
      "phone": "314-382-7158",
-     "hours": "Monday Closed Tuesday 8:30 AM - 11:30 AM Wednesday 8:30 AM - 11:30 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:30 AM - 11:30 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -68564,7 +68564,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 6.1,
      "phone": "314-382-8833",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -68585,7 +68585,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 8.3,
      "phone": "314-429-0216",
-     "hours": "Monday Closed Tuesday 10:30 AM - 1:00 PM Wednesday Closed Thursday 10:30 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:30 AM - 1:00 PM, Wed closed, Thu 10:30 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -68606,7 +68606,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 5.4,
      "phone": "314-261-0202",
-     "hours": "Monday 8:00 AM - 3:00 PM Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday 8:00 AM - 3:00 PM Friday 8:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 8:00 AM - 3:00 PM, Fri 8:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -68627,7 +68627,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 12.5,
      "phone": "314-647-5611",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -68648,7 +68648,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63031",
      "distance_mi": 7.1,
      "phone": "314-831-0879",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -68690,7 +68690,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 8.4,
      "phone": "314-725-3840",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -68711,7 +68711,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 9.3,
      "phone": "314-427-2273",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -68732,7 +68732,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 8.2,
      "phone": "314-721-2722",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -68753,7 +68753,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 2.4,
      "phone": "314-388-9840",
-     "hours": "Monday 9:00 AM - 4:00 PM Tuesday 9:00 AM - 4:00 PM Wednesday 9:00 AM - 4:00 PM Thursday 9:00 AM - 4:00 PM Friday 9:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -68795,7 +68795,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 0.1,
      "phone": "314-660-3621",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69139,7 +69139,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63123",
      "distance_mi": 17.8,
      "phone": "314-580-3138",
-     "hours": "Monday 12:30 PM - 2:30 PM Tuesday 4:00 PM - 6:30 PM Wednesday Closed Thursday 6:00 PM - 8:00 PM Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon 12:30 PM - 2:30 PM, Tue 4:00 PM - 6:30 PM, Wed closed, Thu 6:00 PM - 8:00 PM, Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69160,7 +69160,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 11.1,
      "phone": "314-862-0038",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 12:00 PM Thursday 11:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 11:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69202,7 +69202,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 14.2,
      "phone": "314-716-2711",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69223,7 +69223,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 6.8,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday 9:30 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69244,7 +69244,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 7.2,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 9:30 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 9:30 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69265,7 +69265,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 11.2,
      "phone": "314-863-0015",
-     "hours": "Monday Closed Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday Closed Friday 8:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:00 AM - 3:00 PM, Thu closed, Fri 8:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69307,7 +69307,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 5.9,
      "phone": "314-388-1211",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69328,7 +69328,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63088",
      "distance_mi": 23.6,
      "phone": "636-861-2623",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 7:00 PM Thursday 1:00 PM - 5:00 PM Friday 9:00 AM - 3:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue 9:00 AM - 3:00 PM, Wed 9:00 AM - 7:00 PM, Thu 1:00 PM - 5:00 PM, Fri 9:00 AM - 3:00 PM, Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69349,7 +69349,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 11.9,
      "phone": "314-680-9101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69370,7 +69370,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 8.4,
      "phone": "314-521-1122",
-     "hours": "Monday Closed Tuesday 11:00 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69412,7 +69412,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63044",
      "distance_mi": 12.9,
      "phone": "314-770-2216",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 10:00 AM - 2:00 PM, Wed 10:00 AM - 12:00 PM, Thu 10:00 AM - 2:00 PM, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69433,7 +69433,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 1.5,
      "phone": "314-438-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69454,7 +69454,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 8.8,
      "phone": null,
-     "hours": "Monday 12:00 PM - 5:00 PM Tuesday 12:00 PM - 5:00 PM Wednesday 12:00 PM - 5:00 PM Thursday 12:00 PM - 5:00 PM Friday 1:00 PM - 5:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 12:00 PM - 5:00 PM, Fri 1:00 PM - 5:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69475,7 +69475,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63045",
      "distance_mi": 15.1,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 4:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69496,7 +69496,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63127",
      "distance_mi": 23.1,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 4:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 4:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69517,7 +69517,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63125",
      "distance_mi": 20.0,
      "phone": "314-631-4900",
-     "hours": "Monday 10:00 AM - 3:00 PM Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 10:00 AM - 3:00 PM Friday 10:00 AM - 3:00 PM Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 3:00 PM, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69538,7 +69538,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 4.0,
      "phone": "314-867-2782",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:30 AM - 12:30 PM Thursday Closed Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:30 AM - 12:30 PM, Thu-Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69559,7 +69559,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 13.7,
      "phone": "314-291-1915",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69580,7 +69580,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63142",
      "distance_mi": 13.5,
      "phone": "314-513-1672",
-     "hours": "Monday 9:00 AM - 3:30 PM Tuesday 9:00 AM - 3:30 PM Wednesday 9:00 AM - 3:30 PM Thursday 9:00 AM - 3:30 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 9:00 AM - 3:30 PM, Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69601,7 +69601,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 1.6,
      "phone": null,
-     "hours": "Monday 11:15 AM - 11:30 AM Tuesday 11:15 AM - 11:30 AM Wednesday 11:15 AM - 11:30 AM Thursday 11:15 AM - 11:30 AM Friday 11:15 AM - 11:30 AM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 11:15 AM - 11:30 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69622,7 +69622,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 1.0,
      "phone": "314-741-5667",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69643,7 +69643,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63033",
      "distance_mi": 3.4,
      "phone": "314-741-4222",
-     "hours": "Monday Closed Tuesday 9:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69685,7 +69685,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 13.2,
      "phone": "314-329-4262",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday 11:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Fri closed, Sat 11:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69727,7 +69727,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 14.7,
      "phone": "314-719-2929",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69769,7 +69769,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 6.9,
      "phone": "314-922-8903",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69790,7 +69790,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63122",
      "distance_mi": 19.8,
      "phone": "314-822-4760",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69811,7 +69811,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 18.4,
      "phone": "314-961-6854",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 5:30 PM Thursday Closed Friday Closed Saturday Closed Sunday 11:30 AM - 1:00 PM",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 5:30 PM, Thu-Sat closed, Sun 11:30 AM - 1:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69853,7 +69853,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 10.5,
      "phone": "314-426-0101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69874,7 +69874,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 5.8,
      "phone": "314-868-0707",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday 10:00 AM - 12:00 PM",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 12:00 PM, Thu-Sat closed, Sun 10:00 AM - 12:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69895,7 +69895,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 7.7,
      "phone": "314-522-9264",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69916,7 +69916,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 8.6,
      "phone": "314-261-5266",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69937,7 +69937,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 3.0,
      "phone": null,
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -69958,7 +69958,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 11.7,
      "phone": "314-427-7204",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:30 AM Wednesday 9:00 AM - 11:30 AM Thursday Closed Friday 9:00 AM - 11:30 AM Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 9:00 AM - 11:30 AM, Thu closed, Fri-Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -70147,7 +70147,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 13.4,
      "phone": "314-423-7770",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 1:00 PM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 8:30 AM - 4:30 PM, Wed 1:00 PM - 4:30 PM, Thu-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -70168,7 +70168,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63133",
      "distance_mi": 9.9,
      "phone": "314-382-7158",
-     "hours": "Monday Closed Tuesday 8:30 AM - 11:30 AM Wednesday 8:30 AM - 11:30 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:30 AM - 11:30 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -70189,7 +70189,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 9.5,
      "phone": "314-382-8833",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -70210,7 +70210,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 10.9,
      "phone": "314-429-0216",
-     "hours": "Monday Closed Tuesday 10:30 AM - 1:00 PM Wednesday Closed Thursday 10:30 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:30 AM - 1:00 PM, Wed closed, Thu 10:30 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -70231,7 +70231,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 8.7,
      "phone": "314-261-0202",
-     "hours": "Monday 8:00 AM - 3:00 PM Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday 8:00 AM - 3:00 PM Friday 8:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 8:00 AM - 3:00 PM, Fri 8:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -70252,7 +70252,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 16.1,
      "phone": "314-647-5611",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -70273,7 +70273,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63031",
      "distance_mi": 7.5,
      "phone": "314-831-0879",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -70315,7 +70315,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 11.9,
      "phone": "314-725-3840",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -70336,7 +70336,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 12.0,
      "phone": "314-427-2273",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -70357,7 +70357,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 11.6,
      "phone": "314-721-2722",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -70378,7 +70378,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 5.9,
      "phone": "314-388-9840",
-     "hours": "Monday 9:00 AM - 4:00 PM Tuesday 9:00 AM - 4:00 PM Wednesday 9:00 AM - 4:00 PM Thursday 9:00 AM - 4:00 PM Friday 9:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -70420,7 +70420,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 3.7,
      "phone": "314-660-3621",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -70806,7 +70806,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 2.1,
      "phone": "314-353-1005",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 11:00 AM, Wed-Thu closed, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -70827,7 +70827,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 3.6,
      "phone": "314-361-6446",
-     "hours": "Monday Closed Tuesday 12:00 PM - 1:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 1:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -70869,7 +70869,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 4.4,
      "phone": "314-261-3766",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 10:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 10:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -70890,7 +70890,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 3.0,
      "phone": "314-772-8444",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday 10:00 AM - 4:00 PM Friday Closed Saturday 1:00 PM - 2:30 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 10:00 AM - 4:00 PM, Fri closed, Sat 1:00 PM - 2:30 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -70911,7 +70911,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 3.9,
      "phone": "314-367-2974",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 8:00 AM - 10:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 8:00 AM - 10:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -70932,7 +70932,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 3.4,
      "phone": "314-977-3881",
-     "hours": "Monday 3:30 PM - 5:30 PM Tuesday 3:30 PM - 5:30 PM Wednesday 3:30 PM - 5:30 PM Thursday 3:30 PM - 5:30 PM Friday Closed Saturday Closed Sunday 3:30 PM - 5:30 PM",
+     "hours": "Mon-Thu 3:30 PM - 5:30 PM, Fri-Sat closed, Sun 3:30 PM - 5:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -70953,7 +70953,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 3.5,
      "phone": "314-367-1818",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -70974,7 +70974,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 3.1,
      "phone": "314-776-7172",
-     "hours": "Monday 12:30 PM - 1:00 PM Tuesday Closed Wednesday Closed Thursday 12:30 PM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 12:30 PM - 1:00 PM, Tue-Wed closed, Thu 12:30 PM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -70995,7 +70995,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 8.0,
      "phone": "314-382-8759",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71016,7 +71016,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 4.1,
      "phone": "314-768-3201",
-     "hours": "Monday 9:00 AM - 12:00 PM Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon 9:00 AM - 12:00 PM, Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71037,7 +71037,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 4.0,
      "phone": "314-367-9130",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71058,7 +71058,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 4.7,
      "phone": "314-482-2594",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday Closed Thursday 9:00 AM - 11:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue-Wed closed, Thu 9:00 AM - 11:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71079,7 +71079,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 1.7,
      "phone": "314-696-2939",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71121,7 +71121,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 5.7,
      "phone": "314-744-9693",
-     "hours": "Monday Closed Tuesday 12:00 PM - 2:30 PM Wednesday Closed Thursday 12:00 PM - 2:30 PM Friday Closed Saturday 12:00 PM - 3:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 2:30 PM, Wed closed, Thu 12:00 PM - 2:30 PM, Fri closed, Sat 12:00 PM - 3:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71142,7 +71142,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 4.7,
      "phone": "314-584-6960",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday Closed Wednesday 10:00 AM - 2:00 PM Thursday Closed Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 2:00 PM, Tue closed, Wed 10:00 AM - 2:00 PM, Thu closed, Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71163,7 +71163,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 2.9,
      "phone": "314-863-1992",
-     "hours": "Monday Closed Tuesday 10:00 AM - 11:30 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 11:30 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71184,7 +71184,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 3.9,
      "phone": "314-535-9002",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71205,7 +71205,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 3.6,
      "phone": "314-773-9027",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 8:30 AM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71226,7 +71226,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 2.8,
      "phone": "314-776-1410",
-     "hours": "Monday 9:00 AM - 11:00 AM Tuesday 10:00 AM - 1:00 PM Wednesday 10:00 AM - 1:00 PM Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 11:00 AM, Tue-Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71247,7 +71247,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 4.8,
      "phone": "314-421-0400",
-     "hours": "Monday 6:00 AM - 8:00 PM Tuesday 6:00 AM - 8:00 PM Wednesday 6:00 AM - 8:00 PM Thursday 6:00 AM - 8:00 PM Friday 6:00 AM - 8:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 6:00 AM - 8:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71268,7 +71268,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63110",
      "distance_mi": 2.3,
      "phone": "314-600-0239",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71289,7 +71289,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 7.9,
      "phone": "314-452-6880",
-     "hours": "Monday Closed Tuesday 5:00 PM - 6:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 5:00 PM - 6:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71331,7 +71331,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 3.1,
      "phone": "314-727-3550",
-     "hours": "Monday Closed Tuesday 11:30 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:30 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71352,7 +71352,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 4.2,
      "phone": "314-534-7026",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71373,7 +71373,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 4.1,
      "phone": "314-361-7878",
-     "hours": "Monday 11:30 AM - 1:00 PM Tuesday 11:30 AM - 1:00 PM Wednesday 11:30 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 11:30 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71394,7 +71394,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 3.6,
      "phone": "314-832-2142",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71415,7 +71415,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 5.8,
      "phone": "314-535-9794",
-     "hours": "Monday Closed Tuesday 9:00 AM - 12:00 PM Wednesday Closed Thursday 9:00 AM - 12:00 PM Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 12:00 PM, Wed closed, Thu 9:00 AM - 12:00 PM, Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71436,7 +71436,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 4.5,
      "phone": "314-353-1457",
-     "hours": "Monday 9:00 AM - 2:00 PM Tuesday 9:00 AM - 2:00 PM Wednesday 9:00 AM - 2:00 PM Thursday 9:00 AM - 2:00 PM Friday 9:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71457,7 +71457,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63120",
      "distance_mi": 7.0,
      "phone": "314-862-6270",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71499,7 +71499,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 3.8,
      "phone": "314-766-6145",
-     "hours": "Monday Closed Tuesday Closed Wednesday 3:30 PM - 5:30 PM Thursday Closed Friday 3:30 PM - 5:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 3:30 PM - 5:30 PM, Thu closed, Fri 3:30 PM - 5:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71520,7 +71520,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 8.7,
      "phone": "314-867-3773",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71772,7 +71772,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 3.2,
      "phone": "314-367-0366",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71793,7 +71793,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 3.5,
      "phone": "314-352-1460",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday 4:00 PM - 6:00 PM Thursday 10:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue closed, Wed 4:00 PM - 6:00 PM, Thu 10:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71814,7 +71814,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 4.2,
      "phone": "314-385-1934",
-     "hours": "Monday 9:30 AM - 11:00 AM Tuesday Closed Wednesday 9:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:00 AM, Tue closed, Wed 9:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71835,7 +71835,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 4.4,
      "phone": "314-616-4717",
-     "hours": "Monday Closed Tuesday Closed Wednesday 5:00 AM - 7:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 5:00 AM - 7:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71877,7 +71877,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 4.8,
      "phone": "314-652-6100",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71898,7 +71898,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 5.0,
      "phone": "314-231-2860",
-     "hours": "Monday 11:30 AM - 1:30 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 11:30 AM - 1:30 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71919,7 +71919,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63101",
      "distance_mi": 5.4,
      "phone": "314-802-0700",
-     "hours": "Monday 8:00 AM - 4:00 PM Tuesday 8:00 AM - 4:00 PM Wednesday 8:00 AM - 4:00 PM Thursday 8:00 AM - 4:00 PM Friday 8:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71940,7 +71940,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 4.4,
      "phone": "314-353-3276",
-     "hours": "Monday 9:00 AM - 10:30 AM Tuesday Closed Wednesday 9:00 AM - 10:30 AM Thursday Closed Friday Closed Saturday 9:00 AM - 10:30 AM Sunday Closed",
+     "hours": "Mon 9:00 AM - 10:30 AM, Tue closed, Wed 9:00 AM - 10:30 AM, Thu-Fri closed, Sat 9:00 AM - 10:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71961,7 +71961,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 3.4,
      "phone": "314-865-1020",
-     "hours": "Monday 9:30 AM - 11:30 AM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:30 AM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -71982,7 +71982,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 5.4,
      "phone": "314-531-3554",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -72003,7 +72003,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 3.8,
      "phone": "314-615-3600",
-     "hours": "Monday 2:00 PM - 4:30 PM Tuesday 2:00 PM - 4:30 PM Wednesday 2:00 PM - 4:30 PM Thursday 2:00 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 2:00 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -72024,7 +72024,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 5.4,
      "phone": "314-385-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 12:00 PM - 3:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 12:00 PM - 3:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -72045,7 +72045,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 3.4,
      "phone": "314-367-0060",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 8:30 AM - 2:00 PM",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sat closed, Sun 8:30 AM - 2:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -72066,7 +72066,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 4.2,
      "phone": "314-531-1040",
-     "hours": "Monday Closed Tuesday 10:00 AM - 2:00 PM Wednesday Closed Thursday 10:00 AM - 2:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 2:00 PM, Wed closed, Thu 10:00 AM - 2:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -72087,7 +72087,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 5.7,
      "phone": "314-265-5455",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 11:00 AM - 1:30 PM",
+     "hours": "Mon-Sat closed, Sun 11:00 AM - 1:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -72108,7 +72108,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 5.4,
      "phone": "314-231-0382",
-     "hours": "Monday 9:00 AM - 1:00 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 1:00 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -72129,7 +72129,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 4.8,
      "phone": "314-652-9136",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -72536,7 +72536,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63123",
      "distance_mi": null,
      "phone": "314-580-3138",
-     "hours": "Monday 12:30 PM - 2:30 PM Tuesday 4:00 PM - 6:30 PM Wednesday Closed Thursday 6:00 PM - 8:00 PM Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon 12:30 PM - 2:30 PM, Tue 4:00 PM - 6:30 PM, Wed closed, Thu 6:00 PM - 8:00 PM, Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -72557,7 +72557,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": null,
      "phone": "314-862-0038",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 12:00 PM Thursday 11:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 11:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -72599,7 +72599,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": null,
      "phone": "314-716-2711",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -72620,7 +72620,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": null,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday 9:30 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -72641,7 +72641,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": null,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 9:30 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 9:30 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -72662,7 +72662,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": null,
      "phone": "314-863-0015",
-     "hours": "Monday Closed Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday Closed Friday 8:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:00 AM - 3:00 PM, Thu closed, Fri 8:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -72704,7 +72704,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": null,
      "phone": "314-388-1211",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -72725,7 +72725,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63088",
      "distance_mi": null,
      "phone": "636-861-2623",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 7:00 PM Thursday 1:00 PM - 5:00 PM Friday 9:00 AM - 3:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue 9:00 AM - 3:00 PM, Wed 9:00 AM - 7:00 PM, Thu 1:00 PM - 5:00 PM, Fri 9:00 AM - 3:00 PM, Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -72746,7 +72746,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": null,
      "phone": "314-680-9101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -72767,7 +72767,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": null,
      "phone": "314-521-1122",
-     "hours": "Monday Closed Tuesday 11:00 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -72809,7 +72809,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63044",
      "distance_mi": null,
      "phone": "314-770-2216",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 10:00 AM - 2:00 PM, Wed 10:00 AM - 12:00 PM, Thu 10:00 AM - 2:00 PM, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -72830,7 +72830,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": null,
      "phone": "314-438-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -72851,7 +72851,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": null,
      "phone": null,
-     "hours": "Monday 12:00 PM - 5:00 PM Tuesday 12:00 PM - 5:00 PM Wednesday 12:00 PM - 5:00 PM Thursday 12:00 PM - 5:00 PM Friday 1:00 PM - 5:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 12:00 PM - 5:00 PM, Fri 1:00 PM - 5:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -72872,7 +72872,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63045",
      "distance_mi": null,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 4:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -72893,7 +72893,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63127",
      "distance_mi": null,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 4:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 4:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -72914,7 +72914,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63125",
      "distance_mi": null,
      "phone": "314-631-4900",
-     "hours": "Monday 10:00 AM - 3:00 PM Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 10:00 AM - 3:00 PM Friday 10:00 AM - 3:00 PM Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 3:00 PM, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -72935,7 +72935,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": null,
      "phone": "314-867-2782",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:30 AM - 12:30 PM Thursday Closed Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:30 AM - 12:30 PM, Thu-Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -72956,7 +72956,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": null,
      "phone": "314-291-1915",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -72977,7 +72977,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63142",
      "distance_mi": null,
      "phone": "314-513-1672",
-     "hours": "Monday 9:00 AM - 3:30 PM Tuesday 9:00 AM - 3:30 PM Wednesday 9:00 AM - 3:30 PM Thursday 9:00 AM - 3:30 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 9:00 AM - 3:30 PM, Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -72998,7 +72998,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": null,
      "phone": null,
-     "hours": "Monday 11:15 AM - 11:30 AM Tuesday 11:15 AM - 11:30 AM Wednesday 11:15 AM - 11:30 AM Thursday 11:15 AM - 11:30 AM Friday 11:15 AM - 11:30 AM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 11:15 AM - 11:30 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -73019,7 +73019,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": null,
      "phone": "314-741-5667",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -73040,7 +73040,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63033",
      "distance_mi": null,
      "phone": "314-741-4222",
-     "hours": "Monday Closed Tuesday 9:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -73082,7 +73082,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": null,
      "phone": "314-329-4262",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday 11:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Fri closed, Sat 11:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -73124,7 +73124,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": null,
      "phone": "314-719-2929",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -73166,7 +73166,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": null,
      "phone": "314-922-8903",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -73187,7 +73187,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63122",
      "distance_mi": null,
      "phone": "314-822-4760",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -73208,7 +73208,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": null,
      "phone": "314-961-6854",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 5:30 PM Thursday Closed Friday Closed Saturday Closed Sunday 11:30 AM - 1:00 PM",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 5:30 PM, Thu-Sat closed, Sun 11:30 AM - 1:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -73250,7 +73250,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": null,
      "phone": "314-426-0101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -73271,7 +73271,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": null,
      "phone": "314-868-0707",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday 10:00 AM - 12:00 PM",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 12:00 PM, Thu-Sat closed, Sun 10:00 AM - 12:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -73292,7 +73292,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": null,
      "phone": "314-522-9264",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -73313,7 +73313,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": null,
      "phone": "314-261-5266",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -73334,7 +73334,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": null,
      "phone": null,
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -73355,7 +73355,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": null,
      "phone": "314-427-7204",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:30 AM Wednesday 9:00 AM - 11:30 AM Thursday Closed Friday 9:00 AM - 11:30 AM Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 9:00 AM - 11:30 AM, Thu closed, Fri-Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -73544,7 +73544,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": null,
      "phone": "314-423-7770",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 1:00 PM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 8:30 AM - 4:30 PM, Wed 1:00 PM - 4:30 PM, Thu-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -73565,7 +73565,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63133",
      "distance_mi": null,
      "phone": "314-382-7158",
-     "hours": "Monday Closed Tuesday 8:30 AM - 11:30 AM Wednesday 8:30 AM - 11:30 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:30 AM - 11:30 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -73586,7 +73586,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": null,
      "phone": "314-382-8833",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -73607,7 +73607,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": null,
      "phone": "314-429-0216",
-     "hours": "Monday Closed Tuesday 10:30 AM - 1:00 PM Wednesday Closed Thursday 10:30 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:30 AM - 1:00 PM, Wed closed, Thu 10:30 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -73628,7 +73628,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": null,
      "phone": "314-261-0202",
-     "hours": "Monday 8:00 AM - 3:00 PM Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday 8:00 AM - 3:00 PM Friday 8:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 8:00 AM - 3:00 PM, Fri 8:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -73649,7 +73649,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": null,
      "phone": "314-647-5611",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -73670,7 +73670,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63031",
      "distance_mi": null,
      "phone": "314-831-0879",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -73712,7 +73712,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": null,
      "phone": "314-725-3840",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -73733,7 +73733,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": null,
      "phone": "314-427-2273",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -73754,7 +73754,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": null,
      "phone": "314-721-2722",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -73775,7 +73775,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": null,
      "phone": "314-388-9840",
-     "hours": "Monday 9:00 AM - 4:00 PM Tuesday 9:00 AM - 4:00 PM Wednesday 9:00 AM - 4:00 PM Thursday 9:00 AM - 4:00 PM Friday 9:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -73817,7 +73817,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": null,
      "phone": "314-660-3621",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74161,7 +74161,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63123",
      "distance_mi": 3.9,
      "phone": "314-580-3138",
-     "hours": "Monday 12:30 PM - 2:30 PM Tuesday 4:00 PM - 6:30 PM Wednesday Closed Thursday 6:00 PM - 8:00 PM Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon 12:30 PM - 2:30 PM, Tue 4:00 PM - 6:30 PM, Wed closed, Thu 6:00 PM - 8:00 PM, Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74182,7 +74182,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 3.8,
      "phone": "314-862-0038",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 12:00 PM Thursday 11:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 11:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74224,7 +74224,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 0.6,
      "phone": "314-716-2711",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74245,7 +74245,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 9.5,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday 9:30 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74266,7 +74266,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63135",
      "distance_mi": 9.2,
      "phone": "314-524-0500",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 9:30 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 9:30 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74287,7 +74287,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 7.0,
      "phone": "314-863-0015",
-     "hours": "Monday Closed Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday Closed Friday 8:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:00 AM - 3:00 PM, Thu closed, Fri 8:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74329,7 +74329,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 9.1,
      "phone": "314-388-1211",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74350,7 +74350,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63088",
      "distance_mi": 10.0,
      "phone": "636-861-2623",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 7:00 PM Thursday 1:00 PM - 5:00 PM Friday 9:00 AM - 3:00 PM Saturday 9:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue 9:00 AM - 3:00 PM, Wed 9:00 AM - 7:00 PM, Thu 1:00 PM - 5:00 PM, Fri 9:00 AM - 3:00 PM, Sat 9:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74371,7 +74371,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 5.1,
      "phone": "314-680-9101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74392,7 +74392,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 9.5,
      "phone": "314-521-1122",
-     "hours": "Monday Closed Tuesday 11:00 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74434,7 +74434,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63044",
      "distance_mi": 11.1,
      "phone": "314-770-2216",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 10:00 AM - 2:00 PM, Wed 10:00 AM - 12:00 PM, Thu 10:00 AM - 2:00 PM, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74455,7 +74455,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 13.7,
      "phone": "314-438-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74476,7 +74476,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 6.5,
      "phone": null,
-     "hours": "Monday 12:00 PM - 5:00 PM Tuesday 12:00 PM - 5:00 PM Wednesday 12:00 PM - 5:00 PM Thursday 12:00 PM - 5:00 PM Friday 1:00 PM - 5:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 12:00 PM - 5:00 PM, Fri 1:00 PM - 5:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74497,7 +74497,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63045",
      "distance_mi": 12.9,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 4:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74518,7 +74518,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63127",
      "distance_mi": 8.4,
      "phone": "314-635-2000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 4:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 4:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74539,7 +74539,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63125",
      "distance_mi": 6.7,
      "phone": "314-631-4900",
-     "hours": "Monday 10:00 AM - 3:00 PM Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 10:00 AM - 3:00 PM Friday 10:00 AM - 3:00 PM Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 3:00 PM, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74560,7 +74560,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 10.8,
      "phone": "314-867-2782",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:30 AM - 12:30 PM Thursday Closed Friday Closed Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:30 AM - 12:30 PM, Thu-Fri closed, Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74581,7 +74581,7 @@ window.RESOURCE_DATA = {
      "postal_code": null,
      "distance_mi": 9.8,
      "phone": "314-291-1915",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74602,7 +74602,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63142",
      "distance_mi": 6.5,
      "phone": "314-513-1672",
-     "hours": "Monday 9:00 AM - 3:30 PM Tuesday 9:00 AM - 3:30 PM Wednesday 9:00 AM - 3:30 PM Thursday 9:00 AM - 3:30 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 9:00 AM - 3:30 PM, Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74623,7 +74623,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 13.7,
      "phone": null,
-     "hours": "Monday 11:15 AM - 11:30 AM Tuesday 11:15 AM - 11:30 AM Wednesday 11:15 AM - 11:30 AM Thursday 11:15 AM - 11:30 AM Friday 11:15 AM - 11:30 AM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 11:15 AM - 11:30 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74644,7 +74644,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63138",
      "distance_mi": 13.8,
      "phone": "314-741-5667",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74665,7 +74665,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63033",
      "distance_mi": 14.3,
      "phone": "314-741-4222",
-     "hours": "Monday Closed Tuesday 9:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74707,7 +74707,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 6.8,
      "phone": "314-329-4262",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday 11:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Fri closed, Sat 11:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74749,7 +74749,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63143",
      "distance_mi": 0.3,
      "phone": "314-719-2929",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74791,7 +74791,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 8.0,
      "phone": "314-922-8903",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74812,7 +74812,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63122",
      "distance_mi": 5.3,
      "phone": "314-822-4760",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74833,7 +74833,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 3.6,
      "phone": "314-961-6854",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 5:30 PM Thursday Closed Friday Closed Saturday Closed Sunday 11:30 AM - 1:00 PM",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 5:30 PM, Thu-Sat closed, Sun 11:30 AM - 1:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74875,7 +74875,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63134",
      "distance_mi": 8.4,
      "phone": "314-426-0101",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74896,7 +74896,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 9.3,
      "phone": "314-868-0707",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday 10:00 AM - 12:00 PM",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 12:00 PM, Thu-Sat closed, Sun 10:00 AM - 12:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74917,7 +74917,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 8.2,
      "phone": "314-522-9264",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74938,7 +74938,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 6.3,
      "phone": "314-261-5266",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74959,7 +74959,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 11.8,
      "phone": null,
-     "hours": "Monday Closed Tuesday 8:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 11:00 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -74980,7 +74980,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 6.6,
      "phone": "314-427-7204",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:30 AM Wednesday 9:00 AM - 11:30 AM Thursday Closed Friday 9:00 AM - 11:30 AM Saturday 9:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 9:00 AM - 11:30 AM, Thu closed, Fri-Sat 9:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -75169,7 +75169,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63132",
      "distance_mi": 6.9,
      "phone": "314-423-7770",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 1:00 PM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue 8:30 AM - 4:30 PM, Wed 1:00 PM - 4:30 PM, Thu-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -75190,7 +75190,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63133",
      "distance_mi": 5.0,
      "phone": "314-382-7158",
-     "hours": "Monday Closed Tuesday 8:30 AM - 11:30 AM Wednesday 8:30 AM - 11:30 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 8:30 AM - 11:30 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -75211,7 +75211,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 5.5,
      "phone": "314-382-8833",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday 11:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu closed, Fri 11:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -75232,7 +75232,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 7.4,
      "phone": "314-429-0216",
-     "hours": "Monday Closed Tuesday 10:30 AM - 1:00 PM Wednesday Closed Thursday 10:30 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:30 AM - 1:00 PM, Wed closed, Thu 10:30 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -75253,7 +75253,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63121",
      "distance_mi": 6.4,
      "phone": "314-261-0202",
-     "hours": "Monday 8:00 AM - 3:00 PM Tuesday 8:00 AM - 3:00 PM Wednesday 8:00 AM - 3:00 PM Thursday 8:00 AM - 3:00 PM Friday 8:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 8:00 AM - 3:00 PM, Fri 8:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -75274,7 +75274,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63119",
      "distance_mi": 1.3,
      "phone": "314-647-5611",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 11:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 11:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -75295,7 +75295,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63031",
      "distance_mi": 12.6,
      "phone": "314-831-0879",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -75337,7 +75337,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 3.0,
      "phone": "314-725-3840",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -75358,7 +75358,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63114",
      "distance_mi": 6.5,
      "phone": "314-427-2273",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -75379,7 +75379,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63130",
      "distance_mi": 3.6,
      "phone": "314-721-2722",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -75400,7 +75400,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63136",
      "distance_mi": 8.9,
      "phone": "314-388-9840",
-     "hours": "Monday 9:00 AM - 4:00 PM Tuesday 9:00 AM - 4:00 PM Wednesday 9:00 AM - 4:00 PM Thursday 9:00 AM - 4:00 PM Friday 9:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -75442,7 +75442,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63137",
      "distance_mi": 11.2,
      "phone": "314-660-3621",
-     "hours": "Monday Closed Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -75828,7 +75828,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 8.5,
      "phone": "314-353-1005",
-     "hours": "Monday Closed Tuesday 9:00 AM - 11:00 AM Wednesday Closed Thursday Closed Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 11:00 AM, Wed-Thu closed, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -75849,7 +75849,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 3.8,
      "phone": "314-361-6446",
-     "hours": "Monday Closed Tuesday 12:00 PM - 1:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 1:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -75891,7 +75891,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 4.1,
      "phone": "314-261-3766",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 10:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 10:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -75912,7 +75912,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 7.1,
      "phone": "314-772-8444",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 4:00 PM Thursday 10:00 AM - 4:00 PM Friday Closed Saturday 1:00 PM - 2:30 PM Sunday Closed",
+     "hours": "Mon-Tue closed, Wed-Thu 10:00 AM - 4:00 PM, Fri closed, Sat 1:00 PM - 2:30 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -75933,7 +75933,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 3.4,
      "phone": "314-367-2974",
-     "hours": "Monday Closed Tuesday 8:00 AM - 10:00 AM Wednesday Closed Thursday 8:00 AM - 10:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 8:00 AM - 10:00 AM, Wed closed, Thu 8:00 AM - 10:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -75954,7 +75954,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 4.4,
      "phone": "314-977-3881",
-     "hours": "Monday 3:30 PM - 5:30 PM Tuesday 3:30 PM - 5:30 PM Wednesday 3:30 PM - 5:30 PM Thursday 3:30 PM - 5:30 PM Friday Closed Saturday Closed Sunday 3:30 PM - 5:30 PM",
+     "hours": "Mon-Thu 3:30 PM - 5:30 PM, Fri-Sat closed, Sun 3:30 PM - 5:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -75975,7 +75975,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 3.7,
      "phone": "314-367-1818",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 12:00 PM - 2:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 12:00 PM - 2:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -75996,7 +75996,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 7.4,
      "phone": "314-776-7172",
-     "hours": "Monday 12:30 PM - 1:00 PM Tuesday Closed Wednesday Closed Thursday 12:30 PM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 12:30 PM - 1:00 PM, Tue-Wed closed, Thu 12:30 PM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76017,7 +76017,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 2.1,
      "phone": "314-382-8759",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76038,7 +76038,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 6.0,
      "phone": "314-768-3201",
-     "hours": "Monday 9:00 AM - 12:00 PM Tuesday Closed Wednesday 9:00 AM - 12:00 PM Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon 9:00 AM - 12:00 PM, Tue closed, Wed 9:00 AM - 12:00 PM, Thu-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76059,7 +76059,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 3.3,
      "phone": "314-367-9130",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:00 AM - 1:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:00 AM - 1:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76080,7 +76080,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 5.2,
      "phone": "314-482-2594",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday Closed Thursday 9:00 AM - 11:00 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue-Wed closed, Thu 9:00 AM - 11:00 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76101,7 +76101,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63109",
      "distance_mi": 7.8,
      "phone": "314-696-2939",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76143,7 +76143,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 1.4,
      "phone": "314-744-9693",
-     "hours": "Monday Closed Tuesday 12:00 PM - 2:30 PM Wednesday Closed Thursday 12:00 PM - 2:30 PM Friday Closed Saturday 12:00 PM - 3:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 12:00 PM - 2:30 PM, Wed closed, Thu 12:00 PM - 2:30 PM, Fri closed, Sat 12:00 PM - 3:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76164,7 +76164,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 10.5,
      "phone": "314-584-6960",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday Closed Wednesday 10:00 AM - 2:00 PM Thursday Closed Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 2:00 PM, Tue closed, Wed 10:00 AM - 2:00 PM, Thu closed, Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76185,7 +76185,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 5.4,
      "phone": "314-863-1992",
-     "hours": "Monday Closed Tuesday 10:00 AM - 11:30 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 11:30 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76206,7 +76206,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 3.2,
      "phone": "314-535-9002",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 11:00 AM - 1:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 11:00 AM - 1:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76227,7 +76227,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 7.0,
      "phone": "314-773-9027",
-     "hours": "Monday 8:30 AM - 4:30 PM Tuesday 8:30 AM - 4:30 PM Wednesday 8:30 AM - 4:30 PM Thursday 8:30 AM - 4:30 PM Friday 8:30 AM - 4:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:30 AM - 4:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76248,7 +76248,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 5.8,
      "phone": "314-776-1410",
-     "hours": "Monday 9:00 AM - 11:00 AM Tuesday 10:00 AM - 1:00 PM Wednesday 10:00 AM - 1:00 PM Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 11:00 AM Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 11:00 AM, Tue-Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 11:00 AM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76269,7 +76269,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 5.5,
      "phone": "314-421-0400",
-     "hours": "Monday 6:00 AM - 8:00 PM Tuesday 6:00 AM - 8:00 PM Wednesday 6:00 AM - 8:00 PM Thursday 6:00 AM - 8:00 PM Friday 6:00 AM - 8:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 6:00 AM - 8:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76290,7 +76290,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63110",
      "distance_mi": 5.0,
      "phone": "314-600-0239",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 10:00 AM - 1:00 PM Friday 9:00 AM - 1:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 10:00 AM - 1:00 PM, Fri 9:00 AM - 1:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76311,7 +76311,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 1.8,
      "phone": "314-452-6880",
-     "hours": "Monday Closed Tuesday 5:00 PM - 6:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 5:00 PM - 6:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76353,7 +76353,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 5.3,
      "phone": "314-727-3550",
-     "hours": "Monday Closed Tuesday 11:30 AM - 12:30 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:30 AM - 12:30 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76374,7 +76374,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63113",
      "distance_mi": 2.8,
      "phone": "314-534-7026",
-     "hours": "Monday Closed Tuesday Closed Wednesday 11:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 11:00 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76395,7 +76395,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 3.4,
      "phone": "314-361-7878",
-     "hours": "Monday 11:30 AM - 1:00 PM Tuesday 11:30 AM - 1:00 PM Wednesday 11:30 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 11:30 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76416,7 +76416,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 8.4,
      "phone": "314-832-2142",
-     "hours": "Monday Closed Tuesday Closed Wednesday 1:00 PM - 3:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 1:00 PM - 3:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76437,7 +76437,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 1.5,
      "phone": "314-535-9794",
-     "hours": "Monday Closed Tuesday 9:00 AM - 12:00 PM Wednesday Closed Thursday 9:00 AM - 12:00 PM Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon closed, Tue 9:00 AM - 12:00 PM, Wed closed, Thu 9:00 AM - 12:00 PM, Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76458,7 +76458,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 9.9,
      "phone": "314-353-1457",
-     "hours": "Monday 9:00 AM - 2:00 PM Tuesday 9:00 AM - 2:00 PM Wednesday 9:00 AM - 2:00 PM Thursday 9:00 AM - 2:00 PM Friday 9:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76479,7 +76479,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63120",
      "distance_mi": 2.0,
      "phone": "314-862-6270",
-     "hours": "Monday 10:00 AM - 2:00 PM Tuesday 10:00 AM - 2:00 PM Wednesday 10:00 AM - 2:00 PM Thursday 10:00 AM - 2:00 PM Friday 10:00 AM - 2:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 10:00 AM - 2:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76521,7 +76521,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63104",
      "distance_mi": 5.8,
      "phone": "314-766-6145",
-     "hours": "Monday Closed Tuesday Closed Wednesday 3:30 PM - 5:30 PM Thursday Closed Friday 3:30 PM - 5:30 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 3:30 PM - 5:30 PM, Thu closed, Fri 3:30 PM - 5:30 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76542,7 +76542,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63147",
      "distance_mi": 2.4,
      "phone": "314-867-3773",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76794,7 +76794,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 3.9,
      "phone": "314-367-0366",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 10:30 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 10:30 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76815,7 +76815,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 8.0,
      "phone": "314-352-1460",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday 4:00 PM - 6:00 PM Thursday 10:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue closed, Wed 4:00 PM - 6:00 PM, Thu 10:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76836,7 +76836,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63112",
      "distance_mi": 4.1,
      "phone": "314-385-1934",
-     "hours": "Monday 9:30 AM - 11:00 AM Tuesday Closed Wednesday 9:30 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:00 AM, Tue closed, Wed 9:30 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76857,7 +76857,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 3.7,
      "phone": "314-616-4717",
-     "hours": "Monday Closed Tuesday Closed Wednesday 5:00 AM - 7:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 5:00 AM - 7:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76899,7 +76899,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 4.3,
      "phone": "314-652-6100",
-     "hours": "Monday 9:00 AM - 3:00 PM Tuesday 9:00 AM - 3:00 PM Wednesday 9:00 AM - 3:00 PM Thursday 9:00 AM - 3:00 PM Friday 9:00 AM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 9:00 AM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76920,7 +76920,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63103",
      "distance_mi": 4.1,
      "phone": "314-231-2860",
-     "hours": "Monday 11:30 AM - 1:30 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 11:30 AM - 1:30 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76941,7 +76941,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63101",
      "distance_mi": 4.3,
      "phone": "314-802-0700",
-     "hours": "Monday 8:00 AM - 4:00 PM Tuesday 8:00 AM - 4:00 PM Wednesday 8:00 AM - 4:00 PM Thursday 8:00 AM - 4:00 PM Friday 8:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Fri 8:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76962,7 +76962,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63111",
      "distance_mi": 10.2,
      "phone": "314-353-3276",
-     "hours": "Monday 9:00 AM - 10:30 AM Tuesday Closed Wednesday 9:00 AM - 10:30 AM Thursday Closed Friday Closed Saturday 9:00 AM - 10:30 AM Sunday Closed",
+     "hours": "Mon 9:00 AM - 10:30 AM, Tue closed, Wed 9:00 AM - 10:30 AM, Thu-Fri closed, Sat 9:00 AM - 10:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -76983,7 +76983,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63118",
      "distance_mi": 6.4,
      "phone": "314-865-1020",
-     "hours": "Monday 9:30 AM - 11:30 AM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:30 AM - 11:30 AM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -77004,7 +77004,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63107",
      "distance_mi": 2.5,
      "phone": "314-531-3554",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -77025,7 +77025,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 3.6,
      "phone": "314-615-3600",
-     "hours": "Monday 2:00 PM - 4:30 PM Tuesday 2:00 PM - 4:30 PM Wednesday 2:00 PM - 4:30 PM Thursday 2:00 PM - 4:30 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Thu 2:00 PM - 4:30 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -77046,7 +77046,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 1.7,
      "phone": "314-385-1000",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 12:00 PM - 3:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 12:00 PM - 3:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -77067,7 +77067,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63108",
      "distance_mi": 3.7,
      "phone": "314-367-0060",
-     "hours": "Monday Closed Tuesday 11:00 AM - 1:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 8:30 AM - 2:00 PM",
+     "hours": "Mon closed, Tue 11:00 AM - 1:00 PM, Wed-Sat closed, Sun 8:30 AM - 2:00 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -77088,7 +77088,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 3.5,
      "phone": "314-531-1040",
-     "hours": "Monday Closed Tuesday 10:00 AM - 2:00 PM Wednesday Closed Thursday 10:00 AM - 2:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 2:00 PM, Wed closed, Thu 10:00 AM - 2:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -77109,7 +77109,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63115",
      "distance_mi": 1.5,
      "phone": "314-265-5455",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 11:00 AM - 1:30 PM",
+     "hours": "Mon-Sat closed, Sun 11:00 AM - 1:30 PM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -77130,7 +77130,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 3.2,
      "phone": "314-231-0382",
-     "hours": "Monday 9:00 AM - 1:00 PM Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 1:00 PM, Tue-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -77151,7 +77151,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63106",
      "distance_mi": 3.5,
      "phone": "314-652-9136",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 12:00 PM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 12:00 PM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -77600,7 +77600,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63367",
      "distance_mi": 17.9,
      "phone": "636-561-1757",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 8:30 AM - 11:00 AM",
+     "hours": "Mon-Sat closed, Sun 8:30 AM - 11:00 AM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -77621,7 +77621,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63366",
      "distance_mi": 13.0,
      "phone": "636-281-1069",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:00 AM - 10:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:00 AM - 10:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -77642,7 +77642,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63385",
      "distance_mi": 20.5,
      "phone": "636-332-5127",
-     "hours": "Monday Closed Tuesday Closed Wednesday 4:00 PM - 6:00 PM Thursday Closed Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 4:00 PM - 6:00 PM, Thu closed, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -77663,7 +77663,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63303",
      "distance_mi": 9.1,
      "phone": "636-928-7651",
-     "hours": "Monday Closed Tuesday 9:30 AM - 10:30 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 10:30 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -77684,7 +77684,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63368",
      "distance_mi": 17.0,
      "phone": "636-265-0912",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday 10:00 AM - 12:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 5:00 PM - 7:00 PM Friday 2:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 10:00 AM - 12:00 PM, Thu 5:00 PM - 7:00 PM, Fri 2:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -77705,7 +77705,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63365",
      "distance_mi": 24.5,
      "phone": "636-398-5270",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 10:30 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 10:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -77726,7 +77726,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63301",
      "distance_mi": 6.1,
      "phone": "636-723-0037",
-     "hours": "Monday Closed Tuesday 7:30 PM - 8:30 PM Wednesday Closed Thursday 10:00 AM - 11:30 AM Friday Closed Saturday 10:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue 7:30 PM - 8:30 PM, Wed closed, Thu 10:00 AM - 11:30 AM, Fri closed, Sat 10:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -77747,7 +77747,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63301",
      "distance_mi": 5.7,
      "phone": "636-724-3036",
-     "hours": "Monday 8:00 AM - 11:00 AM Tuesday Closed Wednesday 8:00 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 8:00 AM - 11:00 AM, Tue closed, Wed 8:00 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -77789,7 +77789,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63366",
      "distance_mi": 12.8,
      "phone": null,
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday 5:30 PM - 7:30 PM Thursday 10:00 AM - 12:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue closed, Wed 5:30 PM - 7:30 PM, Thu-Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -77810,7 +77810,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63301",
      "distance_mi": 4.1,
      "phone": null,
-     "hours": "Monday Closed Tuesday 1:00 PM - 3:30 PM Wednesday 1:00 PM - 3:30 PM Thursday 1:00 PM - 3:30 PM Friday 1:00 PM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Thu 1:00 PM - 3:30 PM, Fri 1:00 PM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -77831,7 +77831,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63304",
      "distance_mi": 10.3,
      "phone": "636-441-1302",
-     "hours": "Monday Closed Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 4:00 PM - 7:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 10:00 AM - 3:00 PM, Thu 4:00 PM - 7:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -77852,7 +77852,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63385",
      "distance_mi": 21.3,
      "phone": "636-327-8787",
-     "hours": "Monday 9:00 AM - 12:00 PM Tuesday 6:00 PM - 7:00 PM Wednesday 6:00 PM - 7:00 PM Thursday 9:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 12:00 PM, Tue-Wed 6:00 PM - 7:00 PM, Thu 9:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -78049,7 +78049,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63367",
      "distance_mi": 13.9,
      "phone": "636-561-1757",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 8:30 AM - 11:00 AM",
+     "hours": "Mon-Sat closed, Sun 8:30 AM - 11:00 AM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -78070,7 +78070,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63366",
      "distance_mi": 9.6,
      "phone": "636-281-1069",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:00 AM - 10:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:00 AM - 10:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -78091,7 +78091,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63385",
      "distance_mi": 17.4,
      "phone": "636-332-5127",
-     "hours": "Monday Closed Tuesday Closed Wednesday 4:00 PM - 6:00 PM Thursday Closed Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 4:00 PM - 6:00 PM, Thu closed, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -78112,7 +78112,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63303",
      "distance_mi": 1.1,
      "phone": "636-928-7651",
-     "hours": "Monday Closed Tuesday 9:30 AM - 10:30 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 10:30 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -78133,7 +78133,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63368",
      "distance_mi": 11.6,
      "phone": "636-265-0912",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday 10:00 AM - 12:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 5:00 PM - 7:00 PM Friday 2:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 10:00 AM - 12:00 PM, Thu 5:00 PM - 7:00 PM, Fri 2:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -78154,7 +78154,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63365",
      "distance_mi": 18.1,
      "phone": "636-398-5270",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 10:30 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 10:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -78175,7 +78175,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63301",
      "distance_mi": 3.2,
      "phone": "636-723-0037",
-     "hours": "Monday Closed Tuesday 7:30 PM - 8:30 PM Wednesday Closed Thursday 10:00 AM - 11:30 AM Friday Closed Saturday 10:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue 7:30 PM - 8:30 PM, Wed closed, Thu 10:00 AM - 11:30 AM, Fri closed, Sat 10:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -78196,7 +78196,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63301",
      "distance_mi": 3.7,
      "phone": "636-724-3036",
-     "hours": "Monday 8:00 AM - 11:00 AM Tuesday Closed Wednesday 8:00 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 8:00 AM - 11:00 AM, Tue closed, Wed 8:00 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -78238,7 +78238,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63366",
      "distance_mi": 8.9,
      "phone": null,
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday 5:30 PM - 7:30 PM Thursday 10:00 AM - 12:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue closed, Wed 5:30 PM - 7:30 PM, Thu-Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -78259,7 +78259,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63301",
      "distance_mi": 5.5,
      "phone": null,
-     "hours": "Monday Closed Tuesday 1:00 PM - 3:30 PM Wednesday 1:00 PM - 3:30 PM Thursday 1:00 PM - 3:30 PM Friday 1:00 PM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Thu 1:00 PM - 3:30 PM, Fri 1:00 PM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -78280,7 +78280,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63304",
      "distance_mi": 3.2,
      "phone": "636-441-1302",
-     "hours": "Monday Closed Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 4:00 PM - 7:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 10:00 AM - 3:00 PM, Thu 4:00 PM - 7:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -78301,7 +78301,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63385",
      "distance_mi": 17.4,
      "phone": "636-327-8787",
-     "hours": "Monday 9:00 AM - 12:00 PM Tuesday 6:00 PM - 7:00 PM Wednesday 6:00 PM - 7:00 PM Thursday 9:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 12:00 PM, Tue-Wed 6:00 PM - 7:00 PM, Thu 9:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -78498,7 +78498,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63367",
      "distance_mi": 8.7,
      "phone": "636-561-1757",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 8:30 AM - 11:00 AM",
+     "hours": "Mon-Sat closed, Sun 8:30 AM - 11:00 AM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -78519,7 +78519,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63366",
      "distance_mi": 7.2,
      "phone": "636-281-1069",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:00 AM - 10:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:00 AM - 10:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -78540,7 +78540,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63385",
      "distance_mi": 12.2,
      "phone": "636-332-5127",
-     "hours": "Monday Closed Tuesday Closed Wednesday 4:00 PM - 6:00 PM Thursday Closed Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 4:00 PM - 6:00 PM, Thu closed, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -78561,7 +78561,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63303",
      "distance_mi": 7.5,
      "phone": "636-928-7651",
-     "hours": "Monday Closed Tuesday 9:30 AM - 10:30 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 10:30 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -78582,7 +78582,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63368",
      "distance_mi": 5.7,
      "phone": "636-265-0912",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday 10:00 AM - 12:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 5:00 PM - 7:00 PM Friday 2:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 10:00 AM - 12:00 PM, Thu 5:00 PM - 7:00 PM, Fri 2:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -78603,7 +78603,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63365",
      "distance_mi": 10.3,
      "phone": "636-398-5270",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 10:30 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 10:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -78624,7 +78624,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63301",
      "distance_mi": 10.7,
      "phone": "636-723-0037",
-     "hours": "Monday Closed Tuesday 7:30 PM - 8:30 PM Wednesday Closed Thursday 10:00 AM - 11:30 AM Friday Closed Saturday 10:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue 7:30 PM - 8:30 PM, Wed closed, Thu 10:00 AM - 11:30 AM, Fri closed, Sat 10:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -78645,7 +78645,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63301",
      "distance_mi": 11.3,
      "phone": "636-724-3036",
-     "hours": "Monday 8:00 AM - 11:00 AM Tuesday Closed Wednesday 8:00 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 8:00 AM - 11:00 AM, Tue closed, Wed 8:00 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -78687,7 +78687,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63366",
      "distance_mi": 6.5,
      "phone": null,
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday 5:30 PM - 7:30 PM Thursday 10:00 AM - 12:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue closed, Wed 5:30 PM - 7:30 PM, Thu-Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -78708,7 +78708,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63301",
      "distance_mi": 13.0,
      "phone": null,
-     "hours": "Monday Closed Tuesday 1:00 PM - 3:30 PM Wednesday 1:00 PM - 3:30 PM Thursday 1:00 PM - 3:30 PM Friday 1:00 PM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Thu 1:00 PM - 3:30 PM, Fri 1:00 PM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -78729,7 +78729,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63304",
      "distance_mi": 5.7,
      "phone": "636-441-1302",
-     "hours": "Monday Closed Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 4:00 PM - 7:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 10:00 AM - 3:00 PM, Thu 4:00 PM - 7:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -78750,7 +78750,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63385",
      "distance_mi": 11.5,
      "phone": "636-327-8787",
-     "hours": "Monday 9:00 AM - 12:00 PM Tuesday 6:00 PM - 7:00 PM Wednesday 6:00 PM - 7:00 PM Thursday 9:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 12:00 PM, Tue-Wed 6:00 PM - 7:00 PM, Thu 9:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -79299,7 +79299,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63379",
      "distance_mi": 5.0,
      "phone": "636-528-3646",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -79320,7 +79320,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63389",
      "distance_mi": 8.3,
      "phone": "636-566-6225",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -79341,7 +79341,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63362",
      "distance_mi": 1.5,
      "phone": "636-356-4646",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 11:30 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 11:30 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -79383,7 +79383,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63379",
      "distance_mi": 4.6,
      "phone": "636-528-0647",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 8:30 AM - 10:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 8:30 AM - 10:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -79601,7 +79601,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63367",
      "distance_mi": 8.0,
      "phone": "636-561-1757",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 8:30 AM - 11:00 AM",
+     "hours": "Mon-Sat closed, Sun 8:30 AM - 11:00 AM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -79622,7 +79622,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63366",
      "distance_mi": 11.7,
      "phone": "636-281-1069",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:00 AM - 10:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:00 AM - 10:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -79643,7 +79643,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63385",
      "distance_mi": 8.7,
      "phone": "636-332-5127",
-     "hours": "Monday Closed Tuesday Closed Wednesday 4:00 PM - 6:00 PM Thursday Closed Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 4:00 PM - 6:00 PM, Thu closed, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -79664,7 +79664,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63303",
      "distance_mi": 17.1,
      "phone": "636-928-7651",
-     "hours": "Monday Closed Tuesday 9:30 AM - 10:30 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 10:30 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -79685,7 +79685,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63368",
      "distance_mi": 7.5,
      "phone": "636-265-0912",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday 10:00 AM - 12:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 5:00 PM - 7:00 PM Friday 2:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 10:00 AM - 12:00 PM, Thu 5:00 PM - 7:00 PM, Fri 2:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -79706,7 +79706,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63365",
      "distance_mi": 0.2,
      "phone": "636-398-5270",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 10:30 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 10:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -79727,7 +79727,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63301",
      "distance_mi": 20.2,
      "phone": "636-723-0037",
-     "hours": "Monday Closed Tuesday 7:30 PM - 8:30 PM Wednesday Closed Thursday 10:00 AM - 11:30 AM Friday Closed Saturday 10:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue 7:30 PM - 8:30 PM, Wed closed, Thu 10:00 AM - 11:30 AM, Fri closed, Sat 10:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -79748,7 +79748,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63301",
      "distance_mi": 20.7,
      "phone": "636-724-3036",
-     "hours": "Monday 8:00 AM - 11:00 AM Tuesday Closed Wednesday 8:00 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 8:00 AM - 11:00 AM, Tue closed, Wed 8:00 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -79790,7 +79790,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63366",
      "distance_mi": 11.7,
      "phone": null,
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday 5:30 PM - 7:30 PM Thursday 10:00 AM - 12:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue closed, Wed 5:30 PM - 7:30 PM, Thu-Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -79811,7 +79811,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63301",
      "distance_mi": 22.3,
      "phone": null,
-     "hours": "Monday Closed Tuesday 1:00 PM - 3:30 PM Wednesday 1:00 PM - 3:30 PM Thursday 1:00 PM - 3:30 PM Friday 1:00 PM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Thu 1:00 PM - 3:30 PM, Fri 1:00 PM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -79832,7 +79832,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63304",
      "distance_mi": 15.0,
      "phone": "636-441-1302",
-     "hours": "Monday Closed Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 4:00 PM - 7:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 10:00 AM - 3:00 PM, Thu 4:00 PM - 7:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -79853,7 +79853,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63385",
      "distance_mi": 6.9,
      "phone": "636-327-8787",
-     "hours": "Monday 9:00 AM - 12:00 PM Tuesday 6:00 PM - 7:00 PM Wednesday 6:00 PM - 7:00 PM Thursday 9:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 12:00 PM, Tue-Wed 6:00 PM - 7:00 PM, Thu 9:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -80050,7 +80050,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63367",
      "distance_mi": 5.0,
      "phone": "636-561-1757",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 8:30 AM - 11:00 AM",
+     "hours": "Mon-Sat closed, Sun 8:30 AM - 11:00 AM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -80071,7 +80071,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63366",
      "distance_mi": 3.6,
      "phone": "636-281-1069",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:00 AM - 10:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:00 AM - 10:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -80092,7 +80092,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63385",
      "distance_mi": 6.6,
      "phone": "636-332-5127",
-     "hours": "Monday Closed Tuesday Closed Wednesday 4:00 PM - 6:00 PM Thursday Closed Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 4:00 PM - 6:00 PM, Thu closed, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -80113,7 +80113,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63303",
      "distance_mi": 11.6,
      "phone": "636-928-7651",
-     "hours": "Monday Closed Tuesday 9:30 AM - 10:30 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 10:30 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -80134,7 +80134,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63368",
      "distance_mi": 6.4,
      "phone": "636-265-0912",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday 10:00 AM - 12:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 5:00 PM - 7:00 PM Friday 2:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 10:00 AM - 12:00 PM, Thu 5:00 PM - 7:00 PM, Fri 2:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -80155,7 +80155,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63365",
      "distance_mi": 13.0,
      "phone": "636-398-5270",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 10:30 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 10:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -80176,7 +80176,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63301",
      "distance_mi": 12.9,
      "phone": "636-723-0037",
-     "hours": "Monday Closed Tuesday 7:30 PM - 8:30 PM Wednesday Closed Thursday 10:00 AM - 11:30 AM Friday Closed Saturday 10:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue 7:30 PM - 8:30 PM, Wed closed, Thu 10:00 AM - 11:30 AM, Fri closed, Sat 10:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -80197,7 +80197,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63301",
      "distance_mi": 13.2,
      "phone": "636-724-3036",
-     "hours": "Monday 8:00 AM - 11:00 AM Tuesday Closed Wednesday 8:00 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 8:00 AM - 11:00 AM, Tue closed, Wed 8:00 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -80239,7 +80239,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63366",
      "distance_mi": 4.4,
      "phone": null,
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday 5:30 PM - 7:30 PM Thursday 10:00 AM - 12:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue closed, Wed 5:30 PM - 7:30 PM, Thu-Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -80260,7 +80260,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63301",
      "distance_mi": 14.0,
      "phone": null,
-     "hours": "Monday Closed Tuesday 1:00 PM - 3:30 PM Wednesday 1:00 PM - 3:30 PM Thursday 1:00 PM - 3:30 PM Friday 1:00 PM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Thu 1:00 PM - 3:30 PM, Fri 1:00 PM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -80281,7 +80281,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63304",
      "distance_mi": 9.8,
      "phone": "636-441-1302",
-     "hours": "Monday Closed Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 4:00 PM - 7:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 10:00 AM - 3:00 PM, Thu 4:00 PM - 7:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -80302,7 +80302,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63385",
      "distance_mi": 7.7,
      "phone": "636-327-8787",
-     "hours": "Monday 9:00 AM - 12:00 PM Tuesday 6:00 PM - 7:00 PM Wednesday 6:00 PM - 7:00 PM Thursday 9:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 12:00 PM, Tue-Wed 6:00 PM - 7:00 PM, Thu 9:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -80499,7 +80499,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63367",
      "distance_mi": 2.1,
      "phone": "636-561-1757",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 8:30 AM - 11:00 AM",
+     "hours": "Mon-Sat closed, Sun 8:30 AM - 11:00 AM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -80520,7 +80520,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63366",
      "distance_mi": 5.8,
      "phone": "636-281-1069",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:00 AM - 10:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:00 AM - 10:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -80541,7 +80541,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63385",
      "distance_mi": 4.8,
      "phone": "636-332-5127",
-     "hours": "Monday Closed Tuesday Closed Wednesday 4:00 PM - 6:00 PM Thursday Closed Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 4:00 PM - 6:00 PM, Thu closed, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -80562,7 +80562,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63303",
      "distance_mi": 12.8,
      "phone": "636-928-7651",
-     "hours": "Monday Closed Tuesday 9:30 AM - 10:30 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 10:30 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -80583,7 +80583,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63368",
      "distance_mi": 2.1,
      "phone": "636-265-0912",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday 10:00 AM - 12:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 5:00 PM - 7:00 PM Friday 2:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 10:00 AM - 12:00 PM, Thu 5:00 PM - 7:00 PM, Fri 2:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -80604,7 +80604,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63365",
      "distance_mi": 6.2,
      "phone": "636-398-5270",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 10:30 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 10:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -80625,7 +80625,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63301",
      "distance_mi": 15.4,
      "phone": "636-723-0037",
-     "hours": "Monday Closed Tuesday 7:30 PM - 8:30 PM Wednesday Closed Thursday 10:00 AM - 11:30 AM Friday Closed Saturday 10:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue 7:30 PM - 8:30 PM, Wed closed, Thu 10:00 AM - 11:30 AM, Fri closed, Sat 10:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -80646,7 +80646,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63301",
      "distance_mi": 15.9,
      "phone": "636-724-3036",
-     "hours": "Monday 8:00 AM - 11:00 AM Tuesday Closed Wednesday 8:00 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 8:00 AM - 11:00 AM, Tue closed, Wed 8:00 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -80688,7 +80688,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63366",
      "distance_mi": 5.9,
      "phone": null,
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday 5:30 PM - 7:30 PM Thursday 10:00 AM - 12:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue closed, Wed 5:30 PM - 7:30 PM, Thu-Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -80709,7 +80709,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63301",
      "distance_mi": 17.2,
      "phone": null,
-     "hours": "Monday Closed Tuesday 1:00 PM - 3:30 PM Wednesday 1:00 PM - 3:30 PM Thursday 1:00 PM - 3:30 PM Friday 1:00 PM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Thu 1:00 PM - 3:30 PM, Fri 1:00 PM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -80730,7 +80730,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63304",
      "distance_mi": 10.6,
      "phone": "636-441-1302",
-     "hours": "Monday Closed Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 4:00 PM - 7:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 10:00 AM - 3:00 PM, Thu 4:00 PM - 7:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -80751,7 +80751,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63385",
      "distance_mi": 4.0,
      "phone": "636-327-8787",
-     "hours": "Monday 9:00 AM - 12:00 PM Tuesday 6:00 PM - 7:00 PM Wednesday 6:00 PM - 7:00 PM Thursday 9:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 12:00 PM, Tue-Wed 6:00 PM - 7:00 PM, Thu 9:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -80948,7 +80948,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63367",
      "distance_mi": 4.8,
      "phone": "636-561-1757",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 8:30 AM - 11:00 AM",
+     "hours": "Mon-Sat closed, Sun 8:30 AM - 11:00 AM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -80969,7 +80969,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63366",
      "distance_mi": 4.3,
      "phone": "636-281-1069",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:00 AM - 10:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:00 AM - 10:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -80990,7 +80990,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63385",
      "distance_mi": 8.4,
      "phone": "636-332-5127",
-     "hours": "Monday Closed Tuesday Closed Wednesday 4:00 PM - 6:00 PM Thursday Closed Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 4:00 PM - 6:00 PM, Thu closed, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -81011,7 +81011,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63303",
      "distance_mi": 9.1,
      "phone": "636-928-7651",
-     "hours": "Monday Closed Tuesday 9:30 AM - 10:30 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 10:30 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -81032,7 +81032,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63368",
      "distance_mi": 1.9,
      "phone": "636-265-0912",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday 10:00 AM - 12:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 5:00 PM - 7:00 PM Friday 2:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 10:00 AM - 12:00 PM, Thu 5:00 PM - 7:00 PM, Fri 2:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -81053,7 +81053,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63365",
      "distance_mi": 8.5,
      "phone": "636-398-5270",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 10:30 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 10:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -81074,7 +81074,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63301",
      "distance_mi": 12.0,
      "phone": "636-723-0037",
-     "hours": "Monday Closed Tuesday 7:30 PM - 8:30 PM Wednesday Closed Thursday 10:00 AM - 11:30 AM Friday Closed Saturday 10:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue 7:30 PM - 8:30 PM, Wed closed, Thu 10:00 AM - 11:30 AM, Fri closed, Sat 10:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -81095,7 +81095,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63301",
      "distance_mi": 12.5,
      "phone": "636-724-3036",
-     "hours": "Monday 8:00 AM - 11:00 AM Tuesday Closed Wednesday 8:00 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 8:00 AM - 11:00 AM, Tue closed, Wed 8:00 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -81137,7 +81137,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63366",
      "distance_mi": 3.9,
      "phone": null,
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday 5:30 PM - 7:30 PM Thursday 10:00 AM - 12:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue closed, Wed 5:30 PM - 7:30 PM, Thu-Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -81158,7 +81158,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63301",
      "distance_mi": 14.0,
      "phone": null,
-     "hours": "Monday Closed Tuesday 1:00 PM - 3:30 PM Wednesday 1:00 PM - 3:30 PM Thursday 1:00 PM - 3:30 PM Friday 1:00 PM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Thu 1:00 PM - 3:30 PM, Fri 1:00 PM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -81179,7 +81179,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63304",
      "distance_mi": 6.9,
      "phone": "636-441-1302",
-     "hours": "Monday Closed Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 4:00 PM - 7:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 10:00 AM - 3:00 PM, Thu 4:00 PM - 7:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -81200,7 +81200,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63385",
      "distance_mi": 7.9,
      "phone": "636-327-8787",
-     "hours": "Monday 9:00 AM - 12:00 PM Tuesday 6:00 PM - 7:00 PM Wednesday 6:00 PM - 7:00 PM Thursday 9:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 12:00 PM, Tue-Wed 6:00 PM - 7:00 PM, Thu 9:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -81355,7 +81355,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63379",
      "distance_mi": 2.1,
      "phone": "636-528-3646",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -81376,7 +81376,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63389",
      "distance_mi": 12.8,
      "phone": "636-566-6225",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -81397,7 +81397,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63362",
      "distance_mi": 5.6,
      "phone": "636-356-4646",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 11:30 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 11:30 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -81439,7 +81439,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63379",
      "distance_mi": 2.4,
      "phone": "636-528-0647",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 8:30 AM - 10:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 8:30 AM - 10:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -81833,7 +81833,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63367",
      "distance_mi": 3.8,
      "phone": "636-561-1757",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday 8:30 AM - 11:00 AM",
+     "hours": "Mon-Sat closed, Sun 8:30 AM - 11:00 AM",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -81854,7 +81854,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63366",
      "distance_mi": 8.6,
      "phone": "636-281-1069",
-     "hours": "Monday Closed Tuesday Closed Wednesday 8:00 AM - 10:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 8:00 AM - 10:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -81875,7 +81875,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63385",
      "distance_mi": 2.6,
      "phone": "636-332-5127",
-     "hours": "Monday Closed Tuesday Closed Wednesday 4:00 PM - 6:00 PM Thursday Closed Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 4:00 PM - 6:00 PM, Thu closed, Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -81896,7 +81896,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63303",
      "distance_mi": 16.3,
      "phone": "636-928-7651",
-     "hours": "Monday Closed Tuesday 9:30 AM - 10:30 AM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 9:30 AM - 10:30 AM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -81917,7 +81917,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63368",
      "distance_mi": 5.8,
      "phone": "636-265-0912",
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday 10:00 AM - 12:00 PM Wednesday 10:00 AM - 12:00 PM Thursday 5:00 PM - 7:00 PM Friday 2:00 AM - 4:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed 10:00 AM - 12:00 PM, Thu 5:00 PM - 7:00 PM, Fri 2:00 AM - 4:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -81938,7 +81938,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63365",
      "distance_mi": 6.0,
      "phone": "636-398-5270",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 9:00 AM - 10:30 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 9:00 AM - 10:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -81959,7 +81959,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63301",
      "distance_mi": 18.8,
      "phone": "636-723-0037",
-     "hours": "Monday Closed Tuesday 7:30 PM - 8:30 PM Wednesday Closed Thursday 10:00 AM - 11:30 AM Friday Closed Saturday 10:00 AM - 11:30 AM Sunday Closed",
+     "hours": "Mon closed, Tue 7:30 PM - 8:30 PM, Wed closed, Thu 10:00 AM - 11:30 AM, Fri closed, Sat 10:00 AM - 11:30 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -81980,7 +81980,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63301",
      "distance_mi": 19.3,
      "phone": "636-724-3036",
-     "hours": "Monday 8:00 AM - 11:00 AM Tuesday Closed Wednesday 8:00 AM - 11:00 AM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 8:00 AM - 11:00 AM, Tue closed, Wed 8:00 AM - 11:00 AM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -82022,7 +82022,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63366",
      "distance_mi": 9.0,
      "phone": null,
-     "hours": "Monday 10:00 AM - 12:00 PM Tuesday Closed Wednesday 5:30 PM - 7:30 PM Thursday 10:00 AM - 12:00 PM Friday 10:00 AM - 12:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon 10:00 AM - 12:00 PM, Tue closed, Wed 5:30 PM - 7:30 PM, Thu-Fri 10:00 AM - 12:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -82043,7 +82043,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63301",
      "distance_mi": 20.5,
      "phone": null,
-     "hours": "Monday Closed Tuesday 1:00 PM - 3:30 PM Wednesday 1:00 PM - 3:30 PM Thursday 1:00 PM - 3:30 PM Friday 1:00 PM - 3:00 PM Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Thu 1:00 PM - 3:30 PM, Fri 1:00 PM - 3:00 PM, Sat-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -82064,7 +82064,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63304",
      "distance_mi": 14.2,
      "phone": "636-441-1302",
-     "hours": "Monday Closed Tuesday 10:00 AM - 3:00 PM Wednesday 10:00 AM - 3:00 PM Thursday 4:00 PM - 7:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue-Wed 10:00 AM - 3:00 PM, Thu 4:00 PM - 7:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -82085,7 +82085,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63385",
      "distance_mi": 0.8,
      "phone": "636-327-8787",
-     "hours": "Monday 9:00 AM - 12:00 PM Tuesday 6:00 PM - 7:00 PM Wednesday 6:00 PM - 7:00 PM Thursday 9:00 AM - 12:00 PM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon 9:00 AM - 12:00 PM, Tue-Wed 6:00 PM - 7:00 PM, Thu 9:00 AM - 12:00 PM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -82240,7 +82240,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63379",
      "distance_mi": 10.7,
      "phone": "636-528-3646",
-     "hours": "Monday Closed Tuesday Closed Wednesday 10:00 AM - 1:00 PM Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Tue closed, Wed 10:00 AM - 1:00 PM, Thu-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -82261,7 +82261,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63389",
      "distance_mi": 1.2,
      "phone": "636-566-6225",
-     "hours": "Monday Closed Tuesday 10:00 AM - 12:00 PM Wednesday Closed Thursday Closed Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon closed, Tue 10:00 AM - 12:00 PM, Wed-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -82282,7 +82282,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63362",
      "distance_mi": 8.8,
      "phone": "636-356-4646",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday 9:00 AM - 11:30 AM Friday Closed Saturday Closed Sunday Closed",
+     "hours": "Mon-Wed closed, Thu 9:00 AM - 11:30 AM, Fri-Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
@@ -82324,7 +82324,7 @@ window.RESOURCE_DATA = {
      "postal_code": "63379",
      "distance_mi": 10.2,
      "phone": "636-528-0647",
-     "hours": "Monday Closed Tuesday Closed Wednesday Closed Thursday Closed Friday Closed Saturday 8:30 AM - 10:00 AM Sunday Closed",
+     "hours": "Mon-Fri closed, Sat 8:30 AM - 10:00 AM, Sun closed",
      "eligibility": null,
      "bucket_label": "Food & Groceries"
     },
