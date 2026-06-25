@@ -1,0 +1,748 @@
+{
+ "records": [
+  {
+   "name": "Wyandotte-Leavenworth Area Agency on Aging (AAA 01)",
+   "state": "KS",
+   "address": "849 N 47th Street, Suite C",
+   "city": "Kansas City",
+   "zip": "66112",
+   "phone": "913-573-8531",
+   "email": null,
+   "website": "https://www.wycokck.org/Departments/Area-Agency-on-Aging",
+   "counties_served": [
+    "Wyandotte",
+    "Leavenworth"
+   ],
+   "services": [
+    "food",
+    "gas_transport",
+    "navigation"
+   ],
+   "source_url": "https://www.wycokck.org/Departments/Area-Agency-on-Aging/Aging-Services-and-Programs",
+   "confidence": "high",
+   "notes": "Agency is run by the Unified Government of Wyandotte County/Kansas City. Address (849 N 47th St, Ste C, Kansas City, KS 66112) and phone (913-573-8531; toll-free 1-888-661-1444) confirmed via WebSearch of the official wycokck.org listing and corroborated by seniorsbluebook.com. Services confirmed: congregate + home-delivered meals (food), senior ride/curb-to-curb transportation (gas_transport), and Information & Assistance/referral plus case management (navigation). The official wycokck.org pages and KDADS AAA list returned HTTP 403 to automated WebFetch (CDN/edge block, not a robots disallow), so confirmation came from search snippets of those official pages plus a corroborating third-party directory. No email address was published on the public pages reviewed.",
+   "plausible": true,
+   "verify_issues": [
+    "No issues with address, phone, counties, or website. All fields corroborated by official wycokck.org and multiple third-party directories.",
+    "Phone 913-573-8531 is a valid US format with a legitimate Kansas City, KS area code (913); toll-free 1-888-661-1444 also valid.",
+    "Address 849 N 47th Street, Suite C, Kansas City, KS 66112 is a real KS location; ZIP 66112 correctly disambiguates to the Kansas side of Kansas City.",
+    "Both counties served (Wyandotte, Leavenworth) are real Kansas counties and match the agency's actual service area.",
+    "Website (wycokck.org, Unified Government of Wyandotte County/Kansas City) correctly matches the agency.",
+    "Minor: email is null, which appropriately matches the stated absence of a published email; confidence 'high' is justified for the verified fields."
+   ]
+  },
+  {
+   "name": "Central Plains Area Agency on Aging (AAA 02)",
+   "state": "KS",
+   "address": "271 West 3rd Street North, Suite 500",
+   "city": "Wichita",
+   "zip": "67202",
+   "phone": "(316) 660-5120",
+   "email": "info-sc@cpaaa.org",
+   "website": "https://www.cpaaa.org/",
+   "counties_served": [
+    "Sedgwick",
+    "Butler",
+    "Harvey"
+   ],
+   "services": [
+    "food",
+    "gas_transport",
+    "navigation"
+   ],
+   "source_url": "https://www.cpaaa.org/contact",
+   "confidence": "high",
+   "notes": "PSA/AAA 02, based in Wichita. Counties (Sedgwick, Butler, Harvey) confirmed by multiple sources incl. Sedgwick County .gov. Toll-free: 1-800-367-7298. robots.txt on cpaaa.org disallows ClaudeBot/AI crawlers, so address/phone/email taken from a single non-automated WebFetch of the public contact page and cross-checked against search snippets; no further automated crawling performed. KDADS .gov AAA page returned HTTP 403 (could not directly confirm). Services inferred from AAA role: funds home-delivered/congregate meals (food), info & referral/options counseling (navigation), and senior transportation (gas_transport). Note: per a Sedgwick County news release, CPAAA services are transitioning to a provider named Everfull effective Jan 1, 2026 \u2014 verify current operating entity/contact before publishing.",
+   "plausible": true,
+   "verify_issues": [
+    "Service transition risk (not a fabrication): record's own notes state CPAAA services were transitioning to a provider named 'Everfull' effective Jan 1, 2026. Today is 2026-06-24, so the contact entity may have changed. The address/phone/email were re-confirmed on https://www.cpaaa.org/contact and still match, but the current operating entity should be re-verified before publishing.",
+    "confidence='high' is slightly aggressive given the unresolved Everfull transition and that KDADS .gov returned HTTP 403 (could not be used as an independent .gov cross-check); 'medium' would be more defensible until the operating entity is confirmed."
+   ]
+  },
+  {
+   "name": "Northwest Kansas Area Agency on Aging (AAA 03)",
+   "state": "KS",
+   "address": "510 West 29th Street",
+   "city": "Hays",
+   "zip": "67601",
+   "phone": "785-628-8204",
+   "email": "nwkaaa@nwkaaa.org",
+   "website": "https://nwkaaa.com/",
+   "counties_served": [
+    "Cheyenne",
+    "Rawlins",
+    "Decatur",
+    "Norton",
+    "Phillips",
+    "Smith",
+    "Sherman",
+    "Thomas",
+    "Sheridan",
+    "Graham",
+    "Rooks",
+    "Osborne",
+    "Wallace",
+    "Logan",
+    "Gove",
+    "Trego",
+    "Ellis",
+    "Russell"
+   ],
+   "services": [
+    "food",
+    "gas_transport",
+    "navigation"
+   ],
+   "source_url": "https://nwkaaa.com/contact-us/",
+   "confidence": "high",
+   "notes": "Office address (510 West 29th Street, Hays, KS 67601) and phone (785-628-8204; toll-free 800-432-7422) confirmed directly on agency contact page. All 18 counties confirmed on agency homepage and services pages, matching the planning service area. Services: congregate + home-delivered MEALS (food) and Information & Assistance / referral, SHICK, options/case management (navigation) explicitly listed on https://nwkaaa.com/services/. Transportation (gas_transport) not explicitly itemized on the agency's own services page; it is a standard OAA-funded AAA service and referenced generally in third-party/state sources, so included but unverified on-site. Email nwkaaa@nwkaaa.org came from a third-party aggregator (Rooks County gov page), NOT the agency's own contact page \u2014 treat as lower-confidence and verify before use.",
+   "plausible": true,
+   "verify_issues": [
+    "Email nwkaaa@nwkaaa.org is NOT shown on the agency's own contact page (https://nwkaaa.com/contact-us/) \u2014 it originated from a third-party aggregator (Rooks County gov). Treat as lower confidence / unverified, as the record's own notes acknowledge.",
+    "Transportation (gas_transport) is not explicitly itemized on the agency's services page; it is inferred as a standard OAA service. Included but unverified on-site.",
+    "Minor cosmetic: agency renders its own name as 'NorthWest Kansas Area Agency on Aging' (camelCase) on its site; record uses 'Northwest'. Not a substantive issue."
+   ]
+  },
+  {
+   "name": "Jayhawk Area Agency on Aging",
+   "state": "KS",
+   "address": "2910 SW Topeka Blvd",
+   "city": "Topeka",
+   "zip": "66611",
+   "phone": "(785) 235-1367",
+   "email": "info@jhawkaaa.org",
+   "website": "https://www.jhawkaaa.org/",
+   "counties_served": [
+    "Shawnee",
+    "Jefferson",
+    "Douglas"
+   ],
+   "services": [
+    "food",
+    "gas_transport",
+    "navigation"
+   ],
+   "source_url": "https://www.jhawkaaa.org/contact",
+   "confidence": "high",
+   "notes": "Robots.txt checked: site allows crawling (only blocks lightbox params, ad-bot partials, PetalBot). Office address + phone + email confirmed from /contact page. Counties (Shawnee, Jefferson, Douglas) confirmed from homepage; matches hint. Designated AAA 04. Services confirmed: food (CHAMPSS, home-delivered & congregate meals, KS Senior Farmers Market Nutrition Program); navigation (information & referral, case management, Medicare assistance, options counseling, legal services); gas_transport (transportation listed as available assistance). Agency \"Helping Older Adults since 1976.\"",
+   "plausible": true,
+   "verify_issues": []
+  },
+  {
+   "name": "Southeast Kansas Area Agency on Aging (AAA 05)",
+   "state": "KS",
+   "address": "1 W. Ash St.",
+   "city": "Chanute",
+   "zip": "66720",
+   "phone": "620-431-2980",
+   "website": "https://www.sekaaa.com/",
+   "email": null,
+   "counties_served": [
+    "Allen",
+    "Bourbon",
+    "Cherokee",
+    "Crawford",
+    "Labette",
+    "Montgomery",
+    "Neosho",
+    "Wilson",
+    "Woodson"
+   ],
+   "services": [
+    "food",
+    "gas_transport",
+    "navigation"
+   ],
+   "source_url": "https://www.sekaaa.com/about",
+   "confidence": "high",
+   "notes": "Robots.txt allows crawling of / (only Disallow: *?lightbox= and PetalBot blocked). Main office: 1 W. Ash St., Chanute, KS 66720; phone 620-431-2980 / 1-800-794-2440. Branch offices: Coffeyville (618 S. Union St., 67337, 620-251-7313) and Pittsburg (3003 N. Joplin St., 66762, 620-232-5944), per sekaaa.com/reach-out. Counties confirmed as 9 (Allen, Bourbon, Cherokee, Crawford, Labette, Montgomery, Neosho, Wilson, Woodson) on both sekaaa.com/about and allencounty.org \u2014 the county hint's Elk and Greenwood are NOT served by AAA 05 (those fall under a different/SCKAAA-type area). Services: nutrition (60+ Nutrition / 60+ Dine = food), transportation (gas_transport, standard AAA service), and Medicare/SHICK assistance & info-and-referral (navigation). Email not listed on agency's own pages (a third-party snippet suggested seksaaa@sekaaa.com but not confirmed on official site), so nulled.",
+   "plausible": true,
+   "verify_issues": []
+  },
+  {
+   "name": "Southwest Kansas Area Agency on Aging",
+   "state": "KS",
+   "address": "236 San Jose Dr (P.O. Box 1636)",
+   "city": "Dodge City",
+   "zip": "67801",
+   "phone": "620-225-8230",
+   "email": "swksaaa@swksaging.org",
+   "website": "https://www.swkaaa-aging.org/",
+   "counties_served": [
+    "Greeley",
+    "Wichita",
+    "Scott",
+    "Lane",
+    "Ness",
+    "Hamilton",
+    "Kearny",
+    "Finney",
+    "Hodgeman",
+    "Stanton",
+    "Grant",
+    "Haskell",
+    "Gray",
+    "Ford",
+    "Pawnee",
+    "Edwards",
+    "Stafford",
+    "Rush",
+    "Barton",
+    "Morton",
+    "Stevens",
+    "Seward",
+    "Meade",
+    "Clark",
+    "Kiowa",
+    "Comanche",
+    "Pratt",
+    "Barber"
+   ],
+   "services": [
+    "food",
+    "gas_transport",
+    "navigation"
+   ],
+   "source_url": "https://www.swkaaa-aging.org/",
+   "confidence": "high",
+   "notes": "Office address, phone, and email (swksaaa@swksaging.org) confirmed from agency's own site (robots.txt permits crawling). Street address \"236 San Jose Dr\" and mailing \"P.O. Box 1636\". Full 28-county service area (AAA Area 06) confirmed via KDADS-sourced listing; matches the provided hint exactly. Services inferred as standard AAA offerings (home-delivered/congregate meals, senior transportation, information & referral/options counseling). Note an alternate agency site exists at swkaaa.org.",
+   "plausible": true,
+   "verify_issues": [
+    "Minor (not disqualifying): the email domain 'swksaging.org' does not match the website domain 'swkaaa-aging.org'. Both are confirmed directly from the agency's own contact page, so this reflects the agency's actual setup rather than an error, but it is an inconsistency worth noting.",
+    "Minor: an alternate/legacy agency domain 'swkaaa.org' also exists (appears in search results and KDADS-style listings); the primary 'swkaaa-aging.org' is correct but a reader could be confused by the duplicate sites.",
+    "Services ['food','gas_transport','navigation'] are inferred as 'standard AAA offerings' per the notes rather than individually confirmed from a services page; confidence in the services bucket is lower than for contact/county fields, though they are typical for an AAA."
+   ]
+  },
+  {
+   "name": "East Central Kansas Area Agency on Aging (AAA 07)",
+   "state": "KS",
+   "address": "117 S Main",
+   "city": "Ottawa",
+   "zip": "66067",
+   "phone": "(785) 242-7200",
+   "email": "eckaaa@eckaa.org",
+   "website": "https://eckaaa.org/",
+   "counties_served": [
+    "Anderson",
+    "Coffey",
+    "Franklin",
+    "Linn",
+    "Miami",
+    "Osage"
+   ],
+   "services": [
+    "food",
+    "gas_transport",
+    "navigation"
+   ],
+   "source_url": "https://eckaaa.org/",
+   "confidence": "high",
+   "notes": "Office address (117 S Main, Ottawa, KS 66067) and phone confirmed from contact page; counties (Anderson, Coffey, Franklin, Linn, Miami, Osage) confirmed from homepage. Services: congregate and home-delivered meals (food); coordinates transportation by county though the agency itself does not directly operate transit (gas_transport); case management, Medicare counseling/enrollment, community resource access, info and referral (navigation). Email eckaaa@eckaa.org as listed on homepage may contain a typo (domain eckaa.org vs eckaaa.org); treat with caution.",
+   "plausible": true,
+   "verify_issues": [
+    "Email domain mismatch: email is eckaaa@eckaa.org (domain eckaa.org, two a's) while the website is eckaaa.org (three a's). The homepage does list it exactly this way, so it is a faithful transcription, but the email may be a typo on the source site and could bounce. Treat the email as low-confidence; address/phone/counties/website all verified."
+   ]
+  },
+  {
+   "name": "North Central-Flint Hills Area Agency on Aging (AAA 08)",
+   "state": "KS",
+   "address": "401 Houston Street",
+   "city": "Manhattan",
+   "zip": "66502",
+   "phone": "800-432-2703",
+   "website": "https://www.ncfhaaa.com/",
+   "email": "ncfhaaa@ncfhaaa.com",
+   "counties_served": [
+    "Chase",
+    "Clay",
+    "Cloud",
+    "Dickinson",
+    "Ellsworth",
+    "Geary",
+    "Jewell",
+    "Lincoln",
+    "Lyon",
+    "Marion",
+    "Mitchell",
+    "Morris",
+    "Ottawa",
+    "Pottawatomie",
+    "Republic",
+    "Riley",
+    "Saline",
+    "Wabaunsee"
+   ],
+   "services": [
+    "food",
+    "navigation"
+   ],
+   "source_url": "https://www.ncfhaaa.com/contact",
+   "confidence": "high",
+   "notes": "Office address (401 Houston Street, Manhattan, KS 66502), toll-free phone (800-432-2703), and email confirmed on the Contact page. Counties confirmed from the agency's own homepage, which lists 18 counties: Chase, Clay, Cloud, Dickinson, Ellsworth, Geary, Jewell, Lincoln, Lyon, Marion, Mitchell, Morris, Ottawa, Pottawatomie, Republic, Riley, Saline, Wabaunsee. NOTE: The orchestrator's counties hint differs from the agency's actual service area \u2014 the hint included McPherson and Rice (which are NOT served by this AAA; they belong to a neighboring AAA) and omitted Lyon. I used the agency's own published list. Services confirmed on /services page: 'Friendship Meals' home-delivered and congregate dining (food); extensive info & referral / options counseling via Answers for Older Kansans (AOK), SHICK Medicare counseling, caregiver support, resource guides (navigation). Senior TRANSPORTATION (gas_transport) was NOT explicitly listed on the pages reviewed, so it is omitted from services pending confirmation, though AAAs commonly offer or coordinate it. Satellite offices: Salina (245 N 9th, Salina, KS 67401) and Emporia (221 W Logan Ave, Emporia, KS 66801). robots.txt blocks AI-specific crawlers (ClaudeBot/anthropic-ai) but the general '*' agent is allowed on content pages (/contact, /services); only /config, /search, /api, /static disallowed.",
+   "plausible": true,
+   "verify_issues": [
+    "Minor: transportation (gas_transport) is not listed in services, which the notes correctly flag as unconfirmed/omitted pending verification \u2014 not an error, just an incomplete services bucket.",
+    "The contact page itself does not list counties; the 18-county list is sourced from the homepage (confirmed). Source_url points to /contact, but county evidence comes from the homepage \u2014 a slight source-attribution mismatch worth noting, though both are the agency's own site."
+   ]
+  },
+  {
+   "name": "Northeast Kansas Area Agency on Aging (AAA 09)",
+   "state": "KS",
+   "address": "1803 Oregon",
+   "city": "Hiawatha",
+   "zip": "66434",
+   "phone": "785-742-7152",
+   "email": "nekaaa@nekaaa.org",
+   "website": "https://nekaaa.org/",
+   "counties_served": [
+    "Atchison",
+    "Brown",
+    "Doniphan",
+    "Jackson",
+    "Marshall",
+    "Nemaha",
+    "Washington"
+   ],
+   "services": [
+    "food",
+    "gas_transport",
+    "navigation"
+   ],
+   "source_url": "https://nekaaa.org/contact-us/",
+   "confidence": "high",
+   "notes": "Address, phone (785-742-7152, toll-free 800-883-2549), fax 785-742-2542, email, and 7-county service area all confirmed from agency's own contact page. Services: home-delivered/Meals on Wheels (food), NEKAAA general public on-demand transportation (gas_transport), and SHICK-style Medicare/health insurance info & referral plus options counseling/case management (navigation). Note: the prompt's county hint listed 8 counties but the site lists only 7 \u2014 the agency's published list omits the hint's extra county.",
+   "plausible": true,
+   "verify_issues": [
+    "Minor: notes mention the prompt hint listed 8 counties while the site lists 7. The agency's own contact page (https://nekaaa.org/contact-us/) authoritatively lists exactly 7: Atchison, Brown, Doniphan, Jackson, Marshall, Nemaha, Washington. The 7-county record value is correct; no county data error.",
+    "Optional caveat for confidence: 'gas_transport' is mapped from NEKAAA general-public on-demand transportation, which is reasonable, but the record itself does not cite a specific services page URL (source_url is the contact page). Services are widely corroborated (KUTC, KDADS, findhelp) so this does not lower plausibility."
+   ]
+  },
+  {
+   "name": "South Central Kansas Area Agency on Aging (AAA 10)",
+   "state": "KS",
+   "address": "304 S. Summit, P.O. Box 1122",
+   "city": "Arkansas City",
+   "zip": "67005",
+   "phone": "620-442-0268",
+   "email": "info@sckaaa.org",
+   "website": "https://www.sckaaa.org/",
+   "counties_served": [
+    "Chautauqua",
+    "Cowley",
+    "Elk",
+    "Greenwood",
+    "Harper",
+    "Kingman",
+    "McPherson",
+    "Reno",
+    "Rice",
+    "Sumner"
+   ],
+   "services": [
+    "food",
+    "gas_transport",
+    "navigation"
+   ],
+   "source_url": "https://www.sckaaa.org/central-office-sckaaa/",
+   "confidence": "high",
+   "notes": "Address, phone, email confirmed from Central Office page (304 S. Summit / P.O. Box 1122, Arkansas City, KS 67005; Bus: 620-442-0268; info@sckaaa.org; Older Kansans Hotline 1-800-362-0264). Counties list confirmed from site navigation menu (10 counties, consistent with 'AAA 10'). Services page confirms Friendship Meals (food, both home-delivered and congregate) and Information & Assistance / Case Management / SHICK (navigation). gas_transport included per standard AAA Older Americans Act service mapping; the services page excerpt did not explicitly name a transportation program, so transportation is inferred rather than directly confirmed. robots.txt only disallows /wp-admin/; pages fetched are permitted.",
+   "plausible": true,
+   "verify_issues": [
+    "gas_transport (senior transportation) is INFERRED from generic Older Americans Act service mapping, not confirmed on the SCKAAA services page. The record's own notes admit transportation was not explicitly named. Per the project's no-guessing rule, an unverified service should not be carried at 'high' confidence; either confirm a named transportation program or drop gas_transport / lower confidence to medium.",
+    "Source URL only documents Central Office contact info and (via nav) the counties; the services buckets (food/navigation) are confirmed elsewhere but the single source_url does not substantiate the gas_transport service claim."
+   ]
+  },
+  {
+   "name": "Johnson County Area Agency on Aging (AAA 11)",
+   "state": "KS",
+   "address": "11811 S. Sunset Drive, Suite 1300",
+   "city": "Olathe",
+   "zip": "66061",
+   "phone": "913-715-8800",
+   "email": null,
+   "website": "https://www.jocogov.org/department/aging-and-human-services/johnson-county-area-agency-aging",
+   "counties_served": [
+    "Johnson"
+   ],
+   "services": [
+    "food",
+    "gas_transport",
+    "navigation"
+   ],
+   "source_url": "https://www.jocogov.org/department/aging-and-human-services",
+   "confidence": "high",
+   "notes": "robots.txt allows this path (only blocks admin/user/search/PDF/sites paths). Office address and main phone confirmed on the official Aging and Human Services department contact page: 11811 S. Sunset Drive, Suite 1300, Olathe, KS 66061; 913-715-8800. Note: the AAA sub-page also displays \"111 S. Cherry St., Olathe, KS 66061,\" but that appears to be a county-government/jurisdiction reference (residency eligibility), not the agency office; the department contact page gives the operational office at Sunset Drive. Johnson County KS is a single-county AAA (planning service area = Johnson County only). Services confirmed: Nutrition Services (food); Catch-a-Ride transportation (gas_transport); Information and Referral / SHICK Medicare counseling (navigation). No public general email surfaced on the official pages; left null.",
+   "plausible": true,
+   "verify_issues": [
+    "No issues with load-bearing fields. Phone 913-715-8800 is valid US/NANP format (area code 913 serves Johnson County KS) and confirmed on the official jocogov.org contact page. Address 11811 S. Sunset Drive, Suite 1300, Olathe, KS 66061 is a real Olathe location with a valid Olathe ZIP (66061); city/ZIP consistent; confirmed on official site. counties_served=['Johnson'] is a real KS county and KDADS designates it as a single-county AAA planning service area. Website matches the agency (official Johnson County AAA page).",
+    "Minor (non-blocking): email is null, which appropriately keeps no fabricated contact; confidence 'high' is justified by official-source corroboration.",
+    "Note: record displays the secondary '111 S. Cherry St.' address only in its notes (not in the address field); the record correctly uses the operational Sunset Drive office address."
+   ]
+  },
+  {
+   "name": "SeniorAge Area Agency on Aging",
+   "state": "MO",
+   "address": "1735 S. Fort Ave.",
+   "city": "Springfield",
+   "zip": "65807",
+   "phone": "417-862-0762",
+   "email": "seniorageinformation@senioragemo.org",
+   "website": "https://www.senioragemo.org",
+   "counties_served": [
+    "Barry",
+    "Christian",
+    "Dade",
+    "Dallas",
+    "Douglas",
+    "Greene",
+    "Howell",
+    "Lawrence",
+    "Oregon",
+    "Ozark",
+    "Polk",
+    "Shannon",
+    "Stone",
+    "Taney",
+    "Texas",
+    "Webster",
+    "Wright"
+   ],
+   "services": [
+    "food",
+    "gas_transport",
+    "navigation"
+   ],
+   "source_url": "https://www.ma4web.org/find-local-agency/",
+   "confidence": "high",
+   "notes": "Region 1 AAA. Address, phone (toll-free 800-497-0822), email, website, and all 17 counties confirmed via the Missouri Association of Area Agencies on Aging (MA4) official directory; county list matches the agency's planning service area. Agency's own site (senioragemo.org) returned HTTP 500 during fetch, so confirmation came from the MA4 association directory and MO DHSS (health.mo.gov AAAReg1.pdf), both safe official sources. Services inferred as standard AAA offerings (home-delivered/congregate meals, senior transportation, information & referral/options counseling).",
+   "plausible": true,
+   "verify_issues": [
+    "Services (food, gas_transport, navigation) were inferred as standard AAA offerings per the record's own notes, not confirmed from the agency's own site, which returned HTTP 500. The other fields are independently confirmed, so confidence in the address/phone/counties is appropriately high, but the services bucket assignment rests on inference rather than direct evidence."
+   ]
+  },
+  {
+   "name": "Aging Matters (Region 2)",
+   "state": "MO",
+   "address": "69 Doctors Park, Suite B",
+   "city": "Cape Girardeau",
+   "zip": "63703",
+   "phone": "573-335-3331",
+   "email": "info@agingmatters2u.com",
+   "website": "https://www.agingmatters2u.com",
+   "counties_served": [
+    "Bollinger",
+    "Butler",
+    "Cape Girardeau",
+    "Carter",
+    "Dunklin",
+    "Iron",
+    "Madison",
+    "Mississippi",
+    "New Madrid",
+    "Pemiscot",
+    "Perry",
+    "Reynolds",
+    "Ripley",
+    "Scott",
+    "St. Francois",
+    "Ste. Genevieve",
+    "Stoddard",
+    "Wayne"
+   ],
+   "services": [
+    "food",
+    "gas_transport",
+    "navigation"
+   ],
+   "source_url": "https://www.agingmatters2u.com/contact",
+   "confidence": "high",
+   "notes": "Office address, phone (573-335-3331), toll-free 1-800-392-8771, fax 573-335-3017, and email info@agingmatters2u.com confirmed from the agency's own contact page. The 18-county planning service area (Region 2, Southeast Missouri AAA / semoaaa.org) confirmed from the homepage and matches the provided hint exactly. Services: nutrition (food), transportation (gas_transport), and Information & Assistance / Medicare guidance / options counseling (navigation). robots.txt permits crawling.",
+   "plausible": true,
+   "verify_issues": []
+  },
+  {
+   "name": "Care Connection for Aging Services (Region 3)",
+   "state": "MO",
+   "address": "106 West Young, P.O. Box 1078",
+   "city": "Warrensburg",
+   "zip": "64093",
+   "phone": "800-748-7826",
+   "email": "information@goaging.org",
+   "website": "https://www.goaging.org",
+   "counties_served": [
+    "Bates",
+    "Benton",
+    "Carroll",
+    "Cedar",
+    "Chariton",
+    "Henry",
+    "Hickory",
+    "Johnson",
+    "Lafayette",
+    "Pettis",
+    "Saline",
+    "St. Clair",
+    "Vernon"
+   ],
+   "services": [
+    "food",
+    "gas_transport",
+    "navigation"
+   ],
+   "source_url": "https://www.goaging.org/contact-us/",
+   "confidence": "high",
+   "notes": "Office address and phone confirmed from goaging.org/contact-us (106 West Young, P.O. Box 1078, Warrensburg, MO 64093; 800-748-7826 / 660-747-3107; fax 660-747-3100; email information@goaging.org). Full 13-county service area confirmed from goaging.org/about-us, matching hint exactly. Founded Oct 1973, one of Missouri's ten AAAs. Services: meals (food), senior transportation (gas_transport), info & referral / Medicare counseling / options (navigation).",
+   "plausible": true,
+   "verify_issues": []
+  },
+  {
+   "name": "Young at Heart Resources (Region 4)",
+   "state": "MO",
+   "address": "1003 W 4th Street, PO Box 185",
+   "city": "Cameron",
+   "zip": "64429",
+   "phone": "660-240-9400",
+   "email": "info@yahresources.org",
+   "website": "https://www.yahresources.org",
+   "counties_served": [
+    "Andrew",
+    "Atchison",
+    "Buchanan",
+    "Caldwell",
+    "Clinton",
+    "Daviess",
+    "DeKalb",
+    "Gentry",
+    "Grundy",
+    "Harrison",
+    "Holt",
+    "Linn",
+    "Livingston",
+    "Mercer",
+    "Nodaway",
+    "Putnam",
+    "Sullivan",
+    "Worth"
+   ],
+   "services": [
+    "food",
+    "gas_transport",
+    "navigation"
+   ],
+   "source_url": "https://www.yahresources.org/who-we-are/contact-us/",
+   "confidence": "high",
+   "notes": "Robots.txt allows crawling (only /wp-admin/ disallowed, crawl-delay 5). Address, phone, email, and fax confirmed on agency's own Contact Us page (https://www.yahresources.org/who-we-are/contact-us/): 1003 W 4th Street, PO Box 185, Cameron, MO 64429; toll-free 888-844-5626; fax 816-396-0568. Full 18-county service area confirmed on https://www.yahresources.org/who-we-are/. Services confirmed on homepage: meals/nutrition (food), transportation (gas_transport), information & assistance / options & benefits counseling (navigation); also offers in-home care, legal assistance, ombudsman program. Note: a third-party search snippet listed a stale alternate address (1304 N. Walnut St., Ste 150) and phone 1-660-240-9400; the agency's own page was used as the authoritative source.",
+   "plausible": true,
+   "verify_issues": [
+    "Phone 660-240-9400 is valid US format (area code 660 serves northern Missouri including Cameron) and is confirmed as the agency's main number on its own Contact Us page. NOTE: the record's notes field is internally inconsistent - it claims 660-240-9400 was a 'stale' third-party number, but the authoritative Contact Us page actually lists this exact number as the agency's phone. The phone value itself is correct; only the note's characterization is misleading.",
+    "Address 1003 W 4th Street, PO Box 185, Cameron, MO 64429 is a real, consistent MO location (Cameron is in Clinton County, NW Missouri; ZIP 64429 matches). Confirmed on agency's Contact Us page.",
+    "All 18 counties_served are real Missouri counties and match the agency's 'Who We Are' page exactly. No corrections needed.",
+    "Website https://www.yahresources.org resolves to 'Young at Heart Resources' - matches the agency name."
+   ]
+  },
+  {
+   "name": "Northeast Missouri Area Agency on Aging (Region 5)",
+   "state": "MO",
+   "address": "2815 N Baltimore St",
+   "city": "Kirksville",
+   "zip": "63501",
+   "phone": "(660) 665-4682",
+   "email": "info@nemoaaa.com",
+   "website": "https://www.nemoaaa.org",
+   "counties_served": [
+    "Adair",
+    "Clark",
+    "Knox",
+    "Lewis",
+    "Lincoln",
+    "Macon",
+    "Marion",
+    "Monroe",
+    "Montgomery",
+    "Pike",
+    "Ralls",
+    "Randolph",
+    "Schuyler",
+    "Scotland",
+    "Shelby",
+    "Warren"
+   ],
+   "services": [
+    "food",
+    "gas_transport",
+    "navigation"
+   ],
+   "source_url": "https://nemoaaa.org/",
+   "confidence": "high",
+   "notes": "Office address (2815 N Baltimore St, Kirksville, MO 63501), phone (660-665-4682), and all 16 counties confirmed on the agency's own homepage and about-us page. robots.txt allows crawling (Disallow empty). Services: meals/nutrition=food, senior transportation=gas_transport, information & referral=navigation, all confirmed on agency site. Toll-free alt phone 1-800-664-6338 per MA4/aggregators. Email info@nemoaaa.com sourced from search aggregation (MA4/Yelp), NOT directly confirmed on the agency's own pages \u2014 note .com domain vs .org website, treat email as medium confidence.",
+   "plausible": true,
+   "verify_issues": [
+    "Email info@nemoaaa.com uses a .com domain that does not match the verified .org website (nemoaaa.org); it was sourced from aggregators (MA4/Yelp), not the agency's own pages. Treat email as medium/low confidence as the record's notes already acknowledge.",
+    "Minor: source_url is https://nemoaaa.org/ but website field is https://www.nemoaaa.org. Both resolve to the same agency; not a substantive problem.",
+    "No issues found with phone, address, ZIP/city consistency, or counties. All 16 counties are valid Missouri counties and match the agency's homepage exactly."
+   ]
+  },
+  {
+   "name": "Aging Best (Region 6)",
+   "state": "MO",
+   "address": "201 W. Broadway, Suite 1E",
+   "city": "Columbia",
+   "zip": "65203",
+   "phone": "(573) 443-5823",
+   "email": "Help4U@agingbest.org",
+   "website": "https://www.agingbest.org",
+   "counties_served": [
+    "Audrain",
+    "Boone",
+    "Callaway",
+    "Camden",
+    "Cole",
+    "Cooper",
+    "Crawford",
+    "Dent",
+    "Gasconade",
+    "Howard",
+    "Laclede",
+    "Maries",
+    "Miller",
+    "Morgan",
+    "Moniteau",
+    "Osage",
+    "Phelps",
+    "Pulaski",
+    "Washington"
+   ],
+   "services": [
+    "food",
+    "gas_transport",
+    "navigation"
+   ],
+   "source_url": "https://www.agingbest.org/contact",
+   "confidence": "high",
+   "notes": "Office address, phone (573-443-5823; toll-free 800-369-5211), and email confirmed from agency's own Contact page (robots.txt permits /contact; only /config,/search,/account,/api disallowed). Counties (19, Region 6 / Central Missouri AAA) confirmed via MO DHSS AAA region listing and MA4 (Missouri Assoc. of AAAs) and match the provided hint exactly. ZIP shown as 65203 on contact page; some listings show 65201. Services inferred as standard AAA buckets: site confirms Nutrition Activity Centers / meals (food); transportation (gas_transport) and information & referral / options counseling (navigation) are standard AAA functions under Support Services. Agency also known as Central Missouri Area Agency on Aging, est. 1973.",
+   "plausible": true,
+   "verify_issues": [
+    "Minor ZIP discrepancy noted in source data: agency contact page shows 65203 (used in record, correct), but some external listings show 65201. Record uses the agency-confirmed 65203, so no correction needed.",
+    "Services were inferred (food/gas_transport/navigation) as standard AAA buckets rather than each being individually confirmed on the site; this is reasonable but transportation/gas_transport specifically should be treated as medium-confidence until verified on a services page."
+   ]
+  },
+  {
+   "name": "Mid-America Regional Council (MARC) Area Agency on Aging (Region 7)",
+   "state": "MO",
+   "address": "600 Broadway, Suite 200",
+   "city": "Kansas City",
+   "zip": "64105",
+   "phone": "816-421-4980",
+   "email": "marcinfo@marc.org",
+   "website": "https://www.marc.org/aging",
+   "counties_served": [
+    "Cass",
+    "Clay",
+    "Jackson",
+    "Platte",
+    "Ray"
+   ],
+   "services": [
+    "food",
+    "gas_transport",
+    "navigation"
+   ],
+   "source_url": "https://www.marc.org/aging/aging-and-adult-services",
+   "confidence": "high",
+   "notes": "Region 7 AAA. Office address (600 Broadway, Suite 200, KC, MO 64105) and five-county service area (Cass, Clay, Jackson, Platte, Ray) confirmed on MARC's own aging pages. Program phone 816-421-4980 / 800-593-7948 and email marcinfo@marc.org listed on the aging-and-adult-services page; 816-474-4240 is the MARC general switchboard. Services confirmed: home-delivered meals (food), transportation assistance (gas_transport), information & referral / options counseling (navigation). robots.txt allows /aging path; main page returned 503 to WebFetch but content retrieved via sub-pages. Official SFY2026 Area Agency on Aging Region 7 Area Plan PDF available at marc.org/sites/default/files/2025-01/MARC_SFY_2026_Draft_Area_Agency_on_Aging_Area_Plan.pdf for further verification.",
+   "plausible": true,
+   "verify_issues": [
+    "No factual errors found. Phone 816-421-4980 is a valid US format (816 is a legitimate Kansas City, MO area code) and is confirmed on MARC's aging pages as the Information & Referral line.",
+    "Address 600 Broadway, Suite 200, Kansas City, MO 64105 is a real downtown Kansas City, MO location; ZIP 64105 is consistent with the city/state (full ZIP+4 is 64105-1554). Confirmed on MARC's own pages.",
+    "All five counties_served (Cass, Clay, Jackson, Platte, Ray) are real Missouri counties and all are confirmed as the MARC AAA Region 7 service area. No corrections needed.",
+    "Website https://www.marc.org/aging matches the agency (MARC's official aging section). source_url page resolves and confirms the record.",
+    "Minor note (not an error): the listed phone is the program/I&R line; 816-474-4240 is the MARC general switchboard. The notes already correctly distinguish these."
+   ]
+  },
+  {
+   "name": "Aging Ahead",
+   "state": "MO",
+   "address": "14535 Manchester Road",
+   "city": "Manchester",
+   "zip": "63011",
+   "phone": "(800) 243-6060",
+   "email": "info@agingahead.org",
+   "website": "https://www.agingahead.org",
+   "counties_served": [
+    "St. Louis",
+    "St. Charles",
+    "Franklin",
+    "Jefferson"
+   ],
+   "services": [
+    "food",
+    "gas_transport",
+    "navigation"
+   ],
+   "source_url": "https://www.agingahead.org/about-us/contact-us/",
+   "confidence": "high",
+   "notes": "Missouri AAA Region 8, serving adults 60+ since 1973. HQ in Manchester, MO (within St. Louis County). Address and email confirmed on contact-us page; counties confirmed on about-us page. Services: Meals on Wheels + congregate dining (food), transportation coordination (gas_transport), Community Options Counseling / info & referral (navigation). Robots.txt allows public pages.",
+   "plausible": true,
+   "verify_issues": [
+    "Minor: agency self-describes its location as \"St. Louis, MO 63011\" in some listings (findhelp/MA4) while the record and contact page use \"Manchester, MO 63011.\" Both are valid since Manchester is within St. Louis County; the contact-us page confirms \"Manchester\" as the city. No correction needed."
+   ]
+  },
+  {
+   "name": "St. Louis Area Agency on Aging",
+   "state": "MO",
+   "address": "1520 Market, Room 4086",
+   "city": "St. Louis",
+   "zip": "63103",
+   "phone": "(314) 612-5918",
+   "email": "slaaa@stlouis-mo.gov",
+   "website": "https://www.slaaa.org",
+   "counties_served": [
+    "St. Louis City"
+   ],
+   "services": [
+    "food",
+    "gas_transport",
+    "navigation"
+   ],
+   "source_url": "https://www.stlouis-mo.gov/government/departments/human-services/aging-services/index.cfm",
+   "confidence": "high",
+   "notes": "slaaa.org 301-redirects to the official City of St. Louis .gov aging-services page; robots.txt returned 404 (no crawl restrictions). Service area is the City of St. Louis only (Region 9). Confirmed from .gov: home-delivered/congregate meals (food), non-emergency transportation and discounted bus passes (gas_transport), and Medicare/health insurance assistance plus information & referral/options counseling (navigation). The page notes coordination with Mid-East AAA for some referrals.",
+   "plausible": true,
+   "verify_issues": [
+    "Minor terminology note (not a defect): 'St. Louis City' is an independent city / county-equivalent, not a traditional Missouri county. It is the correct service-area/planning-region designation for this AAA, so no correction is applied."
+   ]
+  },
+  {
+   "name": "Area Agency on Aging, Region X (Region 10)",
+   "state": "MO",
+   "address": "531 E. 15th St.",
+   "city": "Joplin",
+   "zip": "64804",
+   "phone": "417-781-7562",
+   "email": null,
+   "website": "https://www.aaaregionx.org",
+   "counties_served": [
+    "Barton",
+    "Jasper",
+    "Newton",
+    "McDonald"
+   ],
+   "services": [
+    "food",
+    "navigation"
+   ],
+   "source_url": "https://www.aaaregionx.org/services",
+   "confidence": "high",
+   "notes": "Office address (531 E. 15th St., Joplin, MO 64804) and phone (417-781-7562) confirmed on agency homepage and services page; fax 417-781-1609. Counties served (Barton, Jasper, Newton, McDonald) confirmed on agency site, serving the area since 1979 as a 501(c)(3). FOOD confirmed: congregate meals (M-F lunch) and home-delivered/Meals on Wheels. NAVIGATION confirmed: information & referral, general Medicare and new-to-Medicare counseling, Extra Help/Medicare Savings Program screening, caregiver support, ombudsman, legal aid referral. GAS_TRANSPORT (senior transportation) NOT explicitly listed on the agency's own website; left out of services to avoid guessing per facts-only rule, though AAAs typically offer it \u2014 recommend confirming directly. No public email found on site (no /contact page; returns 404). robots.txt only disallows /404.",
+   "plausible": true,
+   "verify_issues": [
+    "No issues affecting plausibility. Phone 417-781-7562 is a valid US format (417 is a legitimate SW Missouri area code) and is corroborated by independent third-party listings (Chamber of Commerce, AgingCare).",
+    "Address 531 E. 15th St., Joplin, MO 64804 is consistent: 64804 is a valid Joplin ZIP and matches the Chamber of Commerce listing for this agency.",
+    "All four counties (Barton, Jasper, Newton, McDonald) are real Missouri counties in the state's southwest corner and are explicitly confirmed as the service area by the agency and multiple sources ('serving Barton, Jasper, Newton, and McDonald counties since 1979'). No corrections needed.",
+    "Website aaaregionx.org matches the agency; 'Region X' and 'Region Ten/10' are used interchangeably by the agency, so the name is accurate.",
+    "MINOR (not plausibility-affecting): gas_transport was correctly omitted per facts-only rule, but verification could not confirm or rule out senior transportation from the agency site; flag for follow-up. The 'no public email' / 404 /contact note is plausible but unverified in this check.",
+    "MINOR: The official Missouri DHSS AAA region PDF (health.mo.gov/seniors/pdf/AAARegion.pdf) could not be machine-read in this environment to cross-check counties against the state source; confirmation rests on the agency site plus multiple third-party listings."
+   ]
+  }
+ ]
+}
