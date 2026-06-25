@@ -165,6 +165,26 @@ sources:
     categories: [housing, rent]
     notes: "PHAs + HUD-approved housing-counseling agencies. Verify exact dataset id."
 
+  - id: hud-housing-counseling
+    enabled: true               # IMPLEMENTED: pipeline/connectors/hud_housing_counseling.py
+    role: providers
+    source_name: "HUD Single-Family Housing Counseling Agencies"
+    source_type: gov_open_data
+    publisher: "US Dept of Housing and Urban Development"
+    source_url: "https://www.arcgis.com/home/item.html?id=aad167f1d819436bb8b539d762716959"
+    access_lane: open
+    refresh_mode: live_api
+    api: { protocol: arcgis_rest, layer: "Single_Family_Housing_Counseling_Agencies/FeatureServer/0", filter: "STATE2KX IN ('20','29')" }
+    license: "US-Gov-PublicDomain"
+    attribution_text: "Source: U.S. Department of Housing and Urban Development"
+    attribution_required: false
+    redistribution_ok: true
+    robots_checked: true
+    confidence: medium
+    categories: [housing, rent]
+    states: [KS, MO]
+    notes: "FIRST KANSAS source. County FIPS in data (no geocoding). Phone+email+website. 5 KS + 23 MO agencies."
+
   - id: data-gov
     enabled: true
     role: providers

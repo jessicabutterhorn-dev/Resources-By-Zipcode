@@ -9,5 +9,6 @@ sqlite3 db/resources.db < db/schema.sql
 python3 pipeline/load_geography.py
 python3 pipeline/connectors/data_mo_gov.py        # MO Job Centers (navigation)
 python3 pipeline/connectors/liheap_mo_caa.py      # MO LIHEAP / energy (utility, food, housing)
+python3 pipeline/connectors/hud_housing_counseling.py  # HUD housing counseling (KS + MO housing)
 python3 pipeline/build_frontend.py
 echo "Done. Open frontend/index.html — real open-data records."
