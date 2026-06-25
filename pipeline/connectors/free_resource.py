@@ -29,6 +29,9 @@ TODAY = "2026-06-25"
 
 def sid(*p): return hashlib.sha1("|".join(str(x) for x in p).encode()).hexdigest()[:24]
 def norm(n): return re.sub(r"[^a-z ]", "", (n or "").lower()).replace(" county", "").strip()
+def domain(u):
+    m = re.search(r"https?://([^/]+)", u or "")
+    return (m.group(1).lower().replace("www.", "") if m else None) or None
 
 def geocode(addr):
     try:
@@ -123,7 +126,13 @@ def load(bucket, records_path, source_id, source_name, service_name, dir_url, dr
             sys.stderr.write(f"  skip (no resolved service area): {name}\n")
             continue
 
-        org_id = sid(source_id, name, zipc) if office_fips else sid(source_id, name)
+        # sites keyed by name+zip. Programs keyed by website DOMAIN (+scope) so the
+        # same national/statewide program found by several zone agents under
+        # slightly different names (e.g. Extra Help via ssa.gov x6) collapses to ONE.
+        if office_fips:
+            org_id = sid(source_id, name, zipc)
+        else:
+            org_id = sid(source_id, "prog", domain(web) or norm(name), r.get("service_scope") or "")
         loc_id = sid("loc", org_id); svc_id = sid("svc", org_id)
         if dry_run:
             print(f"  OK [{kind:7}] {name[:38]:38} {('site '+str(office_fips)) if office_fips else ('zone '+str(r.get('zone_id'))+' ('+str(len(served))+'co)')}")
