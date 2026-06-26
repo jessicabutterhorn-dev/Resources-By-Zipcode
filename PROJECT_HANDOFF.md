@@ -3,6 +3,12 @@
 A pick-up-and-continue guide to the whole project: what it is, how to run it,
 how it's built, the rules that keep it trustworthy, and what's left.
 
+> **⚠ DIRECTION UPDATE (2026-06-26):** Target deployment is shifting from a
+> public hosted website to an **internal Aetna build (Snowflake + Streamlit on
+> the intranet)**, used by staff as a **single-ZIP print generator**. This
+> resolves the IP/governance gate and unlocks the gated feeds. See **§11** for
+> the full decision record — read it before acting on §9's "go public" plan.
+
 ---
 
 ## 1. What this is
@@ -31,11 +37,16 @@ per-provider-accurate service areas. All committed, FK clean.
 ```bash
 cd ~/kansas-missouri-ssbci-resources
 
-./build_real.sh          # rebuild everything from real open data (~5 min; geocodes)
+./build_real.sh          # rebuild KS+MO (default)
+STATES=TX ./build_real.sh  # build a single other state
+STATES=TX,OK,AR ./build_real.sh  # multi-state build
+
 open frontend/index.html # use it: type a ZIP, see resources, print
 
 ./build.sh               # alt: the old [SAMPLE] demo (fake data, banner)
 ```
+
+**GitHub remote:** `https://github.com/jessicabutterhorn-dev/Resources-By-Zipcode.git`
 
 `build_real.sh` runs, in order:
 `schema → load_geography → load_zip_county → [connectors] → fill_phones →
@@ -76,7 +87,7 @@ Type a ZIP → it resolves to its county(ies) → shows three tiers:
 | rent | nonprofit/govt workflow (Salvation Army, Catholic Charities, CAAs, MHDC/KHRC) |
 | pet_food | free pet-food workflow (PRCKC, humane societies, Bi-State Pet Food Pantry) |
 | utility | MO Community Action Agencies (LIHEAP delivery) |
-| housing | HUD Housing Counseling Agencies (KS+MO) |
+| housing | HUD Housing Counseling Agencies (**national** — all 50 states) |
 | gas_transport | Area Agencies on Aging (senior transport) |
 | navigation | MO Job Centers, AAA info & referral |
 
@@ -150,9 +161,9 @@ db/
   seed.sql                 fictional [SAMPLE] rows (demo only)
   resources.db             built DB (gitignored)
 pipeline/
-  load_geography.py        220 KS+MO counties + zones + county_zone (Census)
-  load_zip_county.py       AUTHORITATIVE ZIP->county crosswalk (Census ZCTA)
-  load_zip_centroids.py    ZIP lat/lon (Census gazetteer) for distance
+  load_geography.py        counties + county_zone (Census); accepts --states XX,YY (default KS,MO)
+  load_zip_county.py       AUTHORITATIVE ZIP->county crosswalk (Census ZCTA); national by design
+  load_zip_centroids.py    ZIP lat/lon (Census gazetteer) for distance; national by design
   connectors/              one file per data source (+ generic free_resource.py)
   fill_phones.py           backfills phones from data/phone_overrides.json
   needs_phone_report.py    -> docs/NEEDS_PHONE.md worklist
@@ -234,3 +245,163 @@ Scripts persist under the session's `workflows/scripts/` dir; re-invoke with
 _Built on open data, safe-route only, no member data. Honest by design: it shows
 what it can verify, flags what it can't, and never sends someone where they
 aren't served._
+
+---
+
+## 11. Direction update (2026-06-26): Enterprise Snowflake pivot
+
+Decisions from a planning session. These **supersede** the "public hosted
+launch" assumption in §9 for the primary use case.
+
+### 11.1 Why the pivot
+
+The subject matter (SSBCI Medicare benefit loss, CMS-4208-F eff. 1/1/2027, ~75%+
+lose the flex card for food/utility/rent/transport/gas) is squarely the
+employer's business. A personal public launch raises an **IP/ownership question**
+(own-time/own-computer helps, and KS K.S.A. 44-130 + MO law limit employer claims
+on personal inventions, but the "relates to employer business" exception is the
+gray part). **Building it inside Aetna dissolves that question** — it becomes a
+sanctioned work product — and lets Aetna legal sign the gated-feed agreements
+(§9.1–9.2) that an individual can't.
+
+> Nothing is triggered while the repo stays **private and offline** (`file://`
+> demo). The only deliberate step is *public hosting* — which the pivot removes
+> from the critical path. Until any ruling: keep repo private; never push to a
+> personal GitHub with enterprise credentials.
+
+### 11.2 Who uses it + how (this reframes the product)
+
+Users = **internal Aetna staff**: Account Managers, Broker Managers, Field Sales
+Reps, internal staff. They **print** sheets and hand them to agents visiting
+clients / low-income housing. The **end consumer is offline, holding paper.**
+
+→ The app is a **single-ZIP print generator**, not a member-facing website:
+
+```
+staff types 1 ZIP → one clean printable page → File > Print, N copies → done
+```
+
+- **No** batch/territory packets, **no** member logins, **no** copy-count logic
+  (the printer handles copies), **no** public site, **no** sharding/CDN/46MB
+  problem — all moot for the internal print use.
+- **DO** nail: one ZIP → one page; phone-first; big text (older/low-vision);
+  print-clean CSS (no nav/buttons on paper); nearest-first, deduped, phone on
+  every card (already built); footer **"Verified [Month YYYY] — call 211 if a
+  number changed"** so frozen paper self-discloses staleness (uses `date_checked`).
+- **PHI rule survives the paper hop:** the sheet is keyed only to a ZIP, carries
+  zero member data — nothing personal leaves the building even when left at an
+  apartment. Keep it that way in Snowflake: never join to member/claims tables.
+
+### 11.3 Architecture mapping (personal → enterprise)
+
+| Now (personal) | Enterprise (Snowflake/intranet) |
+|---|---|
+| SQLite source of truth | Snowflake tables |
+| Static `index.html` + `data.js` | **Streamlit-in-Snowflake** app (built-in UI) |
+| Double-click a file | Brokers hit an internal URL |
+| Hand-find data via Claude Code | Sanctioned feeds (Half 1) + vetted-JSON load (Half 2) |
+
+**Getting internet data IN — split in two:**
+- **Half 1 — structured feeds → pull into Snowflake** via **External Access
+  Integration** (+ network rule whitelisting endpoints + secret for the key).
+  Fits Census (static files → stage), 211 NDP HSDS, Feeding America HSDS. Aetna
+  legal can sign the §9 agreements.
+- **Half 2 — org discovery (the Claude-Code find+verify work)** stays a research
+  step producing **reviewed JSON**, then loaded to Snowflake (same
+  `*_records.json` → table pattern). Don't scrape from inside the warehouse.
+
+**Tradeoffs accepted:** internal-only (members don't access directly — paper is
+the distribution layer; a public member version is a separate later decision);
+work moves onto Aetna governance/timeline; PHI design stays sacred.
+
+### 11.4 Border-ZIP (KC metro) — already solved, don't break it
+
+`build_frontend.py:64-87` already collects **every county FIPS a ZIP touches**
+and returns services covering any of them — FIPS is state-agnostic, so bi-state
+ZIPs (66101 KCK, 64111 KC-MO, 64501 St. Joseph) already pull both states' orgs.
+**Rule when partitioning data: key on ZIP→all-FIPS, never `WHERE state=`.** Any
+state label (e.g. a `/kansas` view) is cosmetic framing only, never a results
+filter. Add a QA assertion that bi-state ZIPs return both states.
+
+### 11.5 How to transfer to Snowflake (migration recipe)
+
+Data is tiny (~2.6MB) → the move is minutes once access exists.
+
+- **Step 0 — access (from platform team):** a database+schema to own, a warehouse
+  (XS fine), a role that can `CREATE TABLE` + `CREATE STREAMLIT`. **Confirm
+  whether External Access Integrations are enabled** or all outbound is blocked —
+  that decides auto-pull feeds vs. manual file loads.
+- **Step 1 — schema:** translate `db/schema.sql` (SQLite) → Snowflake DDL
+  (`INTEGER`→`NUMBER`, drop `PRAGMA`, etc.), run once.
+- **Step 2 — data:** export tables → CSV, drag into **Snowsight** Load UI; **or**
+  load existing `*_records.json` directly via `COPY INTO` + `PARSE_JSON`; **or**
+  scripted `snowsql PUT` + `COPY INTO` once automating monthly.
+- **Step 3 — app:** rewrite `index.html`/`data.js` logic as a **Streamlit-in-
+  Snowflake** Python file (`st.text_input` ZIP → SQL multi-FIPS lookup → render
+  cards → print CSS).
+- **Step 4 — feeds (later):** External Access Integration for 211 / Feeding
+  America after data loads and agreements sign.
+
+### 11.6 Next actions (ranked)
+
+1. **Get Snowflake access** (Step 0) — gates everything; ask the platform team,
+   including the External-Access-enabled question.
+2. **Build the three migration artifacts** (offered, not yet built):
+   `schema.sql`→Snowflake DDL; a SQLite→CSV/JSON export script; a
+   Streamlit-in-Snowflake skeleton (ZIP search + print page).
+3. **(Optional, parallel) read your own employment IP clause** so the
+   personal-vs-work-product question is settled with facts, not worry.
+4. Then: load data → stand up the Streamlit print page → add feeds via legal.
+
+---
+
+## 12. National expansion — status as of 2026-06-26
+
+### 12.1 What's done
+
+**Step 1 — Pipeline parameterized (committed, on GitHub main):**
+
+The pipeline now accepts a `STATES` env var so any state combination builds cleanly:
+
+```bash
+STATES=TX ./build_real.sh         # Texas only
+STATES=TX,OK,AR ./build_real.sh   # multi-state
+./build_real.sh                   # KS+MO (default unchanged)
+```
+
+Files changed:
+- `pipeline/load_geography.py` — `--states XX,YY` arg; removes KS/MO hardcode
+- `pipeline/connectors/hud_housing_counseling.py` — full 50-state FIPS map; dynamic ArcGIS WHERE clause; now truly national
+- `pipeline/build_frontend.py` — `--states` arg filters output ZIPs to target states
+- `build_real.sh` — threads `STATES` through all three above
+
+`load_zip_county.py` and `load_zip_centroids.py` were already national — no change needed.
+
+**HUD housing counseling is now fully national.** Run `STATES=TX ./build_real.sh` and Texas gets real HUD agency data immediately.
+
+### 12.2 National source found for AAA (Step 2 — pending decision)
+
+The Eldercare Locator search backend is an **ElasticSearch service at `esrv.acl.gov`** with read-only credentials embedded in the public JS bundle (intentional — all browser users receive them). This could replace the KS/MO-specific `aaa_seniors.py` with a single national connector covering all ~600 Area Agencies on Aging across all 50 states.
+
+**Decision needed before building:** Use the public-in-JS credentials directly, or request official API access from ACL? Either way, the connector shape is known — same HSDS load pattern as the existing AAA connector.
+
+### 12.3 What still needs work per new state
+
+When you run `STATES=TX ./build_real.sh`, you get:
+- ✅ All TX counties + ZIPs loaded
+- ✅ TX HUD housing counseling agencies
+- ⬜ AAA (meals/transport/navigation) — needs Step 2 decision above
+- ⬜ LIHEAP/utility — `liheap_mo_caa.py` is MO-specific; needs a national CAA source (NASCSP publishes a national directory)
+- ⬜ Food — no TX food pantry connector yet; national solution gated on Feeding America HSDS key
+- ⬜ Dental/vision/rx/rent/pet_food — `data/*_records.json` files are KS/MO records only; need to run the find+verify workflow per new state before those buckets populate
+- ⬜ `referrals.json` — still KS/MO 211 links; needs per-state entries
+- ⬜ `zones.json` — KS/MO only; new states show `zone_id=null`, regional referrals won't display (resource lookup still works fine)
+
+### 12.4 Recommended one-state pilot order
+
+1. Pick a state with strong 211 coverage (e.g. TX or IL)
+2. Decide the esrv.acl.gov/AAA question (§12.2)
+3. Build AAA national connector → run `STATES=TX ./build_real.sh` → TX gets housing + AAA immediately
+4. Run dental/vision/rx/rent/petfood find+verify workflow for TX (same workflow shapes as KS/MO, just different geography)
+5. Add TX referrals entries to `referrals.json`
+6. QA: same checks as §8 but with TX ZIPs
